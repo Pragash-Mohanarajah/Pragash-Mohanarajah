@@ -92,3 +92,5 @@ You can explore my deployed work here:
 If you like building intelligent systems, web platforms, or anything chess-related —  
 I’m always open to collaboration and interesting ideas.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
