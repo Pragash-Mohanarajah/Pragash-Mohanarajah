@@ -1,4 +1,5 @@
-# Hi there 👋 I'm a Full-Stack Developer building intelligent web apps ♟️
+# Hi there 👋
+# I'm a Full-Stack Developer building intelligent web apps ♟️
 
 I build modern web applications that combine **AI, data processing, and interactive frontends**.  
 Most of my work lives at the intersection of **Next.js, machine learning, and real-time applications**.
