@@ -45,7 +45,7 @@ async function main() {
     "Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"
   ]
 
-  const days = data.commits.byDayOfWeek.map((count, i) => {
+  const days = data.analysis.byDay.map((count, i) => {
     const pct = (count / data.commits.total) * 100 || 0
     return `${weekdays[i].padEnd(10)} ${bar(pct)} ${pct.toFixed(2)}%`
   }).join("\n")
