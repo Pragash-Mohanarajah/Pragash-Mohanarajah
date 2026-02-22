@@ -90,8 +90,10 @@ async function main() {
     "Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"
   ]
 
+  const totalContributions = byDay.reduce((a, b) => a + b, 0)
+
   const days = byDay.map((count, i) => {
-    const pct = totalCommits > 0 ? (count / totalCommits) * 100 : 0
+    const pct = totalContributions > 0 ? (count / totalContributions) * 100 : 0
     return `${weekdays[i].padEnd(10)} ${bar(pct)} ${pct.toFixed(2)}%`
   }).join("\n")
 
@@ -102,8 +104,10 @@ async function main() {
     "Evening (18-24)": byHour.slice(18, 24).reduce((a, b) => a + b, 0),
   }
 
+  const totalTimeOfDay = Object.values(timeOfDay).reduce((a, b) => a + b, 0)
+
   const hours = Object.entries(timeOfDay).map(([label, count]) => {
-    const pct = totalCommits > 0 ? (count / totalCommits) * 100 : 0
+    const pct = totalTimeOfDay > 0 ? (count / totalTimeOfDay) * 100 : 0
     return `${label.padEnd(20)} ${bar(pct)} ${pct.toFixed(2)}%`
   }).join("\n")
 
