@@ -126,7 +126,7 @@ async function main() {
 ### 🐱 My GitHub Data
 - 🔥 Current Streak: ${data?.activity?.streak?.current || 0} days
 - 🏆 Longest Streak: ${data?.activity?.streak?.longest || 0} days
-- ✨ Total Commits (last 90 days): ${totalCommits} (${publicCommits} public, ${privateCommits} private)
+- ✨ Total Commits (last year): ${totalCommits} (${publicCommits} public, ${privateCommits} private)
 - 🌟 Stars Earned: ${data?.repositories?.stars || 0}
 - 🚀 Repositories: ${data?.repositories?.total || 0} (${publicRepos} public, ${privateRepos} private)
 - 💖 Followers: ${data?.profile?.followers || 0}
@@ -147,7 +147,7 @@ ${reposByLang}
 ${projects}
 \`\`\`
 
-### 💻 Most Active Repos (Recent)
+### 💻 Most Active Repos (Last Year)
 \`\`\`
 ${activeRepos}
 \`\`\`
