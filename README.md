@@ -98,31 +98,38 @@ I’m always open to collaboration and interesting ideas.
 ### 🐱 My GitHub Data
 - 🔥 Current Streak: 0 days
 - 🏆 Longest Streak: 0 days
-- ✨ Total Commits (last 90 days): 0
-- 🌟 Stars Earned: 0
-- 🚀 Public Repositories: 12
-- 💖 Followers: 0
-- 🧠 Estimated Lines of Code: 1,369
+- ✨ Total Commits (last 90 days): 0 (0 public, 0 private)
+- 🌟 Stars Earned: 14
+- 🚀 Repositories: 36 (3 public, 33 private)
+- 💖 Followers: 1
+- 🧠 Estimated Lines of Code: 201,059
 
 ### 📝 Lines of Code by Language
 ```
-Python          ███████████░░░░░░░░░░░░░░ 45.58% (624 LOC)
-JavaScript      █████████░░░░░░░░░░░░░░░░ 34.70% (475 LOC)
-Jupyter Notebook █████░░░░░░░░░░░░░░░░░░░░ 19.72% (270 LOC)
+Jupyter Notebook █████████████████░░░░░░░░ 66.15% (132,997 LOC)
+JavaScript      ████░░░░░░░░░░░░░░░░░░░░░ 16.48% (33,143 LOC)
+TypeScript      ██░░░░░░░░░░░░░░░░░░░░░░░ 8.78% (17,650 LOC)
+Python          ██░░░░░░░░░░░░░░░░░░░░░░░ 6.92% (13,904 LOC)
+C++             ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.93% (1,864 LOC)
+VHDL            ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.46% (919 LOC)
 ```
 
 ### 📚 Repos by Language (Top 5)
 ```
-- JavaScript: 2
-- Python: 1
-- Jupyter Notebook: 1
+- JavaScript: 15
+- Python: 13
+- CSS: 12
+- TypeScript: 9
+- Jupyter Notebook: 6
 ```
 
 ### 💻 Recent Projects (Top 5)
 ```
+- portfolio: Pragash Mohanarajah: Personal Portfolio...
 - Pragash-Mohanarajah: My GitHub Profile...
-- atlassian-forge-quest: Atlassian Forge Quest: Novice and Apprentice Track...
-- chess-analysis
+- taec-org-uk: TAEC UK Landing / Home Page...
+- taec-examportal
+- taec-examportal-backend
 ```
 
 ### 💻 Most Active Repos (Recent)
@@ -149,5 +156,5 @@ Friday     ░░░░░░░░░░░░░░░░░░░░░░░
 Saturday   ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
 
-_Last updated on Sun, 22 Feb 2026 14:54:12 GMT_
+_Last updated on Sun, 22 Feb 2026 15:08:28 GMT_
 <!-- DEV_METRICS_END -->
