@@ -9,7 +9,8 @@ const SYMBOLS = {
 function bar(percent, version = 1) {
   const [done, empty] = SYMBOLS[version] || SYMBOLS[1]
   const length = 25
-  const filled = Math.round((percent / 100) * length)
+  const p = Math.max(0, Math.min(100, Number.isFinite(percent) ? percent : 0))
+  const filled = Math.round((p / 100) * length)
   return done.repeat(filled) + empty.repeat(length - filled)
 }
 
