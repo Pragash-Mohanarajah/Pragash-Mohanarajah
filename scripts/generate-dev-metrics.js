@@ -95,10 +95,15 @@ async function main() {
     })
     .join("\n")
 
+  const totalRepoCounts = Object.values(byRepoCount).reduce((a, b) => a + b, 0)
+
   const reposByLang = Object.entries(byRepoCount)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 5)
-    .map(([lang, count]) => `- ${lang}: ${count}`)
+    .map(([lang, count]) => {
+      const pct = totalRepoCounts > 0 ? (count / totalRepoCounts) * 100 : 0
+      return `${lang.padEnd(15)} ${bar(pct)} ${pct.toFixed(2)}% (${count})`
+    })
     .join("\n")
 
   const projects = projectsList
@@ -127,7 +132,7 @@ async function main() {
 ${languages}
 \`\`\`
 
-### 📚 Repos by Language (Top 5)
+### 📚 Top Languages (by Repo Count)
 \`\`\`
 ${reposByLang}
 \`\`\`
