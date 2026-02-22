@@ -54,6 +54,7 @@ async function main() {
   const byRepository = data?.commits?.byRepository || {}
   const byRepoCount = data?.languages?.byRepoCount || {}
   const projectsList = data?.repositories?.projects || []
+  const recentActivityList = data?.activity?.recent || []
 
   const languages = Object.entries(byLanguage)
     .sort((a, b) => b[1] - a[1])
@@ -88,7 +89,10 @@ async function main() {
   const activeRepos = Object.entries(byRepository)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 5)
-    .map(([name, count]) => `- ${name}: ${count} commits`)
+    .map(([name, count]) => {
+      const pct = totalCommits > 0 ? (count / totalCommits) * 100 : 0
+      return `${name.padEnd(15)} ${bar(pct)} ${pct.toFixed(2)}% (${count} commits)`
+    })
     .join("\n")
 
   const reposByLang = Object.entries(byRepoCount)
@@ -100,6 +104,10 @@ async function main() {
   const projects = projectsList
     .slice(0, 5)
     .map(p => `- ${p.name}${p.description ? `: ${p.description.substring(0, 50)}...` : ''}`)
+    .join("\n")
+
+  const recentActivity = recentActivityList
+    .map(c => `- ${c.repo} - ${c.message}`)
     .join("\n")
 
   const section = `
@@ -133,6 +141,9 @@ ${projects}
 \`\`\`
 ${activeRepos}
 \`\`\`
+
+### ⚡ Recent Activity
+${recentActivity}
 
 ### 📅 Productivity by Time of Day
 \`\`\`
