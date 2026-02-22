@@ -55,6 +55,7 @@ async function main() {
   const byRepoCount = data?.languages?.byRepoCount || {}
   const projectsList = data?.repositories?.projects || []
   const recentActivityList = data?.activity?.recent || []
+  const recentStarsList = data?.activity?.recentStars || []
 
   const languages = Object.entries(byLanguage)
     .sort((a, b) => b[1] - a[1])
@@ -115,6 +116,10 @@ async function main() {
     .map(c => `- ${c.repo} - ${c.message}`)
     .join("\n")
 
+  const recentStars = recentStarsList
+    .map(s => `- ${s.repo}`)
+    .join("\n")
+
   const section = `
 ## 📊 Development Metrics
 
@@ -149,6 +154,9 @@ ${activeRepos}
 
 ### ⚡ Recent Activity
 ${recentActivity}
+
+### 🌟 Recent Stars
+${recentStars}
 
 ### 📅 Productivity by Time of Day
 \`\`\`
