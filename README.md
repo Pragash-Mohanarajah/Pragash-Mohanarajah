@@ -93,5 +93,61 @@ If you like building intelligent systems, web platforms, or anything chess-relat
 I’m always open to collaboration and interesting ideas.
 
 <!-- DEV_METRICS_START -->
-Metrics loading...
+## 📊 Development Metrics
+
+### 🐱 My GitHub Data
+- 🔥 Current Streak: 0 days
+- 🏆 Longest Streak: 0 days
+- ✨ Total Commits (last 90 days): 0
+- 🌟 Stars Earned: 0
+- 🚀 Public Repositories: 12
+- 💖 Followers: 0
+- 🧠 Estimated Lines of Code: 1,351
+
+### 📝 Lines of Code by Language
+```
+Python          ████████████░░░░░░░░░░░░░ 46.19% (624 LOC)
+JavaScript      ████████░░░░░░░░░░░░░░░░░ 33.83% (457 LOC)
+Jupyter Notebook █████░░░░░░░░░░░░░░░░░░░░ 19.99% (270 LOC)
+```
+
+### 📚 Repos by Language (Top 5)
+```
+- JavaScript: 2
+- Python: 1
+- Jupyter Notebook: 1
+```
+
+### 💻 Recent Projects (Top 5)
+```
+- Pragash-Mohanarajah: My GitHub Profile...
+- atlassian-forge-quest: Atlassian Forge Quest: Novice and Apprentice Track...
+- chess-analysis
+```
+
+### 💻 Most Active Repos (Recent)
+```
+- Pragash-Mohanarajah: 0 commits
+```
+
+### 📅 Productivity by Time of Day
+```
+Night (00-06)        ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+Morning (06-12)      ░░░░░░░░░░░░░░░░░░░░░░░░░ Infinity%
+Afternoon (12-18)    ░░░░░░░░░░░░░░░░░░░░░░░░░ Infinity%
+Evening (18-24)      ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
+
+### 📅 Productivity by Day
+```
+Sunday     ░░░░░░░░░░░░░░░░░░░░░░░░░ Infinity%
+Monday     ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+Tuesday    ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+Wednesday  ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+Thursday   ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+Friday     ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+Saturday   ░░░░░░░░░░░░░░░░░░░░░░░░░ Infinity%
+```
+
+_Last updated on Sun, 22 Feb 2026 14:45:50 GMT_
 <!-- DEV_METRICS_END -->
