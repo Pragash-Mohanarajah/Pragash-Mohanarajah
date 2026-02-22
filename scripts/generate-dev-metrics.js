@@ -14,29 +14,48 @@ function bar(percent, version = 1) {
   return done.repeat(filled) + empty.repeat(length - filled)
 }
 
-async function main() {
-  const res = await fetch(process.env.STATS_URL, {
-    headers: {
-      Authorization: `Bearer ${process.env.API_SECRET_TOKEN}`,
-    },
-  })
-  const data = await res.json()
+async function fetchWithRetry(url, options, retries = 3, delay = 2000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const res = await fetch(url, options)
+      if (res.ok) return res
+      console.warn(`Attempt ${i + 1} failed: ${res.status} ${res.statusText}`)
+    } catch (err) {
+      console.warn(`Attempt ${i + 1} failed: ${err.message}`)
+    }
+    if (i < retries - 1) await new Promise(r => setTimeout(r, delay))
+  }
+  throw new Error(`Failed to fetch ${url} after ${retries} attempts`)
+}
 
-  if (!res.ok) {
-    console.error(
-      `Error fetching stats: ${res.status} ${res.statusText}`,
-      data.error
-    )
+async function main() {
+  let data
+  try {
+    const res = await fetchWithRetry(process.env.STATS_URL, {
+      headers: {
+        Authorization: `Bearer ${process.env.API_SECRET_TOKEN}`,
+      },
+    })
+    data = await res.json()
+  } catch (e) {
+    console.error("Failed to fetch stats:", e)
     process.exit(1)
   }
 
-  const totalLOC = data.codeStats.estimatedLinesOfCode
+  const totalLOC = data?.codeStats?.estimatedLinesOfCode || 0
+  const totalCommits = data?.commits?.total || 0
+  const byLanguage = data?.analysis?.byLanguage || {}
+  const byDay = data?.analysis?.byDay || Array(7).fill(0)
+  const byHour = data?.analysis?.byHour || Array(24).fill(0)
+  const byRepository = data?.commits?.byRepository || {}
+  const byRepoCount = data?.languages?.byRepoCount || {}
+  const projectsList = data?.repositories?.projects || []
 
-  const languages = Object.entries(data.analysis.byLanguage)
+  const languages = Object.entries(byLanguage)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 6)
     .map(([lang, loc]) => {
-      const pct = (loc / totalLOC) * 100
+      const pct = totalLOC > 0 ? (loc / totalLOC) * 100 : 0
       return `${lang.padEnd(15)} ${bar(pct)} ${pct.toFixed(2)}% (${loc.toLocaleString()} LOC)`
     })
     .join("\n")
@@ -45,36 +64,36 @@ async function main() {
     "Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"
   ]
 
-  const days = data.analysis.byDay.map((count, i) => {
-    const pct = (count / data.commits.total) * 100 || 0
+  const days = byDay.map((count, i) => {
+    const pct = totalCommits > 0 ? (count / totalCommits) * 100 : 0
     return `${weekdays[i].padEnd(10)} ${bar(pct)} ${pct.toFixed(2)}%`
   }).join("\n")
 
   const timeOfDay = {
-    "Night (00-06)": data.analysis.byHour.slice(0, 6).reduce((a, b) => a + b, 0),
-    "Morning (06-12)": data.analysis.byHour.slice(6, 12).reduce((a, b) => a + b, 0),
-    "Afternoon (12-18)": data.analysis.byHour.slice(12, 18).reduce((a, b) => a + b, 0),
-    "Evening (18-24)": data.analysis.byHour.slice(18, 24).reduce((a, b) => a + b, 0),
+    "Night (00-06)": byHour.slice(0, 6).reduce((a, b) => a + b, 0),
+    "Morning (06-12)": byHour.slice(6, 12).reduce((a, b) => a + b, 0),
+    "Afternoon (12-18)": byHour.slice(12, 18).reduce((a, b) => a + b, 0),
+    "Evening (18-24)": byHour.slice(18, 24).reduce((a, b) => a + b, 0),
   }
 
   const hours = Object.entries(timeOfDay).map(([label, count]) => {
-    const pct = (count / data.commits.total) * 100 || 0
+    const pct = totalCommits > 0 ? (count / totalCommits) * 100 : 0
     return `${label.padEnd(20)} ${bar(pct)} ${pct.toFixed(2)}%`
   }).join("\n")
 
-  const activeRepos = Object.entries(data.commits.byRepository)
+  const activeRepos = Object.entries(byRepository)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 5)
     .map(([name, count]) => `- ${name}: ${count} commits`)
     .join("\n")
 
-  const reposByLang = Object.entries(data.languages.byRepoCount)
+  const reposByLang = Object.entries(byRepoCount)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 5)
     .map(([lang, count]) => `- ${lang}: ${count}`)
     .join("\n")
 
-  const projects = data.repositories.projects
+  const projects = projectsList
     .slice(0, 5)
     .map(p => `- ${p.name}${p.description ? `: ${p.description.substring(0, 50)}...` : ''}`)
     .join("\n")
@@ -83,13 +102,13 @@ async function main() {
 ## 📊 Development Metrics
 
 ### 🐱 My GitHub Data
-- 🔥 Current Streak: ${data.activity.streak.current} days
-- 🏆 Longest Streak: ${data.activity.streak.longest} days
-- ✨ Total Commits (last 90 days): ${data.commits.total}
-- 🌟 Stars Earned: ${data.repositories.stars}
-- 🚀 Public Repositories: ${data.profile.publicRepos}
-- 💖 Followers: ${data.profile.followers}
-- 🧠 Estimated Lines of Code: ${data.codeStats.estimatedLinesOfCode.toLocaleString()}
+- 🔥 Current Streak: ${data?.activity?.streak?.current || 0} days
+- 🏆 Longest Streak: ${data?.activity?.streak?.longest || 0} days
+- ✨ Total Commits (last 90 days): ${totalCommits}
+- 🌟 Stars Earned: ${data?.repositories?.stars || 0}
+- 🚀 Public Repositories: ${data?.profile?.publicRepos || 0}
+- 💖 Followers: ${data?.profile?.followers || 0}
+- 🧠 Estimated Lines of Code: ${totalLOC.toLocaleString()}
 
 ### 📝 Lines of Code by Language
 \`\`\`
