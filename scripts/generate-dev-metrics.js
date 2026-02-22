@@ -29,15 +29,14 @@ async function main() {
     process.exit(1)
   }
 
-  const totalLangBytes = Object.values(data.languages.byBytes)
-    .reduce((a, b) => a + b, 0)
+  const totalLOC = data.codeStats.estimatedLinesOfCode
 
-  const languages = Object.entries(data.languages.byBytes)
+  const languages = Object.entries(data.analysis.byLanguage)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 6)
-    .map(([lang, bytes]) => {
-      const pct = (bytes / totalLangBytes) * 100
-      return `${lang.padEnd(15)} ${bar(pct)} ${pct.toFixed(2)}%`
+    .map(([lang, loc]) => {
+      const pct = (loc / totalLOC) * 100
+      return `${lang.padEnd(15)} ${bar(pct)} ${pct.toFixed(2)}% (${loc.toLocaleString()} LOC)`
     })
     .join("\n")
 
@@ -49,6 +48,24 @@ async function main() {
     const pct = (count / data.commits.total) * 100 || 0
     return `${weekdays[i].padEnd(10)} ${bar(pct)} ${pct.toFixed(2)}%`
   }).join("\n")
+
+  const timeOfDay = {
+    "Night (00-06)": data.analysis.byHour.slice(0, 6).reduce((a, b) => a + b, 0),
+    "Morning (06-12)": data.analysis.byHour.slice(6, 12).reduce((a, b) => a + b, 0),
+    "Afternoon (12-18)": data.analysis.byHour.slice(12, 18).reduce((a, b) => a + b, 0),
+    "Evening (18-24)": data.analysis.byHour.slice(18, 24).reduce((a, b) => a + b, 0),
+  }
+
+  const hours = Object.entries(timeOfDay).map(([label, count]) => {
+    const pct = (count / data.commits.total) * 100 || 0
+    return `${label.padEnd(20)} ${bar(pct)} ${pct.toFixed(2)}%`
+  }).join("\n")
+
+  const activeRepos = Object.entries(data.commits.byRepository)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5)
+    .map(([name, count]) => `- ${name}: ${count} commits`)
+    .join("\n")
 
   const reposByLang = Object.entries(data.languages.byRepoCount)
     .sort((a, b) => b[1] - a[1])
@@ -73,7 +90,7 @@ async function main() {
 - 💖 Followers: ${data.profile.followers}
 - 🧠 Estimated Lines of Code: ${data.codeStats.estimatedLinesOfCode.toLocaleString()}
 
-### 💬 Languages
+### 📝 Lines of Code by Language
 \`\`\`
 ${languages}
 \`\`\`
@@ -86,6 +103,16 @@ ${reposByLang}
 ### 💻 Recent Projects (Top 5)
 \`\`\`
 ${projects}
+\`\`\`
+
+### 💻 Most Active Repos (Recent)
+\`\`\`
+${activeRepos}
+\`\`\`
+
+### 📅 Productivity by Time of Day
+\`\`\`
+${hours}
 \`\`\`
 
 ### 📅 Productivity by Day
