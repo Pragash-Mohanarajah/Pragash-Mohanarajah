@@ -125,8 +125,8 @@ Jupyter Notebook ██░░░░░░░░░░░░░░░░░░░
 
 ### 💻 Recent Projects (Top 5)
 ```
-- portfolio: Pragash Mohanarajah: Personal Portfolio...
 - Pragash-Mohanarajah: My GitHub Profile...
+- portfolio: Pragash Mohanarajah: Personal Portfolio...
 - taec-org-uk: TAEC UK Landing / Home Page...
 - taec-examportal
 - taec-examportal-backend
@@ -178,5 +178,5 @@ Friday     ████░░░░░░░░░░░░░░░░░░░
 Saturday   ██░░░░░░░░░░░░░░░░░░░░░░░ 7.69%
 ```
 
-_Last updated on Sun, 22 Feb 2026 21:56:38 GMT_
+_Last updated on Sun, 22 Feb 2026 22:21:57 GMT_
 <!-- DEV_METRICS_END -->
