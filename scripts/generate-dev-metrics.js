@@ -17,10 +17,10 @@ async function main() {
   const res = await fetch(process.env.STATS_URL)
   const data = await res.json()
 
-  const totalLangBytes = Object.values(data.languages.bytes)
+  const totalLangBytes = Object.values(data.languages.byBytes)
     .reduce((a, b) => a + b, 0)
 
-  const languages = Object.entries(data.languages.bytes)
+  const languages = Object.entries(data.languages.byBytes)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 6)
     .map(([lang, bytes]) => {
@@ -33,7 +33,7 @@ async function main() {
     "Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"
   ]
 
-  const days = data.commits.byDay.map((count, i) => {
+  const days = data.commits.byDayOfWeek.map((count, i) => {
     const pct = (count / data.commits.total) * 100 || 0
     return `${weekdays[i].padEnd(10)} ${bar(pct)} ${pct.toFixed(2)}%`
   }).join("\n")
@@ -54,7 +54,7 @@ ${days}
 🧠 Profile Summary
 - Public Repositories: ${data.profile.publicRepos}
 - Followers: ${data.profile.followers}
-- Stars Earned: ${data.repos.stars}
+- Stars Earned: ${data.repositories.stars}
 - Total Commits (recent): ${data.commits.total}
 `
 
