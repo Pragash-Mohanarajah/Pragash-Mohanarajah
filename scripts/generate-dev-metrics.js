@@ -14,6 +14,25 @@ function bar(percent, version = 1) {
   return done.repeat(filled) + empty.repeat(length - filled)
 }
 
+function makeHeatmap(data) {
+  if (!data || data.length === 0) return "No contribution data available"
+  
+  const rows = new Array(7).fill("")
+  
+  data.forEach(day => {
+    const weekday = day.weekday !== undefined ? day.weekday : new Date(day.date).getDay()
+    
+    let char = "░"
+    if (day.count > 0) char = "▒"
+    if (day.count >= 3) char = "▓"
+    if (day.count >= 6) char = "█"
+    
+    rows[weekday] += char
+  })
+  
+  return rows.join("\n")
+}
+
 async function fetchWithRetry(url, options, retries = 3, delay = 2000) {
   for (let i = 0; i < retries; i++) {
     try {
@@ -56,6 +75,7 @@ async function main() {
   const projectsList = data?.repositories?.projects || []
   const recentActivityList = data?.activity?.recent || []
   const recentStarsList = data?.activity?.recentStars || []
+  const contributions = data?.activity?.contributions || []
 
   const languages = Object.entries(byLanguage)
     .sort((a, b) => b[1] - a[1])
@@ -120,6 +140,8 @@ async function main() {
     .map(s => `- ${s.repo}`)
     .join("\n")
 
+  const heatmap = makeHeatmap(contributions)
+
   const section = `
 ## 📊 Development Metrics
 
@@ -157,6 +179,11 @@ ${recentActivity}
 
 ### 🌟 Recent Stars
 ${recentStars}
+
+### 📅 Contribution Graph
+\`\`\`
+${heatmap}
+\`\`\`
 
 ### 📅 Productivity by Time of Day
 \`\`\`
