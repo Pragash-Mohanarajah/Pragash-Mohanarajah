@@ -44,6 +44,10 @@ async function main() {
 
   const totalLOC = data?.codeStats?.estimatedLinesOfCode || 0
   const totalCommits = data?.commits?.total || 0
+  const publicCommits = data?.commits?.public || 0
+  const privateCommits = data?.commits?.private || 0
+  const publicRepos = data?.repositories?.public || 0
+  const privateRepos = data?.repositories?.private || 0
   const byLanguage = data?.analysis?.byLanguage || {}
   const byDay = data?.analysis?.byDay || Array(7).fill(0)
   const byHour = data?.analysis?.byHour || Array(24).fill(0)
@@ -104,9 +108,9 @@ async function main() {
 ### 🐱 My GitHub Data
 - 🔥 Current Streak: ${data?.activity?.streak?.current || 0} days
 - 🏆 Longest Streak: ${data?.activity?.streak?.longest || 0} days
-- ✨ Total Commits (last 90 days): ${totalCommits}
+- ✨ Total Commits (last 90 days): ${totalCommits} (${publicCommits} public, ${privateCommits} private)
 - 🌟 Stars Earned: ${data?.repositories?.stars || 0}
-- 🚀 Public Repositories: ${data?.profile?.publicRepos || 0}
+- 🚀 Repositories: ${data?.repositories?.total || 0} (${publicRepos} public, ${privateRepos} private)
 - 💖 Followers: ${data?.profile?.followers || 0}
 - 🧠 Estimated Lines of Code: ${totalLOC.toLocaleString()}
 
