@@ -101,7 +101,7 @@ I’m always open to collaboration and interesting ideas.
 - ✨ Total Commits (last year): 56 (56 public, 0 private)
 - 🌟 Stars Earned: 14
 - 🚀 Repositories: 36 (3 public, 33 private)
-- 💖 Followers: 1
+- 💖 Followers: 0
 - 🧠 Estimated Lines of Code: 201,195
 
 ### 📝 Lines of Code by Language
@@ -177,5 +177,5 @@ Friday     ████░░░░░░░░░░░░░░░░░░░
 Saturday   ██░░░░░░░░░░░░░░░░░░░░░░░ 7.69%
 ```
 
-_Last updated on Tue, 24 Feb 2026 13:00:52 GMT_
+_Last updated on Tue, 24 Feb 2026 14:47:50 GMT_
 <!-- DEV_METRICS_END -->
