@@ -42,11 +42,11 @@ function generateContributionGraphSvg(contributions) {
       const x = yearLabelWidth + col * weekWidth
       const y = currentY + weekday * weekWidth
       
-      let color = "#2d333b" // Empty (Dark Mode)
-      if (day.count > 0) color = "#0c2d6b"
-      if (day.count >= 3) color = "#005cc5"
-      if (day.count >= 6) color = "#388bfd"
-      if (day.count >= 10) color = "#79c0ff"
+      let color = "#ebedf0" // No contributions
+      if (day.count > 0) color = "#c6e48b"  // Lightest
+      if (day.count >= 3) color = "#7bc96f" // Light
+      if (day.count >= 6) color = "#239a3b" // Medium
+      if (day.count >= 10) color = "#196127" // Dark (but not too dark)
 
       rects.push(`<rect x="${x}" y="${y}" width="${squareSize}" height="${squareSize}" fill="${color}" rx="2" ry="2" />`)
     })
