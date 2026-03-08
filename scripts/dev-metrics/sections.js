@@ -9,6 +9,8 @@ function formatNumber(n) {
 function buildOverviewSection(data) {
   const totalLOC = data?.codeStats?.estimatedLinesOfCode || 0
   const totalCommits = data?.commits?.total || 0
+  const ownedCommits = data?.commits?.owned || 0
+  const contributedCommits = data?.commits?.contributed || 0
   const publicCommits = data?.commits?.public || 0
   const privateCommits = data?.commits?.private || 0
 
@@ -31,9 +33,10 @@ function buildOverviewSection(data) {
     "### 🐱 GitHub Overview",
     `- 🔥 Current Streak: ${data?.activity?.streak?.current || 0} days`,
     `- 🏆 Longest Streak: ${data?.activity?.streak?.longest || 0} days`,
-    `- ✨ Total Commits: ${formatNumber(totalCommits)} (${formatNumber(
-      publicCommits
-    )} public, ${formatNumber(privateCommits)} private)`,
+    `- ✨ Total Commits: ${formatNumber(totalCommits)}`,
+    `- 💖 Commit Breakdown: ${formatNumber(publicCommits)} public, ${formatNumber(
+      privateCommits
+    )} private · ${formatNumber(ownedCommits)} owned, ${formatNumber(contributedCommits)} contributed`,
     `- 🚀 Repositories: ${formatNumber(totalRepos)} (${formatNumber(
       publicRepos
     )} public, ${formatNumber(privateRepos)} private)`,
@@ -333,4 +336,3 @@ function buildMetricsSection(data) {
 module.exports = {
   buildMetricsSection,
 }
-
