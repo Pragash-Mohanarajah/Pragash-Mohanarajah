@@ -98,11 +98,11 @@ I’m always open to collaboration and interesting ideas.
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 3,947
-- 💖 Commit Breakdown: 502 public (12.7%), 3,445 private (87.3%) · 1,110 owned (28.1%), 2,837 contributed (71.9%)
+- ✨ Total Commits: 3,948
+- 💖 Commit Breakdown: 502 public (12.7%), 3,446 private (87.3%) · 1,111 owned (28.1%), 2,837 contributed (71.9%)
 - 🚀 Repositories: 71 (33 public (46.5%), 38 private (53.5%))
 - 👤 Ownership: 67 owned (94.4%), 4 contributed-to (5.6%)
-- ⭐ Stars: 98,738 · 👀 Watchers: 685 · 🍴 Forks: 11,757 · 🗄️ Archived: 16
+- ⭐ Stars: 98,743 · 👀 Watchers: 685 · 🍴 Forks: 11,757 · 🗄️ Archived: 16
 - 🧠 Estimated Lines of Code: 2,075,724
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,881 days
@@ -174,8 +174,8 @@ vectors              ░░░░░░░░░░░░░░░░░░░�
 ### 🚀 Top Owned Projects
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 156 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 155 commits · private)_
 - Pragash-Mohanarajah/churchill-college-food-review — Interactive Food Review System for Churchill College _(Other · 127 commits · private)_
 
 ### 🤝 Top Contributed Projects
@@ -192,24 +192,24 @@ Evening (18-24)      ░░░░░░░░░░░░░░░░░░░�
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% (380 contributions)
+Sunday               ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% (381 contributions)
 Monday               ███░░░░░░░░░░░░░░░░░░░░░░  13.59% (560 contributions)
 Tuesday              ████░░░░░░░░░░░░░░░░░░░░░  17.59% (725 contributions)
 Wednesday            █████░░░░░░░░░░░░░░░░░░░░  19.29% (795 contributions)
 Thursday             ████░░░░░░░░░░░░░░░░░░░░░  14.58% (601 contributions)
-Friday               ████░░░░░░░░░░░░░░░░░░░░░  17.62% (726 contributions)
+Friday               ████░░░░░░░░░░░░░░░░░░░░░  17.61% (726 contributions)
 Saturday             ██░░░░░░░░░░░░░░░░░░░░░░░   8.10% (334 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder ███████████░░░░░░░░░░░░░░  45.33% (1,789 commits)
+AxiaFunder/dashboard-axiafunder ███████████░░░░░░░░░░░░░░  45.31% (1,789 commits)
 cued-ia-computing/flood-kg487-pm719 █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% (210 commits)
 n15hsy/axia-lm-optimizer       █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% (173 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren █░░░░░░░░░░░░░░░░░░░░░░░░   4.23% (167 commits)
+Pragash-Mohanarajah/portfolio  █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% (156 commits)
 Pragash-Mohanarajah/taec-thamilthiren-backend █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% (156 commits)
-Pragash-Mohanarajah/portfolio  █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% (155 commits)
 ```
 
 ### ⚡ Recent Activity
@@ -231,5 +231,5 @@ Pragash-Mohanarajah/portfolio  █░░░░░░░░░░░░░░░�
 ░░░░░░▒░░█░█░█░░░░░▒▒▓▒█░░███░███░░█░▒▓░░▒▒▒░░██▓█░█
 ```
 
-_Last updated on Sun, 08 Mar 2026 15:15:15 GMT_
+_Last updated on Sun, 08 Mar 2026 16:25:30 GMT_
 <!-- DEV_METRICS_END -->
