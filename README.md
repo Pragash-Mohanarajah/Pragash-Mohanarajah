@@ -7,10 +7,10 @@ Building high-performance systems at the intersection of **Deep Learning**, **Sc
 
 ## ⚡ Quick Bio
 
-I architect intelligent web applications that bridge the gap between complex data and intuitive user experiences. My work ranges from restoring ancient history through Neural Networks to building real-time FinTech pipelines.
+I architect intelligent web applications that bridge the gap between complex data and intuitive user experiences. My work ranges from restoring ancient history through Multi-modal Vision-Language (VL) OCR to building real-time FinTech pipelines. I specialize in end-to-end systems that combine deep learning research with scalable cloud architecture.
 
-* **🔭 Current Focus:** Optimizing Chess Engine intuition models & Scalable Data Pipelines.
-* **🌱 Learning:** Advanced ONNX optimization and AWS Lambda for inference scaling.
+* **🔭 Current Focus:** Multi-modal VL OCR for ancient text restoration, Scalable Data Pipelines & Optimizing Chess Engine intuition models.
+* **🌱 Learning:** Advanced ONNX optimization, AWS Lambda for inference scaling, and fine-tuning Vision-Language Models (VLMs).
 * **💬 Ask me about:** Next.js, PyTorch, Chess theory, or litigation funding systems.
 
 ---
@@ -19,9 +19,12 @@ I architect intelligent web applications that bridge the gap between complex dat
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, HeroUI |
-| **Backend** | Node.js, Flask (Python), PostgreSQL, Supabase, NGINX |
-| **AI / Data** | PyTorch, ONNX, Deep Learning (NLP/CV), Data Ingestion Pipelines |
+| **UI & Styling** | Tailwind CSS, HeroUI, Shadcn UI, Lucide React, Framer Motion |
+| **Frontend** | Next.js, React, TypeScript, PHP |
+| **Backend** | Node.js, Flask (Python), NGINX, Laravel |
+| **Databases** | PostgreSQL, MongoDB, Supabase |
+| **AI / Data** | PyTorch, ONNX, Deep Learning (NLP/CV), Matlab, Data Ingestion Pipelines |
+| **Systems & Hardware** | C, C++, VHDL, Arduino, Raspberry Pi |
 | **DevOps** | AWS (S3/EC2), Vercel, Docker Compose, GitHub Actions |
 
 ---
@@ -34,7 +37,7 @@ I architect intelligent web applications that bridge the gap between complex dat
 
 ### 💸 FinTech & Systems Engineering
 * **AxiaFunder:** Architected real-time investment dashboards and robust CSV ingestion pipelines for litigation funding using Node.js and PostgreSQL.
-* **Hack Cambridge:** Maintained critical administration platforms (`hc-applications`, `gavel`) for one of the UK’s premier hackathons.
+* **Hack Cambridge:** Maintained critical administration platforms for one of the UK’s premier hackathons.
 
 ### 📊 Data Infrastructure
 * **End-to-End Pipelines:** Specialized in "Browser → Cloud Storage → Background Worker → Database" workflows for high-frequency data processing.
