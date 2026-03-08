@@ -370,9 +370,6 @@ function buildRecentSection(data) {
     "### 🌟 Recent Stars",
     recentStarsLines,
     "",
-    "### 📅 Contribution Graph",
-    "![Contribution Graph](./contribution-graph.svg)",
-    "",
   ].join("\n")
 }
 
@@ -424,7 +421,14 @@ function generateCommitHistorySvg(data) {
 function buildCommitHistoryChart(data) {
   const history = data?.activity?.commitHistory || []
   if (history.length < 2) return ""
-  return ["### 📈 All-Time Commit History", "![Commit History](./commit-history.svg)", ""].join("\n")
+  return [
+    "### 📈 All-Time Commit History",
+    "![Commit History](./commit-history.svg)",
+    "",
+    "### 📅 Contribution Graph",
+    "![Contribution Graph](./contribution-graph.svg)",
+    "",
+  ].join("\n")
 }
 
 function buildMetricsSection(data) {
