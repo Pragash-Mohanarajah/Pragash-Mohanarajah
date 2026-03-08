@@ -62,12 +62,12 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 3,960
-- 💖 Commit Breakdown: 506 public (12.8%), 3,454 private (87.2%) · 1,123 owned (28.4%), 2,837 contributed (71.6%)
+- ✨ Total Commits: 3,962
+- 💖 Commit Breakdown: 507 public (12.8%), 3,455 private (87.2%) · 1,125 owned (28.4%), 2,837 contributed (71.6%)
 - 🚀 Repositories: 71 (33 public (46.5%), 38 private (53.5%))
 - 👤 Ownership: 67 owned (94.4%), 4 contributed-to (5.6%)
-- ⭐ Stars: 98,747 · 👀 Watchers: 685 · 🍴 Forks: 11,757 · 🗄️ Archived: 16
-- 🧠 Estimated Lines of Code: 2,075,865
+- ⭐ Stars: 98,747 · 👀 Watchers: 685 · 🍴 Forks: 11,758 · 🗄️ Archived: 16
+- 🧠 Estimated Lines of Code: 2,075,884
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,881 days
 
@@ -78,7 +78,7 @@ TypeScript           ███████                    27.53% (571,555 LO
 Jupyter Notebook     ███                        10.38% (215,521 LOC)
 MDX                  ██                          9.02% (187,185 LOC)
 Python               █                           4.21% (87,339 LOC)
-JavaScript           █                           4.12% (85,580 LOC)
+JavaScript           █                           4.12% (85,599 LOC)
 Makefile             █                           3.00% (62,186 LOC)
 Roff                 █                           2.60% (54,070 LOC)
 ```
@@ -102,7 +102,7 @@ TypeScript           ███████                    27.53% (28,577,699
 Jupyter Notebook     ███                        10.38% (10,776,048 bytes)
 MDX                  ██                          9.02% (9,359,250 bytes)
 Python               █                           4.21% (4,366,912 bytes)
-JavaScript           █                           4.12% (4,279,038 bytes)
+JavaScript           █                           4.12% (4,279,954 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -116,7 +116,7 @@ Data Systems         █                           5.63% (4 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ███████████████████        76.62% (1,590,492 LOC)
-Other                █████                      21.09% (437,849 LOC)
+Other                █████                      21.09% (437,868 LOC)
 Data Systems                                     1.64% (33,986 LOC)
 Web Apps                                         0.65% (13,538 LOC)
 ```
@@ -138,7 +138,7 @@ Makefile             ██                          7.04% (5 repos)
 ### 🚀 Top Owned Projects
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 164 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 165 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
 - Pragash-Mohanarajah/churchill-college-food-review — Interactive Food Review System for Churchill College _(Other · 127 commits · private)_
 
@@ -156,23 +156,23 @@ Evening (18-24)      ████                       16.39% (253 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          9.51% (393 contributions)
-Monday               ███                        13.55% (560 contributions)
-Tuesday              ████                       17.54% (725 contributions)
-Wednesday            █████                      19.23% (795 contributions)
-Thursday             ████                       14.54% (601 contributions)
-Friday               ████                       17.56% (726 contributions)
+Sunday               ██                          9.55% (395 contributions)
+Monday               ███                        13.54% (560 contributions)
+Tuesday              ████                       17.53% (725 contributions)
+Wednesday            █████                      19.22% (795 contributions)
+Thursday             ████                       14.53% (601 contributions)
+Friday               ████                       17.55% (726 contributions)
 Saturday             ██                          8.08% (334 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████████                45.18% (1,789 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████████                45.15% (1,789 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           5.30% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           4.37% (173 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           4.27% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           4.22% (167 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.14% (164 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.16% (165 commits)
 Pragash-Mohanarajah/taec-thamilthiren-backend                               █                           3.94% (156 commits)
 ```
 
@@ -184,19 +184,11 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 - koblas/stdnum-js
 - pytorch/tutorials
 
-### 📅 Contribution Graph (last 365 days)
-```
-░░░░░░░░░░░░░░░█░░░░░░░▒░░░░██░█▓█░░░█▓░░░██▒░█▒█░█░█
-░░░█▓█░█░▓██████▒█▒████▓▓░▓█░▓█████████░████▓█▓█░███
-░░░█▓█▓████████▒█▓█░███▒░░██░█▒█████████████▓███▓███
-░░░█▓▒████▓██▓▓░█▓████▓░░███░▓███████░██████▓███████
-░░░█▓█░██▓████▓░█░████▒░▒░░█▒████░███░░▓░▓████░███▒█
-░░░█▓▒███████▒█░▒░████▒░▒░▓█▒████░███▒░█░███▓██▒▓▓▓█
-░░░░░░▒░░█░█░█░░░░░▒▒▓▒█░░███░███░░█░▒▓░░▒▒▒░░██▓█░█
-```
+### 📅 Contribution Graph
+![Contribution Graph](./contribution-graph.svg)
 
 ### 📈 All-Time Commit History
 ![Commit History](./commit-history.svg)
 
-_Last updated on Sun, 08 Mar 2026 18:30:56 GMT_
+_Last updated on Sun, 08 Mar 2026 18:43:23 GMT_
 <!-- DEV_METRICS_END -->
