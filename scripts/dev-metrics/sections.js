@@ -161,6 +161,25 @@ function buildCategorySection(data) {
   ].join("\n")
 }
 
+function buildTopicsSection(data) {
+  const byTopic = data?.repositories?.byTopic || {}
+  const totalTopics = Object.values(byTopic).reduce((a, b) => a + b, 0)
+
+  const topicLines = Object.entries(byTopic)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
+    .map(([topic, count]) => formatRow(topic.padEnd(18), count, totalTopics, 25))
+    .join("\n")
+
+  return [
+    "### 🏷️ Top Topics",
+    "```",
+    topicLines,
+    "```",
+    "",
+  ].join("\n")
+}
+
 function buildProjectsSection(data) {
   const projects = Array.isArray(data?.repositories?.projects)
     ? data.repositories.projects
@@ -324,6 +343,7 @@ function buildMetricsSection(data) {
     buildOverviewSection(data),
     buildLanguageSections(data),
     buildCategorySection(data),
+    buildTopicsSection(data),
     buildProjectsSection(data),
     buildActivitySections(data),
     buildRecentSection(data),

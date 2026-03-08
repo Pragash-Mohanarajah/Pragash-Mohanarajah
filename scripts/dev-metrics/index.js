@@ -1,5 +1,3 @@
-const fs = require("fs")
-const path = require("path")
 const { fetchStats } = require("./fetchStats")
 const { buildMetricsSection } = require("./sections")
 const { updateReadmeSection } = require("./updateReadme")
@@ -24,11 +22,6 @@ async function run() {
     process.exitCode = 1
     return
   }
-
-  const dataPath = path.resolve(process.cwd(), "dev-metrics.json")
-  fs.writeFileSync(dataPath, JSON.stringify(data, null, 2))
-  // eslint-disable-next-line no-console
-  console.log("Saved stats to", dataPath)
 
   const section = buildMetricsSection(data)
   updateReadmeSection(section)
