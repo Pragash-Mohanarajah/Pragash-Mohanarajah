@@ -34,6 +34,7 @@ I architect intelligent web applications that bridge the gap between complex dat
 ### 🧠 AI & Deep Learning
 * **Ancient Text Restoration (UATRIAL):** Developed models using Deep Learning to restore and attribute ancient epigraphy, merging history with state-of-the-art NLP.
 * **Neural Chess Engines:** Training models on FEN/PGN datasets to predict moves, served via Flask APIs to custom Next.js frontends. Experimenting with Stockfish fine-tuning and custom evaluation functions.
+* **AI File Converter:** Built an end-to-end application that converts various file formats into standardized PDFs, enabling seamless RAG-based inference for AI models.
 
 ### 💸 FinTech & Systems Engineering
 * **AxiaFunder:** Architected real-time investment dashboards and robust CSV ingestion pipelines for litigation funding using Node.js and PostgreSQL.
