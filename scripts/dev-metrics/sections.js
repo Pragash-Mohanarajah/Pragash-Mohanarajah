@@ -351,9 +351,6 @@ function buildRecentSection(data) {
   const recentStarsList = Array.isArray(data?.activity?.recentStars)
     ? data.activity.recentStars
     : []
-  const contributions = Array.isArray(data?.activity?.contributions)
-    ? data.activity.contributions
-    : []
 
   const recentActivityLines =
     recentActivityList
