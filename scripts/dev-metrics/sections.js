@@ -317,7 +317,7 @@ function buildActivitySections(data) {
     .slice(0, 7)
     .map(([name, count]) =>
       formatRow(
-        name.padEnd(30),
+        name.padEnd(75),
         count,
         totalCommits,
         25,
