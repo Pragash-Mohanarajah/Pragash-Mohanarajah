@@ -19,11 +19,11 @@ function bar(percent, length = 25, version = Number(process.env.SYMBOL_VERSION) 
   return done.repeat(filled) + empty.repeat(length - filled)
 }
 
-function formatRow(label, value, total, length = 25) {
+function formatRow(label, value, total, length = 25, suffix = "") {
   const pct = total > 0 ? (value / total) * 100 : 0
   const pctStr = `${pct.toFixed(2)}%`.padStart(7)
 
-  return `${label} ${bar(pct, length)} ${pctStr}`
+  return `${label} ${bar(pct, length)} ${pctStr}${suffix ? ` ${suffix}` : ""}`
 }
 
 module.exports = {
@@ -31,4 +31,3 @@ module.exports = {
   bar,
   formatRow,
 }
-

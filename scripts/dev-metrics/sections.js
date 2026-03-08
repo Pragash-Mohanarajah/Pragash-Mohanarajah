@@ -1,4 +1,4 @@
-const { bar, formatRow } = require("./formatters")
+const { formatRow } = require("./formatters")
 const { makeHeatmap } = require("./heatmap")
 
 function formatNumber(n) {
@@ -29,20 +29,22 @@ function buildOverviewSection(data) {
   const watchers = data?.repositories?.watchers || 0
   const archived = data?.repositories?.archived || 0
 
+  const toPct = (val, total) => (total > 0 ? `${((val / total) * 100).toFixed(1)}%` : "0%")
+
   return [
     "### 🐱 GitHub Overview",
     `- 🔥 Current Streak: ${data?.activity?.streak?.current || 0} days`,
     `- 🏆 Longest Streak: ${data?.activity?.streak?.longest || 0} days`,
     `- ✨ Total Commits: ${formatNumber(totalCommits)}`,
-    `- 💖 Commit Breakdown: ${formatNumber(publicCommits)} public, ${formatNumber(
+    `- 💖 Commit Breakdown: ${formatNumber(publicCommits)} public (${toPct(publicCommits, totalCommits)}), ${formatNumber(
       privateCommits
-    )} private · ${formatNumber(ownedCommits)} owned, ${formatNumber(contributedCommits)} contributed`,
+    )} private (${toPct(privateCommits, totalCommits)}) · ${formatNumber(ownedCommits)} owned (${toPct(ownedCommits, totalCommits)}), ${formatNumber(contributedCommits)} contributed (${toPct(contributedCommits, totalCommits)})`,
     `- 🚀 Repositories: ${formatNumber(totalRepos)} (${formatNumber(
       publicRepos
-    )} public, ${formatNumber(privateRepos)} private)`,
-    `- 👤 Ownership: ${formatNumber(ownedRepos)} owned, ${formatNumber(
+    )} public (${toPct(publicRepos, totalRepos)}), ${formatNumber(privateRepos)} private (${toPct(privateRepos, totalRepos)}))`,
+    `- 👤 Ownership: ${formatNumber(ownedRepos)} owned (${toPct(ownedRepos, totalRepos)}), ${formatNumber(
       contributedRepos
-    )} contributed-to`,
+    )} contributed-to (${toPct(contributedRepos, totalRepos)})`,
     `- ⭐ Stars: ${formatNumber(stars)} · 👀 Watchers: ${formatNumber(
       watchers
     )} · 🍴 Forks: ${formatNumber(forks)} · 🗄️ Archived: ${formatNumber(
@@ -69,34 +71,43 @@ function buildLanguageSections(data) {
   const languageLocLines = Object.entries(byLanguage)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 8)
-    .map(([lang, loc]) => {
-      const pct = totalLOC > 0 ? (loc / totalLOC) * 100 : 0
-      return `${lang.padEnd(18)} ${bar(pct)} ${pct.toFixed(2)}% (${formatNumber(
-        loc
-      )} LOC)`
-    })
+    .map(([lang, loc]) =>
+      formatRow(
+        lang.padEnd(20),
+        loc,
+        totalLOC,
+        25,
+        `(${formatNumber(loc)} LOC)`
+      )
+    )
     .join("\n")
 
   const languageRepoLines = Object.entries(byRepoCount)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 8)
-    .map(([lang, count]) => {
-      const pct = totalRepoCounts > 0 ? (count / totalRepoCounts) * 100 : 0
-      return `${lang.padEnd(18)} ${bar(pct)} ${pct.toFixed(2)}% (${formatNumber(
-        count
-      )} repos)`
-    })
+    .map(([lang, count]) =>
+      formatRow(
+        lang.padEnd(20),
+        count,
+        totalRepoCounts,
+        25,
+        `(${formatNumber(count)} repos)`
+      )
+    )
     .join("\n")
 
   const languageByteLines = Object.entries(byBytes)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 6)
-    .map(([lang, bytes]) => {
-      const pct = totalBytes > 0 ? (bytes / totalBytes) * 100 : 0
-      return `${lang.padEnd(18)} ${bar(pct)} ${pct.toFixed(2)}% (${formatNumber(
-        bytes
-      )} bytes)`
-    })
+    .map(([lang, bytes]) =>
+      formatRow(
+        lang.padEnd(20),
+        bytes,
+        totalBytes,
+        25,
+        `(${formatNumber(bytes)} bytes)`
+      )
+    )
     .join("\n")
 
   return [
@@ -131,7 +142,13 @@ function buildCategorySection(data) {
   const catCountLines = Object.entries(byCategoryCount)
     .sort((a, b) => b[1] - a[1])
     .map(([cat, count]) =>
-      formatRow(cat.padEnd(18), count, totalReposByCat, 25)
+      formatRow(
+        cat.padEnd(20),
+        count,
+        totalReposByCat,
+        25,
+        `(${formatNumber(count)} repos)`
+      )
     )
     .join("\n")
 
@@ -139,10 +156,11 @@ function buildCategorySection(data) {
     .sort((a, b) => b[1] - a[1])
     .map(([cat, loc]) =>
       formatRow(
-        `${cat.padEnd(18)} (${formatNumber(loc)} LOC)`,
+        cat.padEnd(20),
         loc,
         totalLocByCat,
-        25
+        25,
+        `(${formatNumber(loc)} LOC)`
       )
     )
     .join("\n")
@@ -163,12 +181,20 @@ function buildCategorySection(data) {
 
 function buildTopicsSection(data) {
   const byTopic = data?.repositories?.byTopic || {}
-  const totalTopics = Object.values(byTopic).reduce((a, b) => a + b, 0)
+  const totalRepos = data?.repositories?.total || 0
 
   const topicLines = Object.entries(byTopic)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 10)
-    .map(([topic, count]) => formatRow(topic.padEnd(18), count, totalTopics, 25))
+    .map(([topic, count]) =>
+      formatRow(
+        topic.padEnd(20),
+        count,
+        totalRepos,
+        25,
+        `(${formatNumber(count)} repos)`
+      )
+    )
     .join("\n")
 
   return [
@@ -251,7 +277,15 @@ function buildActivitySections(data) {
   const totalByDay = byDay.reduce((a, b) => a + b, 0)
 
   const dayLines = byDay
-    .map((count, i) => formatRow(weekdays[i].padEnd(10), count, totalByDay, 25))
+    .map((count, i) =>
+      formatRow(
+        weekdays[i].padEnd(20),
+        count,
+        totalByDay,
+        25,
+        `(${formatNumber(count)} contributions)`
+      )
+    )
     .join("\n")
 
   const timeOfDay = {
@@ -264,7 +298,15 @@ function buildActivitySections(data) {
   const totalTimeOfDay = Object.values(timeOfDay).reduce((a, b) => a + b, 0)
 
   const timeLines = Object.entries(timeOfDay)
-    .map(([label, count]) => formatRow(label.padEnd(20), count, totalTimeOfDay, 25))
+    .map(([label, count]) =>
+      formatRow(
+        label.padEnd(20),
+        count,
+        totalTimeOfDay,
+        25,
+        `(${formatNumber(count)} commits)`
+      )
+    )
     .join("\n")
 
   const byRepository = data?.commits?.byRepository || {}
@@ -273,12 +315,15 @@ function buildActivitySections(data) {
   const activeReposLines = Object.entries(byRepository)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 7)
-    .map(([name, count]) => {
-      const pct = totalCommits > 0 ? (count / totalCommits) * 100 : 0
-      return `${name.padEnd(30)} ${bar(pct)} ${pct.toFixed(2)}% (${formatNumber(
-        count
-      )} commits)`
-    })
+    .map(([name, count]) =>
+      formatRow(
+        name.padEnd(30),
+        count,
+        totalCommits,
+        25,
+        `(${formatNumber(count)} commits)`
+      )
+    )
     .join("\n")
 
   return [
