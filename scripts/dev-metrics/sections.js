@@ -1,5 +1,4 @@
 const { formatRow } = require("./formatters")
-const { makeHeatmap } = require("./heatmap")
 
 function formatNumber(n) {
   if (!Number.isFinite(n)) return "0"
@@ -364,8 +363,6 @@ function buildRecentSection(data) {
   const recentStarsLines =
     recentStarsList.map(s => `- ${s.repo}`).join("\n") || "- No recent stars"
 
-  const heatmap = makeHeatmap(contributions)
-
   return [
     "### ⚡ Recent Activity",
     recentActivityLines,
@@ -373,10 +370,8 @@ function buildRecentSection(data) {
     "### 🌟 Recent Stars",
     recentStarsLines,
     "",
-    "### 📅 Contribution Graph (last 365 days)",
-    "```",
-    heatmap,
-    "```",
+    "### 📅 Contribution Graph",
+    "![Contribution Graph](./contribution-graph.svg)",
     "",
   ].join("\n")
 }
@@ -414,7 +409,7 @@ function generateCommitHistorySvg(data) {
 
   return `
     <svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
-      <style>.line{fill:none;stroke:#4ec9b0;stroke-width:1.5}.axis{stroke:#555;stroke-width:1;opacity:0.5}.label{fill:#999;font-family:sans-serif;font-size:10px;text-anchor:middle}</style>
+      <style>.line{fill:none;stroke:#388bfd;stroke-width:1.5}.axis{stroke:#555;stroke-width:1;opacity:0.5}.label{fill:#999;font-family:sans-serif;font-size:10px;text-anchor:middle}</style>
       <line class="axis" x1="${padding}" y1="${padding}" x2="${padding}" y2="${height - padding}" />
       <line class="axis" x1="${padding}" y1="${height - padding}" x2="${width - padding}" y2="${height - padding}" />
       <text class="label" x="${padding / 2}" y="${padding}">${formatNumber(maxCommits)}</text>
