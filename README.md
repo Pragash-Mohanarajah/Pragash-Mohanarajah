@@ -66,11 +66,11 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 3,973
-- 💖 Commit Breakdown: 512 public (12.9%), 3,461 private (87.1%) · 1,136 owned (28.6%), 2,837 contributed (71.4%)
+- ✨ Total Commits: 3,974
+- 💖 Commit Breakdown: 512 public (12.9%), 3,462 private (87.1%) · 1,137 owned (28.6%), 2,837 contributed (71.4%)
 - 🚀 Repositories: 71 (33 public (46.5%), 38 private (53.5%))
 - 👤 Ownership: 67 owned (94.4%), 4 contributed-to (5.6%)
-- ⭐ Stars: 98,749 · 👀 Watchers: 685 · 🍴 Forks: 11,758 · 🗄️ Archived: 16
+- ⭐ Stars: 98,750 · 👀 Watchers: 685 · 🍴 Forks: 11,759 · 🗄️ Archived: 16
 - 🧠 Estimated Lines of Code: 2,075,905
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,882 days
@@ -140,7 +140,7 @@ Makefile             ██                          7.04% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 171 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 172 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -160,27 +160,28 @@ Evening (18-24)      ████                       16.39% (253 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          9.79% (406 contributions)
+Sunday               ██                          9.81% (407 contributions)
 Monday               ███                        13.50% (560 contributions)
 Tuesday              ████                       17.48% (725 contributions)
 Wednesday            █████                      19.17% (795 contributions)
 Thursday             ████                       14.49% (601 contributions)
-Friday               ████                       17.51% (726 contributions)
+Friday               ████                       17.50% (726 contributions)
 Saturday             ██                          8.05% (334 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████████                45.03% (1,789 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           5.29% (210 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████████                45.02% (1,789 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           5.28% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           4.35% (173 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.30% (171 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.33% (172 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           4.25% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           4.20% (167 commits)
 Pragash-Mohanarajah/taec-thamilthiren-backend                               █                           3.93% (156 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/portfolio — feat: show more recent activity commits from different repositories
 - Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/portfolio — fix: improved information about recent activity and contributions to all repositories
@@ -189,7 +190,6 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 - Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: improved colour choices to be easier on the eye
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: final re-ordering for clarity
-- Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/Pragash-Mohanarajah — feat: improved stacked heatmap of contributions by day and time of week
 - Pragash-Mohanarajah/theodo-cambridge-hackathon — Merge pull request #31 from Pragash-Mohanarajah/dependabot/npm_and_yarn/babel/helpers-7.28.6
 - Pragash-Mohanarajah/theodo-cambridge-hackathon — Merge pull request #32 from Pragash-Mohanarajah/dependabot/npm_and_yarn/babel/runtime-7.28.6
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 08 Mar 2026 19:30:30 GMT_
+_Last updated on Sun, 08 Mar 2026 20:23:20 GMT_
 <!-- DEV_METRICS_END -->
