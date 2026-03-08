@@ -381,6 +381,54 @@ function buildRecentSection(data) {
   ].join("\n")
 }
 
+function buildCommitHistoryChart(data) {
+  const history = data?.activity?.commitHistory || []
+  if (history.length < 2) return ""
+
+  const width = 540
+  const height = 160
+  const padding = 30
+
+  const maxCommits = history[history.length - 1]?.total || 1
+  const startDate = new Date(history[0]?.date).getTime()
+  const endDate = new Date(history[history.length - 1]?.date).getTime()
+  const dateRange = Math.max(1, endDate - startDate)
+
+  // Downsample points for performance/simplicity if there are many
+  const maxPoints = 365 // roughly one point per day for a year
+  const filteredHistory =
+    history.length > maxPoints
+      ? history.filter((_, i) => i % Math.ceil(history.length / maxPoints) === 0)
+      : history
+
+  const points = filteredHistory
+    .map(point => {
+      const x =
+        ((new Date(point.date).getTime() - startDate) / dateRange) *
+          (width - padding * 2) +
+        padding
+      const y = height - padding - (point.total / maxCommits) * (height - padding * 2)
+      return `${x.toFixed(2)},${y.toFixed(2)}`
+    })
+    .join(" ")
+
+  const svg = `
+    <svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
+      <style>.line{fill:none;stroke:#4ec9b0;stroke-width:1.5}.axis{stroke:#555;stroke-width:1;opacity:0.5}.label{fill:#999;font-family:sans-serif;font-size:10px;text-anchor:middle}</style>
+      <line class="axis" x1="${padding}" y1="${padding}" x2="${padding}" y2="${height - padding}" />
+      <line class="axis" x1="${padding}" y1="${height - padding}" x2="${width - padding}" y2="${height - padding}" />
+      <text class="label" x="${padding / 2}" y="${padding}">${formatNumber(maxCommits)}</text>
+      <text class="label" x="${padding / 2}" y="${height - padding + 4}">0</text>
+      <text class="label" x="${padding}" y="${height - padding / 2.5}">${new Date(startDate).getFullYear()}</text>
+      <text class="label" x="${width - padding}" y="${height - padding / 2.5}">${new Date(endDate).getFullYear()}</text>
+      <polyline class="line" points="${points}" />
+    </svg>
+  `
+  const dataUri = `data:image/svg+xml;base64,${Buffer.from(svg).toString("base64")}`
+
+  return ["### 📈 All-Time Commit History", `![Commit History](${dataUri})`, ""].join("\n")
+}
+
 function buildMetricsSection(data) {
   const parts = [
     "## 📊 Development Metrics",
@@ -392,6 +440,7 @@ function buildMetricsSection(data) {
     buildProjectsSection(data),
     buildActivitySections(data),
     buildRecentSection(data),
+    buildCommitHistoryChart(data),
     `_Last updated on ${new Date().toUTCString()}_`,
   ]
 
