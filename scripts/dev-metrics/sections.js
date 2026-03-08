@@ -381,9 +381,9 @@ function buildRecentSection(data) {
   ].join("\n")
 }
 
-function buildCommitHistoryChart(data) {
+function generateCommitHistorySvg(data) {
   const history = data?.activity?.commitHistory || []
-  if (history.length < 2) return ""
+  if (history.length < 2) return null
 
   const width = 540
   const height = 160
@@ -412,7 +412,7 @@ function buildCommitHistoryChart(data) {
     })
     .join(" ")
 
-  const svg = `
+  return `
     <svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
       <style>.line{fill:none;stroke:#4ec9b0;stroke-width:1.5}.axis{stroke:#555;stroke-width:1;opacity:0.5}.label{fill:#999;font-family:sans-serif;font-size:10px;text-anchor:middle}</style>
       <line class="axis" x1="${padding}" y1="${padding}" x2="${padding}" y2="${height - padding}" />
@@ -424,9 +424,12 @@ function buildCommitHistoryChart(data) {
       <polyline class="line" points="${points}" />
     </svg>
   `
-  const dataUri = `data:image/svg+xml;base64,${Buffer.from(svg).toString("base64")}`
+}
 
-  return ["### 📈 All-Time Commit History", `![Commit History](${dataUri})`, ""].join("\n")
+function buildCommitHistoryChart(data) {
+  const history = data?.activity?.commitHistory || []
+  if (history.length < 2) return ""
+  return ["### 📈 All-Time Commit History", "![Commit History](./commit-history.svg)", ""].join("\n")
 }
 
 function buildMetricsSection(data) {
@@ -449,4 +452,5 @@ function buildMetricsSection(data) {
 
 module.exports = {
   buildMetricsSection,
+  generateCommitHistorySvg,
 }

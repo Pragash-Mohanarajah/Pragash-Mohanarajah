@@ -1,5 +1,7 @@
+const fs = require("fs")
+const path = require("path")
 const { fetchStats } = require("./fetchStats")
-const { buildMetricsSection } = require("./sections")
+const { buildMetricsSection, generateCommitHistorySvg } = require("./sections")
 const { updateReadmeSection } = require("./updateReadme")
 
 async function run() {
@@ -21,6 +23,13 @@ async function run() {
     console.error("Failed to fetch stats data (empty response).")
     process.exitCode = 1
     return
+  }
+
+  const svg = generateCommitHistorySvg(data)
+  if (svg) {
+    const svgPath = path.resolve(process.cwd(), "commit-history.svg")
+    fs.writeFileSync(svgPath, svg)
+    console.log("Saved commit history SVG to", svgPath)
   }
 
   const section = buildMetricsSection(data)
