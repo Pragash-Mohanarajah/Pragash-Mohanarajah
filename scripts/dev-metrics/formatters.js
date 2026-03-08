@@ -1,7 +1,8 @@
 const SYMBOLS = {
-  1: ["█", "░"],
+  1: ["█", " "],
   2: ["⣿", "⣀"],
   3: ["⬛", "⬜"],
+  4: ["█", "░"],
 }
 
 function clampPercent(value) {

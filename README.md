@@ -1,96 +1,60 @@
-# Hi there 👋
-# I'm a Full-Stack Developer building intelligent web apps ♟️
+# Hi there, I'm Pragash Mohanarajah 👋
 
-I build modern web applications that combine **AI, data processing, and interactive frontends**.  
-Most of my work lives at the intersection of **Next.js, machine learning, and real-time applications**.
+### Full-Stack Engineer & AI Researcher
+Building high-performance systems at the intersection of **Deep Learning**, **Scalable Web Architecture**, and **Product Design**.
 
 ---
 
-## 🚀 What I’m Working On
+## ⚡ Quick Bio
 
-🧠 **AI Chess Engine**
-- Training models on FEN positions and PGN datasets
-- Flask API serving move predictions
-- Next.js frontend to simulate full chess games
-- Experimenting with fine-tuning Stockfish using PyTorch
+I architect intelligent web applications that bridge the gap between complex data and intuitive user experiences. My work ranges from restoring ancient history through Neural Networks to building real-time FinTech pipelines.
 
-📊 **Data Processing Systems**
-- CSV ingestion pipelines with background processing
-- Direct browser uploads → cloud storage → database workflows
-- Scalable job processing using modern Node + Postgres tools
-
-🌐 **Full-Stack Web Apps**
-- Dynamic Next.js applications deployed on Vercel
-- Supabase-powered projects with modern UI stacks
-- Custom API routes for data workflows and automation
+* **🔭 Current Focus:** Optimizing Chess Engine intuition models & Scalable Data Pipelines.
+* **🌱 Learning:** Advanced ONNX optimization and AWS Lambda for inference scaling.
+* **💬 Ask me about:** Next.js, PyTorch, Chess theory, or litigation funding systems.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- Next.js
-- React + TypeScript
-- HeroUI
-- Responsive UI architecture
-
-**Backend**
-- Node.js
-- Flask (AI services)
-- PostgreSQL
-- Supabase
-
-**AI / Data**
-- PyTorch
-- ONNX
-- Data pipelines for training + inference
-- Chess engine experimentation
-
-**Cloud & DevOps**
-- Vercel deployment workflows
-- AWS S3 storage integrations
-- Docker Compose environments
-- NGINX configuration
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, HeroUI |
+| **Backend** | Node.js, Flask (Python), PostgreSQL, Supabase, NGINX |
+| **AI / Data** | PyTorch, ONNX, Deep Learning (NLP/CV), Data Ingestion Pipelines |
+| **DevOps** | AWS (S3/EC2), Vercel, Docker Compose, GitHub Actions |
 
 ---
 
-## ♟ Featured Project Themes
+## 🚀 Key Research & Projects
 
-- Interactive chess simulations with AI decision-making  
-- AI systems trained on real gameplay data  
-- Data-driven web applications with scalable architecture  
-- Developer tools that automate workflows  
+### 🧠 AI & Deep Learning
+* **Ancient Text Restoration (UATRIAL):** Developed models using Deep Learning to restore and attribute ancient epigraphy, merging history with state-of-the-art NLP.
+* **Neural Chess Engines:** Training models on FEN/PGN datasets to predict moves, served via Flask APIs to custom Next.js frontends. Experimenting with Stockfish fine-tuning and custom evaluation functions.
 
----
+### 💸 FinTech & Systems Engineering
+* **AxiaFunder:** Architected real-time investment dashboards and robust CSV ingestion pipelines for litigation funding using Node.js and PostgreSQL.
+* **Hack Cambridge:** Maintained critical administration platforms (`hc-applications`, `gavel`) for one of the UK’s premier hackathons.
 
-## 💡 Development Philosophy
-
-- Build systems that are **interactive, intelligent, and scalable**
-- Prefer **clean architecture over quick hacks**
-- Combine **AI + UX** to make complex systems usable
-- Learn by building ambitious projects end-to-end
+### 📊 Data Infrastructure
+* **End-to-End Pipelines:** Specialized in "Browser → Cloud Storage → Background Worker → Database" workflows for high-frequency data processing.
 
 ---
 
-## 📌 Current Focus
+## 💡 Engineering Philosophy
 
-- Improving chess model performance from real game data
-- Designing scalable upload → process → serve data pipelines
-- Creating polished, production-ready Next.js applications
+> *"Build systems that are interactive, intelligent, and scalable. Prioritize clean architecture over quick hacks, and use AI to simplify — not complicate — the user experience."*
 
 ---
 
-## 🌍 Portfolio
+## 🤝 Let's Connect
 
-You can explore my deployed work here:  
-👉 [Personal Portfolio](https://portfolio-pragash-mohanarajahs-projects.vercel.app/)
+I’m always open to collaborating on intelligent systems, web platforms, or anything chess-related.
+
+* 🌍 **Portfolio:** [Visit my site](https://portfolio-pragash-mohanarajahs-projects.vercel.app/)
+* 💼 **LinkedIn:** [linkedin.com/in/pragash-mohanarajah](https://www.linkedin.com/in/pragash-mohanarajah/)
 
 ---
-
-## 🤝 Let’s Connect
-
-If you like building intelligent systems, web platforms, or anything chess-related —  
-I’m always open to collaboration and interesting ideas.
 
 <!-- DEV_METRICS_START -->
 ## 📊 Development Metrics
