@@ -66,19 +66,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,011
-- 💖 Commit Breakdown: 512 public (12.8%), 3,499 private (87.2%) · 1,151 owned (28.7%), 2,860 contributed (71.3%)
+- ✨ Total Commits: 4,012
+- 💖 Commit Breakdown: 512 public (12.8%), 3,500 private (87.2%) · 1,152 owned (28.7%), 2,860 contributed (71.3%)
 - 🚀 Repositories: 71 (33 public (46.5%), 38 private (53.5%))
 - 👤 Ownership: 67 owned (94.4%), 4 contributed-to (5.6%)
-- ⭐ Stars: 98,828 · 👀 Watchers: 686 · 🍴 Forks: 11,768 · 🗄️ Archived: 16
-- 🧠 Estimated Lines of Code: 2,077,931
+- ⭐ Stars: 98,838 · 👀 Watchers: 686 · 🍴 Forks: 11,769 · 🗄️ Archived: 16
+- 🧠 Estimated Lines of Code: 2,078,115
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,883 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ████████                   32.19% (668,880 LOC)
-TypeScript           ███████                    27.61% (573,710 LOC)
+TypeScript           ███████                    27.62% (573,894 LOC)
 Jupyter Notebook     ███                        10.37% (215,521 LOC)
 MDX                  ██                          9.00% (187,039 LOC)
 Python               █                           4.20% (87,339 LOC)
@@ -102,7 +102,7 @@ Dockerfile           █                           3.68% (7 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ████████                   32.19% (33,444,000 bytes)
-TypeScript           ███████                    27.61% (28,685,489 bytes)
+TypeScript           ███████                    27.62% (28,694,673 bytes)
 Jupyter Notebook     ███                        10.37% (10,776,048 bytes)
 MDX                  ██                          9.00% (9,351,962 bytes)
 Python               █                           4.20% (4,366,912 bytes)
@@ -119,7 +119,7 @@ Data Systems         █                           5.63% (4 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        76.63% (1,592,378 LOC)
+AI / ML              ███████████████████        76.63% (1,592,562 LOC)
 Other                █████                      21.08% (438,029 LOC)
 Data Systems                                     1.64% (33,986 LOC)
 Web Apps                                         0.65% (13,538 LOC)
@@ -140,7 +140,7 @@ Makefile             ██                          7.04% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 186 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 187 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -161,19 +161,19 @@ Evening (18-24)      ████                       16.56% (256 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          9.78% (410 contributions)
-Monday               ████                       14.34% (601 contributions)
+Monday               ████                       14.36% (602 contributions)
 Tuesday              ████                       17.29% (725 contributions)
 Wednesday            █████                      18.96% (795 contributions)
-Thursday             ████                       14.34% (601 contributions)
-Friday               ████                       17.32% (726 contributions)
+Thursday             ████                       14.33% (601 contributions)
+Friday               ████                       17.31% (726 contributions)
 Saturday             ██                          7.97% (334 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████████                45.18% (1,812 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           5.24% (210 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.64% (186 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████████                45.16% (1,812 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           5.23% (210 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.66% (187 commits)
 n15hsy/axia-lm-optimizer                                                    █                           4.31% (173 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           4.21% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           4.16% (167 commits)
@@ -183,6 +183,7 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 ### ⚡ Recent Activity
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
+- Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - AxiaFunder/dashboard-axiafunder — Merge pull request #102 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — fix: use correct URL for daily financials data retrieval
 - AxiaFunder/dashboard-axiafunder — Merge pull request #101 from AxiaFunder/develop
@@ -190,7 +191,6 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 - AxiaFunder/dashboard-axiafunder — Merge pull request #100 from AxiaFunder/develop
 - Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/portfolio — feat: [no-deploy] implement no-deploy commit as test
-- Pragash-Mohanarajah/portfolio — feat: add vercel ignored build shell script to run with bash before attempting compile
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: better base Readme about my work and focus
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: better base Readme about my work and focus
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: improved colour choices to be easier on the eye
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 09 Mar 2026 20:31:56 GMT_
+_Last updated on Mon, 09 Mar 2026 22:26:21 GMT_
 <!-- DEV_METRICS_END -->
