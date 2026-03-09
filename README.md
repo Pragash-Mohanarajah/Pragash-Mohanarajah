@@ -64,21 +64,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 7 days
+- 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 3,977
-- 💖 Commit Breakdown: 512 public (12.9%), 3,465 private (87.1%) · 1,140 owned (28.7%), 2,837 contributed (71.3%)
+- ✨ Total Commits: 3,978
+- 💖 Commit Breakdown: 512 public (12.9%), 3,466 private (87.1%) · 1,141 owned (28.7%), 2,837 contributed (71.3%)
 - 🚀 Repositories: 71 (33 public (46.5%), 38 private (53.5%))
 - 👤 Ownership: 67 owned (94.4%), 4 contributed-to (5.6%)
-- ⭐ Stars: 98,757 · 👀 Watchers: 685 · 🍴 Forks: 11,760 · 🗄️ Archived: 16
-- 🧠 Estimated Lines of Code: 2,076,043
+- ⭐ Stars: 98,760 · 👀 Watchers: 685 · 🍴 Forks: 11,760 · 🗄️ Archived: 16
+- 🧠 Estimated Lines of Code: 2,076,013
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,882 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ████████                   32.22% (668,880 LOC)
-TypeScript           ███████                    27.54% (571,671 LOC)
+TypeScript           ███████                    27.54% (571,641 LOC)
 Jupyter Notebook     ███                        10.38% (215,521 LOC)
 MDX                  ██                          9.02% (187,202 LOC)
 Python               █                           4.21% (87,339 LOC)
@@ -102,7 +102,7 @@ Dockerfile           █                           3.70% (7 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ████████                   32.22% (33,444,000 bytes)
-TypeScript           ███████                    27.54% (28,583,449 bytes)
+TypeScript           ███████                    27.54% (28,581,969 bytes)
 Jupyter Notebook     ███                        10.38% (10,776,048 bytes)
 MDX                  ██                          9.02% (9,360,101 bytes)
 Python               █                           4.21% (4,366,912 bytes)
@@ -119,7 +119,7 @@ Data Systems         █                           5.63% (4 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        76.62% (1,590,636 LOC)
+AI / ML              ███████████████████        76.62% (1,590,606 LOC)
 Other                █████                      21.09% (437,883 LOC)
 Data Systems                                     1.64% (33,986 LOC)
 Web Apps                                         0.65% (13,538 LOC)
@@ -140,7 +140,7 @@ Makefile             ██                          7.04% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 175 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 176 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -153,27 +153,27 @@ Makefile             ██                          7.04% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.45% (7 commits)
-Morning (06-12)      ██████████████             56.74% (876 commits)
-Afternoon (12-18)    ███████                    26.42% (408 commits)
-Evening (18-24)      ████                       16.39% (253 commits)
+Morning (06-12)      ██████████████             56.76% (877 commits)
+Afternoon (12-18)    ███████                    26.41% (408 commits)
+Evening (18-24)      ████                       16.38% (253 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          9.88% (410 contributions)
-Monday               ███                        13.49% (560 contributions)
-Tuesday              ████                       17.47% (725 contributions)
+Sunday               ██                          9.87% (410 contributions)
+Monday               ███                        13.51% (561 contributions)
+Tuesday              ████                       17.46% (725 contributions)
 Wednesday            █████                      19.15% (795 contributions)
-Thursday             ████                       14.48% (601 contributions)
+Thursday             ████                       14.47% (601 contributions)
 Friday               ████                       17.49% (726 contributions)
-Saturday             ██                          8.05% (334 contributions)
+Saturday             ██                          8.04% (334 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████████                44.98% (1,789 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████████                44.97% (1,789 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           5.28% (210 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.40% (175 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.42% (176 commits)
 n15hsy/axia-lm-optimizer                                                    █                           4.35% (173 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           4.25% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           4.20% (167 commits)
@@ -185,7 +185,7 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 - Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/portfolio — Update dev metrics data
-- Pragash-Mohanarajah/portfolio — feat: show more recent activity commits from different repositories
+- Pragash-Mohanarajah/portfolio — Update dev metrics data
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: better base Readme about my work and focus
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: better base Readme about my work and focus
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: improved colour choices to be easier on the eye
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 09 Mar 2026 01:57:21 GMT_
+_Last updated on Mon, 09 Mar 2026 04:21:13 GMT_
 <!-- DEV_METRICS_END -->
