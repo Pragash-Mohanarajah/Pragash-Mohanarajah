@@ -66,21 +66,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 9 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,018
-- 💖 Commit Breakdown: 512 public (12.7%), 3,506 private (87.3%) · 1,158 owned (28.8%), 2,860 contributed (71.2%)
+- ✨ Total Commits: 4,036
+- 💖 Commit Breakdown: 514 public (12.7%), 3,522 private (87.3%) · 1,161 owned (28.8%), 2,875 contributed (71.2%)
 - 🚀 Repositories: 71 (33 public (46.5%), 38 private (53.5%))
 - 👤 Ownership: 67 owned (94.4%), 4 contributed-to (5.6%)
-- ⭐ Stars: 98,893 · 👀 Watchers: 684 · 🍴 Forks: 11,769 · 🗄️ Archived: 16
-- 🧠 Estimated Lines of Code: 2,077,796
+- ⭐ Stars: 98,911 · 👀 Watchers: 684 · 🍴 Forks: 11,772 · 🗄️ Archived: 16
+- 🧠 Estimated Lines of Code: 2,078,791
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,883 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ████████                   32.19% (668,880 LOC)
-TypeScript           ███████                    27.60% (573,569 LOC)
+C                    ████████                   32.18% (668,880 LOC)
+TypeScript           ███████                    27.64% (574,512 LOC)
 Jupyter Notebook     ███                        10.37% (215,521 LOC)
-MDX                  ██                          9.00% (187,039 LOC)
+MDX                  ██                          9.00% (187,091 LOC)
 Python               █                           4.20% (87,339 LOC)
 JavaScript           █                           4.12% (85,635 LOC)
 Makefile             █                           2.99% (62,186 LOC)
@@ -101,10 +101,10 @@ Dockerfile           █                           3.68% (7 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ████████                   32.19% (33,444,000 bytes)
-TypeScript           ███████                    27.60% (28,678,419 bytes)
+C                    ████████                   32.18% (33,444,000 bytes)
+TypeScript           ███████                    27.64% (28,725,506 bytes)
 Jupyter Notebook     ███                        10.37% (10,776,048 bytes)
-MDX                  ██                          9.00% (9,351,962 bytes)
+MDX                  ██                          9.00% (9,354,529 bytes)
 Python               █                           4.20% (4,366,912 bytes)
 JavaScript           █                           4.12% (4,281,802 bytes)
 ```
@@ -119,9 +119,9 @@ Data Systems         █                           5.63% (4 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        76.63% (1,592,243 LOC)
-Other                █████                      21.08% (438,029 LOC)
-Data Systems                                     1.64% (33,986 LOC)
+AI / ML              ███████████████████        76.64% (1,593,204 LOC)
+Other                █████                      21.07% (438,063 LOC)
+Data Systems                                     1.63% (33,986 LOC)
 Web Apps                                         0.65% (13,538 LOC)
 ```
 
@@ -140,62 +140,62 @@ Makefile             ██                          7.04% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 193 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 194 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
 - Pragash-Mohanarajah/churchill-college-food-review — Interactive Food Review System for Churchill College _(Other · 127 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 1812 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 1827 commits · private)_
 - supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres da... _(AI / ML)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.45% (7 commits)
-Morning (06-12)      ██████████████             56.17% (869 commits)
-Afternoon (12-18)    ███████                    26.83% (415 commits)
-Evening (18-24)      ████                       16.55% (256 commits)
+Morning (06-12)      ██████████████             56.23% (871 commits)
+Afternoon (12-18)    ███████                    26.79% (415 commits)
+Evening (18-24)      ████                       16.53% (256 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          9.76% (410 contributions)
-Monday               ████                       14.36% (603 contributions)
-Tuesday              ████                       17.40% (731 contributions)
-Wednesday            █████                      18.93% (795 contributions)
-Thursday             ████                       14.31% (601 contributions)
-Friday               ████                       17.29% (726 contributions)
-Saturday             ██                          7.95% (334 contributions)
+Sunday               ██                          9.71% (410 contributions)
+Monday               ████                       14.28% (603 contributions)
+Tuesday              ████                       17.87% (755 contributions)
+Wednesday            █████                      18.82% (795 contributions)
+Thursday             ████                       14.23% (601 contributions)
+Friday               ████                       17.19% (726 contributions)
+Saturday             ██                          7.91% (334 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████████                45.10% (1,812 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           5.23% (210 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.80% (193 commits)
-n15hsy/axia-lm-optimizer                                                    █                           4.31% (173 commits)
-IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           4.21% (169 commits)
-Pragash-Mohanarajah/taec-thamilthiren                                       █                           4.16% (167 commits)
-Pragash-Mohanarajah/taec-thamilthiren-backend                               █                           3.88% (156 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████████                45.27% (1,827 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           5.20% (210 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.81% (194 commits)
+n15hsy/axia-lm-optimizer                                                    █                           4.29% (173 commits)
+IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           4.19% (169 commits)
+Pragash-Mohanarajah/taec-thamilthiren                                       █                           4.14% (167 commits)
+Pragash-Mohanarajah/taec-thamilthiren-backend                               █                           3.87% (156 commits)
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/dashboard-axiafunder — Merge pull request #109 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — fix: add unpaid count to sorting and label with 'Today' in main header
+- AxiaFunder/dashboard-axiafunder — Merge pull request #108 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — fix: remove padding completely for simplicity
+- AxiaFunder/dashboard-axiafunder — Merge pull request #107 from AxiaFunder/develop
+- Pragash-Mohanarajah/Pragash-Mohanarajah — Update cron schedule for dev metrics workflow
+- Pragash-Mohanarajah/Pragash-Mohanarajah — Update cron schedule for dev metrics workflow
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
-- AxiaFunder/dashboard-axiafunder — Merge pull request #102 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — fix: use correct URL for daily financials data retrieval
-- AxiaFunder/dashboard-axiafunder — Merge pull request #101 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — fix: use correct URL for daily financials data retrieval
-- AxiaFunder/dashboard-axiafunder — Merge pull request #100 from AxiaFunder/develop
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: better base Readme about my work and focus
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: better base Readme about my work and focus
 - Pragash-Mohanarajah/Pragash-Mohanarajah — fix: improved colour choices to be easier on the eye
-- Pragash-Mohanarajah/Pragash-Mohanarajah — fix: final re-ordering for clarity
-- Pragash-Mohanarajah/Pragash-Mohanarajah — feat: improved stacked heatmap of contributions by day and time of week
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren-backend                               █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 10 Mar 2026 10:36:54 GMT_
+_Last updated on Tue, 10 Mar 2026 16:47:16 GMT_
 <!-- DEV_METRICS_END -->
