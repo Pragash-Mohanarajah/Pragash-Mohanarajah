@@ -66,23 +66,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 12 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,763
-- 💖 Commit Breakdown: 514 public (10.8%), 4,249 private (89.2%) · 1,872 owned (39.3%), 2,891 contributed (60.7%)
+- ✨ Total Commits: 4,764
+- 💖 Commit Breakdown: 514 public (10.8%), 4,250 private (89.2%) · 1,873 owned (39.3%), 2,891 contributed (60.7%)
 - 🚀 Repositories: 77 (33 public (42.9%), 44 private (57.1%))
 - 👤 Ownership: 73 owned (94.8%), 4 contributed-to (5.2%)
-- ⭐ Stars: 99,017 · 👀 Watchers: 683 · 🍴 Forks: 11,805 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,254,473
+- ⭐ Stars: 98,953 · 👀 Watchers: 684 · 🍴 Forks: 11,806 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,256,394
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,886 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ███████                    29.67% (668,880 LOC)
-TypeScript           ███████                    26.47% (596,726 LOC)
-Jupyter Notebook     ██                          9.59% (216,134 LOC)
-MDX                  ██                          8.33% (187,842 LOC)
-Python               █                           5.77% (130,130 LOC)
-HTML                 █                           5.05% (113,758 LOC)
+C                    ███████                    29.64% (668,880 LOC)
+TypeScript           ███████                    26.53% (598,611 LOC)
+Jupyter Notebook     ██                          9.58% (216,134 LOC)
+MDX                  ██                          8.32% (187,843 LOC)
+Python               █                           5.77% (130,163 LOC)
+HTML                 █                           5.04% (113,758 LOC)
 JavaScript           █                           4.51% (101,759 LOC)
 Makefile             █                           2.76% (62,186 LOC)
 ```
@@ -101,12 +101,12 @@ Dockerfile           █                           3.85% (8 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ███████                    29.67% (33,444,000 bytes)
-TypeScript           ███████                    26.47% (29,836,314 bytes)
-Jupyter Notebook     ██                          9.59% (10,806,681 bytes)
-MDX                  ██                          8.33% (9,392,077 bytes)
-Python               █                           5.77% (6,506,460 bytes)
-HTML                 █                           5.05% (5,687,882 bytes)
+C                    ███████                    29.64% (33,444,000 bytes)
+TypeScript           ███████                    26.53% (29,930,557 bytes)
+Jupyter Notebook     ██                          9.58% (10,806,681 bytes)
+MDX                  ██                          8.32% (9,392,142 bytes)
+Python               █                           5.77% (6,508,103 bytes)
+HTML                 █                           5.04% (5,687,882 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,8 +119,8 @@ Data Systems         █                           5.19% (4 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.97% (1,757,801 LOC)
-Other                █████                      19.92% (449,148 LOC)
+AI / ML              ███████████████████        77.99% (1,759,689 LOC)
+Other                █████                      19.91% (449,181 LOC)
 Data Systems                                     1.51% (33,986 LOC)
 Web Apps                                         0.60% (13,538 LOC)
 ```
@@ -141,7 +141,7 @@ Makefile             ██                          6.49% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 214 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 215 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -163,17 +163,17 @@ Evening (18-24)      ████                       16.50% (257 commits)
 Sunday               ███                        10.01% (497 contributions)
 Monday               ████                       14.52% (721 contributions)
 Tuesday              ████                       17.48% (868 contributions)
-Wednesday            █████                      18.05% (896 contributions)
+Wednesday            █████                      18.04% (896 contributions)
 Thursday             ████                       14.96% (743 contributions)
-Friday               ████                       17.36% (862 contributions)
+Friday               ████                       17.38% (863 contributions)
 Saturday             ██                          7.61% (378 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.51% (1,834 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.50% (1,834 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.95% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.49% (214 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.51% (215 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           4.41% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           3.67% (175 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.55% (169 commits)
@@ -181,6 +181,8 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: skip history logs from file processing; add ability to handle .EML files and macro-enabled files with LibreOffice and email clients; uses default email packages in Python
+- Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
@@ -190,11 +192,9 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 - Pragash-Mohanarajah/ai-hdr-inference — feat: add cli runner at root of repository for ease of access with associated print statements to be able to see progress in CLI
 - Pragash-Mohanarajah/ai-hdr-inference — feat: load query text from txt file in setup into config and formalise import routes for setup files
 - Pragash-Mohanarajah/ai-hdr-inference — ci: wrap inference engine into its own class for simplicity and call engine in main file run
-- Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/taec-examportal-backend — Fix Socket IO connection and database locking issues
 - Pragash-Mohanarajah/taec-examportal — Fix Socket IO connection and database locking issues
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #3 from Pragash-Mohanarajah/feat/software-compatibility
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: skip archive stage, when the case assessment software is Cube
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: skip archive stage, when the case assessment software is Cube
 
 ### 🌟 Recent Stars
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 13 Mar 2026 12:36:11 GMT_
+_Last updated on Fri, 13 Mar 2026 16:29:03 GMT_
 <!-- DEV_METRICS_END -->
