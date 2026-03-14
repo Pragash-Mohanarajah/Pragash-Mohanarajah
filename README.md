@@ -66,11 +66,11 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 13 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,782
-- 💖 Commit Breakdown: 514 public (10.7%), 4,268 private (89.3%) · 1,891 owned (39.5%), 2,891 contributed (60.5%)
+- ✨ Total Commits: 4,783
+- 💖 Commit Breakdown: 514 public (10.7%), 4,269 private (89.3%) · 1,892 owned (39.6%), 2,891 contributed (60.4%)
 - 🚀 Repositories: 77 (33 public (42.9%), 44 private (57.1%))
 - 👤 Ownership: 73 owned (94.8%), 4 contributed-to (5.2%)
-- ⭐ Stars: 98,984 · 👀 Watchers: 685 · 🍴 Forks: 11,810 · 🗄️ Archived: 18
+- ⭐ Stars: 98,995 · 👀 Watchers: 687 · 🍴 Forks: 11,812 · 🗄️ Archived: 18
 - 🧠 Estimated Lines of Code: 2,256,899
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,887 days
@@ -102,7 +102,7 @@ Dockerfile           █                           3.85% (8 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.64% (33,444,000 bytes)
-TypeScript           ███████                    26.53% (29,938,249 bytes)
+TypeScript           ███████                    26.53% (29,938,235 bytes)
 Jupyter Notebook     ██                          9.58% (10,806,681 bytes)
 MDX                  ██                          8.32% (9,392,333 bytes)
 Python               █                           5.78% (6,522,722 bytes)
@@ -141,7 +141,7 @@ Makefile             ██                          6.49% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 220 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 221 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -161,19 +161,19 @@ Evening (18-24)      ████                       16.43% (257 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          9.97% (497 contributions)
-Monday               ████                       14.47% (721 contributions)
-Tuesday              ████                       17.42% (868 contributions)
-Wednesday            ████                       17.98% (896 contributions)
-Thursday             ████                       14.91% (743 contributions)
-Friday               ████                       17.52% (873 contributions)
-Saturday             ██                          7.74% (386 contributions)
+Monday               ████                       14.46% (721 contributions)
+Tuesday              ████                       17.41% (868 contributions)
+Wednesday            ████                       17.97% (896 contributions)
+Thursday             ████                       14.90% (743 contributions)
+Friday               ████                       17.51% (873 contributions)
+Saturday             ██                          7.76% (387 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.35% (1,834 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.34% (1,834 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.91% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.60% (220 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.62% (221 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           4.39% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           3.66% (175 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.53% (169 commits)
@@ -181,6 +181,7 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/taec-examportal-backend — Fix User Tracking with better logic
 - Pragash-Mohanarajah/taec-examportal — Fix User Tracking with better logic
@@ -195,7 +196,6 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 - Pragash-Mohanarajah/taec-examportal — Fix User Tracking with better logic
 - Pragash-Mohanarajah/taec-examportal-backend — Fix User Tracking with better logic
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved notebooklm inference with client
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 14 Mar 2026 12:29:39 GMT_
+_Last updated on Sat, 14 Mar 2026 16:19:48 GMT_
 <!-- DEV_METRICS_END -->
