@@ -66,24 +66,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 12 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,767
-- 💖 Commit Breakdown: 514 public (10.8%), 4,253 private (89.2%) · 1,876 owned (39.4%), 2,891 contributed (60.6%)
+- ✨ Total Commits: 4,774
+- 💖 Commit Breakdown: 514 public (10.8%), 4,260 private (89.2%) · 1,883 owned (39.4%), 2,891 contributed (60.6%)
 - 🚀 Repositories: 77 (33 public (42.9%), 44 private (57.1%))
 - 👤 Ownership: 73 owned (94.8%), 4 contributed-to (5.2%)
-- ⭐ Stars: 98,963 · 👀 Watchers: 684 · 🍴 Forks: 11,809 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,256,688
+- ⭐ Stars: 98,968 · 👀 Watchers: 684 · 🍴 Forks: 11,809 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,256,880
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,887 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ███████                    29.64% (668,880 LOC)
-TypeScript           ███████                    26.53% (598,612 LOC)
+TypeScript           ███████                    26.53% (598,764 LOC)
 Jupyter Notebook     ██                          9.58% (216,134 LOC)
-MDX                  ██                          8.32% (187,843 LOC)
+MDX                  ██                          8.32% (187,847 LOC)
 Python               █                           5.78% (130,456 LOC)
 HTML                 █                           5.04% (113,758 LOC)
-JavaScript           █                           4.51% (101,759 LOC)
+JavaScript           █                           4.51% (101,795 LOC)
 Makefile             █                           2.76% (62,186 LOC)
 ```
 
@@ -102,9 +102,9 @@ Dockerfile           █                           3.85% (8 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.64% (33,444,000 bytes)
-TypeScript           ███████                    26.53% (29,930,582 bytes)
+TypeScript           ███████                    26.53% (29,938,199 bytes)
 Jupyter Notebook     ██                          9.58% (10,806,681 bytes)
-MDX                  ██                          8.32% (9,392,142 bytes)
+MDX                  ██                          8.32% (9,392,333 bytes)
 Python               █                           5.78% (6,522,722 bytes)
 HTML                 █                           5.04% (5,687,882 bytes)
 ```
@@ -119,8 +119,8 @@ Data Systems         █                           5.19% (4 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.99% (1,759,983 LOC)
-Other                █████                      19.90% (449,181 LOC)
+AI / ML              ███████████████████        77.99% (1,760,139 LOC)
+Other                █████                      19.90% (449,217 LOC)
 Data Systems                                     1.51% (33,986 LOC)
 Web Apps                                         0.60% (13,538 LOC)
 ```
@@ -141,7 +141,7 @@ Makefile             ██                          6.49% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 216 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 217 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -153,34 +153,41 @@ Makefile             ██                          6.49% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.45% (7 commits)
-Morning (06-12)      ██████████████             56.32% (878 commits)
-Afternoon (12-18)    ███████                    26.75% (417 commits)
-Evening (18-24)      ████                       16.48% (257 commits)
+Morning (06-12)      ██████████████             56.37% (880 commits)
+Afternoon (12-18)    ███████                    26.71% (417 commits)
+Evening (18-24)      ████                       16.46% (257 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ███                        10.00% (497 contributions)
-Monday               ████                       14.51% (721 contributions)
-Tuesday              ████                       17.47% (868 contributions)
-Wednesday            █████                      18.03% (896 contributions)
-Thursday             ████                       14.95% (743 contributions)
-Friday               ████                       17.43% (866 contributions)
-Saturday             ██                          7.61% (378 contributions)
+Sunday               ██                          9.99% (497 contributions)
+Monday               ████                       14.49% (721 contributions)
+Tuesday              ████                       17.44% (868 contributions)
+Wednesday            █████                      18.01% (896 contributions)
+Thursday             ████                       14.93% (743 contributions)
+Friday               ████                       17.54% (873 contributions)
+Saturday             ██                          7.60% (378 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.47% (1,834 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.94% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.53% (216 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           4.41% (210 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.42% (1,834 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.93% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.55% (217 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           4.40% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           3.67% (175 commits)
-IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.55% (169 commits)
+IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.54% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.50% (167 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal — Update project title in README.md
+- Pragash-Mohanarajah/taec-examportal-backend — Add project title to README
+- Pragash-Mohanarajah/taec-examportal-backend — Fix User Tracking with better logic
+- Pragash-Mohanarajah/taec-examportal — Fix User Tracking with better logic
+- Pragash-Mohanarajah/taec-examportal-backend — Fix User Tracking with better logic
+- Pragash-Mohanarajah/taec-examportal — Fix User Tracking with better logic
+- Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved notebooklm inference with client
 - Pragash-Mohanarajah/ai-hdr-inference — feat(temp): inference with notebooklm client
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
@@ -188,14 +195,7 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
-- Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/ai-hdr-inference — ci: split database functions into case database class for ease of access
-- Pragash-Mohanarajah/ai-hdr-inference — feat: allow configuration overrides when initialising case inference engine
-- Pragash-Mohanarajah/ai-hdr-inference — feat: add cli runner at root of repository for ease of access with associated print statements to be able to see progress in CLI
-- Pragash-Mohanarajah/taec-examportal-backend — Fix Socket IO connection and database locking issues
-- Pragash-Mohanarajah/taec-examportal — Fix Socket IO connection and database locking issues
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #3 from Pragash-Mohanarajah/feat/software-compatibility
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: skip archive stage, when the case assessment software is Cube
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 13 Mar 2026 20:23:35 GMT_
+_Last updated on Sat, 14 Mar 2026 01:11:18 GMT_
 <!-- DEV_METRICS_END -->
