@@ -72,7 +72,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 👤 Ownership: 73 owned (94.8%), 4 contributed-to (5.2%)
 - ⭐ Stars: 99,019 · 👀 Watchers: 688 · 🍴 Forks: 11,822 · 🗄️ Archived: 18
 - 🧠 Estimated Lines of Code: 2,256,989
-- 🤝 Followers: 0 · Following: 9
+- 🤝 Followers: 0 · Following: 11
 - 📅 Account age: 1,888 days
 
 ### 📝 Lines of Code by Language
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 15 Mar 2026 11:27:29 GMT_
+_Last updated on Sun, 15 Mar 2026 12:31:35 GMT_
 <!-- DEV_METRICS_END -->
