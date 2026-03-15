@@ -66,12 +66,12 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 13 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,804
-- 💖 Commit Breakdown: 514 public (10.7%), 4,290 private (89.3%) · 1,913 owned (39.8%), 2,891 contributed (60.2%)
+- ✨ Total Commits: 4,814
+- 💖 Commit Breakdown: 514 public (10.7%), 4,300 private (89.3%) · 1,923 owned (39.9%), 2,891 contributed (60.1%)
 - 🚀 Repositories: 77 (33 public (42.9%), 44 private (57.1%))
 - 👤 Ownership: 73 owned (94.8%), 4 contributed-to (5.2%)
-- ⭐ Stars: 99,004 · 👀 Watchers: 687 · 🍴 Forks: 11,816 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,256,915
+- ⭐ Stars: 99,007 · 👀 Watchers: 687 · 🍴 Forks: 11,818 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,256,988
 - 🤝 Followers: 0 · Following: 9
 - 📅 Account age: 1,888 days
 
@@ -83,7 +83,7 @@ Jupyter Notebook     ██                          9.58% (216,134 LOC)
 MDX                  ██                          8.32% (187,847 LOC)
 Python               █                           5.78% (130,456 LOC)
 HTML                 █                           5.04% (113,758 LOC)
-JavaScript           █                           4.51% (101,826 LOC)
+JavaScript           █                           4.51% (101,899 LOC)
 Makefile             █                           2.76% (62,186 LOC)
 ```
 
@@ -120,7 +120,7 @@ Data Systems         █                           5.19% (4 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ███████████████████        77.99% (1,760,143 LOC)
-Other                █████                      19.91% (449,248 LOC)
+Other                █████                      19.91% (449,321 LOC)
 Data Systems                                     1.51% (33,986 LOC)
 Web Apps                                         0.60% (13,538 LOC)
 ```
@@ -141,7 +141,7 @@ Makefile             ██                          6.49% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 222 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 223 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -160,38 +160,38 @@ Evening (18-24)      ████                       16.43% (257 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          9.93% (497 contributions)
-Monday               ████                       14.40% (721 contributions)
-Tuesday              ████                       17.34% (868 contributions)
-Wednesday            ████                       17.90% (896 contributions)
-Thursday             ████                       14.84% (743 contributions)
-Friday               ████                       17.44% (873 contributions)
-Saturday             ██                          8.15% (408 contributions)
+Sunday               ██                          9.91% (497 contributions)
+Monday               ████                       14.37% (721 contributions)
+Tuesday              ████                       17.30% (868 contributions)
+Wednesday            ████                       17.86% (896 contributions)
+Thursday             ████                       14.81% (743 contributions)
+Friday               ████                       17.40% (873 contributions)
+Saturday             ██                          8.33% (418 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.18% (1,834 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.87% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.62% (222 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           4.37% (210 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.10% (1,834 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.85% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.63% (223 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           4.36% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           3.64% (175 commits)
-IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.52% (169 commits)
-Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.48% (167 commits)
+IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.51% (169 commits)
+Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.47% (167 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal-backend — Fix Lookup Errors
+- Pragash-Mohanarajah/taec-examportal-backend — Linting
+- Pragash-Mohanarajah/taec-examportal-backend — Sync Answers Carefully and Correctly
+- Pragash-Mohanarajah/taec-examportal — Sync Answers Carefully and Correctly
+- Pragash-Mohanarajah/taec-examportal — Fix Answers Formatting during backend call to save progress
+- Pragash-Mohanarajah/taec-examportal-backend — Improve DB connection methods
 - Pragash-Mohanarajah/taec-examportal — Final Improvements to reduce costs
+- Pragash-Mohanarajah/taec-examportal-backend — Improve seed scripts to better match real system
 - Pragash-Mohanarajah/taec-examportal — Final Improvements to reduce costs
-- Pragash-Mohanarajah/taec-examportal-backend — Add required packages
-- Pragash-Mohanarajah/taec-examportal — Remove Broadcasting active users information to rely only on polling in production
-- Pragash-Mohanarajah/taec-examportal-backend — Remove Broadcasting active users information to rely only on polling in production
-- Pragash-Mohanarajah/taec-examportal-backend — Remove Broadcasting active users information to rely only on polling in production
-- Pragash-Mohanarajah/taec-examportal — Remove Broadcasting active users information to rely only on polling in production
-- Pragash-Mohanarajah/taec-examportal — Reduce Frequencies and Only notify staff when changes happen
-- Pragash-Mohanarajah/taec-examportal-backend — Reduce Frequencies and Only notify staff when changes happen
-- Pragash-Mohanarajah/taec-examportal-backend — Use Throttled Notifications and Caching to save on costs
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
+- Pragash-Mohanarajah/taec-examportal — Final Improvements to reduce costs
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
 - Pragash-Mohanarajah/portfolio — [no-deploy] Update dev metrics data
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 14 Mar 2026 20:17:34 GMT_
+_Last updated on Sun, 15 Mar 2026 01:23:22 GMT_
 <!-- DEV_METRICS_END -->
