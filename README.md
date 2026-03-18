@@ -64,25 +64,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 16 days
+- 🔥 Current Streak: 17 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,848
-- 💖 Commit Breakdown: 514 public (10.6%), 4,334 private (89.4%) · 1,931 owned (39.8%), 2,917 contributed (60.2%)
+- ✨ Total Commits: 4,870
+- 💖 Commit Breakdown: 514 public (10.6%), 4,356 private (89.4%) · 1,931 owned (39.7%), 2,939 contributed (60.3%)
 - 🚀 Repositories: 77 (33 public (42.9%), 44 private (57.1%))
 - 👤 Ownership: 73 owned (94.8%), 4 contributed-to (5.2%)
-- ⭐ Stars: 99,217 · 👀 Watchers: 689 · 🍴 Forks: 11,844 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,262,021
+- ⭐ Stars: 99,246 · 👀 Watchers: 688 · 🍴 Forks: 11,846 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,264,377
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,891 days
+- 📅 Account age: 1,892 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ███████                    29.57% (668,880 LOC)
-TypeScript           ███████                    26.67% (603,193 LOC)
-Jupyter Notebook     ██                          9.55% (216,134 LOC)
-MDX                  ██                          8.27% (187,150 LOC)
-Python               █                           5.77% (130,517 LOC)
-HTML                 █                           5.03% (113,758 LOC)
+C                    ███████                    29.54% (668,880 LOC)
+TypeScript           ███████                    26.74% (605,531 LOC)
+Jupyter Notebook     ██                          9.54% (216,134 LOC)
+MDX                  ██                          8.26% (187,150 LOC)
+Python               █                           5.76% (130,535 LOC)
+HTML                 █                           5.02% (113,758 LOC)
 JavaScript           █                           4.50% (101,896 LOC)
 Makefile             █                           2.75% (62,186 LOC)
 ```
@@ -101,12 +101,12 @@ Dockerfile           █                           4.33% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ███████                    29.57% (33,444,000 bytes)
-TypeScript           ███████                    26.67% (30,159,644 bytes)
-Jupyter Notebook     ██                          9.55% (10,806,681 bytes)
-MDX                  ██                          8.27% (9,357,497 bytes)
-Python               █                           5.77% (6,525,831 bytes)
-HTML                 █                           5.03% (5,687,882 bytes)
+C                    ███████                    29.54% (33,444,000 bytes)
+TypeScript           ███████                    26.74% (30,276,543 bytes)
+Jupyter Notebook     ██                          9.54% (10,806,681 bytes)
+MDX                  ██                          8.26% (9,357,497 bytes)
+Python               █                           5.76% (6,526,649 bytes)
+HTML                 █                           5.02% (5,687,882 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,8 +119,8 @@ Data Systems         █                           5.19% (4 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████████       78.01% (1,764,619 LOC)
-Other                █████                      19.89% (449,878 LOC)
+AI / ML              ███████████████████        77.96% (1,765,267 LOC)
+Other                █████                      19.94% (451,586 LOC)
 Data Systems                                     1.50% (33,986 LOC)
 Web Apps                                         0.60% (13,538 LOC)
 ```
@@ -147,55 +147,55 @@ Makefile             ██                          6.49% (5 repos)
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 1850 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 1870 commits · private)_
 - supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres da... _(AI / ML)_
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    1.26% (21 commits)
-Morning (06-12)      ██████████████             54.13% (905 commits)
-Afternoon (12-18)    ███████                    28.05% (469 commits)
-Evening (18-24)      ████                       16.57% (277 commits)
+Night (00-06)                                    1.25% (21 commits)
+Morning (06-12)      ██████████████             54.66% (915 commits)
+Afternoon (12-18)    ███████                    27.36% (458 commits)
+Evening (18-24)      ████                       16.73% (280 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          9.96% (504 contributions)
-Monday               ████                       14.58% (738 contributions)
-Tuesday              ████                       17.48% (885 contributions)
-Wednesday            ████                       17.78% (900 contributions)
-Thursday             ████                       14.68% (743 contributions)
-Friday               ████                       17.27% (874 contributions)
-Saturday             ██                          8.26% (418 contributions)
+Sunday               ██                          9.90% (504 contributions)
+Monday               ████                       14.49% (738 contributions)
+Tuesday              ████                       17.38% (885 contributions)
+Wednesday            █████                      18.28% (931 contributions)
+Thursday             ████                       14.59% (743 contributions)
+Friday               ████                       17.16% (874 contributions)
+Saturday             ██                          8.21% (418 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.16% (1,850 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.78% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.74% (230 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           4.33% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           3.82% (185 commits)
-IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.49% (169 commits)
-Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.44% (167 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.40% (1,870 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.73% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.72% (230 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           4.31% (210 commits)
+n15hsy/axia-lm-optimizer                                                    █                           3.84% (187 commits)
+IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.47% (169 commits)
+Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.43% (167 commits)
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/dashboard-axiafunder — Merge pull request #135 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — Merge pull request #134 from AxiaFunder/fix/tax-statement-generator-4
+- AxiaFunder/dashboard-axiafunder — feat: keep console log warnings in CSV uploads, when countries are not supported
+- AxiaFunder/dashboard-axiafunder — Merge pull request #133 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — Merge pull request #132 from AxiaFunder/fix/tax-statement-generator-4
+- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #46 from Pragash-Mohanarajah:main
+- n15hsy/axia-lm-optimizer — Merge pull request #46 from Pragash-Mohanarajah:main
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: implement correct config file loading logic; prevents wrong configurations from being used in CLI runner
+- n15hsy/axia-lm-optimizer — fix: implement correct config file loading logic; prevents wrong configurations from being used in CLI runner
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #45 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #45 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge branch 'n15hsy:main' into main
 - n15hsy/axia-lm-optimizer — Merge branch 'n15hsy:main' into main
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: implement correct skipping logic for history logs; only skip when is_info is false
 - n15hsy/axia-lm-optimizer — fix: implement correct skipping logic for history logs; only skip when is_info is false
-- AxiaFunder/dashboard-axiafunder — Merge pull request #126 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — Merge pull request #127 from AxiaFunder/fix/tax-statement-generator-3
-- AxiaFunder/dashboard-axiafunder — fix: transform country names correctly and store correctly in database before processing; use upper case country codes for validations of international tins
-- AxiaFunder/dashboard-axiafunder — Merge pull request #125 from AxiaFunder/fix/tax-statement-generator-3
-- AxiaFunder/dashboard-axiafunder — feat: add stdnum-js NINO and TIN validator to CRS reporting upload; transforms input countries information to standardised country representations for tax return period table
-- Pragash-Mohanarajah/portfolio — Update README file; fully comprehensive guide about what is contained in the project
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #43 from Pragash-Mohanarajah:main
-- n15hsy/axia-lm-optimizer — Merge pull request #43 from Pragash-Mohanarajah:main
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: remove unnecessary formulae in request list CSV file
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 18 Mar 2026 08:37:20 GMT_
+_Last updated on Wed, 18 Mar 2026 20:26:55 GMT_
 <!-- DEV_METRICS_END -->
