@@ -36,7 +36,7 @@ async function fetchStats() {
   // 1. Fetch Core Stats
   // eslint-disable-next-line no-console
   console.log("Fetching core stats...")
-  let currentData = await (await fetchWithRetry(`?mode=core`, {
+  let currentData = await (await fetchWithRetry(`${url}?mode=core`, {
     method: "POST",
     headers,
   })).json()
@@ -50,7 +50,7 @@ async function fetchStats() {
   for (let year = currentYear; year >= startYear; year--) {
     // eslint-disable-next-line no-console
     console.log(`Fetching contributions for ${year}...`)
-    const res = await fetchWithRetry(`?mode=year&year=${year}`, {
+    const res = await fetchWithRetry(`${url}?mode=year&year=${year}`, {
       method: "POST",
       headers,
       body: JSON.stringify(currentData),
@@ -61,7 +61,7 @@ async function fetchStats() {
   // 3. Save Final Stats
   // eslint-disable-next-line no-console
   console.log("Saving aggregated stats...")
-  await fetchWithRetry(`?mode=save`, {
+  await fetchWithRetry(`${url}?mode=save`, {
     method: "POST",
     headers,
     body: JSON.stringify(currentData),
