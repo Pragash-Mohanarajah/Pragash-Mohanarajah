@@ -66,24 +66,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 19 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,878
-- 💖 Commit Breakdown: 514 public (10.5%), 4,364 private (89.5%) · 1,935 owned (39.7%), 2,943 contributed (60.3%)
+- ✨ Total Commits: 4,881
+- 💖 Commit Breakdown: 516 public (10.6%), 4,365 private (89.4%) · 1,938 owned (39.7%), 2,943 contributed (60.3%)
 - 🚀 Repositories: 78 (33 public (42.3%), 45 private (57.7%))
 - 👤 Ownership: 74 owned (94.9%), 4 contributed-to (5.1%)
-- ⭐ Stars: 99,392 · 👀 Watchers: 690 · 🍴 Forks: 11,863 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,271,892
+- ⭐ Stars: 99,396 · 👀 Watchers: 690 · 🍴 Forks: 11,864 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,271,967
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,894 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ███████                    29.66% (673,946 LOC)
-TypeScript           ███████                    26.70% (606,600 LOC)
+TypeScript           ███████                    26.70% (606,654 LOC)
 Jupyter Notebook     ██                          9.51% (216,134 LOC)
 MDX                  ██                          8.25% (187,432 LOC)
 Python               █                           5.75% (130,549 LOC)
 HTML                 █                           5.01% (113,758 LOC)
-JavaScript           █                           4.49% (101,942 LOC)
+JavaScript           █                           4.49% (101,963 LOC)
 Makefile             █                           2.74% (62,186 LOC)
 ```
 
@@ -102,7 +102,7 @@ Dockerfile           █                           4.29% (9 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.66% (33,697,286 bytes)
-TypeScript           ███████                    26.70% (30,329,982 bytes)
+TypeScript           ███████                    26.70% (30,332,660 bytes)
 Jupyter Notebook     ██                          9.51% (10,806,681 bytes)
 MDX                  ██                          8.25% (9,371,622 bytes)
 Python               █                           5.75% (6,527,387 bytes)
@@ -119,8 +119,8 @@ Data Systems         █                           5.13% (4 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.76% (1,766,663 LOC)
-Other                █████                      20.15% (457,705 LOC)
+AI / ML              ███████████████████        77.76% (1,766,717 LOC)
+Other                █████                      20.15% (457,726 LOC)
 Data Systems                                     1.50% (33,986 LOC)
 Web Apps                                         0.60% (13,538 LOC)
 ```
@@ -141,7 +141,7 @@ Makefile             ██                          6.41% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 230 commits · private)_
+- Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 231 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 - Pragash-Mohanarajah/taec-thamilthiren-backend _(Other · 156 commits · private)_
@@ -152,50 +152,40 @@ Makefile             ██                          6.41% (5 repos)
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    1.25% (21 commits)
-Morning (06-12)      ██████████████             54.74% (918 commits)
-Afternoon (12-18)    ███████                    27.31% (458 commits)
-Evening (18-24)      ████                       16.70% (280 commits)
+Night (00-06)                                    0.99% (21 commits)
+Morning (06-12)      █████████████              52.36% (1,109 commits)
+Afternoon (12-18)    ████████                   30.93% (655 commits)
+Evening (18-24)      ████                       15.72% (333 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          9.87% (504 contributions)
-Monday               ████                       14.46% (738 contributions)
-Tuesday              ████                       17.34% (885 contributions)
-Wednesday            █████                      18.24% (931 contributions)
-Thursday             ████                       14.77% (754 contributions)
-Friday               ████                       17.14% (875 contributions)
-Saturday             ██                          8.19% (418 contributions)
+Monday               ████                       14.45% (738 contributions)
+Tuesday              ████                       17.33% (885 contributions)
+Wednesday            █████                      18.23% (931 contributions)
+Thursday             ████                       14.76% (754 contributions)
+Friday               ████                       17.19% (878 contributions)
+Saturday             ██                          8.18% (418 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.38% (1,872 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.72% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.72% (230 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           4.31% (210 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.35% (1,872 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.71% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.73% (231 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           4.30% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           3.87% (189 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.46% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.42% (167 commits)
 ```
 
 ### ⚡ Recent Activity
-- AxiaFunder/dashboard-axiafunder — Merge pull request #136 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — fix: implement cleaner database operation status check to ensure no processing jobs
-- Pragash-Mohanarajah/arduino-storage-unit — Improve Readme with cleaner overview of the scope of the project
-- Pragash-Mohanarajah/arduino-storage-unit — Update Readme with portfolio data
-- Pragash-Mohanarajah/arduino-storage-unit — Include all code from GCSE Product Design project in July 2018
-- Pragash-Mohanarajah/arduino-storage-unit — Initial commit
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #47 from Pragash-Mohanarajah:main
-- n15hsy/axia-lm-optimizer — Merge pull request #47 from Pragash-Mohanarajah:main
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: implement correct config file loading logic for GUI application; add proper support for EML files and macro enabled files
-- n15hsy/axia-lm-optimizer — fix: implement correct config file loading logic for GUI application; add proper support for EML files and macro enabled files
-- AxiaFunder/dashboard-axiafunder — Merge pull request #135 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — Merge pull request #134 from AxiaFunder/fix/tax-statement-generator-4
-- AxiaFunder/dashboard-axiafunder — feat: keep console log warnings in CSV uploads, when countries are not supported
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #46 from Pragash-Mohanarajah:main
-- n15hsy/axia-lm-optimizer — Merge pull request #46 from Pragash-Mohanarajah:main
+- supabase/supabase — Fix cover image frontmatter path
+- supabase/supabase — Add cover and move images to sub-folder
+- supabase/supabase — Forgot to run Prettier
+- supabase/supabase — Updated post with Ramiro's suggestions
+- supabase/supabase — Update Launch Week description with Ramiros's suggestion
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +198,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 20 Mar 2026 20:21:52 GMT_
+_Last updated on Fri, 20 Mar 2026 21:53:37 GMT_
 <!-- DEV_METRICS_END -->
