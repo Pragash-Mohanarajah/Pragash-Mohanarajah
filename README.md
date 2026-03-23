@@ -70,15 +70,15 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 516 public (10.5%), 4,377 private (89.5%) · 1,950 owned (39.9%), 2,943 contributed (60.1%)
 - 🚀 Repositories: 81 (35 public (43.2%), 46 private (56.8%))
 - 👤 Ownership: 77 owned (95.1%), 4 contributed-to (4.9%)
-- ⭐ Stars: 99,542 · 👀 Watchers: 691 · 🍴 Forks: 11,880 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,293,407
+- ⭐ Stars: 99,556 · 👀 Watchers: 691 · 🍴 Forks: 11,879 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,293,403
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,896 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ███████                    29.39% (673,946 LOC)
-TypeScript           ███████                    26.46% (606,844 LOC)
+TypeScript           ███████                    26.46% (606,840 LOC)
 Jupyter Notebook     ██                          9.42% (216,134 LOC)
 MDX                  ██                          8.17% (187,432 LOC)
 Python               ██                          6.62% (151,766 LOC)
@@ -102,7 +102,7 @@ Dockerfile           █                           4.19% (9 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.39% (33,697,286 bytes)
-TypeScript           ███████                    26.46% (30,342,151 bytes)
+TypeScript           ███████                    26.46% (30,341,984 bytes)
 Jupyter Notebook     ██                          9.42% (10,806,681 bytes)
 MDX                  ██                          8.17% (9,371,622 bytes)
 Python               ██                          6.62% (7,588,229 bytes)
@@ -119,7 +119,7 @@ Data Systems         ██                          6.17% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.96% (1,787,917 LOC)
+AI / ML              ███████████████████        77.96% (1,787,913 LOC)
 Other                █████                      19.96% (457,726 LOC)
 Data Systems                                     1.49% (34,226 LOC)
 Web Apps                                         0.59% (13,538 LOC)
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 23 Mar 2026 05:26:42 GMT_
+_Last updated on Mon, 23 Mar 2026 08:44:14 GMT_
 <!-- DEV_METRICS_END -->
