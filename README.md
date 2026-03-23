@@ -66,22 +66,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,923
-- 💖 Commit Breakdown: 516 public (10.5%), 4,407 private (89.5%) · 1,950 owned (39.6%), 2,973 contributed (60.4%)
+- ✨ Total Commits: 4,927
+- 💖 Commit Breakdown: 516 public (10.5%), 4,411 private (89.5%) · 1,950 owned (39.6%), 2,977 contributed (60.4%)
 - 🚀 Repositories: 81 (35 public (43.2%), 46 private (56.8%))
 - 👤 Ownership: 77 owned (95.1%), 4 contributed-to (4.9%)
-- ⭐ Stars: 99,574 · 👀 Watchers: 691 · 🍴 Forks: 11,884 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,296,781
+- ⭐ Stars: 99,578 · 👀 Watchers: 691 · 🍴 Forks: 11,884 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,298,325
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,896 days
+- 📅 Account age: 1,897 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ███████                    29.34% (673,946 LOC)
-TypeScript           ███████                    26.55% (609,896 LOC)
-Jupyter Notebook     ██                          9.41% (216,134 LOC)
+C                    ███████                    29.32% (673,946 LOC)
+TypeScript           ███████                    26.60% (611,436 LOC)
+Jupyter Notebook     ██                          9.40% (216,134 LOC)
 MDX                  ██                          8.17% (187,754 LOC)
-Python               ██                          6.61% (151,766 LOC)
+Python               ██                          6.60% (151,770 LOC)
 HTML                 █                           4.95% (113,758 LOC)
 JavaScript           █                           4.44% (101,963 LOC)
 Makefile             █                           2.71% (62,186 LOC)
@@ -101,11 +101,11 @@ Dockerfile           █                           4.19% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ███████                    29.34% (33,697,286 bytes)
-TypeScript           ███████                    26.55% (30,494,817 bytes)
-Jupyter Notebook     ██                          9.41% (10,806,681 bytes)
+C                    ███████                    29.32% (33,697,286 bytes)
+TypeScript           ███████                    26.60% (30,571,792 bytes)
+Jupyter Notebook     ██                          9.40% (10,806,681 bytes)
 MDX                  ██                          8.17% (9,387,713 bytes)
-Python               ██                          6.61% (7,588,229 bytes)
+Python               ██                          6.60% (7,588,417 bytes)
 HTML                 █                           4.95% (5,687,882 bytes)
 ```
 
@@ -119,8 +119,8 @@ Data Systems         ██                          6.17% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.88% (1,788,759 LOC)
-Other                █████                      20.04% (460,258 LOC)
+AI / ML              ███████████████████        77.90% (1,790,299 LOC)
+Other                █████                      20.03% (460,262 LOC)
 Data Systems                                     1.49% (34,226 LOC)
 Web Apps                                         0.59% (13,538 LOC)
 ```
@@ -153,34 +153,42 @@ Makefile             ██                          6.17% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.99% (21 commits)
-Morning (06-12)      █████████████              52.33% (1,110 commits)
-Afternoon (12-18)    ████████                   30.41% (645 commits)
-Evening (18-24)      ████                       16.27% (345 commits)
+Morning (06-12)      █████████████              52.31% (1,110 commits)
+Afternoon (12-18)    ████████                   30.35% (644 commits)
+Evening (18-24)      ████                       16.35% (347 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ███                        10.04% (518 contributions)
-Monday               ████                       14.62% (754 contributions)
-Tuesday              ████                       17.16% (885 contributions)
-Wednesday            █████                      18.05% (931 contributions)
-Thursday             ████                       14.83% (765 contributions)
-Friday               ████                       17.18% (886 contributions)
-Saturday             ██                          8.11% (418 contributions)
+Sunday               ███                        10.03% (518 contributions)
+Monday               ████                       14.72% (760 contributions)
+Tuesday              ████                       17.14% (885 contributions)
+Wednesday            █████                      18.03% (931 contributions)
+Thursday             ████                       14.82% (765 contributions)
+Friday               ████                       17.16% (886 contributions)
+Saturday             ██                          8.10% (418 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.63% (1,902 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.63% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.60% (1,902 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.62% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           4.71% (232 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           4.27% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           3.84% (189 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           4.26% (210 commits)
+n15hsy/axia-lm-optimizer                                                    █                           3.92% (193 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.43% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.39% (167 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #49 from Pragash-Mohanarajah:main
+- n15hsy/axia-lm-optimizer — Merge pull request #49 from Pragash-Mohanarajah:main
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: use stricter open and append logic for merging to prevent unnecessary failures on PDFs of varying size and shape
+- n15hsy/axia-lm-optimizer — fix: use stricter open and append logic for merging to prevent unnecessary failures on PDFs of varying size and shape
+- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #48 from Pragash-Mohanarajah:main
+- n15hsy/axia-lm-optimizer — Merge pull request #48 from Pragash-Mohanarajah:main
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: use replace on errors logic when converting CSV files to HTML and PDF with unsupported characters
+- n15hsy/axia-lm-optimizer — fix: use replace on errors logic when converting CSV files to HTML and PDF with unsupported characters
 - AxiaFunder/dashboard-axiafunder — Merge pull request #142 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — feat: apply support for bank interest rate table
 - AxiaFunder/dashboard-axiafunder — Merge pull request #141 from AxiaFunder/feat/spv-interest-earned
@@ -188,14 +196,6 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 - AxiaFunder/dashboard-axiafunder — fix: use memory component to calculate total pages and paginated statements, preventing accidental data consumption
 - Pragash-Mohanarajah/hle-solver — feat: add requirements.txt file for download and installation simplicity
 - Pragash-Mohanarajah/hle-solver — feat: improved training loop with continuous loops until specified timeout; selectively loads train data to reduce bias
-- Pragash-Mohanarajah/hle-solver — feat: add base scripts for evaluation and comparison
-- Pragash-Mohanarajah/hle-solver — feat: add base scripts for inference
-- Pragash-Mohanarajah/hle-solver — feat: add base scripts for training
-- Pragash-Mohanarajah/portfolio — fix: try to fix Vercel function timeout errors
-- Pragash-Mohanarajah/Pragash-Mohanarajah — fix(temp): try to fix Vercel function timeout errors
-- Pragash-Mohanarajah/portfolio — fix(temp): try to fix Vercel function timeout errors
-- Pragash-Mohanarajah/Pragash-Mohanarajah — fix(temp): try to fix Vercel function timeout errors
-- Pragash-Mohanarajah/arduino-storage-unit — Improve Readme with cleaner overview of the scope of the project
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 23 Mar 2026 16:47:20 GMT_
+_Last updated on Mon, 23 Mar 2026 20:29:57 GMT_
 <!-- DEV_METRICS_END -->
