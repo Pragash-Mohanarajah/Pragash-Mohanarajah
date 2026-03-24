@@ -70,17 +70,17 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 516 public (10.5%), 4,411 private (89.5%) · 1,950 owned (39.6%), 2,977 contributed (60.4%)
 - 🚀 Repositories: 81 (35 public (43.2%), 46 private (56.8%))
 - 👤 Ownership: 77 owned (95.1%), 4 contributed-to (4.9%)
-- ⭐ Stars: 99,573 · 👀 Watchers: 691 · 🍴 Forks: 11,888 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,300,161
-- 🤝 Followers: 1 · Following: 11
+- ⭐ Stars: 99,580 · 👀 Watchers: 691 · 🍴 Forks: 11,890 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,300,440
+- 🤝 Followers: 0 · Following: 11
 - 📅 Account age: 1,897 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ███████                    29.30% (673,946 LOC)
-TypeScript           ███████                    26.66% (613,315 LOC)
+TypeScript           ███████                    26.67% (613,561 LOC)
 Jupyter Notebook     ██                          9.40% (216,134 LOC)
-MDX                  ██                          8.16% (187,711 LOC)
+MDX                  ██                          8.16% (187,744 LOC)
 Python               ██                          6.60% (151,770 LOC)
 HTML                 █                           4.95% (113,758 LOC)
 JavaScript           █                           4.43% (101,963 LOC)
@@ -102,9 +102,9 @@ Dockerfile           █                           4.19% (9 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.30% (33,697,286 bytes)
-TypeScript           ███████                    26.66% (30,665,729 bytes)
+TypeScript           ███████                    26.67% (30,678,047 bytes)
 Jupyter Notebook     ██                          9.40% (10,806,681 bytes)
-MDX                  ██                          8.16% (9,385,568 bytes)
+MDX                  ██                          8.16% (9,387,209 bytes)
 Python               ██                          6.60% (7,588,417 bytes)
 HTML                 █                           4.95% (5,687,882 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         ██                          6.17% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.91% (1,792,135 LOC)
+AI / ML              ███████████████████        77.92% (1,792,414 LOC)
 Other                █████                      20.01% (460,262 LOC)
 Data Systems                                     1.49% (34,226 LOC)
 Web Apps                                         0.59% (13,538 LOC)
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 24 Mar 2026 08:40:14 GMT_
+_Last updated on Tue, 24 Mar 2026 12:48:08 GMT_
 <!-- DEV_METRICS_END -->
