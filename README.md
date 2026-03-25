@@ -66,24 +66,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,929
-- 💖 Commit Breakdown: 516 public (10.5%), 4,413 private (89.5%) · 1,952 owned (39.6%), 2,977 contributed (60.4%)
+- ✨ Total Commits: 4,934
+- 💖 Commit Breakdown: 516 public (10.5%), 4,418 private (89.5%) · 1,957 owned (39.7%), 2,977 contributed (60.3%)
 - 🚀 Repositories: 81 (35 public (43.2%), 46 private (56.8%))
 - 👤 Ownership: 77 owned (95.1%), 4 contributed-to (4.9%)
-- ⭐ Stars: 99,600 · 👀 Watchers: 691 · 🍴 Forks: 11,896 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,300,970
+- ⭐ Stars: 99,606 · 👀 Watchers: 692 · 🍴 Forks: 11,897 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,300,998
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,898 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ███████                    29.29% (673,946 LOC)
-TypeScript           ███████                    26.68% (613,839 LOC)
+TypeScript           ███████                    26.68% (613,855 LOC)
 Jupyter Notebook     ██                          9.39% (216,134 LOC)
 MDX                  ██                          8.17% (188,005 LOC)
 Python               ██                          6.60% (151,770 LOC)
 HTML                 █                           4.94% (113,758 LOC)
-JavaScript           █                           4.43% (101,954 LOC)
+JavaScript           █                           4.43% (101,966 LOC)
 Makefile             █                           2.70% (62,186 LOC)
 ```
 
@@ -102,7 +102,7 @@ Dockerfile           █                           4.19% (9 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.29% (33,697,286 bytes)
-TypeScript           ███████                    26.68% (30,691,932 bytes)
+TypeScript           ███████                    26.68% (30,692,763 bytes)
 Jupyter Notebook     ██                          9.39% (10,806,681 bytes)
 MDX                  ██                          8.17% (9,400,242 bytes)
 Python               ██                          6.60% (7,588,417 bytes)
@@ -119,8 +119,8 @@ Data Systems         ██                          6.17% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.92% (1,792,953 LOC)
-Other                █████                      20.00% (460,253 LOC)
+AI / ML              ███████████████████        77.92% (1,792,969 LOC)
+Other                █████                      20.00% (460,265 LOC)
 Data Systems                                     1.49% (34,226 LOC)
 Web Apps                                         0.59% (13,538 LOC)
 ```
@@ -160,28 +160,32 @@ Evening (18-24)      ████                       16.34% (347 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ███                        10.03% (518 contributions)
-Monday               ████                       14.71% (760 contributions)
-Tuesday              ████                       17.17% (887 contributions)
-Wednesday            █████                      18.03% (931 contributions)
-Thursday             ████                       14.81% (765 contributions)
-Friday               ████                       17.15% (886 contributions)
+Sunday               ███                        10.02% (518 contributions)
+Monday               ████                       14.70% (760 contributions)
+Tuesday              ████                       17.25% (892 contributions)
+Wednesday            █████                      18.01% (931 contributions)
+Thursday             ████                       14.80% (765 contributions)
+Friday               ████                       17.14% (886 contributions)
 Saturday             ██                          8.09% (418 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.59% (1,902 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.62% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.71% (232 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.55% (1,902 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.61% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.70% (232 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           4.26% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           3.92% (193 commits)
+n15hsy/axia-lm-optimizer                                                    █                           3.91% (193 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.43% (169 commits)
-Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.39% (167 commits)
+Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.38% (167 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-examportal — Update center names and school allocations; need to allocate schools to centers for scheduling
+- Pragash-Mohanarajah/taec-examportal — Removed selected category display from take exam view for simplicity
+- Pragash-Mohanarajah/taec-examportal — Categories for written exams are disabled completely until written exam timing
+- Pragash-Mohanarajah/taec-examportal — Examiners are pre-assigned the category during the initial setup to prevent accidental tampering
+- Pragash-Mohanarajah/taec-examportal — Examiners do not need to select course during setup
+- Pragash-Mohanarajah/taec-examportal — Remove unused options in center choice menu
 - Pragash-Mohanarajah/taec-examportal-backend — Update center names and school allocations; need to allocate schools to centers for scheduling
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #49 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #49 from Pragash-Mohanarajah:main
@@ -192,10 +196,6 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: use replace on errors logic when converting CSV files to HTML and PDF with unsupported characters
 - n15hsy/axia-lm-optimizer — fix: use replace on errors logic when converting CSV files to HTML and PDF with unsupported characters
 - AxiaFunder/dashboard-axiafunder — Merge pull request #142 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — feat: apply support for bank interest rate table
-- AxiaFunder/dashboard-axiafunder — Merge pull request #141 from AxiaFunder/feat/spv-interest-earned
-- AxiaFunder/dashboard-axiafunder — feat: add last interest payment date input field to show last day in quarterly period when interest was added to the accounts, to help decompose potential differences in amounts; need to ensure that bank interest rates are tracked closely from their website periodically
-- AxiaFunder/dashboard-axiafunder — fix: use memory component to calculate total pages and paginated statements, preventing accidental data consumption
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 24 Mar 2026 20:32:15 GMT_
+_Last updated on Wed, 25 Mar 2026 01:17:04 GMT_
 <!-- DEV_METRICS_END -->
