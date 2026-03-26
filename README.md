@@ -66,24 +66,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,939
-- 💖 Commit Breakdown: 516 public (10.4%), 4,423 private (89.6%) · 1,962 owned (39.7%), 2,977 contributed (60.3%)
+- ✨ Total Commits: 4,954
+- 💖 Commit Breakdown: 516 public (10.4%), 4,438 private (89.6%) · 1,977 owned (39.9%), 2,977 contributed (60.1%)
 - 🚀 Repositories: 81 (35 public (43.2%), 46 private (56.8%))
 - 👤 Ownership: 77 owned (95.1%), 4 contributed-to (4.9%)
-- ⭐ Stars: 99,652 · 👀 Watchers: 691 · 🍴 Forks: 11,903 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,302,318
+- ⭐ Stars: 99,658 · 👀 Watchers: 690 · 🍴 Forks: 11,905 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,302,522
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,899 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ███████                    29.27% (673,946 LOC)
-TypeScript           ███████                    26.71% (614,943 LOC)
+TypeScript           ███████                    26.71% (614,996 LOC)
 Jupyter Notebook     ██                          9.39% (216,134 LOC)
 MDX                  ██                          8.17% (188,005 LOC)
 Python               ██                          6.60% (152,002 LOC)
 HTML                 █                           4.94% (113,758 LOC)
-JavaScript           █                           4.43% (101,966 LOC)
+JavaScript           █                           4.44% (102,117 LOC)
 Makefile             █                           2.70% (62,186 LOC)
 ```
 
@@ -102,7 +102,7 @@ Dockerfile           █                           4.19% (9 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.27% (33,697,286 bytes)
-TypeScript           ███████                    26.71% (30,747,117 bytes)
+TypeScript           ███████                    26.71% (30,749,763 bytes)
 Jupyter Notebook     ██                          9.39% (10,806,681 bytes)
 MDX                  ██                          8.17% (9,400,242 bytes)
 Python               ██                          6.60% (7,600,022 bytes)
@@ -119,8 +119,8 @@ Data Systems         ██                          6.17% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.93% (1,794,138 LOC)
-Other                █████                      20.00% (460,416 LOC)
+AI / ML              ███████████████████        77.92% (1,794,191 LOC)
+Other                █████                      20.00% (460,567 LOC)
 Data Systems                                     1.49% (34,226 LOC)
 Web Apps                                         0.59% (13,538 LOC)
 ```
@@ -153,49 +153,49 @@ Makefile             ██                          6.17% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.99% (21 commits)
-Morning (06-12)      █████████████              52.38% (1,113 commits)
-Afternoon (12-18)    ████████                   30.31% (644 commits)
-Evening (18-24)      ████                       16.33% (347 commits)
+Morning (06-12)      █████████████              52.42% (1,115 commits)
+Afternoon (12-18)    ████████                   30.28% (644 commits)
+Evening (18-24)      ████                       16.31% (347 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ███                        10.01% (518 contributions)
-Monday               ████                       14.69% (760 contributions)
-Tuesday              ████                       17.24% (892 contributions)
-Wednesday            █████                      18.09% (936 contributions)
-Thursday             ████                       14.78% (765 contributions)
-Friday               ████                       17.12% (886 contributions)
-Saturday             ██                          8.08% (418 contributions)
+Sunday               ██                          9.98% (518 contributions)
+Monday               ████                       14.64% (760 contributions)
+Tuesday              ████                       17.19% (892 contributions)
+Wednesday            █████                      18.32% (951 contributions)
+Thursday             ████                       14.74% (765 contributions)
+Friday               ████                       17.07% (886 contributions)
+Saturday             ██                          8.05% (418 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.51% (1,902 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.60% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           4.70% (232 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           4.25% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           3.91% (193 commits)
-IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.42% (169 commits)
-Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.38% (167 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.39% (1,902 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.57% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           4.68% (232 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           4.24% (210 commits)
+n15hsy/axia-lm-optimizer                                                    █                           3.90% (193 commits)
+IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.41% (169 commits)
+Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.37% (167 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
+- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
+- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
+- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
+- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
+- Pragash-Mohanarajah/taec-examportal — Added in progress submissions information to frontend room status
+- Pragash-Mohanarajah/taec-examportal — Remove Completed Submissions information from frontend
+- Pragash-Mohanarajah/taec-examportal — Improved Active / Completed status reports by Room; Need to update Center details
+- Pragash-Mohanarajah/taec-examportal — Improved modal layouts and spacing for exam report pages
 - Pragash-Mohanarajah/ai-hdr-inference — chore: move file to new folder to avoid clashes with installed package
 - Pragash-Mohanarajah/ai-hdr-inference — chore: move files to reach better structure; need to consider import paths for configuration from root
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unified logging and inference methodologies for Vertex AI and NotebookLM inference
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement separate inference pipelines for NotebookLM based inference and Vertex AI based inference, depending on which route is chosen as final; both approaches involve the ledger file, main PDF and info PDF in the context for every case
 - Pragash-Mohanarajah/ai-hdr-inference — feat(temp): unified handling of vertex-ai methodologies alongside existing infrastructure; need to experiment with notebooklm capabilities in parallel
 - Pragash-Mohanarajah/taec-examportal — Removed selected category display from take exam view for simplicity
-- Pragash-Mohanarajah/taec-examportal — Categories for written exams are disabled completely until written exam timing
-- Pragash-Mohanarajah/taec-examportal — Examiners are pre-assigned the category during the initial setup to prevent accidental tampering
-- Pragash-Mohanarajah/taec-examportal — Examiners do not need to select course during setup
-- Pragash-Mohanarajah/taec-examportal — Remove unused options in center choice menu
-- Pragash-Mohanarajah/taec-examportal-backend — Update center names and school allocations; need to allocate schools to centers for scheduling
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #49 from Pragash-Mohanarajah:main
-- n15hsy/axia-lm-optimizer — Merge pull request #49 from Pragash-Mohanarajah:main
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: use stricter open and append logic for merging to prevent unnecessary failures on PDFs of varying size and shape
-- n15hsy/axia-lm-optimizer — fix: use stricter open and append logic for merging to prevent unnecessary failures on PDFs of varying size and shape
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 25 Mar 2026 20:30:00 GMT_
+_Last updated on Thu, 26 Mar 2026 01:22:37 GMT_
 <!-- DEV_METRICS_END -->
