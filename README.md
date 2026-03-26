@@ -64,24 +64,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 4 days
+- 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,954
-- 💖 Commit Breakdown: 516 public (10.4%), 4,438 private (89.6%) · 1,977 owned (39.9%), 2,977 contributed (60.1%)
+- ✨ Total Commits: 4,955
+- 💖 Commit Breakdown: 516 public (10.4%), 4,439 private (89.6%) · 1,978 owned (39.9%), 2,977 contributed (60.1%)
 - 🚀 Repositories: 81 (35 public (43.2%), 46 private (56.8%))
 - 👤 Ownership: 77 owned (95.1%), 4 contributed-to (4.9%)
-- ⭐ Stars: 99,682 · 👀 Watchers: 689 · 🍴 Forks: 11,907 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,303,257
+- ⭐ Stars: 99,693 · 👀 Watchers: 689 · 🍴 Forks: 11,909 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,303,038
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,899 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ███████                    29.26% (673,946 LOC)
-TypeScript           ███████                    26.72% (615,386 LOC)
+TypeScript           ███████                    26.72% (615,424 LOC)
 Jupyter Notebook     ██                          9.38% (216,134 LOC)
-MDX                  ██                          8.18% (188,350 LOC)
-Python               ██                          6.60% (152,002 LOC)
+MDX                  ██                          8.17% (188,161 LOC)
+Python               ██                          6.60% (151,934 LOC)
 HTML                 █                           4.94% (113,758 LOC)
 JavaScript           █                           4.43% (102,117 LOC)
 Makefile             █                           2.70% (62,186 LOC)
@@ -102,10 +102,10 @@ Dockerfile           █                           4.19% (9 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ███████                    29.26% (33,697,286 bytes)
-TypeScript           ███████                    26.72% (30,769,254 bytes)
+TypeScript           ███████                    26.72% (30,771,187 bytes)
 Jupyter Notebook     ██                          9.38% (10,806,681 bytes)
-MDX                  ██                          8.18% (9,417,491 bytes)
-Python               ██                          6.60% (7,600,022 bytes)
+MDX                  ██                          8.17% (9,408,063 bytes)
+Python               ██                          6.60% (7,596,644 bytes)
 HTML                 █                           4.94% (5,687,882 bytes)
 ```
 
@@ -119,7 +119,7 @@ Data Systems         ██                          6.17% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.93% (1,794,926 LOC)
+AI / ML              ███████████████████        77.93% (1,794,707 LOC)
 Other                █████                      20.00% (460,567 LOC)
 Data Systems                                     1.49% (34,226 LOC)
 Web Apps                                         0.59% (13,538 LOC)
@@ -153,8 +153,8 @@ Makefile             ██                          6.17% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.99% (21 commits)
-Morning (06-12)      █████████████              52.42% (1,115 commits)
-Afternoon (12-18)    ████████                   30.28% (644 commits)
+Morning (06-12)      █████████████              52.44% (1,116 commits)
+Afternoon (12-18)    ████████                   30.26% (644 commits)
 Evening (18-24)      ████                       16.31% (347 commits)
 ```
 
@@ -162,10 +162,10 @@ Evening (18-24)      ████                       16.31% (347 commits)
 ```
 Sunday               ██                          9.98% (518 contributions)
 Monday               ████                       14.64% (760 contributions)
-Tuesday              ████                       17.19% (892 contributions)
+Tuesday              ████                       17.18% (892 contributions)
 Wednesday            █████                      18.32% (951 contributions)
-Thursday             ████                       14.74% (765 contributions)
-Friday               ████                       17.07% (886 contributions)
+Thursday             ████                       14.77% (767 contributions)
+Friday               ████                       17.06% (886 contributions)
 Saturday             ██                          8.05% (418 contributions)
 ```
 
@@ -181,6 +181,7 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved layout of files; uses __init__ files to declare subfolders as importable modules; cleaner structure of database to handle current needs; need to unify all inference into one script for al modes
 - Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
 - Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
 - Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
@@ -194,7 +195,6 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 - Pragash-Mohanarajah/ai-hdr-inference — chore: move files to reach better structure; need to consider import paths for configuration from root
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unified logging and inference methodologies for Vertex AI and NotebookLM inference
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement separate inference pipelines for NotebookLM based inference and Vertex AI based inference, depending on which route is chosen as final; both approaches involve the ledger file, main PDF and info PDF in the context for every case
-- Pragash-Mohanarajah/ai-hdr-inference — feat(temp): unified handling of vertex-ai methodologies alongside existing infrastructure; need to experiment with notebooklm capabilities in parallel
 - Pragash-Mohanarajah/taec-examportal — Removed selected category display from take exam view for simplicity
 
 ### 🌟 Recent Stars
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 26 Mar 2026 08:43:47 GMT_
+_Last updated on Thu, 26 Mar 2026 12:52:46 GMT_
 <!-- DEV_METRICS_END -->
