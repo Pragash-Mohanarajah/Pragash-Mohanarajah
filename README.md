@@ -64,14 +64,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 5 days
+- 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 4,966
-- 💖 Commit Breakdown: 516 public (10.4%), 4,450 private (89.6%) · 1,984 owned (40.0%), 2,982 contributed (60.0%)
+- ✨ Total Commits: 4,970
+- 💖 Commit Breakdown: 516 public (10.4%), 4,454 private (89.6%) · 1,988 owned (40.0%), 2,982 contributed (60.0%)
 - 🚀 Repositories: 81 (35 public (43.2%), 46 private (56.8%))
 - 👤 Ownership: 77 owned (95.1%), 4 contributed-to (4.9%)
-- ⭐ Stars: 99,793 · 👀 Watchers: 694 · 🍴 Forks: 11,929 · 🗄️ Archived: 18
-- 🧠 Estimated Lines of Code: 2,303,573
+- ⭐ Stars: 99,768 · 👀 Watchers: 694 · 🍴 Forks: 11,932 · 🗄️ Archived: 18
+- 🧠 Estimated Lines of Code: 2,303,583
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,901 days
 
@@ -119,7 +119,7 @@ Data Systems         ██                          6.17% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        77.93% (1,795,226 LOC)
+AI / ML              ███████████████████        77.93% (1,795,236 LOC)
 Other                █████                      19.99% (460,583 LOC)
 Data Systems                                     1.49% (34,226 LOC)
 Web Apps                                         0.59% (13,538 LOC)
@@ -153,34 +153,38 @@ Makefile             ██                          6.17% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.99% (21 commits)
-Morning (06-12)      █████████████              52.51% (1,118 commits)
-Afternoon (12-18)    ████████                   30.20% (643 commits)
-Evening (18-24)      ████                       16.30% (347 commits)
+Morning (06-12)      █████████████              52.54% (1,119 commits)
+Afternoon (12-18)    ████████                   30.19% (643 commits)
+Evening (18-24)      ████                       16.29% (347 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          9.95% (518 contributions)
-Monday               ████                       14.60% (760 contributions)
-Tuesday              ████                       17.14% (892 contributions)
-Wednesday            █████                      18.27% (951 contributions)
-Thursday             ████                       14.97% (779 contributions)
-Friday               ████                       17.03% (886 contributions)
+Monday               ████                       14.59% (760 contributions)
+Tuesday              ████                       17.13% (892 contributions)
+Wednesday            █████                      18.26% (951 contributions)
+Thursday             ████                       14.96% (779 contributions)
+Friday               ████                       17.09% (890 contributions)
 Saturday             ██                          8.03% (418 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████████                 38.40% (1,907 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████████                 38.37% (1,907 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          9.54% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           4.67% (232 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           4.23% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           3.89% (193 commits)
+n15hsy/axia-lm-optimizer                                                    █                           3.88% (193 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           3.40% (169 commits)
 Pragash-Mohanarajah/taec-thamilthiren                                       █                           3.36% (167 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/hle-solver — fix: add backward stable support for python 3.12 wheels with cuda enabled torch
+- Pragash-Mohanarajah/hle-solver — feat: add helper files to explain process and setup for project
+- Pragash-Mohanarajah/hle-solver — feat: add helper files to explain process and setup for project
+- Pragash-Mohanarajah/hle-solver — feat: improve setup scripts to handle all installations
 - Pragash-Mohanarajah/ai-hdr-inference — chore: delete unused cli entry file
 - Pragash-Mohanarajah/ai-hdr-inference — feat: finalise mode declarations and implementation flows for inference
 - Pragash-Mohanarajah/ai-hdr-inference — feat: finalise mode declarations and implementation flows for inference
@@ -191,10 +195,6 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 - AxiaFunder/dashboard-axiafunder — chore: rename last migration file to match last pushed migration in testing database
 - AxiaFunder/dashboard-axiafunder — chore: cleanup extra migration files and table alterations for simplicity
 - AxiaFunder/dashboard-axiafunder — fix: trim input strings before submitting the form to prevent unwanted leading and trailing whitespaces in textual inputs
-- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
-- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
-- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
-- Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
 - Pragash-Mohanarajah/taec-examportal-backend — Optimised pipeline to achieve unique student submissions and in progress student details in room status
 
 ### 🌟 Recent Stars
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-thamilthiren                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 27 Mar 2026 20:27:45 GMT_
+_Last updated on Sat, 28 Mar 2026 01:16:34 GMT_
 <!-- DEV_METRICS_END -->
