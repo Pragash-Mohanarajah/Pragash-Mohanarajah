@@ -66,24 +66,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,081
-- 💖 Commit Breakdown: 516 public (7.3%), 6,565 private (92.7%) · 4,044 owned (57.1%), 3,037 contributed (42.9%)
+- ✨ Total Commits: 7,087
+- 💖 Commit Breakdown: 516 public (7.3%), 6,571 private (92.7%) · 4,050 owned (57.1%), 3,037 contributed (42.9%)
 - 🚀 Repositories: 84 (35 public (41.7%), 49 private (58.3%))
 - 👤 Ownership: 79 owned (94.0%), 5 contributed-to (6.0%)
-- ⭐ Stars: 100,203 · 👀 Watchers: 694 · 🍴 Forks: 11,978 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,431,778
+- ⭐ Stars: 100,219 · 👀 Watchers: 694 · 🍴 Forks: 11,981 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,431,892
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,907 days
+- 📅 Account age: 1,908 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.37% (714,152 LOC)
+TypeScript           ███████                    29.37% (714,193 LOC)
 C                    ███████                    27.71% (673,946 LOC)
 Jupyter Notebook     ██                          8.89% (216,134 LOC)
 MDX                  ██                          7.80% (189,613 LOC)
 Python               ██                          6.71% (163,062 LOC)
 HTML                 █                           4.69% (114,106 LOC)
-JavaScript           █                           4.67% (113,620 LOC)
+JavaScript           █                           4.68% (113,693 LOC)
 Makefile             █                           2.56% (62,186 LOC)
 ```
 
@@ -101,7 +101,7 @@ Dockerfile           █                           4.00% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.37% (35,707,617 bytes)
+TypeScript           ███████                    29.37% (35,709,669 bytes)
 C                    ███████                    27.71% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.89% (10,806,681 bytes)
 MDX                  ██                          7.80% (9,480,649 bytes)
@@ -119,8 +119,8 @@ Data Systems         █                           5.95% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.67% (1,815,788 LOC)
-Other                █████                      18.97% (461,229 LOC)
+AI / ML              ███████████████████        74.67% (1,815,829 LOC)
+Other                █████                      18.97% (461,302 LOC)
 Web Apps             █                           4.96% (120,535 LOC)
 Data Systems                                     1.41% (34,226 LOC)
 ```
@@ -154,34 +154,38 @@ PLpgSQL              █                           5.95% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.83% (21 commits)
-Morning (06-12)      ██████████████             54.14% (1,367 commits)
-Afternoon (12-18)    ████████                   30.61% (773 commits)
-Evening (18-24)      ████                       14.42% (364 commits)
+Morning (06-12)      ██████████████             54.16% (1,368 commits)
+Afternoon (12-18)    ████████                   30.60% (773 commits)
+Evening (18-24)      ████                       14.41% (364 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.26% (533 contributions)
-Monday               ████                       15.50% (1,138 contributions)
-Tuesday              █████                      19.69% (1,446 contributions)
-Wednesday            █████                      18.94% (1,391 contributions)
-Thursday             ████                       15.88% (1,166 contributions)
-Friday               ████                       16.71% (1,227 contributions)
-Saturday             ██                          6.02% (442 contributions)
+Sunday               ██                          7.25% (533 contributions)
+Monday               ████                       15.49% (1,138 contributions)
+Tuesday              █████                      19.68% (1,446 contributions)
+Wednesday            █████                      18.93% (1,391 contributions)
+Thursday             ████                       15.87% (1,166 contributions)
+Friday               ████                       16.78% (1,233 contributions)
+Saturday             ██                          6.01% (442 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.59% (1,954 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.50% (1,947 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.57% (1,954 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.47% (1,947 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.69% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.28% (232 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           2.97% (210 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.27% (232 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           2.96% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.82% (200 commits)
-IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.39% (169 commits)
+IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.38% (169 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal — Improved UI with better margins and padding in attendance pages
+- Pragash-Mohanarajah/taec-examportal — Improved UI with better margins and padding in attendance pages
+- Pragash-Mohanarajah/taec-examportal — Improved UI with better margins and padding in attendance pages
+- Pragash-Mohanarajah/taec-examportal — Restrictions for students with Center Change during Entrance and Exit attendance for maximum safety
 - Pragash-Mohanarajah/taec-examportal-backend — Group students by center, course and school; ensures that students from the same course and school are in the same room where possible, minimising clashes with examiner allocations
 - Pragash-Mohanarajah/taec-examportal-backend — Pre-allocate exam date for all centers using centerDateMapping
 - Pragash-Mohanarajah/taec-examportal-backend — Add ability to pick and filter for chosen center by number or name before running schedule algorithm
@@ -193,10 +197,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - AxiaFunder/dashboard-axiafunder — Merge pull request #162 from AxiaFunder/develop2
 - Pragash-Mohanarajah/dashboard-axiafunder — Merge pull request #161 from AxiaFunder/feat/law-firm-portal
 - AxiaFunder/dashboard-axiafunder — Merge pull request #161 from AxiaFunder/feat/law-firm-portal
-- Pragash-Mohanarajah/dashboard-axiafunder — Merge pull request #160 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — Merge pull request #160 from AxiaFunder/develop
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #52 from Pragash-Mohanarajah:main
-- n15hsy/axia-lm-optimizer — Merge pull request #52 from Pragash-Mohanarajah:main
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 03 Apr 2026 16:29:54 GMT_
+_Last updated on Fri, 03 Apr 2026 20:26:03 GMT_
 <!-- DEV_METRICS_END -->
