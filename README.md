@@ -66,14 +66,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,089
-- 💖 Commit Breakdown: 516 public (7.3%), 6,573 private (92.7%) · 4,052 owned (57.2%), 3,037 contributed (42.8%)
+- ✨ Total Commits: 7,090
+- 💖 Commit Breakdown: 516 public (7.3%), 6,574 private (92.7%) · 4,053 owned (57.2%), 3,037 contributed (42.8%)
 - 🚀 Repositories: 85 (35 public (41.2%), 50 private (58.8%))
 - 👤 Ownership: 80 owned (94.1%), 5 contributed-to (5.9%)
-- ⭐ Stars: 100,260 · 👀 Watchers: 697 · 🍴 Forks: 11,981 · 🗄️ Archived: 19
+- ⭐ Stars: 100,274 · 👀 Watchers: 696 · 🍴 Forks: 11,986 · 🗄️ Archived: 19
 - 🧠 Estimated Lines of Code: 2,431,898
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,908 days
+- 📅 Account age: 1,909 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -167,13 +167,13 @@ Tuesday              █████                      19.67% (1,446 contribu
 Wednesday            █████                      18.92% (1,391 contributions)
 Thursday             ████                       15.86% (1,166 contributions)
 Friday               ████                       16.77% (1,233 contributions)
-Saturday             ██                          6.05% (445 contributions)
+Saturday             ██                          6.07% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             ███████                    27.56% (1,954 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.47% (1,947 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.46% (1,947 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.69% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.27% (232 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.96% (210 commits)
@@ -182,6 +182,7 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/work-tracker — feat: update Readme outlining the scope of the project
 - Pragash-Mohanarajah/work-tracker — Initial commit
 - Pragash-Mohanarajah/hle-solver — feat: improve setup script to ensure that llama-cpp-python is installed before other dependencies
 - Pragash-Mohanarajah/taec-examportal — Improved UI with better margins and padding in attendance pages
@@ -196,7 +197,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - Pragash-Mohanarajah/dashboard-axiafunder — Merge pull request #164 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #164 from AxiaFunder/develop
 - Pragash-Mohanarajah/dashboard-axiafunder — Merge pull request #162 from AxiaFunder/develop2
-- AxiaFunder/dashboard-axiafunder — Merge pull request #162 from AxiaFunder/develop2
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 04 Apr 2026 16:24:23 GMT_
+_Last updated on Sat, 04 Apr 2026 20:19:33 GMT_
 <!-- DEV_METRICS_END -->
