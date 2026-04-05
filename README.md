@@ -66,12 +66,12 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,103
-- 💖 Commit Breakdown: 517 public (7.3%), 6,586 private (92.7%) · 4,066 owned (57.2%), 3,037 contributed (42.8%)
+- ✨ Total Commits: 7,108
+- 💖 Commit Breakdown: 518 public (7.3%), 6,590 private (92.7%) · 4,071 owned (57.3%), 3,037 contributed (42.7%)
 - 🚀 Repositories: 85 (35 public (41.2%), 50 private (58.8%))
 - 👤 Ownership: 80 owned (94.1%), 5 contributed-to (5.9%)
-- ⭐ Stars: 100,316 · 👀 Watchers: 695 · 🍴 Forks: 12,000 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,432,315
+- ⭐ Stars: 100,317 · 👀 Watchers: 695 · 🍴 Forks: 12,000 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,432,386
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,909 days
 
@@ -82,7 +82,7 @@ C                    ███████                    27.71% (673,946 LO
 Jupyter Notebook     ██                          8.89% (216,134 LOC)
 MDX                  ██                          7.80% (189,613 LOC)
 Python               ██                          6.70% (163,062 LOC)
-JavaScript           █                           4.69% (114,110 LOC)
+JavaScript           █                           4.69% (114,181 LOC)
 HTML                 █                           4.69% (114,106 LOC)
 Makefile             █                           2.56% (62,186 LOC)
 ```
@@ -106,7 +106,7 @@ C                    ███████                    27.71% (33,697,286
 Jupyter Notebook     ██                          8.89% (10,806,681 bytes)
 MDX                  ██                          7.80% (9,480,649 bytes)
 Python               ██                          6.70% (8,153,013 bytes)
-JavaScript           █                           4.69% (5,705,487 bytes)
+JavaScript           █                           4.69% (5,709,026 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,7 +120,7 @@ Data Systems         █                           5.88% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ███████████████████        74.65% (1,815,835 LOC)
-Other                █████                      18.98% (461,719 LOC)
+Other                █████                      18.99% (461,790 LOC)
 Web Apps             █                           4.96% (120,535 LOC)
 Data Systems                                     1.41% (34,226 LOC)
 ```
@@ -161,33 +161,34 @@ Evening (18-24)      ████                       14.39% (364 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.41% (546 contributions)
-Monday               ████                       15.45% (1,138 contributions)
-Tuesday              █████                      19.63% (1,446 contributions)
-Wednesday            █████                      18.88% (1,391 contributions)
-Thursday             ████                       15.83% (1,166 contributions)
-Friday               ████                       16.74% (1,233 contributions)
+Sunday               ██                          7.48% (551 contributions)
+Monday               ████                       15.44% (1,138 contributions)
+Tuesday              █████                      19.62% (1,446 contributions)
+Wednesday            █████                      18.87% (1,391 contributions)
+Thursday             ████                       15.82% (1,166 contributions)
+Friday               ████                       16.73% (1,233 contributions)
 Saturday             ██                          6.05% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.51% (1,954 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.41% (1,947 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.49% (1,954 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.39% (1,947 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.67% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.27% (232 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           2.96% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           2.82% (200 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.26% (232 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           2.95% (210 commits)
+n15hsy/axia-lm-optimizer                                                    █                           2.81% (200 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.38% (169 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/work-tracker — chore: correct commit message string usage in workflow file
+- Pragash-Mohanarajah/Pragash-Mohanarajah — chore: standardise github actions bot commits
+- Pragash-Mohanarajah/work-tracker — chore: correct commit message string usage in workflow file
+- Pragash-Mohanarajah/work-tracker — chore: correct import route for work tracker section function
+- Pragash-Mohanarajah/work-tracker — fix: coordinate and reorganise data from API call into required structure
 - Pragash-Mohanarajah/work-tracker — feat: store local copy of fetch stats logic for simplicity
-- Pragash-Mohanarajah/work-tracker — fix: remove npm caching options to simplify setup stage in workflow; need to update for node24 LTS stability
 - Pragash-Mohanarajah/Pragash-Mohanarajah — Improve workflow file by labelling each step for ease of access
-- Pragash-Mohanarajah/work-tracker — feat: add gitignore file to safely store environment variables locally
-- Pragash-Mohanarajah/work-tracker — fix: improve workflow file to simplify steps and track changes easily; need to add secrets to backend
-- Pragash-Mohanarajah/work-tracker — fix: ensure that the workflow tracker is correctly displayed in the final markdown file for this project
 - Pragash-Mohanarajah/hle-solver — feat: improve setup script to ensure that llama-cpp-python is installed before other dependencies
 - Pragash-Mohanarajah/taec-examportal — Improved UI with better margins and padding in attendance pages
 - Pragash-Mohanarajah/taec-examportal — Improved UI with better margins and padding in attendance pages
@@ -196,7 +197,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - Pragash-Mohanarajah/taec-examportal-backend — Group students by center, course and school; ensures that students from the same course and school are in the same room where possible, minimising clashes with examiner allocations
 - Pragash-Mohanarajah/taec-examportal-backend — Pre-allocate exam date for all centers using centerDateMapping
 - Pragash-Mohanarajah/taec-examportal-backend — Add ability to pick and filter for chosen center by number or name before running schedule algorithm
-- Pragash-Mohanarajah/dashboard-axiafunder — fix: uses correct time for filtering to ensure that payments are recorded in the right period, MTD and YTD
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 05 Apr 2026 12:35:38 GMT_
+_Last updated on Sun, 05 Apr 2026 13:06:42 GMT_
 <!-- DEV_METRICS_END -->
