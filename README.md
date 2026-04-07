@@ -70,14 +70,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 518 public (7.3%), 6,611 private (92.7%) · 4,090 owned (57.4%), 3,039 contributed (42.6%)
 - 🚀 Repositories: 85 (35 public (41.2%), 50 private (58.8%))
 - 👤 Ownership: 80 owned (94.1%), 5 contributed-to (5.9%)
-- ⭐ Stars: 100,443 · 👀 Watchers: 694 · 🍴 Forks: 12,027 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,438,017
+- ⭐ Stars: 100,454 · 👀 Watchers: 695 · 🍴 Forks: 12,022 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,438,049
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,911 days
+- 📅 Account age: 1,912 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.48% (718,706 LOC)
+TypeScript           ███████                    29.48% (718,738 LOC)
 C                    ███████                    27.64% (673,946 LOC)
 Jupyter Notebook     ██                          8.87% (216,134 LOC)
 MDX                  ██                          7.79% (189,881 LOC)
@@ -101,7 +101,7 @@ Dockerfile           █                           3.98% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.48% (35,935,310 bytes)
+TypeScript           ███████                    29.48% (35,936,874 bytes)
 C                    ███████                    27.64% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.87% (10,806,681 bytes)
 MDX                  ██                          7.79% (9,494,068 bytes)
@@ -119,7 +119,7 @@ Data Systems         █                           5.88% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.70% (1,821,304 LOC)
+AI / ML              ███████████████████        74.70% (1,821,336 LOC)
 Other                █████                      18.95% (461,952 LOC)
 Web Apps             █                           4.94% (120,535 LOC)
 Data Systems                                     1.40% (34,226 LOC)
@@ -203,5 +203,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 07 Apr 2026 16:46:04 GMT_
+_Last updated on Tue, 07 Apr 2026 20:36:47 GMT_
 <!-- DEV_METRICS_END -->
