@@ -70,21 +70,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 518 public (7.3%), 6,609 private (92.7%) · 4,090 owned (57.4%), 3,037 contributed (42.6%)
 - 🚀 Repositories: 85 (35 public (41.2%), 50 private (58.8%))
 - 👤 Ownership: 80 owned (94.1%), 5 contributed-to (5.9%)
-- ⭐ Stars: 100,392 · 👀 Watchers: 694 · 🍴 Forks: 12,017 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,433,846
+- ⭐ Stars: 100,398 · 👀 Watchers: 694 · 🍴 Forks: 12,017 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,434,069
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,911 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.40% (715,485 LOC)
+TypeScript           ███████                    29.40% (715,708 LOC)
 C                    ███████                    27.69% (673,946 LOC)
 Jupyter Notebook     ██                          8.88% (216,134 LOC)
 MDX                  ██                          7.79% (189,618 LOC)
 Python               ██                          6.70% (163,062 LOC)
 JavaScript           █                           4.70% (114,344 LOC)
 HTML                 █                           4.69% (114,106 LOC)
-Makefile             █                           2.56% (62,186 LOC)
+Makefile             █                           2.55% (62,186 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -101,7 +101,7 @@ Dockerfile           █                           3.98% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.40% (35,774,252 bytes)
+TypeScript           ███████                    29.40% (35,785,392 bytes)
 C                    ███████                    27.69% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.88% (10,806,681 bytes)
 MDX                  ██                          7.79% (9,480,919 bytes)
@@ -119,7 +119,7 @@ Data Systems         █                           5.88% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.66% (1,817,132 LOC)
+AI / ML              ███████████████████        74.66% (1,817,355 LOC)
 Other                █████                      18.98% (461,953 LOC)
 Web Apps             █                           4.95% (120,535 LOC)
 Data Systems                                     1.41% (34,226 LOC)
@@ -203,5 +203,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 07 Apr 2026 01:24:14 GMT_
+_Last updated on Tue, 07 Apr 2026 05:42:56 GMT_
 <!-- DEV_METRICS_END -->
