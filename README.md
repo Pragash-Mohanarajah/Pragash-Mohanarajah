@@ -64,20 +64,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 9 days
+- 🔥 Current Streak: 10 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,129
-- 💖 Commit Breakdown: 518 public (7.3%), 6,611 private (92.7%) · 4,090 owned (57.4%), 3,039 contributed (42.6%)
+- ✨ Total Commits: 7,130
+- 💖 Commit Breakdown: 518 public (7.3%), 6,612 private (92.7%) · 4,090 owned (57.4%), 3,040 contributed (42.6%)
 - 🚀 Repositories: 85 (35 public (41.2%), 50 private (58.8%))
 - 👤 Ownership: 80 owned (94.1%), 5 contributed-to (5.9%)
-- ⭐ Stars: 100,483 · 👀 Watchers: 696 · 🍴 Forks: 12,022 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,438,129
+- ⭐ Stars: 100,500 · 👀 Watchers: 696 · 🍴 Forks: 12,025 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,438,141
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,912 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.48% (718,818 LOC)
+TypeScript           ███████                    29.48% (718,830 LOC)
 C                    ███████                    27.64% (673,946 LOC)
 Jupyter Notebook     ██                          8.86% (216,134 LOC)
 MDX                  ██                          7.79% (189,881 LOC)
@@ -101,7 +101,7 @@ Dockerfile           █                           3.98% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.48% (35,940,888 bytes)
+TypeScript           ███████                    29.48% (35,941,465 bytes)
 C                    ███████                    27.64% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.86% (10,806,681 bytes)
 MDX                  ██                          7.79% (9,494,068 bytes)
@@ -120,7 +120,7 @@ Data Systems         █                           5.88% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ███████████████████        74.71% (1,821,416 LOC)
-Other                █████                      18.95% (461,952 LOC)
+Other                █████                      18.95% (461,964 LOC)
 Web Apps             █                           4.94% (120,535 LOC)
 Data Systems                                     1.40% (34,226 LOC)
 ```
@@ -148,8 +148,8 @@ PLpgSQL              █                           5.88% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.83% (21 commits)
-Morning (06-12)      ██████████████             54.34% (1,377 commits)
-Afternoon (12-18)    ████████                   30.35% (769 commits)
+Morning (06-12)      ██████████████             54.36% (1,378 commits)
+Afternoon (12-18)    ████████                   30.34% (769 commits)
 Evening (18-24)      ████                       14.48% (367 commits)
 ```
 
@@ -158,7 +158,7 @@ Evening (18-24)      ████                       14.48% (367 commits)
 Sunday               ██                          7.68% (568 contributions)
 Monday               ████                       15.42% (1,140 contributions)
 Tuesday              █████                      19.59% (1,448 contributions)
-Wednesday            █████                      18.82% (1,391 contributions)
+Wednesday            █████                      18.83% (1,392 contributions)
 Thursday             ████                       15.77% (1,166 contributions)
 Friday               ████                       16.68% (1,233 contributions)
 Saturday             ██                          6.03% (446 contributions)
@@ -166,7 +166,7 @@ Saturday             ██                          6.03% (446 contributions)
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.44% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.45% (1,957 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.31% (1,947 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.65% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.37% (240 commits)
@@ -176,6 +176,7 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/dashboard-axiafunder — feat: improve pending expense amounts calculation by including pending FMI and trustee invoices in sum calculations, thereby ensuring that pre-allocated money cannot be used for other purposes
 - AxiaFunder/dashboard-axiafunder — fix: increase horizontal space for TIN details using abbreviation
 - AxiaFunder/dashboard-axiafunder — fix: allow crs uploads where there are bracketed expressions in the tin string
 - Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics
@@ -190,7 +191,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - Pragash-Mohanarajah/portfolio — feat: improve graphics and ensure light/dark mode support with supported colours and graphics
 - Pragash-Mohanarajah/Pragash-Mohanarajah — chore: standardise github actions bot commits
 - Pragash-Mohanarajah/Pragash-Mohanarajah — Improve workflow file by labelling each step for ease of access
-- Pragash-Mohanarajah/hle-solver — feat: improve setup script to ensure that llama-cpp-python is installed before other dependencies
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -203,5 +203,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 08 Apr 2026 05:43:32 GMT_
+_Last updated on Wed, 08 Apr 2026 08:52:20 GMT_
 <!-- DEV_METRICS_END -->
