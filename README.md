@@ -66,23 +66,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 10 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,130
-- 💖 Commit Breakdown: 518 public (7.3%), 6,612 private (92.7%) · 4,090 owned (57.4%), 3,040 contributed (42.6%)
+- ✨ Total Commits: 7,140
+- 💖 Commit Breakdown: 518 public (7.3%), 6,622 private (92.7%) · 4,099 owned (57.4%), 3,041 contributed (42.6%)
 - 🚀 Repositories: 85 (35 public (41.2%), 50 private (58.8%))
 - 👤 Ownership: 80 owned (94.1%), 5 contributed-to (5.9%)
-- ⭐ Stars: 100,500 · 👀 Watchers: 696 · 🍴 Forks: 12,025 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,438,141
+- ⭐ Stars: 100,514 · 👀 Watchers: 696 · 🍴 Forks: 12,026 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,438,489
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,912 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.48% (718,830 LOC)
+TypeScript           ███████                    29.49% (718,991 LOC)
 C                    ███████                    27.64% (673,946 LOC)
 Jupyter Notebook     ██                          8.86% (216,134 LOC)
-MDX                  ██                          7.79% (189,881 LOC)
+MDX                  ██                          7.79% (190,053 LOC)
 Python               ██                          6.69% (163,062 LOC)
-JavaScript           █                           4.69% (114,354 LOC)
+JavaScript           █                           4.69% (114,369 LOC)
 HTML                 █                           4.68% (114,106 LOC)
 Makefile             █                           2.55% (62,184 LOC)
 ```
@@ -101,12 +101,12 @@ Dockerfile           █                           3.98% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.48% (35,941,465 bytes)
+TypeScript           ███████                    29.49% (35,949,516 bytes)
 C                    ███████                    27.64% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.86% (10,806,681 bytes)
-MDX                  ██                          7.79% (9,494,068 bytes)
+MDX                  ██                          7.79% (9,502,630 bytes)
 Python               ██                          6.69% (8,153,013 bytes)
-JavaScript           █                           4.69% (5,717,685 bytes)
+JavaScript           █                           4.69% (5,718,419 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,9 +119,9 @@ Data Systems         █                           5.88% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.71% (1,821,416 LOC)
-Other                █████                      18.95% (461,964 LOC)
-Web Apps             █                           4.94% (120,535 LOC)
+AI / ML              ███████████████████        74.71% (1,821,694 LOC)
+Other                █████                      18.95% (462,001 LOC)
+Web Apps             █                           4.94% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
 ```
 
@@ -148,49 +148,49 @@ PLpgSQL              █                           5.88% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.83% (21 commits)
-Morning (06-12)      ██████████████             54.36% (1,378 commits)
-Afternoon (12-18)    ████████                   30.34% (769 commits)
-Evening (18-24)      ████                       14.48% (367 commits)
+Morning (06-12)      ██████████████             54.47% (1,383 commits)
+Afternoon (12-18)    ████████                   30.25% (768 commits)
+Evening (18-24)      ████                       14.45% (367 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.68% (568 contributions)
-Monday               ████                       15.42% (1,140 contributions)
-Tuesday              █████                      19.59% (1,448 contributions)
-Wednesday            █████                      18.83% (1,392 contributions)
-Thursday             ████                       15.77% (1,166 contributions)
-Friday               ████                       16.68% (1,233 contributions)
-Saturday             ██                          6.03% (446 contributions)
+Sunday               ██                          7.67% (568 contributions)
+Monday               ████                       15.40% (1,140 contributions)
+Tuesday              █████                      19.59% (1,450 contributions)
+Wednesday            █████                      18.91% (1,400 contributions)
+Thursday             ████                       15.75% (1,166 contributions)
+Friday               ████                       16.66% (1,233 contributions)
+Saturday             ██                          6.02% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.45% (1,957 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.31% (1,947 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.65% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.37% (240 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           2.95% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           2.81% (200 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.42% (1,958 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.32% (1,951 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.64% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.39% (242 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           2.94% (210 commits)
+n15hsy/axia-lm-optimizer                                                    █                           2.80% (200 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.37% (169 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/work-tracker — Merge branch 'main' of https://github.com/Pragash-Mohanarajah/work-tracker
+- Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics and implementation; splits up MD files by organisation for clarity
+- Pragash-Mohanarajah/portfolio — Merge branch 'production' of https://github.com/Pragash-Mohanarajah/portfolio into production
+- Pragash-Mohanarajah/portfolio — fix: minor improvements to graphics
+- Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics and implementation; splits up MD files by organisation for clarity
+- Pragash-Mohanarajah/dashboard-axiafunder — chore: include clear checklist for trustee invoice automation for fool-proof processing
+- AxiaFunder/dashboard-axiafunder — chore: include clear checklist for trustee invoice automation for fool-proof processing
+- Pragash-Mohanarajah/dashboard-axiafunder — feat: improve pending expense amounts calculation by including pending FMI and trustee invoices in sum calculations, thereby ensuring that pre-allocated money cannot be used for other purposes
 - AxiaFunder/dashboard-axiafunder — feat: improve pending expense amounts calculation by including pending FMI and trustee invoices in sum calculations, thereby ensuring that pre-allocated money cannot be used for other purposes
+- Pragash-Mohanarajah/dashboard-axiafunder — fix: increase horizontal space for TIN details using abbreviation
 - AxiaFunder/dashboard-axiafunder — fix: increase horizontal space for TIN details using abbreviation
+- Pragash-Mohanarajah/dashboard-axiafunder — fix: allow crs uploads where there are bracketed expressions in the tin string
 - AxiaFunder/dashboard-axiafunder — fix: allow crs uploads where there are bracketed expressions in the tin string
 - Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics
 - Pragash-Mohanarajah/portfolio — fix: minor improvements to graphics
-- Pragash-Mohanarajah/portfolio — fix: move recent activity calculation before project expansion logic
-- Pragash-Mohanarajah/portfolio — feat: improve graphics and ensure light/dark mode support with supported colours and graphics
-- Pragash-Mohanarajah/portfolio — feat: improve graphics and ensure light/dark mode support with supported colours and graphics
-- Pragash-Mohanarajah/work-tracker — chore: move scripts to separate directory for clarity
-- Pragash-Mohanarajah/work-tracker — chore: move scripts to separate directory for clarity
-- Pragash-Mohanarajah/work-tracker — chore: move scripts to separate directory for clarity
-- Pragash-Mohanarajah/work-tracker — chore: move scripts to separate directory for clarity
-- Pragash-Mohanarajah/portfolio — feat: improve graphics and ensure light/dark mode support with supported colours and graphics
-- Pragash-Mohanarajah/Pragash-Mohanarajah — chore: standardise github actions bot commits
-- Pragash-Mohanarajah/Pragash-Mohanarajah — Improve workflow file by labelling each step for ease of access
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -203,5 +203,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 08 Apr 2026 08:52:20 GMT_
+_Last updated on Wed, 08 Apr 2026 12:59:04 GMT_
 <!-- DEV_METRICS_END -->
