@@ -66,47 +66,47 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 10 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,165
-- 💖 Commit Breakdown: 518 public (7.2%), 6,647 private (92.8%) · 4,121 owned (57.5%), 3,044 contributed (42.5%)
+- ✨ Total Commits: 7,168
+- 💖 Commit Breakdown: 518 public (7.2%), 6,650 private (92.8%) · 4,124 owned (57.5%), 3,044 contributed (42.5%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 81 owned (94.2%), 5 contributed-to (5.8%)
-- ⭐ Stars: 100,530 · 👀 Watchers: 697 · 🍴 Forks: 12,023 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,439,124
+- ⭐ Stars: 100,532 · 👀 Watchers: 697 · 🍴 Forks: 12,027 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,439,954
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,913 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.49% (719,335 LOC)
-C                    ███████                    27.63% (673,946 LOC)
+TypeScript           ███████                    29.50% (719,810 LOC)
+C                    ███████                    27.62% (673,946 LOC)
 Jupyter Notebook     ██                          8.86% (216,134 LOC)
-MDX                  ██                          7.79% (190,102 LOC)
-Python               ██                          6.69% (163,062 LOC)
-JavaScript           █                           4.69% (114,456 LOC)
+MDX                  ██                          7.80% (190,380 LOC)
+Python               ██                          6.68% (163,062 LOC)
+JavaScript           █                           4.69% (114,533 LOC)
 HTML                 █                           4.68% (114,106 LOC)
 Makefile             █                           2.55% (62,184 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
 ```
-JavaScript           ████                       17.47% (40 repos)
-CSS                  ███                        13.54% (31 repos)
-Python               ███                        13.54% (31 repos)
-TypeScript           ███                        10.48% (24 repos)
-HTML                 ██                          9.17% (21 repos)
-Shell                ██                          6.55% (15 repos)
-Jupyter Notebook     █                           4.80% (11 repos)
-Dockerfile           █                           3.93% (9 repos)
+JavaScript           ████                       17.75% (41 repos)
+CSS                  ███                        13.42% (31 repos)
+Python               ███                        13.42% (31 repos)
+TypeScript           ███                        10.82% (25 repos)
+HTML                 ██                          9.09% (21 repos)
+Shell                ██                          6.49% (15 repos)
+Jupyter Notebook     █                           4.76% (11 repos)
+Dockerfile           █                           3.90% (9 repos)
 ```
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.49% (35,966,749 bytes)
-C                    ███████                    27.63% (33,697,286 bytes)
+TypeScript           ███████                    29.50% (35,990,477 bytes)
+C                    ███████                    27.62% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.86% (10,806,681 bytes)
-MDX                  ██                          7.79% (9,505,076 bytes)
-Python               ██                          6.69% (8,153,013 bytes)
-JavaScript           █                           4.69% (5,722,737 bytes)
+MDX                  ██                          7.80% (9,518,992 bytes)
+Python               ██                          6.68% (8,153,013 bytes)
+JavaScript           █                           4.69% (5,726,582 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,18 +119,18 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.70% (1,821,909 LOC)
-Other                █████                      18.96% (462,421 LOC)
+AI / ML              ███████████████████        74.68% (1,822,187 LOC)
+Other                █████                      18.97% (462,973 LOC)
 Web Apps             █                           4.94% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
 ```
 
 ### 🏷️ Top Topics
 ```
-JavaScript           ████████████               46.51% (40 repos)
+JavaScript           ████████████               47.67% (41 repos)
 CSS                  █████████                  36.05% (31 repos)
 Python               █████████                  36.05% (31 repos)
-TypeScript           ███████                    27.91% (24 repos)
+TypeScript           ███████                    29.07% (25 repos)
 HTML                 ██████                     24.42% (21 repos)
 Shell                ████                       17.44% (15 repos)
 Jupyter Notebook     ███                        12.79% (11 repos)
@@ -161,20 +161,20 @@ Evening (18-24)      ████                       14.36% (365 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.65% (568 contributions)
-Monday               ████                       15.35% (1,140 contributions)
-Tuesday              █████                      19.52% (1,450 contributions)
-Wednesday            █████                      19.20% (1,426 contributions)
-Thursday             ████                       15.70% (1,166 contributions)
-Friday               ████                       16.60% (1,233 contributions)
+Sunday               ██                          7.64% (568 contributions)
+Monday               ████                       15.34% (1,140 contributions)
+Tuesday              █████                      19.51% (1,450 contributions)
+Wednesday            █████                      19.23% (1,429 contributions)
+Thursday             ████                       15.69% (1,166 contributions)
+Friday               ████                       16.59% (1,233 contributions)
 Saturday             ██                          6.00% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.33% (1,958 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.23% (1,951 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.62% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.32% (1,958 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.22% (1,951 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.61% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.56% (255 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.93% (210 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.79% (200 commits)
@@ -182,6 +182,9 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-attendance — feat: minor improvements to initialise scanner module and database connections
+- Pragash-Mohanarajah/taec-attendance — feat: initial commit from create-expo-app
+- Pragash-Mohanarajah/taec-attendance — feat: improve readme to explain scope of project
 - Pragash-Mohanarajah/taec-attendance — Initial commit
 - Pragash-Mohanarajah/work-tracker — chore: update Readme
 - Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics and logic
@@ -194,9 +197,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - AxiaFunder/axiafunder — feat: basic ultracite initialisation
 - AxiaFunder/axiafunder — feat: basic turborepo initialisation; need to initialise ultracite after this
 - AxiaFunder/axiafunder — feat: basic ultracite initialisation
-- Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics and logic
-- Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics and logic
-- Pragash-Mohanarajah/dashboard-axiafunder — chore: include clear checklist for trustee invoice automation for fool-proof processing
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 08 Apr 2026 20:33:52 GMT_
+_Last updated on Thu, 09 Apr 2026 01:16:14 GMT_
 <!-- DEV_METRICS_END -->
