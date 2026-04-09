@@ -66,24 +66,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 11 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,180
-- 💖 Commit Breakdown: 518 public (7.2%), 6,662 private (92.8%) · 4,129 owned (57.5%), 3,051 contributed (42.5%)
+- ✨ Total Commits: 7,183
+- 💖 Commit Breakdown: 518 public (7.2%), 6,665 private (92.8%) · 4,129 owned (57.5%), 3,054 contributed (42.5%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 81 owned (94.2%), 5 contributed-to (5.8%)
-- ⭐ Stars: 100,562 · 👀 Watchers: 697 · 🍴 Forks: 12,035 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,440,673
+- ⭐ Stars: 100,581 · 👀 Watchers: 697 · 🍴 Forks: 12,039 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,440,953
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,913 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.52% (720,393 LOC)
+TypeScript           ███████                    29.52% (720,636 LOC)
 C                    ███████                    27.61% (673,946 LOC)
-Jupyter Notebook     ██                          8.86% (216,134 LOC)
-MDX                  ██                          7.80% (190,380 LOC)
+Jupyter Notebook     ██                          8.85% (216,134 LOC)
+MDX                  ██                          7.80% (190,417 LOC)
 Python               ██                          6.68% (163,091 LOC)
 JavaScript           █                           4.69% (114,533 LOC)
-HTML                 █                           4.68% (114,106 LOC)
+HTML                 █                           4.67% (114,106 LOC)
 Makefile             █                           2.55% (62,184 LOC)
 ```
 
@@ -101,10 +101,10 @@ Dockerfile           █                           3.86% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.52% (36,019,586 bytes)
+TypeScript           ███████                    29.52% (36,031,779 bytes)
 C                    ███████                    27.61% (33,697,286 bytes)
-Jupyter Notebook     ██                          8.86% (10,806,681 bytes)
-MDX                  ██                          7.80% (9,519,024 bytes)
+Jupyter Notebook     ██                          8.85% (10,806,681 bytes)
+MDX                  ██                          7.80% (9,520,859 bytes)
 Python               ██                          6.68% (8,154,489 bytes)
 JavaScript           █                           4.69% (5,726,595 bytes)
 ```
@@ -119,8 +119,8 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.69% (1,822,854 LOC)
-Other                █████                      18.97% (463,025 LOC)
+AI / ML              ███████████████████        74.69% (1,823,131 LOC)
+Other                █████                      18.97% (463,028 LOC)
 Web Apps             █                           4.94% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
 ```
@@ -147,33 +147,33 @@ PLpgSQL              █                           5.81% (5 repos)
 - Pragash-Mohanarajah/taec-thamilthiren _(Other · 167 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 1958 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 1961 commits · private)_
 - AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 4 commits · private)_
 - supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres da... _(AI / ML)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.83% (21 commits)
-Morning (06-12)      ██████████████             54.70% (1,391 commits)
-Afternoon (12-18)    ████████                   30.12% (766 commits)
+Morning (06-12)      ██████████████             54.60% (1,389 commits)
+Afternoon (12-18)    ████████                   30.23% (769 commits)
 Evening (18-24)      ████                       14.35% (365 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.63% (568 contributions)
-Monday               ████                       15.31% (1,140 contributions)
-Tuesday              █████                      19.47% (1,450 contributions)
-Wednesday            █████                      19.19% (1,429 contributions)
-Thursday             ████                       15.86% (1,181 contributions)
-Friday               ████                       16.56% (1,233 contributions)
+Sunday               ██                          7.62% (568 contributions)
+Monday               ████                       15.30% (1,140 contributions)
+Tuesday              █████                      19.46% (1,450 contributions)
+Wednesday            █████                      19.18% (1,429 contributions)
+Thursday             ████                       15.89% (1,184 contributions)
+Friday               ████                       16.55% (1,233 contributions)
 Saturday             █                           5.99% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.27% (1,958 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.17% (1,951 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.30% (1,961 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.16% (1,951 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.60% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.55% (255 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.92% (210 commits)
@@ -182,6 +182,9 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/dashboard-axiafunder — chore: remove files which are not needed; prepare for migration to new code structure
+- AxiaFunder/dashboard-axiafunder — chore: remove packages which are not needed; prepare for migration to new code structure
+- AxiaFunder/dashboard-axiafunder — fix: allow bank balance overrides for SPVs which have launched and closed, when the override option is enabled
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #55 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #55 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement compile and setup environment scripts to install inference application dependencies and copy source code to base_dir
@@ -193,9 +196,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - n15hsy/axia-lm-optimizer — Merge pull request #54 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: automatic project setup with improved master controller
 - n15hsy/axia-lm-optimizer — feat: automatic project setup with improved master controller
-- Pragash-Mohanarajah/ai-hdr-inference — feat: use new workspace structure to include inference and conversion in same location
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: use new workspace structure to include inference and conversion in same location
-- n15hsy/axia-lm-optimizer — feat: use new workspace structure to include inference and conversion in same location
 - Pragash-Mohanarajah/ai-hdr-inference — feat: use new workspace structure to include inference and conversion in same location
 
 ### 🌟 Recent Stars
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 09 Apr 2026 13:00:51 GMT_
+_Last updated on Thu, 09 Apr 2026 16:57:15 GMT_
 <!-- DEV_METRICS_END -->
