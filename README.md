@@ -64,24 +64,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 10 days
+- 🔥 Current Streak: 11 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,168
-- 💖 Commit Breakdown: 518 public (7.2%), 6,650 private (92.8%) · 4,124 owned (57.5%), 3,044 contributed (42.5%)
+- ✨ Total Commits: 7,170
+- 💖 Commit Breakdown: 518 public (7.2%), 6,652 private (92.8%) · 4,124 owned (57.5%), 3,046 contributed (42.5%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 81 owned (94.2%), 5 contributed-to (5.8%)
-- ⭐ Stars: 100,543 · 👀 Watchers: 697 · 🍴 Forks: 12,027 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,439,954
+- ⭐ Stars: 100,557 · 👀 Watchers: 697 · 🍴 Forks: 12,030 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,440,560
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,913 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.50% (719,810 LOC)
-C                    ███████                    27.62% (673,946 LOC)
+TypeScript           ███████                    29.52% (720,392 LOC)
+C                    ███████                    27.61% (673,946 LOC)
 Jupyter Notebook     ██                          8.86% (216,134 LOC)
 MDX                  ██                          7.80% (190,380 LOC)
-Python               ██                          6.68% (163,062 LOC)
+Python               ██                          6.68% (163,086 LOC)
 JavaScript           █                           4.69% (114,533 LOC)
 HTML                 █                           4.68% (114,106 LOC)
 Makefile             █                           2.55% (62,184 LOC)
@@ -101,11 +101,11 @@ Dockerfile           █                           3.90% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.50% (35,990,477 bytes)
-C                    ███████                    27.62% (33,697,286 bytes)
+TypeScript           ███████                    29.52% (36,019,546 bytes)
+C                    ███████                    27.61% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.86% (10,806,681 bytes)
-MDX                  ██                          7.80% (9,518,992 bytes)
-Python               ██                          6.68% (8,153,013 bytes)
+MDX                  ██                          7.80% (9,519,024 bytes)
+Python               ██                          6.68% (8,154,223 bytes)
 JavaScript           █                           4.69% (5,726,582 bytes)
 ```
 
@@ -119,8 +119,8 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.68% (1,822,187 LOC)
-Other                █████                      18.97% (462,973 LOC)
+AI / ML              ███████████████████        74.69% (1,822,769 LOC)
+Other                █████                      18.97% (462,997 LOC)
 Web Apps             █                           4.94% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
 ```
@@ -154,34 +154,38 @@ PLpgSQL              █                           5.81% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.83% (21 commits)
-Morning (06-12)      ██████████████             54.47% (1,384 commits)
-Afternoon (12-18)    ████████                   30.34% (771 commits)
+Morning (06-12)      ██████████████             54.56% (1,387 commits)
+Afternoon (12-18)    ████████                   30.25% (769 commits)
 Evening (18-24)      ████                       14.36% (365 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.64% (568 contributions)
-Monday               ████                       15.34% (1,140 contributions)
-Tuesday              █████                      19.51% (1,450 contributions)
-Wednesday            █████                      19.23% (1,429 contributions)
-Thursday             ████                       15.69% (1,166 contributions)
-Friday               ████                       16.59% (1,233 contributions)
-Saturday             ██                          6.00% (446 contributions)
+Monday               ████                       15.33% (1,140 contributions)
+Tuesday              █████                      19.50% (1,450 contributions)
+Wednesday            █████                      19.22% (1,429 contributions)
+Thursday             ████                       15.72% (1,169 contributions)
+Friday               ████                       16.58% (1,233 contributions)
+Saturday             █                           6.00% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.32% (1,958 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.22% (1,951 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.31% (1,958 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.21% (1,951 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.61% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.56% (255 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.93% (210 commits)
-n15hsy/axia-lm-optimizer                                                    █                           2.79% (200 commits)
+n15hsy/axia-lm-optimizer                                                    █                           2.82% (202 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.36% (169 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #53 from Pragash-Mohanarajah:main
+- n15hsy/axia-lm-optimizer — Merge pull request #53 from Pragash-Mohanarajah:main
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: apply optional pdf password based encryption, when syncing files to Google Drive
+- n15hsy/axia-lm-optimizer — feat: apply optional pdf password based encryption, when syncing files to Google Drive
 - Pragash-Mohanarajah/taec-attendance — feat: minor improvements to initialise scanner module and database connections
 - Pragash-Mohanarajah/taec-attendance — feat: initial commit from create-expo-app
 - Pragash-Mohanarajah/taec-attendance — feat: improve readme to explain scope of project
@@ -193,10 +197,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - Pragash-Mohanarajah/portfolio — fix: minor improvements to graphics and logic
 - Pragash-Mohanarajah/work-tracker — fix: minor improvements to graphics and logic
 - Pragash-Mohanarajah/portfolio — fix: minor improvements to graphics and logic
-- Pragash-Mohanarajah/portfolio — fix: minor improvements to graphics and logic
-- AxiaFunder/axiafunder — feat: basic ultracite initialisation
-- AxiaFunder/axiafunder — feat: basic turborepo initialisation; need to initialise ultracite after this
-- AxiaFunder/axiafunder — feat: basic ultracite initialisation
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 09 Apr 2026 05:45:00 GMT_
+_Last updated on Thu, 09 Apr 2026 09:02:18 GMT_
 <!-- DEV_METRICS_END -->
