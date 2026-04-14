@@ -64,49 +64,49 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 1 days
+- 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,185
-- 💖 Commit Breakdown: 518 public (7.2%), 6,667 private (92.8%) · 4,129 owned (57.5%), 3,056 contributed (42.5%)
+- ✨ Total Commits: 7,186
+- 💖 Commit Breakdown: 518 public (7.2%), 6,668 private (92.8%) · 4,129 owned (57.5%), 3,057 contributed (42.5%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 81 owned (94.2%), 5 contributed-to (5.8%)
-- ⭐ Stars: 100,845 · 👀 Watchers: 708 · 🍴 Forks: 12,091 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,441,435
+- ⭐ Stars: 100,850 · 👀 Watchers: 708 · 🍴 Forks: 12,092 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,443,475
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,918 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.53% (721,077 LOC)
-C                    ███████                    27.60% (673,946 LOC)
+TypeScript           ███████                    29.61% (723,623 LOC)
+C                    ███████                    27.58% (673,946 LOC)
 Jupyter Notebook     ██                          8.85% (216,134 LOC)
-MDX                  ██                          7.81% (190,681 LOC)
-Python               ██                          6.68% (163,091 LOC)
-JavaScript           █                           4.69% (114,552 LOC)
+MDX                  ██                          7.81% (190,764 LOC)
+Python               ██                          6.67% (163,090 LOC)
 HTML                 █                           4.67% (114,106 LOC)
-Makefile             █                           2.55% (62,184 LOC)
+JavaScript           █                           4.66% (113,964 LOC)
+Makefile             █                           2.54% (62,184 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
 ```
-JavaScript           ████                       17.67% (41 repos)
-Python               ███                        13.36% (31 repos)
-CSS                  ███                        12.93% (30 repos)
-TypeScript           ███                        10.78% (25 repos)
-HTML                 ██                          9.05% (21 repos)
-Shell                ██                          6.90% (16 repos)
-Jupyter Notebook     █                           4.74% (11 repos)
-Dockerfile           █                           3.88% (9 repos)
+JavaScript           ████                       17.32% (40 repos)
+Python               ███                        13.42% (31 repos)
+CSS                  ███                        12.99% (30 repos)
+TypeScript           ███                        10.82% (25 repos)
+HTML                 ██                          9.09% (21 repos)
+Shell                ██                          6.93% (16 repos)
+Jupyter Notebook     █                           4.76% (11 repos)
+Dockerfile           █                           3.90% (9 repos)
 ```
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.53% (36,053,818 bytes)
-C                    ███████                    27.60% (33,697,286 bytes)
+TypeScript           ███████                    29.61% (36,181,089 bytes)
+C                    ███████                    27.58% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.85% (10,806,681 bytes)
-MDX                  ██                          7.81% (9,534,027 bytes)
-Python               ██                          6.68% (8,154,489 bytes)
-JavaScript           █                           4.69% (5,727,556 bytes)
+MDX                  ██                          7.81% (9,538,185 bytes)
+Python               ██                          6.67% (8,154,460 bytes)
+HTML                 █                           4.67% (5,705,260 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,15 +119,15 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.71% (1,823,966 LOC)
-Other                █████                      18.95% (462,675 LOC)
-Web Apps             █                           4.94% (120,568 LOC)
+AI / ML              ███████████████████        74.66% (1,824,259 LOC)
+Other                █████                      19.01% (464,422 LOC)
+Web Apps             █                           4.93% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
 ```
 
 ### 🏷️ Top Topics
 ```
-JavaScript           ████████████               47.67% (41 repos)
+JavaScript           ████████████               46.51% (40 repos)
 Python               █████████                  36.05% (31 repos)
 CSS                  █████████                  34.88% (30 repos)
 TypeScript           ███████                    29.07% (25 repos)
@@ -148,31 +148,31 @@ PLpgSQL              █                           5.81% (5 repos)
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 1962 commits · private)_
-- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 5 commits · private)_
+- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 6 commits · private)_
 - supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres da... _(AI / ML)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.82% (21 commits)
-Morning (06-12)      ██████████████             54.60% (1,390 commits)
-Afternoon (12-18)    ████████                   30.24% (770 commits)
-Evening (18-24)      ████                       14.34% (365 commits)
+Morning (06-12)      ██████████████             54.61% (1,391 commits)
+Afternoon (12-18)    ████████                   30.23% (770 commits)
+Evening (18-24)      ████                       14.33% (365 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.62% (568 contributions)
 Monday               ████                       15.32% (1,142 contributions)
-Tuesday              █████                      19.46% (1,450 contributions)
-Wednesday            █████                      19.18% (1,429 contributions)
+Tuesday              █████                      19.47% (1,451 contributions)
+Wednesday            █████                      19.17% (1,429 contributions)
 Thursday             ████                       15.89% (1,184 contributions)
-Friday               ████                       16.55% (1,233 contributions)
+Friday               ████                       16.54% (1,233 contributions)
 Saturday             █                           5.98% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.31% (1,962 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.30% (1,962 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.15% (1,951 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.60% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.55% (255 commits)
@@ -182,6 +182,8 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: sync to Google Drive based on the case ID of the files; must not move files outside of local output folder unless otherwise instructed
+- AxiaFunder/axiafunder — feat(temp): add ui components for project; need to reconfigure dependency imports and accent colours
 - AxiaFunder/dashboard-axiafunder — fix: improved HDR quarterly reports figure 1 graphic in stage 0, splitting original vs replaced claims
 - AxiaFunder/axiafunder — chore: cleanup sample applications and unused code files
 - AxiaFunder/dashboard-axiafunder — chore: remove files which are not needed; prepare for migration to new code structure
@@ -195,8 +197,6 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - n15hsy/axia-lm-optimizer — feat: includes example config json file for reference; makes ledgers directory in base directory
 - Pragash-Mohanarajah/ai-hdr-inference — chore: improve operations by moving query to data folder; need to implement setup and compile scripts for inference application
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #54 from Pragash-Mohanarajah:main
-- n15hsy/axia-lm-optimizer — Merge pull request #54 from Pragash-Mohanarajah:main
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: automatic project setup with improved master controller
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 14 Apr 2026 09:09:16 GMT_
+_Last updated on Tue, 14 Apr 2026 13:02:55 GMT_
 <!-- DEV_METRICS_END -->
