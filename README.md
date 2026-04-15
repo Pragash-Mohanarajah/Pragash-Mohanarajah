@@ -66,24 +66,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,201
-- 💖 Commit Breakdown: 558 public (7.7%), 6,643 private (92.3%) · 4,139 owned (57.5%), 3,062 contributed (42.5%)
+- ✨ Total Commits: 7,207
+- 💖 Commit Breakdown: 558 public (7.7%), 6,649 private (92.3%) · 4,145 owned (57.5%), 3,062 contributed (42.5%)
 - 🚀 Repositories: 86 (36 public (41.9%), 50 private (58.1%))
 - 👤 Ownership: 81 owned (94.2%), 5 contributed-to (5.8%)
-- ⭐ Stars: 100,923 · 👀 Watchers: 708 · 🍴 Forks: 12,103 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,445,181
+- ⭐ Stars: 100,929 · 👀 Watchers: 708 · 🍴 Forks: 12,105 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,445,807
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,919 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.62% (724,351 LOC)
+TypeScript           ███████                    29.64% (724,980 LOC)
 C                    ███████                    27.56% (673,946 LOC)
 Jupyter Notebook     ██                          8.84% (216,134 LOC)
-MDX                  ██                          7.81% (190,847 LOC)
-Python               ██                          6.69% (163,669 LOC)
-JavaScript           █                           4.67% (114,238 LOC)
+MDX                  ██                          7.80% (190,847 LOC)
+Python               ██                          6.70% (163,927 LOC)
 HTML                 █                           4.67% (114,106 LOC)
+JavaScript           █                           4.66% (113,966 LOC)
 Makefile             █                           2.54% (62,184 LOC)
 ```
 
@@ -101,12 +101,12 @@ Dockerfile           █                           3.90% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.62% (36,217,530 bytes)
+TypeScript           ███████                    29.64% (36,248,951 bytes)
 C                    ███████                    27.56% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.84% (10,806,681 bytes)
-MDX                  ██                          7.81% (9,542,371 bytes)
-Python               ██                          6.69% (8,183,355 bytes)
-JavaScript           █                           4.67% (5,711,883 bytes)
+MDX                  ██                          7.80% (9,542,353 bytes)
+Python               ██                          6.70% (8,196,272 bytes)
+HTML                 █                           4.67% (5,705,260 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,7 +119,7 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.67% (1,825,758 LOC)
+AI / ML              ███████████████████        74.67% (1,826,384 LOC)
 Other                █████                      19.00% (464,629 LOC)
 Web Apps             █                           4.93% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
@@ -162,35 +162,35 @@ Evening (18-24)      ████                       14.27% (364 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.60% (568 contributions)
-Monday               ████                       15.29% (1,142 contributions)
-Tuesday              █████                      19.56% (1,461 contributions)
-Wednesday            █████                      19.22% (1,436 contributions)
-Thursday             ████                       15.85% (1,184 contributions)
-Friday               ████                       16.51% (1,233 contributions)
+Monday               ████                       15.28% (1,142 contributions)
+Tuesday              █████                      19.54% (1,461 contributions)
+Wednesday            █████                      19.29% (1,442 contributions)
+Thursday             ████                       15.84% (1,184 contributions)
+Friday               ████                       16.49% (1,233 contributions)
 Saturday             █                           5.97% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.25% (1,962 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.09% (1,951 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.22% (1,962 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.07% (1,951 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.58% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.54% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.94% (212 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           2.92% (210 commits)
-IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.35% (169 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           2.91% (210 commits)
+IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.34% (169 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/ai-hdr-inference — fix: added safety in compile.bat call, to prevent accidental copy of unwanted files into workspace
+- Pragash-Mohanarajah/ai-hdr-inference — feat: ensures that the answers are non-empty; fixes the json file structure errors before saving response to csv file
+- Pragash-Mohanarajah/ai-hdr-inference — feat: ensures that the local CSV file is updated on each case execution; uploads full CSV to drive at the end
+- Pragash-Mohanarajah/ai-hdr-inference — feat: allow file size overrides for large files in GCS by using their URI for the persistent cache used in AI inference
+- Pragash-Mohanarajah/ai-hdr-inference — feat: implement aggressive retry logic for up to 3 attempts on each case; ensures response is strictly json
+- Pragash-Mohanarajah/ai-hdr-inference — chore: upgrade to gemini 2.5 flash and flash lite for model queries
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #57 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #57 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: new method to save details from document list into the conversions database if provided
 - n15hsy/axia-lm-optimizer — feat: new method to save details from document list into the conversions database if provided
-- Pragash-Mohanarajah/ai-hdr-inference — feat: build ledger file as part of Vertex AI workflow, stricter template case prompt
-- Pragash-Mohanarajah/ai-hdr-inference — feat: update database initialisation logic in preparation for building ledger file for Vertex AI inference pipeline
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improve case prompt logic to ensure that the structured output format is followed; need to build ledger file as part of Vertex AI workflow
-- Pragash-Mohanarajah/ai-hdr-inference — chore: simplify import routes by declaring inference_workflow as module
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #56 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #56 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: allow sync and restore from Google Drive with page length validation; sync to Drive function subsequenty removes converted final PDF file from system to retain safety
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 15 Apr 2026 13:01:20 GMT_
+_Last updated on Wed, 15 Apr 2026 16:53:34 GMT_
 <!-- DEV_METRICS_END -->
