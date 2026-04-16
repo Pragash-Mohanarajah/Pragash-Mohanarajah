@@ -64,20 +64,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 3 days
+- 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,213
-- 💖 Commit Breakdown: 558 public (7.7%), 6,655 private (92.3%) · 4,151 owned (57.5%), 3,062 contributed (42.5%)
+- ✨ Total Commits: 7,216
+- 💖 Commit Breakdown: 558 public (7.7%), 6,658 private (92.3%) · 4,151 owned (57.5%), 3,065 contributed (42.5%)
 - 🚀 Repositories: 86 (36 public (41.9%), 50 private (58.1%))
 - 👤 Ownership: 81 owned (94.2%), 5 contributed-to (5.8%)
-- ⭐ Stars: 100,972 · 👀 Watchers: 708 · 🍴 Forks: 12,109 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,446,486
+- ⭐ Stars: 100,985 · 👀 Watchers: 709 · 🍴 Forks: 12,111 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,446,603
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,920 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.64% (725,141 LOC)
+TypeScript           ███████                    29.64% (725,258 LOC)
 C                    ███████                    27.55% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (216,134 LOC)
 MDX                  ██                          7.82% (191,324 LOC)
@@ -101,7 +101,7 @@ Dockerfile           █                           3.90% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.64% (36,257,042 bytes)
+TypeScript           ███████                    29.64% (36,262,893 bytes)
 C                    ███████                    27.55% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,806,681 bytes)
 MDX                  ██                          7.82% (9,566,190 bytes)
@@ -119,8 +119,8 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.67% (1,826,877 LOC)
-Other                █████                      19.00% (464,815 LOC)
+AI / ML              ███████████████████        74.67% (1,826,980 LOC)
+Other                █████                      19.00% (464,829 LOC)
 Web Apps             █                           4.93% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
 ```
@@ -148,14 +148,14 @@ PLpgSQL              █                           5.81% (5 repos)
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 1962 commits · private)_
-- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 6 commits · private)_
+- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 9 commits · private)_
 - supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres da... _(AI / ML)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.82% (21 commits)
-Morning (06-12)      ██████████████             54.74% (1,398 commits)
-Afternoon (12-18)    ████████                   30.19% (771 commits)
+Morning (06-12)      ██████████████             54.76% (1,399 commits)
+Afternoon (12-18)    ████████                   30.18% (771 commits)
 Evening (18-24)      ████                       14.25% (364 commits)
 ```
 
@@ -163,25 +163,28 @@ Evening (18-24)      ████                       14.25% (364 commits)
 ```
 Sunday               ██                          7.59% (568 contributions)
 Monday               ████                       15.26% (1,142 contributions)
-Tuesday              █████                      19.53% (1,461 contributions)
+Tuesday              █████                      19.52% (1,461 contributions)
 Wednesday            █████                      19.35% (1,448 contributions)
-Thursday             ████                       15.82% (1,184 contributions)
-Friday               ████                       16.48% (1,233 contributions)
+Thursday             ████                       15.86% (1,187 contributions)
+Friday               ████                       16.47% (1,233 contributions)
 Saturday             █                           5.96% (446 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    27.20% (1,962 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.05% (1,951 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    27.19% (1,962 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    27.04% (1,951 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.57% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.54% (255 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.53% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.94% (212 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.91% (210 commits)
 IB-Integrated-Design-Project-Group-M202/competition-in-arena                █                           2.34% (169 commits)
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/axiafunder — chore: bump turbo version to 2.9.6
+- AxiaFunder/axiafunder — feat: migrate all ui components using radix ui; need to implement accent colour and company specific view changes
+- AxiaFunder/axiafunder — feat: improve all ui components from radix ui to compile correctly with bun, using same package versions
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
@@ -193,10 +196,7 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 - Pragash-Mohanarajah/ai-hdr-inference — feat: allow file size overrides for large files in GCS by using their URI for the persistent cache used in AI inference
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement aggressive retry logic for up to 3 attempts on each case; ensures response is strictly json
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #57 from Pragash-Mohanarajah:main
-- n15hsy/axia-lm-optimizer — Merge pull request #57 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: new method to save details from document list into the conversions database if provided
-- n15hsy/axia-lm-optimizer — feat: new method to save details from document list into the conversions database if provided
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #56 from Pragash-Mohanarajah:main
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 16 Apr 2026 09:09:17 GMT_
+_Last updated on Thu, 16 Apr 2026 13:06:46 GMT_
 <!-- DEV_METRICS_END -->
