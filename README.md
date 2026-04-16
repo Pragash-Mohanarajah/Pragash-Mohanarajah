@@ -70,19 +70,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 558 public (7.7%), 6,655 private (92.3%) · 4,151 owned (57.5%), 3,062 contributed (42.5%)
 - 🚀 Repositories: 86 (36 public (41.9%), 50 private (58.1%))
 - 👤 Ownership: 81 owned (94.2%), 5 contributed-to (5.8%)
-- ⭐ Stars: 100,959 · 👀 Watchers: 708 · 🍴 Forks: 12,108 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,445,992
+- ⭐ Stars: 100,972 · 👀 Watchers: 708 · 🍴 Forks: 12,109 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,446,486
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,920 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.65% (725,124 LOC)
+TypeScript           ███████                    29.64% (725,141 LOC)
 C                    ███████                    27.55% (673,946 LOC)
-Jupyter Notebook     ██                          8.84% (216,134 LOC)
-MDX                  ██                          7.80% (190,847 LOC)
+Jupyter Notebook     ██                          8.83% (216,134 LOC)
+MDX                  ██                          7.82% (191,324 LOC)
 Python               ██                          6.70% (163,927 LOC)
-HTML                 █                           4.67% (114,106 LOC)
+HTML                 █                           4.66% (114,106 LOC)
 JavaScript           █                           4.66% (114,007 LOC)
 Makefile             █                           2.54% (62,184 LOC)
 ```
@@ -101,10 +101,10 @@ Dockerfile           █                           3.90% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.65% (36,256,208 bytes)
+TypeScript           ███████                    29.64% (36,257,042 bytes)
 C                    ███████                    27.55% (33,697,286 bytes)
-Jupyter Notebook     ██                          8.84% (10,806,681 bytes)
-MDX                  ██                          7.80% (9,542,353 bytes)
+Jupyter Notebook     ██                          8.83% (10,806,681 bytes)
+MDX                  ██                          7.82% (9,566,190 bytes)
 Python               ██                          6.70% (8,196,292 bytes)
 HTML                 █                           4.66% (5,705,260 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.67% (1,826,383 LOC)
+AI / ML              ███████████████████        74.67% (1,826,877 LOC)
 Other                █████                      19.00% (464,815 LOC)
 Web Apps             █                           4.93% (120,568 LOC)
 Data Systems                                     1.40% (34,226 LOC)
@@ -209,5 +209,5 @@ IB-Integrated-Design-Project-Group-M202/competition-in-arena                █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 16 Apr 2026 05:56:10 GMT_
+_Last updated on Thu, 16 Apr 2026 09:09:17 GMT_
 <!-- DEV_METRICS_END -->
