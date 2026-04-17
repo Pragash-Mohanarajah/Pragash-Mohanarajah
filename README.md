@@ -66,22 +66,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,439
-- 💖 Commit Breakdown: 558 public (7.5%), 6,881 private (92.5%) · 4,370 owned (58.7%), 3,069 contributed (41.3%)
+- ✨ Total Commits: 7,445
+- 💖 Commit Breakdown: 558 public (7.5%), 6,887 private (92.5%) · 4,376 owned (58.8%), 3,069 contributed (41.2%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,035 · 👀 Watchers: 710 · 🍴 Forks: 12,120 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,455,710
+- ⭐ Stars: 101,045 · 👀 Watchers: 710 · 🍴 Forks: 12,124 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,455,758
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,921 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.54% (725,329 LOC)
+TypeScript           ███████                    29.54% (725,356 LOC)
 C                    ███████                    27.44% (673,946 LOC)
 Jupyter Notebook     ██                          8.80% (216,134 LOC)
 MDX                  ██                          7.79% (191,387 LOC)
-Python               ██                          6.86% (168,350 LOC)
+Python               ██                          6.86% (168,371 LOC)
 HTML                 █                           4.66% (114,454 LOC)
 JavaScript           █                           4.64% (114,007 LOC)
 Makefile             █                           2.53% (62,184 LOC)
@@ -101,11 +101,11 @@ Dockerfile           █                           3.81% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.54% (36,266,398 bytes)
+TypeScript           ███████                    29.54% (36,267,749 bytes)
 C                    ███████                    27.44% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.80% (10,806,681 bytes)
 MDX                  ██                          7.79% (9,569,326 bytes)
-Python               ██                          6.86% (8,417,393 bytes)
+Python               ██                          6.86% (8,418,469 bytes)
 HTML                 █                           4.66% (5,722,638 bytes)
 ```
 
@@ -119,7 +119,7 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.61% (1,832,286 LOC)
+AI / ML              ███████████████████        74.61% (1,832,334 LOC)
 Other                █████                      19.08% (468,606 LOC)
 Web Apps             █                           4.91% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
@@ -161,19 +161,19 @@ Evening (18-24)      ███                        13.98% (377 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.42% (572 contributions)
-Monday               ████                       15.01% (1,157 contributions)
-Tuesday              █████                      19.30% (1,488 contributions)
-Wednesday            █████                      19.82% (1,528 contributions)
-Thursday             ████                       16.03% (1,236 contributions)
-Friday               ████                       16.42% (1,266 contributions)
+Sunday               ██                          7.41% (572 contributions)
+Monday               ████                       15.00% (1,157 contributions)
+Tuesday              █████                      19.29% (1,488 contributions)
+Wednesday            █████                      19.81% (1,528 contributions)
+Thursday             ████                       16.02% (1,236 contributions)
+Friday               ████                       16.49% (1,272 contributions)
 Saturday             █                           5.99% (462 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.39% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.29% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    26.37% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.27% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.37% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.43% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.85% (212 commits)
@@ -182,9 +182,12 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/ai-hdr-inference — chore: remove license for inference software
+- Pragash-Mohanarajah/ai-hdr-inference — feat: loads questions from the dedicated query folder with individual files for each placeholder
+- Pragash-Mohanarajah/ai-hdr-inference — feat: loads questions from the dedicated query folder with individual files for each placeholder
+- Pragash-Mohanarajah/ai-hdr-inference — feat: moved queries to separate text files for ease of access and editing; include placeholders for filling during inference; can load questions from attached txt files, rather than from config
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved base query with organised 46 questions
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved base query with comprehensive 50 questions
 - AxiaFunder/axiafunder — TODO: temp: prevent git enabled deployments to Vercel; need to remove this setting once application has been migrated and compiles
-- Pragash-Mohanarajah/ai-hdr-inference — chore: downgrade to gemini 2.5 flash lite to reduce costs
 - AxiaFunder/axiafunder — chore: remove restrictions on node js engine
 - AxiaFunder/axiafunder — feat: copy current supabase migration log and database config to new application
 - Pragash-Mohanarajah/dashboard-axiafunder — fix: apply universal cell value normalisation before writing data to Google Sheets for compliance
@@ -194,9 +197,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
-- Pragash-Mohanarajah/taec-examportal — Improved Loading and Error screens in Exam Page
-- Pragash-Mohanarajah/ai-hdr-inference — feat: ensures that the answers are parsed correctly, labelled by the base question and saved to the CSV output correctly
-- Pragash-Mohanarajah/ai-hdr-inference — feat: ensures that the answers are non-empty; fixes the json file structure errors before saving response to csv file
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 17 Apr 2026 09:08:32 GMT_
+_Last updated on Fri, 17 Apr 2026 12:56:55 GMT_
 <!-- DEV_METRICS_END -->
