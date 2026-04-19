@@ -64,20 +64,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 0 days
+- 🔥 Current Streak: 1 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,455
-- 💖 Commit Breakdown: 558 public (7.5%), 6,897 private (92.5%) · 4,386 owned (58.8%), 3,069 contributed (41.2%)
+- ✨ Total Commits: 7,456
+- 💖 Commit Breakdown: 558 public (7.5%), 6,898 private (92.5%) · 4,387 owned (58.8%), 3,069 contributed (41.2%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,139 · 👀 Watchers: 710 · 🍴 Forks: 12,134 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,458,148
+- ⭐ Stars: 101,145 · 👀 Watchers: 710 · 🍴 Forks: 12,137 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,458,228
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,923 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.54% (726,124 LOC)
+TypeScript           ███████                    29.54% (726,204 LOC)
 C                    ███████                    27.42% (673,946 LOC)
 Jupyter Notebook     ██                          8.79% (216,134 LOC)
 MDX                  ██                          7.84% (192,828 LOC)
@@ -101,7 +101,7 @@ Dockerfile           █                           3.81% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.54% (36,306,163 bytes)
+TypeScript           ███████                    29.54% (36,310,129 bytes)
 C                    ███████                    27.42% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.79% (10,806,681 bytes)
 MDX                  ██                          7.84% (9,641,384 bytes)
@@ -120,7 +120,7 @@ Data Systems         █                           5.75% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ███████████████████        74.64% (1,834,724 LOC)
-Other                █████                      19.06% (468,606 LOC)
+Other                █████                      19.07% (468,686 LOC)
 Web Apps             █                           4.91% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -154,26 +154,26 @@ SCSS                 █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.78% (21 commits)
-Morning (06-12)      ██████████████             54.10% (1,459 commits)
-Afternoon (12-18)    ████████                   31.15% (840 commits)
-Evening (18-24)      ███                        13.98% (377 commits)
+Morning (06-12)      ██████████████             54.11% (1,460 commits)
+Afternoon (12-18)    ████████                   31.13% (840 commits)
+Evening (18-24)      ███                        13.97% (377 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.40% (572 contributions)
+Sunday               ██                          7.42% (573 contributions)
 Monday               ████                       14.98% (1,157 contributions)
 Tuesday              █████                      19.26% (1,488 contributions)
 Wednesday            █████                      19.78% (1,528 contributions)
 Thursday             ████                       16.00% (1,236 contributions)
-Friday               ████                       16.60% (1,282 contributions)
+Friday               ████                       16.59% (1,282 contributions)
 Saturday             █                           5.98% (462 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             ███████                    26.33% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.24% (1,956 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.23% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.36% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.42% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.84% (212 commits)
@@ -182,6 +182,7 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with sidebar and multiple screens as needed
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved pipeline where JSON files are parsed more accurately; uses fuzzy matching to match the LLM key to the actual question with similarity threshold 0.75
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved pipeline where JSON files are parsed more accurately
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved pipeline where files are loaded into GCS and Vertex AI cache just once for all of the subsequent queries; reduces costs by 80%
@@ -196,7 +197,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - AxiaFunder/axiafunder — feat: migrate all ui components using radix ui; need to implement accent colour and company specific view changes
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
 - Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
-- Pragash-Mohanarajah/taec-attendance — feat: fully redesigned application with multiple screens in order from authentication to exit
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 19 Apr 2026 05:53:22 GMT_
+_Last updated on Sun, 19 Apr 2026 08:42:46 GMT_
 <!-- DEV_METRICS_END -->
