@@ -11,6 +11,7 @@ jobs:
 
     env:
       API_SECRET_TOKEN: ${{ secrets.API_SECRET_TOKEN }}
+      VERCEL_AUTOMATION_BYPASS_SECRET: ${{ secrets.VERCEL_AUTOMATION_BYPASS_SECRET }}
       STATS_URL: ${{ vars.STATS_URL }}
       SECTION_NAME: DEV_METRICS
       COMMIT_MESSAGE: Updated with Dev Metrics
