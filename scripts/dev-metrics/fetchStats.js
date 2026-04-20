@@ -31,6 +31,7 @@ async function fetchStats() {
   const headers = {
     Authorization: `Bearer ${process.env.API_SECRET_TOKEN}`,
     "Content-Type": "application/json",
+    "x-vercel-protection-bypass": process.env.VERCEL_AUTOMATION_BYPASS_SECRET,
   }
 
   // 1. Fetch Core Stats
