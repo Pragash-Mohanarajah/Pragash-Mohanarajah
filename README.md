@@ -66,22 +66,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,516
-- 💖 Commit Breakdown: 561 public (7.5%), 6,955 private (92.5%) · 4,445 owned (59.1%), 3,071 contributed (40.9%)
+- ✨ Total Commits: 7,521
+- 💖 Commit Breakdown: 561 public (7.5%), 6,960 private (92.5%) · 4,450 owned (59.2%), 3,071 contributed (40.8%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,342 · 👀 Watchers: 709 · 🍴 Forks: 12,175 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,466,657
+- ⭐ Stars: 101,356 · 👀 Watchers: 710 · 🍴 Forks: 12,180 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,467,109
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,927 days
+- 📅 Account age: 1,928 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.63% (730,965 LOC)
+TypeScript           ███████                    29.65% (731,398 LOC)
 C                    ███████                    27.32% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
 MDX                  ██                          7.91% (195,075 LOC)
-Python               ██                          6.82% (168,332 LOC)
+Python               ██                          6.82% (168,351 LOC)
 HTML                 █                           4.64% (114,454 LOC)
 JavaScript           █                           4.62% (114,027 LOC)
 Makefile             █                           2.52% (62,184 LOC)
@@ -101,11 +101,11 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.63% (36,548,204 bytes)
+TypeScript           ███████                    29.65% (36,569,852 bytes)
 C                    ███████                    27.32% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
 MDX                  ██                          7.91% (9,753,773 bytes)
-Python               ██                          6.82% (8,416,494 bytes)
+Python               ██                          6.82% (8,417,467 bytes)
 HTML                 █                           4.64% (5,722,638 bytes)
 ```
 
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.72% (1,842,976 LOC)
-Other                █████                      19.01% (468,863 LOC)
+AI / ML              ███████████████████        74.72% (1,843,428 LOC)
+Other                █████                      19.00% (468,863 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -155,26 +155,26 @@ Makefile             █                           5.75% (5 repos)
 ```
 Night (00-06)                                    0.75% (21 commits)
 Morning (06-12)      █████████████              52.96% (1,486 commits)
-Afternoon (12-18)    ████████                   32.79% (920 commits)
-Evening (18-24)      ███                        13.51% (379 commits)
+Afternoon (12-18)    ████████                   32.68% (917 commits)
+Evening (18-24)      ███                        13.61% (382 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.49% (583 contributions)
-Monday               ████                       15.04% (1,171 contributions)
-Tuesday              █████                      19.22% (1,497 contributions)
-Wednesday            █████                      19.83% (1,544 contributions)
-Thursday             ████                       16.03% (1,248 contributions)
-Friday               ████                       16.46% (1,282 contributions)
+Sunday               ██                          7.48% (583 contributions)
+Monday               ████                       15.03% (1,171 contributions)
+Tuesday              █████                      19.21% (1,497 contributions)
+Wednesday            █████                      19.82% (1,544 contributions)
+Thursday             ████                       16.08% (1,253 contributions)
+Friday               ████                       16.45% (1,282 contributions)
 Saturday             █                           5.93% (462 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.12% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.02% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.31% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    26.10% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.01% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.30% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.39% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.85% (214 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.82% (212 commits)
@@ -182,11 +182,11 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — debug: add debugging output to cloud runner to see if config file is being loaded correctly
+- Pragash-Mohanarajah/ai-hdr-inference — debug: add debugging output to cloud runner to see if config file is being loaded correctly
+- Pragash-Mohanarajah/ai-hdr-inference — debug: add debugging output to cloud runner to see if config file is being loaded correctly
+- Pragash-Mohanarajah/ai-hdr-inference — fix: point path correctly to config.json volume in cloud runner
 - Pragash-Mohanarajah/ai-hdr-inference — fix: increase http timeouts in google drive for cloud runner functions
-- Pragash-Mohanarajah/ai-hdr-inference — fix: increase http timeouts in google drive for cloud runner functions
-- Pragash-Mohanarajah/ai-hdr-inference — fix: increase http timeouts in google drive for cloud runner functions
-- Pragash-Mohanarajah/ai-hdr-inference — fix: increase http timeouts in google drive for cloud runner functions
-- Pragash-Mohanarajah/ai-hdr-inference — feat: implement dockerfile to deploy reliably to the cloud with latest python versions and controlled executions
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: enable interactive mode for inference, when run from control panel
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 23 Apr 2026 17:10:03 GMT_
+_Last updated on Thu, 23 Apr 2026 20:43:17 GMT_
 <!-- DEV_METRICS_END -->
