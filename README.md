@@ -64,14 +64,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 4 days
+- 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,504
-- 💖 Commit Breakdown: 561 public (7.5%), 6,943 private (92.5%) · 4,433 owned (59.1%), 3,071 contributed (40.9%)
+- ✨ Total Commits: 7,506
+- 💖 Commit Breakdown: 561 public (7.5%), 6,945 private (92.5%) · 4,435 owned (59.1%), 3,071 contributed (40.9%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,316 · 👀 Watchers: 709 · 🍴 Forks: 12,173 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,465,670
+- ⭐ Stars: 101,324 · 👀 Watchers: 709 · 🍴 Forks: 12,174 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,465,770
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,927 days
 
@@ -80,8 +80,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 TypeScript           ███████                    29.61% (730,090 LOC)
 C                    ███████                    27.33% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
-MDX                  ██                          7.91% (195,073 LOC)
-Python               ██                          6.82% (168,233 LOC)
+MDX                  ██                          7.91% (195,077 LOC)
+Python               ██                          6.83% (168,329 LOC)
 HTML                 █                           4.64% (114,454 LOC)
 JavaScript           █                           4.62% (114,027 LOC)
 Makefile             █                           2.52% (62,184 LOC)
@@ -104,8 +104,8 @@ Dockerfile           █                           3.80% (9 repos)
 TypeScript           ███████                    29.61% (36,504,454 bytes)
 C                    ███████                    27.33% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
-MDX                  ██                          7.91% (9,753,635 bytes)
-Python               ██                          6.82% (8,411,545 bytes)
+MDX                  ██                          7.91% (9,753,870 bytes)
+Python               ██                          6.83% (8,416,367 bytes)
 HTML                 █                           4.64% (5,722,638 bytes)
 ```
 
@@ -119,7 +119,7 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.71% (1,842,058 LOC)
+AI / ML              ███████████████████        74.71% (1,842,158 LOC)
 Other                █████                      19.01% (468,794 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
@@ -154,9 +154,9 @@ Makefile             █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.75% (21 commits)
-Morning (06-12)      █████████████              52.94% (1,485 commits)
-Afternoon (12-18)    ████████                   32.76% (919 commits)
-Evening (18-24)      ███                        13.55% (380 commits)
+Morning (06-12)      █████████████              52.96% (1,486 commits)
+Afternoon (12-18)    ████████                   32.75% (919 commits)
+Evening (18-24)      ███                        13.54% (380 commits)
 ```
 
 ### 📅 Productivity by Day
@@ -164,29 +164,29 @@ Evening (18-24)      ███                        13.55% (380 commits)
 Sunday               ██                          7.50% (583 contributions)
 Monday               ████                       15.06% (1,171 contributions)
 Tuesday              █████                      19.25% (1,497 contributions)
-Wednesday            █████                      19.86% (1,544 contributions)
-Thursday             ████                       15.90% (1,236 contributions)
-Friday               ████                       16.49% (1,282 contributions)
+Wednesday            █████                      19.85% (1,544 contributions)
+Thursday             ████                       15.92% (1,238 contributions)
+Friday               ████                       16.48% (1,282 contributions)
 Saturday             █                           5.94% (462 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.16% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.07% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.32% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    26.15% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.06% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.31% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.40% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.85% (214 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.83% (212 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.82% (212 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.80% (210 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: implement individual standalone inference and sync pipelines with gcloud run
+- Pragash-Mohanarajah/ai-hdr-inference — feat: implement cloud based running solution with google cloud run for parallel processing
 - Pragash-Mohanarajah/ai-hdr-inference — feat: migrates the code changes from the main python script into jupyter notebook
 - Pragash-Mohanarajah/ai-hdr-inference — feat: migrates the code changes from the main python script into jupyter notebook
 - Pragash-Mohanarajah/ai-hdr-inference — feat: incorporate system instructions into general queries, thereby reducing costs
-- Pragash-Mohanarajah/ai-hdr-inference — feat: implement comprehensive system prompt for case reviewer agent
-- Pragash-Mohanarajah/ai-hdr-inference — feat: implement full clean of gcs and ai cache mode in main function
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: enable interactive mode for inference, when run from control panel
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 23 Apr 2026 09:18:21 GMT_
+_Last updated on Thu, 23 Apr 2026 13:01:48 GMT_
 <!-- DEV_METRICS_END -->
