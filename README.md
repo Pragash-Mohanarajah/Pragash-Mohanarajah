@@ -64,26 +64,26 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 5 days
+- 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,521
-- 💖 Commit Breakdown: 561 public (7.5%), 6,960 private (92.5%) · 4,450 owned (59.2%), 3,071 contributed (40.8%)
+- ✨ Total Commits: 7,529
+- 💖 Commit Breakdown: 561 public (7.5%), 6,968 private (92.5%) · 4,458 owned (59.2%), 3,071 contributed (40.8%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,375 · 👀 Watchers: 710 · 🍴 Forks: 12,181 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,467,510
+- ⭐ Stars: 101,389 · 👀 Watchers: 710 · 🍴 Forks: 12,185 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,466,570
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,928 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.66% (731,799 LOC)
-C                    ███████                    27.31% (673,946 LOC)
+TypeScript           ███████                    29.66% (731,554 LOC)
+C                    ███████                    27.32% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
-MDX                  ██                          7.91% (195,075 LOC)
-Python               ██                          6.82% (168,351 LOC)
+MDX                  ██                          7.91% (195,082 LOC)
+Python               ██                          6.83% (168,396 LOC)
 HTML                 █                           4.64% (114,454 LOC)
-JavaScript           █                           4.62% (114,027 LOC)
+JavaScript           █                           4.60% (113,402 LOC)
 Makefile             █                           2.52% (62,184 LOC)
 ```
 
@@ -101,11 +101,11 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.66% (36,589,883 bytes)
-C                    ███████                    27.31% (33,697,286 bytes)
+TypeScript           ███████                    29.66% (36,577,637 bytes)
+C                    ███████                    27.32% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
-MDX                  ██                          7.91% (9,753,767 bytes)
-Python               ██                          6.82% (8,417,467 bytes)
+MDX                  ██                          7.91% (9,754,086 bytes)
+Python               ██                          6.83% (8,419,696 bytes)
 HTML                 █                           4.64% (5,722,638 bytes)
 ```
 
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.72% (1,843,829 LOC)
-Other                █████                      19.00% (468,863 LOC)
+AI / ML              ███████████████████        74.71% (1,842,889 LOC)
+Other                █████                      19.01% (468,863 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -154,39 +154,39 @@ Makefile             █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.75% (21 commits)
-Morning (06-12)      █████████████              52.96% (1,486 commits)
-Afternoon (12-18)    ████████                   32.68% (917 commits)
+Morning (06-12)      █████████████              53.22% (1,494 commits)
+Afternoon (12-18)    ████████                   32.42% (910 commits)
 Evening (18-24)      ███                        13.61% (382 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.48% (583 contributions)
-Monday               ████                       15.03% (1,171 contributions)
-Tuesday              █████                      19.21% (1,497 contributions)
-Wednesday            █████                      19.82% (1,544 contributions)
-Thursday             ████                       16.08% (1,253 contributions)
-Friday               ████                       16.45% (1,282 contributions)
-Saturday             █                           5.93% (462 contributions)
+Sunday               ██                          7.47% (583 contributions)
+Monday               ████                       15.01% (1,171 contributions)
+Tuesday              █████                      19.19% (1,497 contributions)
+Wednesday            █████                      19.79% (1,544 contributions)
+Thursday             ████                       16.06% (1,253 contributions)
+Friday               ████                       16.54% (1,290 contributions)
+Saturday             █                           5.92% (462 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.10% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ███████                    26.01% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    26.07% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.98% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.30% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.39% (255 commits)
-n15hsy/axia-lm-optimizer                                                    █                           2.85% (214 commits)
+n15hsy/axia-lm-optimizer                                                    █                           2.84% (214 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.82% (212 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.79% (210 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/ai-hdr-inference — debug: add debugging output to cloud runner to see if config file is being loaded correctly
-- Pragash-Mohanarajah/ai-hdr-inference — debug: add debugging output to cloud runner to see if config file is being loaded correctly
-- Pragash-Mohanarajah/ai-hdr-inference — debug: add debugging output to cloud runner to see if config file is being loaded correctly
-- Pragash-Mohanarajah/ai-hdr-inference — fix: point path correctly to config.json volume in cloud runner
-- Pragash-Mohanarajah/ai-hdr-inference — fix: increase http timeouts in google drive for cloud runner functions
+- Pragash-Mohanarajah/ai-hdr-inference — fix: correctly encode json response from AI models into data bytes before uploading to GCS bucket
+- Pragash-Mohanarajah/ai-hdr-inference — fix: remove unnecessary trailing backslash correctly and safely for GCS uploads
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved report service logic to support GCS locations for raw json and corresponding temporary reports
+- Pragash-Mohanarajah/ai-hdr-inference — fix: use correct upload paths for PDF parts for accurate inference
+- Pragash-Mohanarajah/ai-hdr-inference — debug: add logging information, when raw JSON files are uploaded successfully
 - Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 - n15hsy/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: enable interactive mode for inference, when run from control panel
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 24 Apr 2026 06:03:08 GMT_
+_Last updated on Fri, 24 Apr 2026 09:22:41 GMT_
 <!-- DEV_METRICS_END -->
