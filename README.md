@@ -66,18 +66,18 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,532
-- 💖 Commit Breakdown: 561 public (7.4%), 6,971 private (92.6%) · 4,461 owned (59.2%), 3,071 contributed (40.8%)
+- ✨ Total Commits: 7,536
+- 💖 Commit Breakdown: 561 public (7.4%), 6,975 private (92.6%) · 4,465 owned (59.2%), 3,071 contributed (40.8%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,453 · 👀 Watchers: 712 · 🍴 Forks: 12,193 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,465,827
+- ⭐ Stars: 101,458 · 👀 Watchers: 713 · 🍴 Forks: 12,194 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,465,848
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,929 days
+- 📅 Account age: 1,930 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.62% (730,499 LOC)
+TypeScript           ███████                    29.63% (730,520 LOC)
 C                    ███████                    27.33% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
 MDX                  ██                          7.93% (195,562 LOC)
@@ -101,7 +101,7 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.62% (36,524,871 bytes)
+TypeScript           ███████                    29.63% (36,525,929 bytes)
 C                    ███████                    27.33% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
 MDX                  ██                          7.93% (9,778,081 bytes)
@@ -120,7 +120,7 @@ Data Systems         █                           5.75% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ███████████████████        74.71% (1,842,146 LOC)
-Other                █████                      19.01% (468,863 LOC)
+Other                █████                      19.02% (468,884 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -162,26 +162,30 @@ Evening (18-24)      ███                        13.60% (382 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.47% (583 contributions)
-Monday               ████                       15.01% (1,171 contributions)
+Monday               ████                       15.00% (1,171 contributions)
 Tuesday              █████                      19.18% (1,497 contributions)
-Wednesday            █████                      19.79% (1,544 contributions)
-Thursday             ████                       16.06% (1,253 contributions)
-Friday               ████                       16.56% (1,292 contributions)
-Saturday             █                           5.93% (463 contributions)
+Wednesday            █████                      19.78% (1,544 contributions)
+Thursday             ████                       16.05% (1,253 contributions)
+Friday               ████                       16.55% (1,292 contributions)
+Saturday             █                           5.98% (467 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.06% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.97% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    26.05% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.96% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.29% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.39% (255 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.38% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.84% (214 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.81% (212 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.79% (210 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-attendance — feat: connected the real api endpoints to the application
+- Pragash-Mohanarajah/taec-attendance — feat: connected the real api endpoints to the application
+- Pragash-Mohanarajah/taec-attendance — feat: store event id and center id locally on phones in session
+- Pragash-Mohanarajah/taec-attendance — feat: implement types definition in shared location for completeness
 - Pragash-Mohanarajah/taec-attendance — feat: improved assets for project to match current logo and assets
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for when the task count is more than 1; ensures that the job checks until all of the individual shards have completed successfully before preparing reports
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for singular execution flow, i.e. no jobs in parallel
@@ -193,10 +197,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: enable interactive mode for inference, when run from control panel
 - n15hsy/axia-lm-optimizer — feat: enable interactive mode for inference, when run from control panel
 - Pragash-Mohanarajah/work-tracker — chore: vercel automation bypass for github actions bot commits
-- Pragash-Mohanarajah/Pragash-Mohanarajah — chore: vercel automation bypass for github actions bot commits
-- Pragash-Mohanarajah/Pragash-Mohanarajah — chore: vercel automation bypass for github actions bot commits
-- Pragash-Mohanarajah/taec-attendance — feat: implement fail-safe application with fallback center names and detached implementation for web
-- Pragash-Mohanarajah/taec-attendance — fix: correct package versions for typescript compatibility
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 25 Apr 2026 16:31:03 GMT_
+_Last updated on Sat, 25 Apr 2026 20:28:52 GMT_
 <!-- DEV_METRICS_END -->
