@@ -66,19 +66,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,541
-- 💖 Commit Breakdown: 561 public (7.4%), 6,980 private (92.6%) · 4,470 owned (59.3%), 3,071 contributed (40.7%)
+- ✨ Total Commits: 7,547
+- 💖 Commit Breakdown: 561 public (7.4%), 6,986 private (92.6%) · 4,476 owned (59.3%), 3,071 contributed (40.7%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,488 · 👀 Watchers: 713 · 🍴 Forks: 12,204 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,466,225
+- ⭐ Stars: 101,494 · 👀 Watchers: 713 · 🍴 Forks: 12,205 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,466,525
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,930 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.64% (730,897 LOC)
-C                    ███████                    27.33% (673,946 LOC)
+TypeScript           ███████                    29.64% (731,197 LOC)
+C                    ███████                    27.32% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
 MDX                  ██                          7.93% (195,562 LOC)
 Python               ██                          6.83% (168,396 LOC)
@@ -101,8 +101,8 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.64% (36,544,774 bytes)
-C                    ███████                    27.33% (33,697,286 bytes)
+TypeScript           ███████                    29.64% (36,559,780 bytes)
+C                    ███████                    27.32% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
 MDX                  ██                          7.93% (9,778,081 bytes)
 Python               ██                          6.83% (8,419,696 bytes)
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.69% (1,842,146 LOC)
-Other                █████                      19.03% (469,261 LOC)
+AI / ML              ███████████████████        74.69% (1,842,210 LOC)
+Other                █████                      19.03% (469,497 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -154,27 +154,27 @@ Makefile             █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.75% (21 commits)
-Morning (06-12)      █████████████              53.33% (1,498 commits)
-Afternoon (12-18)    ████████                   32.32% (908 commits)
-Evening (18-24)      ███                        13.60% (382 commits)
+Morning (06-12)      █████████████              53.35% (1,499 commits)
+Afternoon (12-18)    ████████                   32.31% (908 commits)
+Evening (18-24)      ███                        13.59% (382 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.53% (588 contributions)
-Monday               ████                       14.99% (1,171 contributions)
-Tuesday              █████                      19.16% (1,497 contributions)
-Wednesday            █████                      19.76% (1,544 contributions)
-Thursday             ████                       16.04% (1,253 contributions)
-Friday               ████                       16.54% (1,292 contributions)
-Saturday             █                           5.98% (467 contributions)
+Sunday               ██                          7.60% (594 contributions)
+Monday               ████                       14.98% (1,171 contributions)
+Tuesday              █████                      19.15% (1,497 contributions)
+Wednesday            █████                      19.75% (1,544 contributions)
+Thursday             ████                       16.03% (1,253 contributions)
+Friday               ████                       16.53% (1,292 contributions)
+Saturday             █                           5.97% (467 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.03% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.94% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.29% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    26.01% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.92% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.28% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.38% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.84% (214 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.81% (212 commits)
@@ -182,11 +182,12 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-attendance — feat: add toggle between manual and qr code mode within mobile app, when QR mode is not working
-- Pragash-Mohanarajah/taec-attendance — feat: implement the same auth logic shared from the main exam portal
-- Pragash-Mohanarajah/taec-attendance — feat: improved layout and similar UI frameworks to original desktop app
-- Pragash-Mohanarajah/taec-attendance — feat: multiple improvements to components to foster cleaner ui
-- Pragash-Mohanarajah/taec-attendance — fix: correct backend calls logic to match standards
+- Pragash-Mohanarajah/taec-attendance — feat: implement settings page for biometric login
+- Pragash-Mohanarajah/taec-examportal-backend — feat: correct mobile centers retrieval logic for backend endpoints
+- Pragash-Mohanarajah/taec-attendance — feat: automatic logout logic when tokens are invalid during api call
+- Pragash-Mohanarajah/taec-attendance — feat: implement protected routes logic for main app flow when tokens have expired
+- Pragash-Mohanarajah/taec-attendance — feat: added retry logic and redirections where routing happens incorrectly
+- Pragash-Mohanarajah/taec-attendance — feat: improved error handling and loading indication in all pages
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for when the task count is more than 1; ensures that the job checks until all of the individual shards have completed successfully before preparing reports
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for singular execution flow, i.e. no jobs in parallel
 - Pragash-Mohanarajah/ai-hdr-inference — fix: correctly encode json response from AI models into data bytes before uploading to GCS bucket
@@ -196,7 +197,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - n15hsy/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: enable interactive mode for inference, when run from control panel
 - n15hsy/axia-lm-optimizer — feat: enable interactive mode for inference, when run from control panel
-- Pragash-Mohanarajah/work-tracker — chore: vercel automation bypass for github actions bot commits
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 26 Apr 2026 12:42:28 GMT_
+_Last updated on Sun, 26 Apr 2026 16:32:10 GMT_
 <!-- DEV_METRICS_END -->
