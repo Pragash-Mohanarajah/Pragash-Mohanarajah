@@ -64,20 +64,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 7 days
+- 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,536
-- 💖 Commit Breakdown: 561 public (7.4%), 6,975 private (92.6%) · 4,465 owned (59.2%), 3,071 contributed (40.8%)
+- ✨ Total Commits: 7,541
+- 💖 Commit Breakdown: 561 public (7.4%), 6,980 private (92.6%) · 4,470 owned (59.3%), 3,071 contributed (40.7%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,482 · 👀 Watchers: 713 · 🍴 Forks: 12,202 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,465,848
+- ⭐ Stars: 101,488 · 👀 Watchers: 713 · 🍴 Forks: 12,204 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,466,225
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,930 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.63% (730,520 LOC)
+TypeScript           ███████                    29.64% (730,897 LOC)
 C                    ███████                    27.33% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
 MDX                  ██                          7.93% (195,562 LOC)
@@ -101,7 +101,7 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.63% (36,525,929 bytes)
+TypeScript           ███████                    29.64% (36,544,774 bytes)
 C                    ███████                    27.33% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
 MDX                  ██                          7.93% (9,778,081 bytes)
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.71% (1,842,146 LOC)
-Other                █████                      19.02% (468,884 LOC)
+AI / ML              ███████████████████        74.69% (1,842,146 LOC)
+Other                █████                      19.03% (469,261 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -154,39 +154,39 @@ Makefile             █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.75% (21 commits)
-Morning (06-12)      █████████████              53.31% (1,497 commits)
-Afternoon (12-18)    ████████                   32.34% (908 commits)
+Morning (06-12)      █████████████              53.33% (1,498 commits)
+Afternoon (12-18)    ████████                   32.32% (908 commits)
 Evening (18-24)      ███                        13.60% (382 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.47% (583 contributions)
-Monday               ████                       15.00% (1,171 contributions)
-Tuesday              █████                      19.18% (1,497 contributions)
-Wednesday            █████                      19.78% (1,544 contributions)
-Thursday             ████                       16.05% (1,253 contributions)
-Friday               ████                       16.55% (1,292 contributions)
+Sunday               ██                          7.53% (588 contributions)
+Monday               ████                       14.99% (1,171 contributions)
+Tuesday              █████                      19.16% (1,497 contributions)
+Wednesday            █████                      19.76% (1,544 contributions)
+Thursday             ████                       16.04% (1,253 contributions)
+Friday               ████                       16.54% (1,292 contributions)
 Saturday             █                           5.98% (467 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.05% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.96% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ███████                    26.03% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.94% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.29% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.38% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.84% (214 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.81% (212 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           2.79% (210 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           2.78% (210 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-attendance — feat: connected the real api endpoints to the application
-- Pragash-Mohanarajah/taec-attendance — feat: connected the real api endpoints to the application
-- Pragash-Mohanarajah/taec-attendance — feat: store event id and center id locally on phones in session
-- Pragash-Mohanarajah/taec-attendance — feat: implement types definition in shared location for completeness
-- Pragash-Mohanarajah/taec-attendance — feat: improved assets for project to match current logo and assets
+- Pragash-Mohanarajah/taec-attendance — feat: add toggle between manual and qr code mode within mobile app, when QR mode is not working
+- Pragash-Mohanarajah/taec-attendance — feat: implement the same auth logic shared from the main exam portal
+- Pragash-Mohanarajah/taec-attendance — feat: improved layout and similar UI frameworks to original desktop app
+- Pragash-Mohanarajah/taec-attendance — feat: multiple improvements to components to foster cleaner ui
+- Pragash-Mohanarajah/taec-attendance — fix: correct backend calls logic to match standards
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for when the task count is more than 1; ensures that the job checks until all of the individual shards have completed successfully before preparing reports
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for singular execution flow, i.e. no jobs in parallel
 - Pragash-Mohanarajah/ai-hdr-inference — fix: correctly encode json response from AI models into data bytes before uploading to GCS bucket
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 26 Apr 2026 08:49:54 GMT_
+_Last updated on Sun, 26 Apr 2026 12:42:28 GMT_
 <!-- DEV_METRICS_END -->
