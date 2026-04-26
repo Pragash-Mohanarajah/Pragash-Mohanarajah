@@ -66,18 +66,18 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,547
-- 💖 Commit Breakdown: 561 public (7.4%), 6,986 private (92.6%) · 4,476 owned (59.3%), 3,071 contributed (40.7%)
+- ✨ Total Commits: 7,558
+- 💖 Commit Breakdown: 561 public (7.4%), 6,997 private (92.6%) · 4,487 owned (59.4%), 3,071 contributed (40.6%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,494 · 👀 Watchers: 713 · 🍴 Forks: 12,205 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,466,525
+- ⭐ Stars: 101,501 · 👀 Watchers: 713 · 🍴 Forks: 12,208 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,466,682
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,930 days
+- 📅 Account age: 1,931 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.64% (731,197 LOC)
+TypeScript           ███████                    29.65% (731,354 LOC)
 C                    ███████                    27.32% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
 MDX                  ██                          7.93% (195,562 LOC)
@@ -101,7 +101,7 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.64% (36,559,780 bytes)
+TypeScript           ███████                    29.65% (36,567,660 bytes)
 C                    ███████                    27.32% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
 MDX                  ██                          7.93% (9,778,081 bytes)
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.69% (1,842,210 LOC)
-Other                █████                      19.03% (469,497 LOC)
+AI / ML              ███████████████████        74.68% (1,842,210 LOC)
+Other                █████                      19.04% (469,654 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -161,33 +161,33 @@ Evening (18-24)      ███                        13.59% (382 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.60% (594 contributions)
-Monday               ████                       14.98% (1,171 contributions)
-Tuesday              █████                      19.15% (1,497 contributions)
-Wednesday            █████                      19.75% (1,544 contributions)
-Thursday             ████                       16.03% (1,253 contributions)
-Friday               ████                       16.53% (1,292 contributions)
+Sunday               ██                          7.73% (605 contributions)
+Monday               ████                       14.96% (1,171 contributions)
+Tuesday              █████                      19.12% (1,497 contributions)
+Wednesday            █████                      19.72% (1,544 contributions)
+Thursday             ████                       16.00% (1,253 contributions)
+Friday               ████                       16.50% (1,292 contributions)
 Saturday             █                           5.97% (467 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ███████                    26.01% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.92% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.28% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.38% (255 commits)
-n15hsy/axia-lm-optimizer                                                    █                           2.84% (214 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.81% (212 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     25.97% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.88% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.27% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.37% (255 commits)
+n15hsy/axia-lm-optimizer                                                    █                           2.83% (214 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.80% (212 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.78% (210 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-attendance — feat: implement settings page for biometric login
+- Pragash-Mohanarajah/taec-attendance — feat: improved layout and UI for manual and direct scanning pages
+- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
+- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
+- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
+- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
 - Pragash-Mohanarajah/taec-examportal-backend — feat: correct mobile centers retrieval logic for backend endpoints
-- Pragash-Mohanarajah/taec-attendance — feat: automatic logout logic when tokens are invalid during api call
-- Pragash-Mohanarajah/taec-attendance — feat: implement protected routes logic for main app flow when tokens have expired
-- Pragash-Mohanarajah/taec-attendance — feat: added retry logic and redirections where routing happens incorrectly
-- Pragash-Mohanarajah/taec-attendance — feat: improved error handling and loading indication in all pages
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for when the task count is more than 1; ensures that the job checks until all of the individual shards have completed successfully before preparing reports
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file for singular execution flow, i.e. no jobs in parallel
 - Pragash-Mohanarajah/ai-hdr-inference — fix: correctly encode json response from AI models into data bytes before uploading to GCS bucket
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 26 Apr 2026 16:32:10 GMT_
+_Last updated on Sun, 26 Apr 2026 20:28:50 GMT_
 <!-- DEV_METRICS_END -->
