@@ -70,20 +70,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 561 public (7.4%), 6,997 private (92.6%) · 4,487 owned (59.4%), 3,071 contributed (40.6%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,521 · 👀 Watchers: 713 · 🍴 Forks: 12,211 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,466,944
+- ⭐ Stars: 101,531 · 👀 Watchers: 713 · 🍴 Forks: 12,213 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,466,945
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,931 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.65% (731,361 LOC)
+TypeScript           ███████                    29.65% (731,372 LOC)
 C                    ███████                    27.32% (673,946 LOC)
 Jupyter Notebook     ██                          8.83% (217,771 LOC)
-MDX                  ██                          7.93% (195,724 LOC)
-Python               ██                          6.83% (168,489 LOC)
+MDX                  ██                          7.93% (195,734 LOC)
+Python               ██                          6.83% (168,527 LOC)
 HTML                 █                           4.64% (114,454 LOC)
-JavaScript           █                           4.60% (113,367 LOC)
+JavaScript           █                           4.59% (113,345 LOC)
 Makefile             █                           2.52% (62,184 LOC)
 ```
 
@@ -101,11 +101,11 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.65% (36,568,003 bytes)
+TypeScript           ███████                    29.65% (36,568,586 bytes)
 C                    ███████                    27.32% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.83% (10,888,541 bytes)
-MDX                  ██                          7.93% (9,786,209 bytes)
-Python               ██                          6.83% (8,424,348 bytes)
+MDX                  ██                          7.93% (9,786,710 bytes)
+Python               ██                          6.83% (8,426,264 bytes)
 HTML                 █                           4.64% (5,722,638 bytes)
 ```
 
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.68% (1,842,379 LOC)
-Other                █████                      19.04% (469,747 LOC)
+AI / ML              ███████████████████        74.68% (1,842,342 LOC)
+Other                █████                      19.04% (469,785 LOC)
 Web Apps             █                           4.89% (120,592 LOC)
 Data Systems                                     1.39% (34,226 LOC)
 ```
@@ -182,6 +182,7 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: correct parts logic for items in merge batch, ensuring that we never exceed the dedicated file size and page limits
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: allow file location override for input, output and archive directories, to assist with server file size limitations
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: improved file size monitoring and correct restore logic for multipart syncing of files into Google Drive
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: break down files into parts during converter stage to avoid duplicate processing during inference; ensures backwards compatibility with previous conversions
@@ -196,7 +197,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/ai-hdr-inference — fix: correctly encode json response from AI models into data bytes before uploading to GCS bucket
 - Pragash-Mohanarajah/ai-hdr-inference — fix: remove unnecessary trailing backslash correctly and safely for GCS uploads
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved report service logic to support GCS locations for raw json and corresponding temporary reports
-- Pragash-Mohanarajah/axia-lm-optimizer — Merge pull request #58 from Pragash-Mohanarajah:main
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 27 Apr 2026 13:17:51 GMT_
+_Last updated on Mon, 27 Apr 2026 17:15:09 GMT_
 <!-- DEV_METRICS_END -->
