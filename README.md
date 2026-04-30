@@ -70,20 +70,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 561 public (7.4%), 7,002 private (92.6%) · 4,492 owned (59.4%), 3,071 contributed (40.6%)
 - 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
 - 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,682 · 👀 Watchers: 712 · 🍴 Forks: 12,255 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,471,344
+- ⭐ Stars: 101,689 · 👀 Watchers: 712 · 🍴 Forks: 12,254 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 2,471,582
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,934 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.75% (735,109 LOC)
+TypeScript           ███████                    29.75% (735,328 LOC)
 C                    ███████                    27.27% (673,946 LOC)
 Jupyter Notebook     ██                          8.81% (217,771 LOC)
 MDX                  ██                          7.94% (196,150 LOC)
 Python               ██                          6.82% (168,527 LOC)
 HTML                 █                           4.63% (114,454 LOC)
-JavaScript           █                           4.60% (113,719 LOC)
+JavaScript           █                           4.60% (113,720 LOC)
 Makefile             █                           2.52% (62,184 LOC)
 ```
 
@@ -101,10 +101,10 @@ Dockerfile           █                           4.20% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.75% (36,755,407 bytes)
+TypeScript           ███████                    29.75% (36,766,346 bytes)
 C                    ███████                    27.27% (33,697,286 bytes)
 Jupyter Notebook     ██                          8.81% (10,888,541 bytes)
-MDX                  ██                          7.94% (9,807,486 bytes)
+MDX                  ██                          7.94% (9,807,513 bytes)
 Python               ██                          6.82% (8,426,264 bytes)
 HTML                 █                           4.63% (5,722,638 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.73% (1,846,742 LOC)
+AI / ML              ███████████████████        74.73% (1,846,980 LOC)
 Other                █████                      19.01% (469,784 LOC)
 Web Apps             █                           4.88% (120,592 LOC)
 Data Systems                                     1.38% (34,226 LOC)
@@ -209,5 +209,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 30 Apr 2026 09:58:30 GMT_
+_Last updated on Thu, 30 Apr 2026 13:20:58 GMT_
 <!-- DEV_METRICS_END -->
