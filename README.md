@@ -68,75 +68,75 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🏆 Longest Streak: 26 days
 - ✨ Total Commits: 7,563
 - 💖 Commit Breakdown: 561 public (7.4%), 7,002 private (92.6%) · 4,492 owned (59.4%), 3,071 contributed (40.6%)
-- 🚀 Repositories: 87 (36 public (41.4%), 51 private (58.6%))
-- 👤 Ownership: 82 owned (94.3%), 5 contributed-to (5.7%)
-- ⭐ Stars: 101,703 · 👀 Watchers: 712 · 🍴 Forks: 12,257 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 2,471,750
+- 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
+- 👤 Ownership: 82 owned (95.3%), 4 contributed-to (4.7%)
+- ⭐ Stars: 39 · 👀 Watchers: 45 · 🍴 Forks: 19 · 🗄️ Archived: 19
+- 🧠 Estimated Lines of Code: 1,750,134
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,935 days
 
 ### 📝 Lines of Code by Language
 ```
-TypeScript           ███████                    29.76% (735,485 LOC)
-C                    ███████                    27.27% (673,946 LOC)
-Jupyter Notebook     ██                          8.81% (217,771 LOC)
-MDX                  ██                          7.94% (196,151 LOC)
-Python               ██                          6.82% (168,527 LOC)
-HTML                 █                           4.63% (114,454 LOC)
-JavaScript           █                           4.60% (113,730 LOC)
-Makefile             █                           2.52% (62,184 LOC)
+C                    ██████████                 38.51% (673,946 LOC)
+TypeScript           ███                        13.64% (238,763 LOC)
+Jupyter Notebook     ███                        12.44% (217,771 LOC)
+Python               ██                          9.63% (168,527 LOC)
+HTML                 ██                          6.54% (114,454 LOC)
+JavaScript           █                           5.41% (94,644 LOC)
+Makefile             █                           3.54% (62,016 LOC)
+Roff                 █                           3.09% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
 ```
-JavaScript           ████                       16.81% (40 repos)
-Python               ███                        13.45% (32 repos)
-CSS                  ███                        12.61% (30 repos)
-TypeScript           ███                        10.50% (25 repos)
-HTML                 ██                          9.24% (22 repos)
-Shell                ██                          7.14% (17 repos)
-Jupyter Notebook     █                           5.04% (12 repos)
-Dockerfile           █                           4.20% (10 repos)
+JavaScript           ████                       17.11% (39 repos)
+Python               ████                       14.04% (32 repos)
+CSS                  ███                        12.72% (29 repos)
+TypeScript           ███                        10.53% (24 repos)
+HTML                 ██                          9.65% (22 repos)
+Shell                ██                          7.02% (16 repos)
+Jupyter Notebook     █                           5.26% (12 repos)
+Dockerfile           █                           3.95% (9 repos)
 ```
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-TypeScript           ███████                    29.76% (36,774,234 bytes)
-C                    ███████                    27.27% (33,697,286 bytes)
-Jupyter Notebook     ██                          8.81% (10,888,541 bytes)
-MDX                  ██                          7.94% (9,807,526 bytes)
-Python               ██                          6.82% (8,426,264 bytes)
-HTML                 █                           4.63% (5,722,638 bytes)
+C                    ██████████                 38.51% (33,697,286 bytes)
+TypeScript           ███                        13.64% (11,938,112 bytes)
+Jupyter Notebook     ███                        12.44% (10,888,541 bytes)
+Python               ██                          9.63% (8,426,264 bytes)
+HTML                 ██                          6.54% (5,722,638 bytes)
+JavaScript           █                           5.41% (4,732,173 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
 ```
-Other                ████████████████           64.37% (56 repos)
-AI / ML              █████                      18.39% (16 repos)
-Web Apps             ███                        11.49% (10 repos)
-Data Systems         █                           5.75% (5 repos)
+Other                ████████████████           65.12% (56 repos)
+AI / ML              ████                       17.44% (15 repos)
+Web Apps             ███                        11.63% (10 repos)
+Data Systems         █                           5.81% (5 repos)
 ```
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ███████████████████        74.73% (1,847,148 LOC)
-Other                █████                      19.01% (469,784 LOC)
-Web Apps             █                           4.88% (120,592 LOC)
-Data Systems                                     1.38% (34,226 LOC)
+AI / ML              ████████████████           64.31% (1,125,532 LOC)
+Other                ███████                    26.84% (469,784 LOC)
+Web Apps             ██                          6.89% (120,592 LOC)
+Data Systems                                     1.96% (34,226 LOC)
 ```
 
 ### 🏷️ Top Topics
 ```
-JavaScript           ███████████                45.98% (40 repos)
-Python               █████████                  36.78% (32 repos)
-CSS                  █████████                  34.48% (30 repos)
-TypeScript           ███████                    28.74% (25 repos)
-HTML                 ██████                     25.29% (22 repos)
-Shell                █████                      19.54% (17 repos)
-Jupyter Notebook     ███                        13.79% (12 repos)
-Dockerfile           ███                        11.49% (10 repos)
-PLpgSQL              ██                          6.90% (6 repos)
-Makefile             █                           5.75% (5 repos)
+JavaScript           ███████████                45.35% (39 repos)
+Python               █████████                  37.21% (32 repos)
+CSS                  ████████                   33.72% (29 repos)
+TypeScript           ███████                    27.91% (24 repos)
+HTML                 ██████                     25.58% (22 repos)
+Shell                █████                      18.60% (16 repos)
+Jupyter Notebook     ███                        13.95% (12 repos)
+Dockerfile           ███                        10.47% (9 repos)
+PLpgSQL              █                           5.81% (5 repos)
+Batchfile            █                           5.81% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
@@ -149,7 +149,6 @@ Makefile             █                           5.75% (5 repos)
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 1963 commits · private)_
 - AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 12 commits · private)_
-- supabase/supabase — The Postgres development platform. Supabase gives you a dedicated Postgres da... _(AI / ML)_
 
 ### 📅 Productivity by Time of Day
 ```
@@ -209,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 30 Apr 2026 20:50:35 GMT_
+_Last updated on Fri, 01 May 2026 02:04:18 GMT_
 <!-- DEV_METRICS_END -->
