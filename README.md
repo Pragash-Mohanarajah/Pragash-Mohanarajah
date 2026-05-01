@@ -64,14 +64,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 2 days
+- 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,563
-- 💖 Commit Breakdown: 561 public (7.4%), 7,002 private (92.6%) · 4,492 owned (59.4%), 3,071 contributed (40.6%)
+- ✨ Total Commits: 7,572
+- 💖 Commit Breakdown: 561 public (7.4%), 7,011 private (92.6%) · 4,501 owned (59.4%), 3,071 contributed (40.6%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 82 owned (95.3%), 4 contributed-to (4.7%)
 - ⭐ Stars: 39 · 👀 Watchers: 45 · 🍴 Forks: 19 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 1,750,134
+- 🧠 Estimated Lines of Code: 1,750,172
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,935 days
 
@@ -80,7 +80,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 C                    ██████████                 38.51% (673,946 LOC)
 TypeScript           ███                        13.64% (238,763 LOC)
 Jupyter Notebook     ███                        12.44% (217,771 LOC)
-Python               ██                          9.63% (168,527 LOC)
+Python               ██                          9.63% (168,565 LOC)
 HTML                 ██                          6.54% (114,454 LOC)
 JavaScript           █                           5.41% (94,644 LOC)
 Makefile             █                           3.54% (62,016 LOC)
@@ -104,7 +104,7 @@ Dockerfile           █                           3.95% (9 repos)
 C                    ██████████                 38.51% (33,697,286 bytes)
 TypeScript           ███                        13.64% (11,938,112 bytes)
 Jupyter Notebook     ███                        12.44% (10,888,541 bytes)
-Python               ██                          9.63% (8,426,264 bytes)
+Python               ██                          9.63% (8,428,181 bytes)
 HTML                 ██                          6.54% (5,722,638 bytes)
 JavaScript           █                           5.41% (4,732,173 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.31% (1,125,532 LOC)
+AI / ML              ████████████████           64.31% (1,125,570 LOC)
 Other                ███████                    26.84% (469,784 LOC)
 Web Apps             ██                          6.89% (120,592 LOC)
 Data Systems                                     1.96% (34,226 LOC)
@@ -153,34 +153,38 @@ Batchfile            █                           5.81% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.75% (21 commits)
-Morning (06-12)      █████████████              53.39% (1,502 commits)
-Afternoon (12-18)    ████████                   32.28% (908 commits)
-Evening (18-24)      ███                        13.58% (382 commits)
+Morning (06-12)      █████████████              53.30% (1,500 commits)
+Afternoon (12-18)    ████████                   32.34% (910 commits)
+Evening (18-24)      ███                        13.61% (383 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.72% (605 contributions)
-Monday               ████                       14.95% (1,171 contributions)
-Tuesday              █████                      19.11% (1,497 contributions)
-Wednesday            █████                      19.75% (1,547 contributions)
-Thursday             ████                       16.02% (1,255 contributions)
-Friday               ████                       16.49% (1,292 contributions)
-Saturday             █                           5.96% (467 contributions)
+Sunday               ██                          7.71% (605 contributions)
+Monday               ████                       14.93% (1,171 contributions)
+Tuesday              █████                      19.09% (1,497 contributions)
+Wednesday            █████                      19.72% (1,547 contributions)
+Thursday             ████                       16.10% (1,263 contributions)
+Friday               ████                       16.49% (1,293 contributions)
+Saturday             █                           5.95% (467 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     25.96% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.86% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.27% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     25.92% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.83% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.26% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.37% (255 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.83% (214 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.80% (212 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           2.78% (210 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           2.77% (210 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: use updated queries with main aim on client contact
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: use updated queries in fresh results bucket
+- Pragash-Mohanarajah/ai-hdr-inference — fix: remove ability to search google during inference
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: improve questions for AI model to run on subset of 25 claims
 - Pragash-Mohanarajah/ai-hdr-inference — experiment: improve questions for AI model to run on subset of 25 claims
 - Pragash-Mohanarajah/taec-examportal — Update README.md
 - Pragash-Mohanarajah/taec-examportal — Improved Help Request Descriptions with text-wrapping
@@ -192,10 +196,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: break down files into parts during converter stage to avoid duplicate processing during inference; ensures backwards compatibility with previous conversions
 - Pragash-Mohanarajah/taec-attendance — feat: improved layout and UI for manual and direct scanning pages
 - Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
-- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
-- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
-- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
-- Pragash-Mohanarajah/taec-examportal-backend — feat: correct mobile centers retrieval logic for backend endpoints
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 01 May 2026 12:56:18 GMT_
+_Last updated on Fri, 01 May 2026 16:44:17 GMT_
 <!-- DEV_METRICS_END -->
