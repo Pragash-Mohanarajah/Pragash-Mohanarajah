@@ -64,25 +64,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 0 days
+- 🔥 Current Streak: 1 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,572
-- 💖 Commit Breakdown: 561 public (7.4%), 7,011 private (92.6%) · 4,501 owned (59.4%), 3,071 contributed (40.6%)
+- ✨ Total Commits: 7,574
+- 💖 Commit Breakdown: 561 public (7.4%), 7,013 private (92.6%) · 4,503 owned (59.5%), 3,071 contributed (40.5%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 82 owned (95.3%), 4 contributed-to (4.7%)
 - ⭐ Stars: 39 · 👀 Watchers: 45 · 🍴 Forks: 19 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 1,750,172
+- 🧠 Estimated Lines of Code: 1,750,210
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,937 days
+- 📅 Account age: 1,938 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ██████████                 38.51% (673,946 LOC)
-TypeScript           ███                        13.64% (238,763 LOC)
+TypeScript           ███                        13.64% (238,779 LOC)
 Jupyter Notebook     ███                        12.44% (217,771 LOC)
 Python               ██                          9.63% (168,565 LOC)
 HTML                 ██                          6.54% (114,454 LOC)
-JavaScript           █                           5.41% (94,644 LOC)
+JavaScript           █                           5.41% (94,666 LOC)
 Makefile             █                           3.54% (62,016 LOC)
 Roff                 █                           3.09% (54,070 LOC)
 ```
@@ -102,11 +102,11 @@ Dockerfile           █                           3.95% (9 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ██████████                 38.51% (33,697,286 bytes)
-TypeScript           ███                        13.64% (11,938,112 bytes)
+TypeScript           ███                        13.64% (11,938,906 bytes)
 Jupyter Notebook     ███                        12.44% (10,888,541 bytes)
 Python               ██                          9.63% (8,428,181 bytes)
 HTML                 ██                          6.54% (5,722,638 bytes)
-JavaScript           █                           5.41% (4,732,173 bytes)
+JavaScript           █                           5.41% (4,733,251 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,7 +120,7 @@ Data Systems         █                           5.81% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.31% (1,125,570 LOC)
-Other                ███████                    26.84% (469,784 LOC)
+Other                ███████                    26.84% (469,822 LOC)
 Web Apps             ██                          6.89% (120,592 LOC)
 Data Systems                                     1.96% (34,226 LOC)
 ```
@@ -153,19 +153,19 @@ Batchfile            █                           5.81% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.75% (21 commits)
-Morning (06-12)      █████████████              53.30% (1,500 commits)
-Afternoon (12-18)    ████████                   32.34% (910 commits)
-Evening (18-24)      ███                        13.61% (383 commits)
+Morning (06-12)      █████████████              53.34% (1,502 commits)
+Afternoon (12-18)    ████████                   32.32% (910 commits)
+Evening (18-24)      ███                        13.60% (383 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.71% (605 contributions)
+Sunday               ██                          7.74% (607 contributions)
 Monday               ████                       14.93% (1,171 contributions)
-Tuesday              █████                      19.09% (1,497 contributions)
+Tuesday              █████                      19.08% (1,497 contributions)
 Wednesday            █████                      19.72% (1,547 contributions)
 Thursday             ████                       16.10% (1,263 contributions)
-Friday               ████                       16.49% (1,293 contributions)
+Friday               ████                       16.48% (1,293 contributions)
 Saturday             █                           5.95% (467 contributions)
 ```
 
@@ -181,6 +181,8 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal-backend — fix: improved backend for reduced ambiguity
+- Pragash-Mohanarajah/taec-attendance — feat: add more information to student card
 - Pragash-Mohanarajah/ai-hdr-inference — experiment: use updated queries with main aim on client contact
 - Pragash-Mohanarajah/ai-hdr-inference — experiment: use updated queries in fresh results bucket
 - Pragash-Mohanarajah/ai-hdr-inference — fix: remove ability to search google during inference
@@ -194,8 +196,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: allow file location override for input, output and archive directories, to assist with server file size limitations
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: improved file size monitoring and correct restore logic for multipart syncing of files into Google Drive
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: break down files into parts during converter stage to avoid duplicate processing during inference; ensures backwards compatibility with previous conversions
-- Pragash-Mohanarajah/taec-attendance — feat: improved layout and UI for manual and direct scanning pages
-- Pragash-Mohanarajah/taec-attendance — feat: add error boundary for pages to prevent unwanted app crashes
 
 ### 🌟 Recent Stars
 - n15hsy/axia-lm-optimizer
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 03 May 2026 16:37:48 GMT_
+_Last updated on Sun, 03 May 2026 20:32:53 GMT_
 <!-- DEV_METRICS_END -->
