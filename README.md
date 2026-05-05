@@ -73,7 +73,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - ⭐ Stars: 39 · 👀 Watchers: 45 · 🍴 Forks: 19 · 🗄️ Archived: 19
 - 🧠 Estimated Lines of Code: 1,750,210
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,939 days
+- 📅 Account age: 1,940 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -198,9 +198,9 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: break down files into parts during converter stage to avoid duplicate processing during inference; ensures backwards compatibility with previous conversions
 
 ### 🌟 Recent Stars
+- unoconv/unoserver
+- moodle/moodle
 - n15hsy/axia-lm-optimizer
-- koblas/stdnum-js
-- pytorch/tutorials
 
 ### 📈 All-Time Commit History
 ![Commit History](./commit-history.svg)
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 05 May 2026 17:13:35 GMT_
+_Last updated on Tue, 05 May 2026 20:53:49 GMT_
 <!-- DEV_METRICS_END -->
