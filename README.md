@@ -66,21 +66,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 0 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,574
-- 💖 Commit Breakdown: 561 public (7.4%), 7,013 private (92.6%) · 4,503 owned (59.5%), 3,071 contributed (40.5%)
+- ✨ Total Commits: 7,580
+- 💖 Commit Breakdown: 561 public (7.4%), 7,019 private (92.6%) · 4,509 owned (59.5%), 3,071 contributed (40.5%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 82 owned (95.3%), 4 contributed-to (4.7%)
 - ⭐ Stars: 39 · 👀 Watchers: 45 · 🍴 Forks: 19 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 1,750,210
+- 🧠 Estimated Lines of Code: 1,750,342
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,940 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ██████████                 38.51% (673,946 LOC)
+C                    ██████████                 38.50% (673,946 LOC)
 TypeScript           ███                        13.64% (238,779 LOC)
 Jupyter Notebook     ███                        12.44% (217,771 LOC)
-Python               ██                          9.63% (168,565 LOC)
+Python               ██                          9.64% (168,696 LOC)
 HTML                 ██                          6.54% (114,454 LOC)
 JavaScript           █                           5.41% (94,666 LOC)
 Makefile             █                           3.54% (62,016 LOC)
@@ -101,10 +101,10 @@ Dockerfile           █                           3.95% (9 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ██████████                 38.51% (33,697,286 bytes)
+C                    ██████████                 38.50% (33,697,286 bytes)
 TypeScript           ███                        13.64% (11,938,906 bytes)
 Jupyter Notebook     ███                        12.44% (10,888,541 bytes)
-Python               ██                          9.63% (8,428,181 bytes)
+Python               ██                          9.64% (8,434,749 bytes)
 HTML                 ██                          6.54% (5,722,638 bytes)
 JavaScript           █                           5.41% (4,733,251 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         █                           5.81% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.31% (1,125,570 LOC)
+AI / ML              ████████████████           64.31% (1,125,702 LOC)
 Other                ███████                    26.84% (469,822 LOC)
 Web Apps             ██                          6.89% (120,592 LOC)
 Data Systems                                     1.96% (34,226 LOC)
@@ -143,7 +143,7 @@ Batchfile            █                           5.81% (5 repos)
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 255 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 212 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 218 commits · private)_
 - IB-Integrated-Design-Project-Group-M202/competition-in-arena — Configures and Operates all of the Components on the Arduino Uno Wi-Fi Rev 2 ... _(Other · 169 commits)_
 
 ### 🤝 Top Contributed Projects
@@ -153,30 +153,30 @@ Batchfile            █                           5.81% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.75% (21 commits)
-Morning (06-12)      █████████████              53.34% (1,502 commits)
-Afternoon (12-18)    ████████                   32.32% (910 commits)
-Evening (18-24)      ███                        13.60% (383 commits)
+Morning (06-12)      █████████████              53.48% (1,507 commits)
+Afternoon (12-18)    ████████                   32.22% (908 commits)
+Evening (18-24)      ███                        13.56% (382 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.74% (607 contributions)
-Monday               ████                       14.93% (1,171 contributions)
-Tuesday              █████                      19.08% (1,497 contributions)
-Wednesday            █████                      19.72% (1,547 contributions)
-Thursday             ████                       16.10% (1,263 contributions)
-Friday               ████                       16.48% (1,293 contributions)
+Sunday               ██                          7.73% (607 contributions)
+Monday               ████                       14.99% (1,177 contributions)
+Tuesday              █████                      19.07% (1,497 contributions)
+Wednesday            █████                      19.70% (1,547 contributions)
+Thursday             ████                       16.09% (1,263 contributions)
+Friday               ████                       16.47% (1,293 contributions)
 Saturday             █                           5.95% (467 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     25.92% (1,963 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.83% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.26% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.37% (255 commits)
-n15hsy/axia-lm-optimizer                                                    █                           2.83% (214 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.80% (212 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     25.90% (1,963 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.80% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.25% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.36% (255 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.88% (218 commits)
+n15hsy/axia-lm-optimizer                                                    █                           2.82% (214 commits)
 cued-ia-computing/flood-kg487-pm719                                         █                           2.77% (210 commits)
 ```
 
@@ -192,10 +192,10 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/taec-examportal — Improved Help Request Descriptions with text-wrapping
 - Pragash-Mohanarajah/taec-examportal — Improved Help Request Descriptions with text-wrapping
 - Pragash-Mohanarajah/taec-examportal — Improved Help Request Descriptions with text-wrapping
+- Pragash-Mohanarajah/ai-hdr-file-converter — feat: correct parts logic for items in merge batch, ensuring that we never exceed the dedicated file size and page limits
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: correct parts logic for items in merge batch, ensuring that we never exceed the dedicated file size and page limits
+- Pragash-Mohanarajah/ai-hdr-file-converter — feat: allow file location override for input, output and archive directories, to assist with server file size limitations
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: allow file location override for input, output and archive directories, to assist with server file size limitations
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: improved file size monitoring and correct restore logic for multipart syncing of files into Google Drive
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: break down files into parts during converter stage to avoid duplicate processing during inference; ensures backwards compatibility with previous conversions
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 06 May 2026 06:24:29 GMT_
+_Last updated on Wed, 06 May 2026 10:09:11 GMT_
 <!-- DEV_METRICS_END -->
