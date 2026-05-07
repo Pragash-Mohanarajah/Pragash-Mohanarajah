@@ -64,10 +64,10 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 1 days
+- 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,590
-- 💖 Commit Breakdown: 561 public (7.4%), 7,029 private (92.6%) · 4,518 owned (59.5%), 3,072 contributed (40.5%)
+- ✨ Total Commits: 7,591
+- 💖 Commit Breakdown: 561 public (7.4%), 7,030 private (92.6%) · 4,519 owned (59.5%), 3,072 contributed (40.5%)
 - 🚀 Repositories: 86 (35 public (40.7%), 51 private (59.3%))
 - 👤 Ownership: 82 owned (95.3%), 4 contributed-to (4.7%)
 - ⭐ Stars: 39 · 👀 Watchers: 45 · 🍴 Forks: 19 · 🗄️ Archived: 19
@@ -153,9 +153,9 @@ Batchfile            █                           5.81% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.74% (21 commits)
-Morning (06-12)      █████████████              53.65% (1,513 commits)
-Afternoon (12-18)    ████████                   32.06% (904 commits)
-Evening (18-24)      ███                        13.55% (382 commits)
+Morning (06-12)      █████████████              53.70% (1,515 commits)
+Afternoon (12-18)    ████████                   32.01% (903 commits)
+Evening (18-24)      ███                        13.54% (382 commits)
 ```
 
 ### 📅 Productivity by Day
@@ -163,17 +163,17 @@ Evening (18-24)      ███                        13.55% (382 commits)
 Sunday               ██                          7.72% (607 contributions)
 Monday               ████                       14.97% (1,177 contributions)
 Tuesday              █████                      19.04% (1,497 contributions)
-Wednesday            █████                      19.81% (1,557 contributions)
-Thursday             ████                       16.07% (1,263 contributions)
+Wednesday            █████                      19.80% (1,557 contributions)
+Thursday             ████                       16.08% (1,264 contributions)
 Friday               ████                       16.45% (1,293 contributions)
 Saturday             █                           5.94% (467 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     25.88% (1,964 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     25.87% (1,964 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.77% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.25% (474 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.24% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.36% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.87% (218 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.82% (214 commits)
@@ -181,17 +181,17 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow file with v2 parameter usage; designed to tackle timeout errors, enabling automatic code execution
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: add copyright and contributing guide
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: add copyright and contributing guide
 - Pragash-Mohanarajah/axia-lm-optimizer — chore: ensures source files are copied into the workspace correctly
 - Pragash-Mohanarajah/axia-lm-optimizer — chore: ensures scripts are copied into the workspace correctly; redundant scripts removed
 - Pragash-Mohanarajah/axia-lm-optimizer — chore: ensures scripts are copied into the workspace correctly; redundant scripts removed
 - AxiaFunder/dashboard-axiafunder — fix: save stringified json values to google sheets for compliance
 - Pragash-Mohanarajah/ai-hdr-inference — chore: updates all scripts to run from root directory
-- Pragash-Mohanarajah/axia-lm-optimizer — chore: updates all scripts to run from root directory
-- Pragash-Mohanarajah/axia-lm-optimizer — chore: updates all scripts to run from root directory
 - Pragash-Mohanarajah/ai-hdr-inference — chore: minor improvements to file structure for better readability
 - Pragash-Mohanarajah/ai-hdr-inference — chore: move remaining files into dedicated locations for future use
 - Pragash-Mohanarajah/ai-hdr-inference — chore: move remaining files into dedicated locations for future use
-- Pragash-Mohanarajah/ai-hdr-inference — fix: bring back default questions fallback logic to prevent config loader failures
 - Pragash-Mohanarajah/taec-examportal-backend — fix: improved backend for reduced ambiguity
 - Pragash-Mohanarajah/taec-attendance — feat: add more information to student card
 - Pragash-Mohanarajah/taec-examportal — Update README.md
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 07 May 2026 06:29:20 GMT_
+_Last updated on Thu, 07 May 2026 10:14:01 GMT_
 <!-- DEV_METRICS_END -->
