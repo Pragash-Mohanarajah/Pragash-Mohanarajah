@@ -67,10 +67,10 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
 - ✨ Total Commits: 7,768
-- 💖 Commit Breakdown: 561 public (7.2%), 7,207 private (92.8%) · 4,696 owned (60.5%), 3,072 contributed (39.5%)
+- 💖 Commit Breakdown: 561 public (7.2%), 7,207 private (92.8%) · 4,530 owned (58.3%), 3,238 contributed (41.7%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
-- ⭐ Stars: 39 · 👀 Watchers: 40 · 🍴 Forks: 19 · 🗄️ Archived: 19
+- ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 19 · 🗄️ Archived: 19
 - 🧠 Estimated Lines of Code: 1,754,628
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,942 days
@@ -164,7 +164,7 @@ Sunday               ██                          7.55% (607 contributions)
 Monday               ████                       14.74% (1,185 contributions)
 Tuesday              █████                      18.81% (1,512 contributions)
 Wednesday            █████                      19.89% (1,599 contributions)
-Thursday             ████                       16.75% (1,347 contributions)
+Thursday             ████                       16.74% (1,346 contributions)
 Friday               ████                       16.46% (1,323 contributions)
 Saturday             █                           5.81% (467 contributions)
 ```
@@ -184,13 +184,13 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/ai-hdr-inference — debug: add logging within model token counter to identify mimetype issues
 - Pragash-Mohanarajah/ai-hdr-inference — debug: add logging within model token counter to identify mimetype issues
 - Pragash-Mohanarajah/ai-hdr-inference — fix: ensure only supported mimetypes are uploaded into the model cache to prevent failures during inference
-- Pragash-Mohanarajah/axia-lm-inference — fix: ensure only supported mimetypes are uploaded into the model cache to prevent failures during inference
+- AxiaFunder/ai-hdr-inference — fix: ensure only supported mimetypes are uploaded into the model cache to prevent failures during inference
 - Pragash-Mohanarajah/ai-hdr-inference — fix: enable decryption of pdf files from google storage before uploading into context cache
-- Pragash-Mohanarajah/axia-lm-inference — fix: enable decryption of pdf files from google storage before uploading into context cache
+- AxiaFunder/ai-hdr-inference — fix: enable decryption of pdf files from google storage before uploading into context cache
 - Pragash-Mohanarajah/ai-hdr-inference — fix: re-implement gcs uri based blob cleanup method
-- Pragash-Mohanarajah/axia-lm-inference — fix: re-implement gcs uri based blob cleanup method
-- Pragash-Mohanarajah/axia-lm-inference — chore: improved system prompt to support new query structure
-- Pragash-Mohanarajah/axia-lm-inference — chore: improves descriptions and comments on service provider interfaces
+- AxiaFunder/ai-hdr-inference — fix: re-implement gcs uri based blob cleanup method
+- AxiaFunder/ai-hdr-inference — chore: improved system prompt to support new query structure
+- AxiaFunder/ai-hdr-inference — chore: improves descriptions and comments on service provider interfaces
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: add copyright and contributing guide
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: add copyright and contributing guide
 - Pragash-Mohanarajah/axia-lm-optimizer — chore: ensures source files are copied into the workspace correctly
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 08 May 2026 09:04:53 GMT_
+_Last updated on Fri, 08 May 2026 13:08:31 GMT_
 <!-- DEV_METRICS_END -->
