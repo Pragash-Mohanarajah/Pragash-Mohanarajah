@@ -66,14 +66,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,779
-- 💖 Commit Breakdown: 561 public (7.2%), 7,218 private (92.8%) · 4,541 owned (58.4%), 3,238 contributed (41.6%)
+- ✨ Total Commits: 7,795
+- 💖 Commit Breakdown: 561 public (7.2%), 7,234 private (92.8%) · 4,557 owned (58.5%), 3,238 contributed (41.5%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 19 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 1,754,961
+- 🧠 Estimated Lines of Code: 1,754,933
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,943 days
+- 📅 Account age: 1,944 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -82,7 +82,7 @@ TypeScript           ███                        13.61% (238,782 LOC)
 Jupyter Notebook     ███                        12.50% (219,406 LOC)
 Python               ██                          9.79% (171,800 LOC)
 HTML                 ██                          6.52% (114,454 LOC)
-JavaScript           █                           5.39% (94,677 LOC)
+JavaScript           █                           5.39% (94,649 LOC)
 Makefile             █                           3.53% (62,016 LOC)
 Roff                 █                           3.08% (54,070 LOC)
 ```
@@ -106,7 +106,7 @@ TypeScript           ███                        13.61% (11,939,070 bytes)
 Jupyter Notebook     ███                        12.50% (10,970,329 bytes)
 Python               ██                          9.79% (8,589,951 bytes)
 HTML                 ██                          6.52% (5,722,638 bytes)
-JavaScript           █                           5.39% (4,733,820 bytes)
+JavaScript           █                           5.39% (4,732,455 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,7 +120,7 @@ Data Systems         █                           5.75% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.38% (1,129,822 LOC)
-Other                ███████                    26.80% (470,321 LOC)
+Other                ███████                    26.80% (470,293 LOC)
 Web Apps             ██                          6.87% (120,592 LOC)
 Data Systems                                     1.95% (34,226 LOC)
 ```
@@ -153,49 +153,49 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.71% (21 commits)
-Morning (06-12)      █████████████              53.11% (1,562 commits)
-Afternoon (12-18)    ████████                   32.95% (969 commits)
-Evening (18-24)      ███                        13.23% (389 commits)
+Morning (06-12)      █████████████              53.13% (1,563 commits)
+Afternoon (12-18)    ████████                   32.94% (969 commits)
+Evening (18-24)      ███                        13.22% (389 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.54% (607 contributions)
-Monday               ████                       14.72% (1,185 contributions)
-Tuesday              █████                      18.78% (1,512 contributions)
-Wednesday            █████                      19.86% (1,599 contributions)
-Thursday             ████                       16.72% (1,346 contributions)
-Friday               ████                       16.56% (1,333 contributions)
-Saturday             █                           5.81% (468 contributions)
+Sunday               ██                          7.52% (607 contributions)
+Monday               ████                       14.69% (1,185 contributions)
+Tuesday              █████                      18.74% (1,512 contributions)
+Wednesday            █████                      19.82% (1,599 contributions)
+Thursday             ████                       16.69% (1,346 contributions)
+Friday               ████                       16.52% (1,333 contributions)
+Saturday             ██                          6.01% (485 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     25.25% (1,964 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.14% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.09% (474 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.28% (255 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     25.20% (1,964 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.09% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.08% (474 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.27% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.80% (218 commits)
 n15hsy/axia-lm-optimizer                                                    █                           2.75% (214 commits)
-cued-ia-computing/flood-kg487-pm719                                         █                           2.70% (210 commits)
+cued-ia-computing/flood-kg487-pm719                                         █                           2.69% (210 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-examportal — Minor Imptovements as Agreed to setup flow
+- Pragash-Mohanarajah/taec-examportal-backend — Improve Student Schedule logic to ensure all students are allocated correctly
+- Pragash-Mohanarajah/taec-examportal-backend — Improve Student Schedule logic to ensure all students are allocated correctly
+- Pragash-Mohanarajah/taec-examportal-backend — Improve Student Schedule logic to ensure all students are allocated correctly
+- Pragash-Mohanarajah/taec-examportal-backend — Update Readme
+- Pragash-Mohanarajah/taec-examportal-backend — fix: isSEN filter applied correctly on backend
+- Pragash-Mohanarajah/taec-examportal — Increase Scheduled time on Attendance page
+- Pragash-Mohanarajah/taec-examportal — Sidebar improvements for Zoom function
+- Pragash-Mohanarajah/taec-examportal — Unified single path routes to avoid confusion
+- Pragash-Mohanarajah/taec-examportal — Move Zoom toggle to the bottom of the sidebar for ease of access
+- Pragash-Mohanarajah/taec-examportal — Move Zoom toggle to the bottom of the sidebar for ease of access
 - Pragash-Mohanarajah/ai-hdr-inference — feat: update requirements file to introduce new technologies
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement vertex ai context aware caching of files, instructions, summaries and parts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement vertex ai ranking api to rerank input documents before query
 - Pragash-Mohanarajah/ai-hdr-inference — feat(temp): implement vertex ai ranking api to rerank input documents before query
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement hybrid context caching and rag pipeline for multimodal inference
-- AxiaFunder/ai-hdr-inference — fix: ensure only supported mimetypes are uploaded into the model cache to prevent failures during inference
-- AxiaFunder/ai-hdr-inference — fix: enable decryption of pdf files from google storage before uploading into context cache
-- AxiaFunder/ai-hdr-inference — fix: re-implement gcs uri based blob cleanup method
-- AxiaFunder/ai-hdr-inference — chore: improved system prompt to support new query structure
-- AxiaFunder/ai-hdr-inference — chore: improves descriptions and comments on service provider interfaces
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: add copyright and contributing guide
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: add copyright and contributing guide
-- Pragash-Mohanarajah/axia-lm-optimizer — chore: ensures source files are copied into the workspace correctly
-- Pragash-Mohanarajah/axia-lm-optimizer — chore: ensures scripts are copied into the workspace correctly; redundant scripts removed
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 09 May 2026 16:41:28 GMT_
+_Last updated on Sat, 09 May 2026 20:35:05 GMT_
 <!-- DEV_METRICS_END -->
