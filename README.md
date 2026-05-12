@@ -66,21 +66,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 7,805
-- 💖 Commit Breakdown: 561 public (7.2%), 7,244 private (92.8%) · 4,566 owned (58.5%), 3,239 contributed (41.5%)
+- ✨ Total Commits: 7,808
+- 💖 Commit Breakdown: 561 public (7.2%), 7,247 private (92.8%) · 4,568 owned (58.5%), 3,240 contributed (41.5%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 19 · 🗄️ Archived: 19
-- 🧠 Estimated Lines of Code: 1,755,065
+- 🧠 Estimated Lines of Code: 1,755,073
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,946 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ██████████                 38.40% (673,946 LOC)
-TypeScript           ███                        13.61% (238,784 LOC)
+TypeScript           ███                        13.61% (238,787 LOC)
 Jupyter Notebook     ███                        12.50% (219,406 LOC)
-Python               ██                          9.80% (171,930 LOC)
+Python               ██                          9.80% (171,935 LOC)
 HTML                 ██                          6.52% (114,454 LOC)
 JavaScript           █                           5.39% (94,649 LOC)
 Makefile             █                           3.53% (62,016 LOC)
@@ -102,9 +102,9 @@ Dockerfile           █                           4.29% (10 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ██████████                 38.40% (33,697,286 bytes)
-TypeScript           ███                        13.61% (11,939,164 bytes)
+TypeScript           ███                        13.61% (11,939,316 bytes)
 Jupyter Notebook     ███                        12.50% (10,970,329 bytes)
-Python               ██                          9.80% (8,596,421 bytes)
+Python               ██                          9.80% (8,596,706 bytes)
 HTML                 ██                          6.52% (5,722,638 bytes)
 JavaScript           █                           5.39% (4,732,455 bytes)
 ```
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.38% (1,129,924 LOC)
-Other                ███████                    26.80% (470,323 LOC)
+AI / ML              ████████████████           64.38% (1,129,929 LOC)
+Other                ███████                    26.80% (470,326 LOC)
 Web Apps             ██                          6.87% (120,592 LOC)
 Data Systems                                     1.95% (34,226 LOC)
 ```
@@ -144,26 +144,26 @@ PLpgSQL              █                           5.75% (5 repos)
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 255 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 218 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 180 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 182 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 1965 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 1966 commits · private)_
 - AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 12 commits · private)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.71% (21 commits)
-Morning (06-12)      █████████████              53.38% (1,572 commits)
-Afternoon (12-18)    ████████                   32.77% (965 commits)
+Morning (06-12)      █████████████              53.43% (1,574 commits)
+Afternoon (12-18)    ████████                   32.72% (964 commits)
 Evening (18-24)      ███                        13.14% (387 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.52% (607 contributions)
-Monday               ████                       14.71% (1,188 contributions)
-Tuesday              █████                      18.81% (1,519 contributions)
-Wednesday            █████                      19.80% (1,599 contributions)
+Sunday               ██                          7.51% (607 contributions)
+Monday               ████                       14.70% (1,188 contributions)
+Tuesday              █████                      18.84% (1,522 contributions)
+Wednesday            █████                      19.79% (1,599 contributions)
 Thursday             ████                       16.66% (1,346 contributions)
 Friday               ████                       16.50% (1,333 contributions)
 Saturday             ██                          6.00% (485 contributions)
@@ -171,8 +171,8 @@ Saturday             ██                          6.00% (485 contributions)
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     25.18% (1,965 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.06% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     25.18% (1,966 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     25.05% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    ██                          6.07% (474 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.27% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.79% (218 commits)
@@ -181,11 +181,12 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/dashboard-axiafunder — fix: break invoice allocation process if all of the amount has already been allocated
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: upgrade to gemini 2.5 flash for testing in london region
+- Pragash-Mohanarajah/ai-hdr-inference — fix: implement better case summary generation with safer logging
 - Pragash-Mohanarajah/ai-hdr-inference — experiment: drop batch sizes to 25 to remain within limits for embedding and case chunk ingestion
 - Pragash-Mohanarajah/ai-hdr-inference — experiment: drop batch sizes to 50 to remain within limits for embedding and case chunk ingestion
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement batch based processing in rag pipeline to prevent accidental rate limiting
-- Pragash-Mohanarajah/ai-hdr-inference — fix: update embedding model and pinecone index to match current setup
-- Pragash-Mohanarajah/ai-hdr-inference — fix: only run multimodal text extraction in rag mode
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: improved visibility over conversion progress in GUI with progress_cb; validation of all constraints before final merge
 - AxiaFunder/dashboard-axiafunder — fix: skip duplication check for repayments, when the tranche number is null
 - Pragash-Mohanarajah/taec-examportal-backend — Improve Student Schedule logic to ensure all students are allocated correctly
@@ -195,7 +196,6 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 - Pragash-Mohanarajah/taec-examportal-backend — fix: isSEN filter applied correctly on backend
 - Pragash-Mohanarajah/taec-examportal — Increase Scheduled time on Attendance page
 - Pragash-Mohanarajah/taec-examportal — Sidebar improvements for Zoom function
-- Pragash-Mohanarajah/taec-examportal — Unified single path routes to avoid confusion
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ cued-ia-computing/flood-kg487-pm719                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 12 May 2026 10:23:50 GMT_
+_Last updated on Tue, 12 May 2026 13:54:28 GMT_
 <!-- DEV_METRICS_END -->
