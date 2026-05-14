@@ -66,8 +66,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,071
-- 💖 Commit Breakdown: 561 public (7.0%), 7,510 private (93.0%) · 4,831 owned (59.9%), 3,240 contributed (40.1%)
+- ✨ Total Commits: 8,075
+- 💖 Commit Breakdown: 561 public (6.9%), 7,514 private (93.1%) · 4,835 owned (59.9%), 3,240 contributed (40.1%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
@@ -102,7 +102,7 @@ Dockerfile           █                           4.29% (10 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ██████████                 38.40% (33,697,286 bytes)
-TypeScript           ███                        13.60% (11,939,316 bytes)
+TypeScript           ███                        13.60% (11,939,298 bytes)
 Jupyter Notebook     ███                        12.50% (10,970,329 bytes)
 Python               ██                          9.80% (8,601,985 bytes)
 HTML                 ██                          6.52% (5,722,638 bytes)
@@ -161,18 +161,18 @@ Evening (18-24)      ███                        12.74% (394 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.32% (611 contributions)
-Monday               ████                       14.49% (1,209 contributions)
+Monday               ████                       14.48% (1,209 contributions)
 Tuesday              █████                      18.67% (1,558 contributions)
-Wednesday            █████                      20.44% (1,705 contributions)
-Thursday             ████                       16.72% (1,395 contributions)
-Friday               ████                       16.35% (1,364 contributions)
-Saturday             ██                          6.01% (501 contributions)
+Wednesday            █████                      20.47% (1,709 contributions)
+Thursday             ████                       16.71% (1,395 contributions)
+Friday               ████                       16.34% (1,364 contributions)
+Saturday             ██                          6.00% (501 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     24.36% (1,966 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     24.23% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     24.35% (1,966 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     24.22% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.87% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.18% (257 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.16% (255 commits)
@@ -181,8 +181,11 @@ n15hsy/axia-lm                                                              █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-attendance — publish: rename app to TAEC UK Hub
+- Pragash-Mohanarajah/taec-attendance — publish: connect app to main exam.taec.org.uk backend; update package names to match real setup
+- Pragash-Mohanarajah/taec-attendance — publish: connect app to main exam.taec.org.uk backend; update package names to match real setup
+- Pragash-Mohanarajah/taec-attendance — publish: connect app to main exam.taec.org.uk backend; update package names to match real setup
 - Pragash-Mohanarajah/taec-attendance — feat: consolidated eas and app json files for publishing app to stores
-- Pragash-Mohanarajah/taec-attendance — feat: update app slug to match project name in EAS; prepare to publish to apple app store and google play store
 - Pragash-Mohanarajah/ai-hdr-inference — feat: update caching allocations to use final parts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: update chunking and caching strategy to remain within limits for chosen base model
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved retry logic for workflow orchestrator with queries
@@ -193,9 +196,6 @@ n15hsy/axia-lm                                                              █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: improved visibility over conversion progress in GUI with progress_cb; validation of all constraints before final merge
 - AxiaFunder/dashboard-axiafunder — fix: skip duplication check for repayments, when the tranche number is null
 - Pragash-Mohanarajah/taec-examportal-backend — Improve Student Schedule logic to ensure all students are allocated correctly
-- Pragash-Mohanarajah/taec-examportal-backend — Improve Student Schedule logic to ensure all students are allocated correctly
-- Pragash-Mohanarajah/taec-examportal-backend — Improve Student Schedule logic to ensure all students are allocated correctly
-- Pragash-Mohanarajah/taec-examportal-backend — Update Readme
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ n15hsy/axia-lm                                                              █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 13 May 2026 21:17:06 GMT_
+_Last updated on Thu, 14 May 2026 02:12:12 GMT_
 <!-- DEV_METRICS_END -->
