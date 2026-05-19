@@ -66,12 +66,12 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 9 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,157
-- 💖 Commit Breakdown: 561 public (6.9%), 7,596 private (93.1%) · 4,916 owned (60.3%), 3,241 contributed (39.7%)
+- ✨ Total Commits: 8,158
+- 💖 Commit Breakdown: 561 public (6.9%), 7,597 private (93.1%) · 4,917 owned (60.3%), 3,241 contributed (39.7%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
-- 🧠 Estimated Lines of Code: 1,755,921
+- 🧠 Estimated Lines of Code: 1,755,965
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,953 days
 
@@ -79,8 +79,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ```
 C                    ██████████                 38.38% (673,946 LOC)
 TypeScript           ███                        13.60% (238,853 LOC)
-Jupyter Notebook     ███                        12.50% (219,406 LOC)
-Python               ██                          9.84% (172,716 LOC)
+Jupyter Notebook     ███                        12.49% (219,406 LOC)
+Python               ██                          9.84% (172,760 LOC)
 HTML                 ██                          6.52% (114,454 LOC)
 JavaScript           █                           5.39% (94,650 LOC)
 Makefile             █                           3.53% (62,016 LOC)
@@ -103,8 +103,8 @@ Dockerfile           █                           4.29% (10 repos)
 ```
 C                    ██████████                 38.38% (33,697,286 bytes)
 TypeScript           ███                        13.60% (11,942,616 bytes)
-Jupyter Notebook     ███                        12.50% (10,970,320 bytes)
-Python               ██                          9.84% (8,635,706 bytes)
+Jupyter Notebook     ███                        12.49% (10,970,320 bytes)
+Python               ██                          9.84% (8,637,903 bytes)
 HTML                 ██                          6.52% (5,722,638 bytes)
 JavaScript           █                           5.39% (4,732,469 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.39% (1,130,692 LOC)
+AI / ML              ████████████████           64.39% (1,130,736 LOC)
 Other                ███████                    26.79% (470,411 LOC)
 Web Apps             ██                          6.87% (120,592 LOC)
 Data Systems                                     1.95% (34,226 LOC)
@@ -144,7 +144,7 @@ PLpgSQL              █                           5.75% (5 repos)
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 258 commits · private)_
 - Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 255 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 253 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 254 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 1967 commits · private)_
@@ -153,17 +153,17 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.68% (21 commits)
-Morning (06-12)      █████████████              53.90% (1,672 commits)
-Afternoon (12-18)    ████████                   32.88% (1,020 commits)
+Morning (06-12)      █████████████              53.93% (1,673 commits)
+Afternoon (12-18)    ████████                   32.85% (1,019 commits)
 Evening (18-24)      ███                        12.54% (389 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.26% (612 contributions)
-Monday               ████                       14.49% (1,221 contributions)
-Tuesday              █████                      18.58% (1,566 contributions)
-Wednesday            █████                      20.28% (1,709 contributions)
+Monday               ████                       14.48% (1,221 contributions)
+Tuesday              █████                      18.59% (1,567 contributions)
+Wednesday            █████                      20.27% (1,709 contributions)
 Thursday             ████                       16.79% (1,415 contributions)
 Friday               ████                       16.54% (1,394 contributions)
 Saturday             ██                          6.07% (512 contributions)
@@ -176,16 +176,16 @@ Pragash-Mohanarajah/dashboard-axiafunder                                    █�
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.81% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.16% (258 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.13% (255 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.10% (253 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.11% (254 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.67% (218 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: remove redundant functions and ensure pdfs are split organically before upload into GCS
+- Pragash-Mohanarajah/ai-hdr-inference — feat: remove redundant functions and ensure pdfs are split organically before upload into GCS
+- Pragash-Mohanarajah/ai-hdr-inference — feat: remove redundant functions and ensure pdfs are split organically before upload into GCS
+- Pragash-Mohanarajah/ai-hdr-inference — feat: moved extract text logic to ai provider for simplicity; inject extracted text into prompts for token efficiency within anthropic vertex ai
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved cache handling to ensure that largest files are cached first in anthropic pipeline; cached files limit set to 4; document fallback for chunked file attachments once one file has been attached
-- Pragash-Mohanarajah/ai-hdr-inference — feat: correct upload paths for buckets into vertex ai
-- Pragash-Mohanarajah/ai-hdr-inference — feat: consolidated string and bytes processing for anthropic vertex ai inference
-- Pragash-Mohanarajah/ai-hdr-inference — chore: improved logging for tracking purposes with file attachment logic
-- Pragash-Mohanarajah/ai-hdr-inference — feat: implement case parts methodology for large PDF chunking to assist with anthropic file limits; correct file uploading and response streaming for parsed outputs
 - Pragash-Mohanarajah/taec-examportal-backend — Improved Student Seeding script to simplify testing
 - Pragash-Mohanarajah/taec-attendance — chore: improved package versions for stability
 - Pragash-Mohanarajah/taec-attendance — publish: patch release with improved font sizes and landing animation
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 19 May 2026 10:53:35 GMT_
+_Last updated on Tue, 19 May 2026 14:36:38 GMT_
 <!-- DEV_METRICS_END -->
