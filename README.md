@@ -66,12 +66,12 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 10 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,183
-- 💖 Commit Breakdown: 561 public (6.9%), 7,622 private (93.1%) · 4,942 owned (60.4%), 3,241 contributed (39.6%)
+- ✨ Total Commits: 8,186
+- 💖 Commit Breakdown: 561 public (6.9%), 7,625 private (93.1%) · 4,945 owned (60.4%), 3,241 contributed (39.6%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
-- 🧠 Estimated Lines of Code: 1,755,953
+- 🧠 Estimated Lines of Code: 1,756,076
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,954 days
 
@@ -80,7 +80,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 C                    ██████████                 38.38% (673,946 LOC)
 TypeScript           ███                        13.60% (238,853 LOC)
 Jupyter Notebook     ███                        12.49% (219,406 LOC)
-Python               ██                          9.84% (172,748 LOC)
+Python               ██                          9.84% (172,871 LOC)
 HTML                 ██                          6.52% (114,454 LOC)
 JavaScript           █                           5.39% (94,650 LOC)
 Makefile             █                           3.53% (62,016 LOC)
@@ -103,8 +103,8 @@ Dockerfile           █                           4.29% (10 repos)
 ```
 C                    ██████████                 38.38% (33,697,286 bytes)
 TypeScript           ███                        13.60% (11,942,616 bytes)
-Jupyter Notebook     ███                        12.50% (10,970,320 bytes)
-Python               ██                          9.84% (8,637,314 bytes)
+Jupyter Notebook     ███                        12.49% (10,970,320 bytes)
+Python               ██                          9.84% (8,643,469 bytes)
 HTML                 ██                          6.52% (5,722,638 bytes)
 JavaScript           █                           5.39% (4,732,469 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.39% (1,130,724 LOC)
+AI / ML              ████████████████           64.40% (1,130,847 LOC)
 Other                ███████                    26.79% (470,411 LOC)
 Web Apps             ██                          6.87% (120,592 LOC)
 Data Systems                                     1.95% (34,226 LOC)
@@ -142,7 +142,7 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 279 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 282 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 258 commits · private)_
 - Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 255 commits · private)_
 
@@ -153,8 +153,8 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.68% (21 commits)
-Morning (06-12)      █████████████              53.79% (1,669 commits)
-Afternoon (12-18)    ████████                   32.90% (1,021 commits)
+Morning (06-12)      █████████████              53.72% (1,667 commits)
+Afternoon (12-18)    ████████                   32.97% (1,023 commits)
 Evening (18-24)      ███                        12.63% (392 commits)
 ```
 
@@ -162,30 +162,30 @@ Evening (18-24)      ███                        12.63% (392 commits)
 ```
 Sunday               ██                          7.24% (612 contributions)
 Monday               ████                       14.44% (1,221 contributions)
-Tuesday              █████                      18.68% (1,579 contributions)
-Wednesday            █████                      20.37% (1,722 contributions)
-Thursday             ████                       16.74% (1,415 contributions)
-Friday               ████                       16.49% (1,394 contributions)
-Saturday             ██                          6.06% (512 contributions)
+Tuesday              █████                      18.67% (1,579 contributions)
+Wednesday            █████                      20.39% (1,725 contributions)
+Thursday             ████                       16.73% (1,415 contributions)
+Friday               ████                       16.48% (1,394 contributions)
+Saturday             ██                          6.05% (512 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     24.04% (1,967 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.90% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     24.03% (1,967 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.89% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.79% (474 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.41% (279 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.44% (282 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.15% (258 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.12% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.66% (218 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — chore: minor function formatting changes for improved layout
+- Pragash-Mohanarajah/ai-hdr-inference — feat: include priority fields and exclude fields logic to exclude selected fields on demand / prioritise fields during CSV preparation; update output schema to match latest system prompt
 - Pragash-Mohanarajah/ai-hdr-inference — fix: only attach model temperature to configuration, when using smaller models for stability on larger models in anthropic engine
 - Pragash-Mohanarajah/ai-hdr-inference — fix: only attach model temperature to configuration, when using smaller models for stability on larger models in anthropic engine
 - Pragash-Mohanarajah/ai-hdr-inference — fix: allow cache_name option within query for claude engine
-- Pragash-Mohanarajah/ai-hdr-inference — chore: improved multistage query loading to log the actual loaded prompt stages by stage name for tracibility
-- Pragash-Mohanarajah/ai-hdr-inference — chore: improved multistage query loading to log the actual loaded prompt stages by stage name for tracibility
 - Pragash-Mohanarajah/taec-examportal-backend — Improved Student Seeding script to simplify testing
 - Pragash-Mohanarajah/taec-attendance — chore: improved package versions for stability
 - Pragash-Mohanarajah/taec-attendance — publish: patch release with improved font sizes and landing animation
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 20 May 2026 14:35:45 GMT_
+_Last updated on Wed, 20 May 2026 18:09:34 GMT_
 <!-- DEV_METRICS_END -->
