@@ -64,10 +64,10 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 10 days
+- 🔥 Current Streak: 11 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,186
-- 💖 Commit Breakdown: 561 public (6.9%), 7,625 private (93.1%) · 4,945 owned (60.4%), 3,241 contributed (39.6%)
+- ✨ Total Commits: 8,189
+- 💖 Commit Breakdown: 561 public (6.9%), 7,628 private (93.1%) · 4,948 owned (60.4%), 3,241 contributed (39.6%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
@@ -142,7 +142,7 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 282 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 285 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 258 commits · private)_
 - Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 255 commits · private)_
 
@@ -153,39 +153,39 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.68% (21 commits)
-Morning (06-12)      █████████████              53.72% (1,667 commits)
-Afternoon (12-18)    ████████                   32.97% (1,023 commits)
+Morning (06-12)      █████████████              53.74% (1,668 commits)
+Afternoon (12-18)    ████████                   32.96% (1,023 commits)
 Evening (18-24)      ███                        12.63% (392 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.24% (612 contributions)
-Monday               ████                       14.44% (1,221 contributions)
-Tuesday              █████                      18.67% (1,579 contributions)
+Sunday               ██                          7.23% (612 contributions)
+Monday               ████                       14.43% (1,221 contributions)
+Tuesday              █████                      18.66% (1,579 contributions)
 Wednesday            █████                      20.39% (1,725 contributions)
-Thursday             ████                       16.73% (1,415 contributions)
+Thursday             ████                       16.76% (1,418 contributions)
 Friday               ████                       16.48% (1,394 contributions)
 Saturday             ██                          6.05% (512 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     24.03% (1,967 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     24.02% (1,967 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.89% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.79% (474 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.44% (282 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.48% (285 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.15% (258 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.12% (255 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.11% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.66% (218 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: consolidated system prompt with 2 stage task prompts for experiment with chosen case(s)
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: consolidated system prompt with 2 stage task prompts for experiment with chosen case(s)
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: consolidated system prompt with 2 stage task prompts for experiment with chosen case(s)
 - Pragash-Mohanarajah/ai-hdr-inference — chore: minor function formatting changes for improved layout
 - Pragash-Mohanarajah/ai-hdr-inference — feat: include priority fields and exclude fields logic to exclude selected fields on demand / prioritise fields during CSV preparation; update output schema to match latest system prompt
-- Pragash-Mohanarajah/ai-hdr-inference — fix: only attach model temperature to configuration, when using smaller models for stability on larger models in anthropic engine
-- Pragash-Mohanarajah/ai-hdr-inference — fix: only attach model temperature to configuration, when using smaller models for stability on larger models in anthropic engine
-- Pragash-Mohanarajah/ai-hdr-inference — fix: allow cache_name option within query for claude engine
 - Pragash-Mohanarajah/taec-examportal-backend — Improved Student Seeding script to simplify testing
 - Pragash-Mohanarajah/taec-attendance — chore: improved package versions for stability
 - Pragash-Mohanarajah/taec-attendance — publish: patch release with improved font sizes and landing animation
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 21 May 2026 07:41:19 GMT_
+_Last updated on Thu, 21 May 2026 10:58:49 GMT_
 <!-- DEV_METRICS_END -->
