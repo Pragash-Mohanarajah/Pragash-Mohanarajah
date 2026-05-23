@@ -66,14 +66,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 13 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,223
-- 💖 Commit Breakdown: 561 public (6.8%), 7,662 private (93.2%) · 4,982 owned (60.6%), 3,241 contributed (39.4%)
+- ✨ Total Commits: 8,241
+- 💖 Commit Breakdown: 561 public (6.8%), 7,680 private (93.2%) · 5,000 owned (60.7%), 3,241 contributed (39.3%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
-- 🧠 Estimated Lines of Code: 1,756,359
+- 🧠 Estimated Lines of Code: 1,756,636
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,957 days
+- 📅 Account age: 1,958 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -82,7 +82,7 @@ TypeScript           ███                        13.60% (238,853 LOC)
 Jupyter Notebook     ███                        12.49% (219,406 LOC)
 Python               ██                          9.86% (173,203 LOC)
 HTML                 ██                          6.52% (114,454 LOC)
-JavaScript           █                           5.39% (94,601 LOC)
+JavaScript           █                           5.40% (94,878 LOC)
 Makefile             █                           3.53% (62,016 LOC)
 Roff                 █                           3.08% (54,070 LOC)
 ```
@@ -106,7 +106,7 @@ TypeScript           ███                        13.60% (11,942,616 bytes)
 Jupyter Notebook     ███                        12.49% (10,970,320 bytes)
 Python               ██                          9.86% (8,660,084 bytes)
 HTML                 ██                          6.52% (5,722,638 bytes)
-JavaScript           █                           5.39% (4,730,036 bytes)
+JavaScript           █                           5.40% (4,743,876 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,9 +119,9 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.38% (1,130,718 LOC)
-Other                ███████                    26.81% (470,823 LOC)
-Web Apps             ██                          6.87% (120,592 LOC)
+AI / ML              ████████████████           64.37% (1,130,718 LOC)
+Other                ███████                    26.82% (471,100 LOC)
+Web Apps             ██                          6.86% (120,592 LOC)
 Data Systems                                     1.95% (34,226 LOC)
 ```
 
@@ -153,37 +153,39 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.65% (21 commits)
-Morning (06-12)      █████████████              52.62% (1,690 commits)
-Afternoon (12-18)    ████████                   33.19% (1,066 commits)
-Evening (18-24)      ███                        13.54% (435 commits)
+Morning (06-12)      █████████████              52.33% (1,681 commits)
+Afternoon (12-18)    ████████                   33.03% (1,061 commits)
+Evening (18-24)      ███                        13.98% (449 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.20% (612 contributions)
-Monday               ████                       14.37% (1,221 contributions)
-Tuesday              █████                      18.59% (1,579 contributions)
-Wednesday            █████                      20.31% (1,725 contributions)
-Thursday             ████                       16.82% (1,429 contributions)
-Friday               ████                       16.62% (1,412 contributions)
-Saturday             ██                          6.09% (517 contributions)
+Sunday               ██                          7.19% (612 contributions)
+Monday               ████                       14.34% (1,221 contributions)
+Tuesday              █████                      18.55% (1,579 contributions)
+Wednesday            █████                      20.26% (1,725 contributions)
+Thursday             ████                       16.79% (1,429 contributions)
+Friday               ████                       16.59% (1,412 contributions)
+Saturday             ██                          6.28% (535 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     23.92% (1,967 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.79% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.76% (474 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.58% (294 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.32% (273 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.10% (255 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     23.87% (1,967 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.73% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.75% (474 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.57% (294 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.31% (273 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.09% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.65% (218 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-examportal — Improved Readability of ExamPage
-- Pragash-Mohanarajah/taec-examportal — Improved Readability of ExamPage
-- Pragash-Mohanarajah/taec-examportal — Improved Readability of ExamPage
+- Pragash-Mohanarajah/taec-examportal — Consolidate Student Screen logic
+- Pragash-Mohanarajah/taec-examportal — Update Module content to show final option for student and examiner screen
+- Pragash-Mohanarajah/taec-examportal — Consolidated examiner screen code
+- Pragash-Mohanarajah/taec-examportal — Consolidated examiner screen code
+- Pragash-Mohanarajah/taec-examportal — Improved Title Selection Logic to ensure consistency
 - Pragash-Mohanarajah/taec-examportal-backend — Open up Examiner Status page to superadmin role
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved schema and prompt to match new system prompt
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
@@ -193,8 +195,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: implement missing document list workflow manager tools with tests for document matching algorithm; improved GUI interface for optimal workflow
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved schemas to match new system prompt
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved system prompt to match new conditions for failure and flagging
-- Pragash-Mohanarajah/taec-examportal — Improved Menu section to remove extra pages
-- Pragash-Mohanarajah/taec-examportal-backend — Open up Student Status page to all helping roles with associated restrictions, based on role
 - Pragash-Mohanarajah/taec-examportal-backend — Open up Student Status page to all helping roles with associated restrictions, based on role
 
 ### 🌟 Recent Stars
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 23 May 2026 16:51:08 GMT_
+_Last updated on Sat, 23 May 2026 20:38:51 GMT_
 <!-- DEV_METRICS_END -->
