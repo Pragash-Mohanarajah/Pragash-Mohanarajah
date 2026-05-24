@@ -66,23 +66,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 14 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,248
-- 💖 Commit Breakdown: 561 public (6.8%), 7,687 private (93.2%) · 5,007 owned (60.7%), 3,241 contributed (39.3%)
+- ✨ Total Commits: 8,262
+- 💖 Commit Breakdown: 561 public (6.8%), 7,701 private (93.2%) · 5,021 owned (60.8%), 3,241 contributed (39.2%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
-- 🧠 Estimated Lines of Code: 1,756,661
+- 🧠 Estimated Lines of Code: 1,756,903
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,958 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ██████████                 38.37% (673,946 LOC)
+C                    ██████████                 38.36% (673,946 LOC)
 TypeScript           ███                        13.60% (238,853 LOC)
 Jupyter Notebook     ███                        12.49% (219,406 LOC)
 Python               ██                          9.86% (173,203 LOC)
-HTML                 ██                          6.52% (114,454 LOC)
-JavaScript           █                           5.40% (94,903 LOC)
+HTML                 ██                          6.51% (114,454 LOC)
+JavaScript           █                           5.42% (95,145 LOC)
 Makefile             █                           3.53% (62,016 LOC)
 Roff                 █                           3.08% (54,070 LOC)
 ```
@@ -101,12 +101,12 @@ Dockerfile           █                           4.29% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ██████████                 38.37% (33,697,286 bytes)
+C                    ██████████                 38.36% (33,697,286 bytes)
 TypeScript           ███                        13.60% (11,942,616 bytes)
 Jupyter Notebook     ███                        12.49% (10,970,320 bytes)
 Python               ██                          9.86% (8,660,084 bytes)
-HTML                 ██                          6.52% (5,722,638 bytes)
-JavaScript           █                           5.40% (4,745,150 bytes)
+HTML                 ██                          6.51% (5,722,638 bytes)
+JavaScript           █                           5.42% (4,757,210 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.37% (1,130,718 LOC)
-Other                ███████                    26.82% (471,125 LOC)
+AI / ML              ████████████████           64.36% (1,130,718 LOC)
+Other                ███████                    26.83% (471,367 LOC)
 Web Apps             ██                          6.86% (120,592 LOC)
 Data Systems                                     1.95% (34,226 LOC)
 ```
@@ -153,49 +153,49 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.68% (22 commits)
-Morning (06-12)      █████████████              52.41% (1,684 commits)
-Afternoon (12-18)    ████████                   32.80% (1,054 commits)
-Evening (18-24)      ████                       14.10% (453 commits)
+Morning (06-12)      █████████████              52.71% (1,694 commits)
+Afternoon (12-18)    ████████                   32.73% (1,052 commits)
+Evening (18-24)      ███                        13.88% (446 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.22% (615 contributions)
-Monday               ████                       14.33% (1,221 contributions)
-Tuesday              █████                      18.53% (1,579 contributions)
-Wednesday            █████                      20.25% (1,725 contributions)
-Thursday             ████                       16.77% (1,429 contributions)
-Friday               ████                       16.57% (1,412 contributions)
-Saturday             ██                          6.33% (539 contributions)
+Sunday               ██                          7.37% (629 contributions)
+Monday               ████                       14.31% (1,221 contributions)
+Tuesday              █████                      18.50% (1,579 contributions)
+Wednesday            █████                      20.21% (1,725 contributions)
+Thursday             ████                       16.74% (1,429 contributions)
+Friday               ████                       16.55% (1,412 contributions)
+Saturday             ██                          6.32% (539 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     23.85% (1,967 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.71% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.75% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     23.81% (1,967 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.67% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.74% (474 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.56% (294 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.31% (273 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.30% (273 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.09% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.64% (218 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-examportal — Consolidate Student Screen and Examiner Screen logic for better UI experience
-- Pragash-Mohanarajah/taec-examportal — Consolidate Student Screen and Examiner Screen logic for better UI experience
-- Pragash-Mohanarajah/taec-examportal — Consolidate Student Screen and Examiner Screen logic for better UI experience
-- Pragash-Mohanarajah/taec-examportal — Consolidate Student Screen logic
-- Pragash-Mohanarajah/taec-examportal — Consolidate Student Screen logic
-- Pragash-Mohanarajah/taec-examportal-backend — Open up Examiner Status page to superadmin role
+- Pragash-Mohanarajah/taec-examportal — Ensure only one screen is rendered at a time, preventing accidental mounting of more than one screen
+- Pragash-Mohanarajah/taec-examportal-backend — Sync Exam Results, once examiner has finished with a student, even if final submit button was not clicked
+- Pragash-Mohanarajah/taec-examportal — Sync Exam Results, once examiner has finished with a student, even if final submit button was not clicked
+- Pragash-Mohanarajah/taec-examportal — Improved Button rendering to have loading indicators between module changes for stability on slower WiFis
+- Pragash-Mohanarajah/taec-examportal — Improved Button rendering to have loading indicators between module changes for stability on slower WiFis
+- Pragash-Mohanarajah/taec-examportal — Lock examiner marks once submitted to avoid override; only allow selected module submissions, when marks missing
+- Pragash-Mohanarajah/taec-examportal-backend — Lock examiner marks once submitted to avoid override; only allow selected module submissions, when marks missing
+- Pragash-Mohanarajah/taec-examportal-backend — Prevents examiners from re-submitting / changing their marks once submitted
+- Pragash-Mohanarajah/taec-examportal-backend — Include all categories completed flag for examiner submissions to same student
+- Pragash-Mohanarajah/taec-examportal-backend — Pass already submitted flag when examiner already submitted for a student
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved schema and prompt to match new system prompt
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: implement missing document list workflow manager tools with tests for document matching algorithm; improved GUI interface for optimal workflow
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved schemas to match new system prompt
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved system prompt to match new conditions for failure and flagging
-- Pragash-Mohanarajah/taec-examportal-backend — Open up Student Status page to all helping roles with associated restrictions, based on role
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 24 May 2026 06:54:00 GMT_
+_Last updated on Sun, 24 May 2026 09:47:49 GMT_
 <!-- DEV_METRICS_END -->
