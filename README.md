@@ -66,8 +66,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 14 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,276
-- 💖 Commit Breakdown: 561 public (6.8%), 7,715 private (93.2%) · 5,035 owned (60.8%), 3,241 contributed (39.2%)
+- ✨ Total Commits: 8,281
+- 💖 Commit Breakdown: 561 public (6.8%), 7,720 private (93.2%) · 5,040 owned (60.9%), 3,241 contributed (39.1%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
@@ -106,7 +106,7 @@ TypeScript           ███                        13.59% (11,942,616 bytes)
 Jupyter Notebook     ███                        12.49% (10,970,320 bytes)
 Python               ██                          9.86% (8,660,084 bytes)
 HTML                 ██                          6.51% (5,722,638 bytes)
-JavaScript           █                           5.43% (4,769,042 bytes)
+JavaScript           █                           5.43% (4,769,031 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -153,27 +153,27 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.66% (22 commits)
-Morning (06-12)      █████████████              52.05% (1,725 commits)
-Afternoon (12-18)    ████████                   32.23% (1,068 commits)
-Evening (18-24)      ████                       15.06% (499 commits)
+Morning (06-12)      █████████████              52.02% (1,724 commits)
+Afternoon (12-18)    ████████                   32.38% (1,073 commits)
+Evening (18-24)      ████                       14.94% (495 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.52% (643 contributions)
+Sunday               ██                          7.58% (648 contributions)
 Monday               ████                       14.28% (1,221 contributions)
-Tuesday              █████                      18.47% (1,579 contributions)
-Wednesday            █████                      20.18% (1,725 contributions)
-Thursday             ████                       16.72% (1,429 contributions)
-Friday               ████                       16.52% (1,412 contributions)
-Saturday             ██                          6.31% (539 contributions)
+Tuesday              █████                      18.46% (1,579 contributions)
+Wednesday            █████                      20.17% (1,725 contributions)
+Thursday             ████                       16.71% (1,429 contributions)
+Friday               ████                       16.51% (1,412 contributions)
+Saturday             ██                          6.30% (539 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     23.77% (1,967 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.63% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.73% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     23.75% (1,967 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.62% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.72% (474 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.55% (294 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.30% (273 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.08% (255 commits)
@@ -181,16 +181,16 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal — Remove Exam section from support view completely; can see all info in status
+- Pragash-Mohanarajah/taec-examportal — Ensure support can use setup flow as well
+- Pragash-Mohanarajah/taec-examportal — Ensure enough RAM for builds in production
+- Pragash-Mohanarajah/taec-examportal — Improve build settings for production builds
+- Pragash-Mohanarajah/taec-examportal — Improve build settings for production builds
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to resume their sessions with a student despite leaving mid-session
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to resume their sessions with a student despite leaving mid-session
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to resume their sessions with a student despite leaving mid-session
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to reaume their sessions with a student despite leaving mid-session
-- Pragash-Mohanarajah/taec-examportal — Allow examiners to reaume their sessions with a student despite leaving mid-session
 - Pragash-Mohanarajah/taec-examportal-backend — Optimise check student endpoint and allow examiners to resume their sessions with a student for missing categories
-- Pragash-Mohanarajah/taec-examportal — Automatically enter full screen mode on connected extension monitor
-- Pragash-Mohanarajah/taec-examportal — Automatically enter full screen mode on connected extension monitor
-- Pragash-Mohanarajah/taec-examportal — Automatically enter full screen mode on connected extension monitor
-- Pragash-Mohanarajah/taec-examportal — Automatically enter full screen mode on connected extension monitor
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved schema and prompt to match new system prompt
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 24 May 2026 13:00:45 GMT_
+_Last updated on Sun, 24 May 2026 16:52:05 GMT_
 <!-- DEV_METRICS_END -->
