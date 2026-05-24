@@ -66,14 +66,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 14 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,281
-- 💖 Commit Breakdown: 561 public (6.8%), 7,720 private (93.2%) · 5,040 owned (60.9%), 3,241 contributed (39.1%)
+- ✨ Total Commits: 8,284
+- 💖 Commit Breakdown: 561 public (6.8%), 7,723 private (93.2%) · 5,043 owned (60.9%), 3,241 contributed (39.1%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
-- 🧠 Estimated Lines of Code: 1,757,139
+- 🧠 Estimated Lines of Code: 1,757,170
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,958 days
+- 📅 Account age: 1,959 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -82,7 +82,7 @@ TypeScript           ███                        13.59% (238,853 LOC)
 Jupyter Notebook     ███                        12.49% (219,406 LOC)
 Python               ██                          9.86% (173,203 LOC)
 HTML                 ██                          6.51% (114,454 LOC)
-JavaScript           █                           5.43% (95,381 LOC)
+JavaScript           █                           5.43% (95,412 LOC)
 Makefile             █                           3.53% (62,016 LOC)
 Roff                 █                           3.08% (54,070 LOC)
 ```
@@ -106,7 +106,7 @@ TypeScript           ███                        13.59% (11,942,616 bytes)
 Jupyter Notebook     ███                        12.49% (10,970,320 bytes)
 Python               ██                          9.86% (8,660,084 bytes)
 HTML                 ██                          6.51% (5,722,638 bytes)
-JavaScript           █                           5.43% (4,769,031 bytes)
+JavaScript           █                           5.43% (4,770,553 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,7 +120,7 @@ Data Systems         █                           5.75% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.35% (1,130,718 LOC)
-Other                ███████                    26.84% (471,603 LOC)
+Other                ███████                    26.84% (471,634 LOC)
 Web Apps             ██                          6.86% (120,592 LOC)
 Data Systems                                     1.95% (34,226 LOC)
 ```
@@ -153,26 +153,26 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.66% (22 commits)
-Morning (06-12)      █████████████              52.02% (1,724 commits)
-Afternoon (12-18)    ████████                   32.38% (1,073 commits)
-Evening (18-24)      ████                       14.94% (495 commits)
+Morning (06-12)      █████████████              51.96% (1,722 commits)
+Afternoon (12-18)    ████████                   32.41% (1,074 commits)
+Evening (18-24)      ████                       14.97% (496 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.58% (648 contributions)
-Monday               ████                       14.28% (1,221 contributions)
-Tuesday              █████                      18.46% (1,579 contributions)
-Wednesday            █████                      20.17% (1,725 contributions)
-Thursday             ████                       16.71% (1,429 contributions)
-Friday               ████                       16.51% (1,412 contributions)
+Sunday               ██                          7.61% (651 contributions)
+Monday               ████                       14.27% (1,221 contributions)
+Tuesday              █████                      18.45% (1,579 contributions)
+Wednesday            █████                      20.16% (1,725 contributions)
+Thursday             ████                       16.70% (1,429 contributions)
+Friday               ████                       16.50% (1,412 contributions)
 Saturday             ██                          6.30% (539 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     23.75% (1,967 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.62% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     23.74% (1,967 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.61% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.72% (474 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.55% (294 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.30% (273 commits)
@@ -181,16 +181,16 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal-backend — Block starting exams for students from the same school
+- Pragash-Mohanarajah/taec-examportal — Add back button on ExamPage and rename Tamil to Thamil
+- Pragash-Mohanarajah/taec-examportal — Minor Improvements across site
 - Pragash-Mohanarajah/taec-examportal — Remove Exam section from support view completely; can see all info in status
 - Pragash-Mohanarajah/taec-examportal — Ensure support can use setup flow as well
 - Pragash-Mohanarajah/taec-examportal — Ensure enough RAM for builds in production
-- Pragash-Mohanarajah/taec-examportal — Improve build settings for production builds
-- Pragash-Mohanarajah/taec-examportal — Improve build settings for production builds
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to resume their sessions with a student despite leaving mid-session
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to resume their sessions with a student despite leaving mid-session
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to resume their sessions with a student despite leaving mid-session
 - Pragash-Mohanarajah/taec-examportal-backend — Allow examiners to reaume their sessions with a student despite leaving mid-session
-- Pragash-Mohanarajah/taec-examportal-backend — Optimise check student endpoint and allow examiners to resume their sessions with a student for missing categories
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved schema and prompt to match new system prompt
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: reorganise buttons in gui interface for ease of access and better organisation
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 24 May 2026 16:52:05 GMT_
+_Last updated on Sun, 24 May 2026 20:42:39 GMT_
 <!-- DEV_METRICS_END -->
