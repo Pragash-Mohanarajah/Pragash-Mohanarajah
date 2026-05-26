@@ -64,7 +64,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 14 days
+- 🔥 Current Streak: 0 days
 - 🏆 Longest Streak: 26 days
 - ✨ Total Commits: 8,284
 - 💖 Commit Breakdown: 561 public (6.8%), 7,723 private (93.2%) · 5,043 owned (60.9%), 3,241 contributed (39.1%)
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 25 May 2026 20:57:26 GMT_
+_Last updated on Tue, 26 May 2026 02:12:11 GMT_
 <!-- DEV_METRICS_END -->
