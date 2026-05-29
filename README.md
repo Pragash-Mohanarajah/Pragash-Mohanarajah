@@ -66,8 +66,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,305
-- 💖 Commit Breakdown: 561 public (6.8%), 7,744 private (93.2%) · 5,060 owned (60.9%), 3,245 contributed (39.1%)
+- ✨ Total Commits: 8,306
+- 💖 Commit Breakdown: 561 public (6.8%), 7,745 private (93.2%) · 5,061 owned (60.9%), 3,245 contributed (39.1%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
@@ -143,7 +143,7 @@ PLpgSQL              █                           5.75% (5 repos)
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 310 commits · private)_
-- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 274 commits · private)_
+- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 275 commits · private)_
 - Pragash-Mohanarajah/portfolio — Pragash Mohanarajah: Personal Portfolio _(AI / ML · 255 commits · private)_
 
 ### 🤝 Top Contributed Projects
@@ -153,8 +153,8 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.66% (22 commits)
-Morning (06-12)      █████████████              51.93% (1,724 commits)
-Afternoon (12-18)    ████████                   32.47% (1,078 commits)
+Morning (06-12)      █████████████              51.94% (1,725 commits)
+Afternoon (12-18)    ████████                   32.46% (1,078 commits)
 Evening (18-24)      ████                       14.94% (496 commits)
 ```
 
@@ -165,7 +165,7 @@ Monday               ████                       14.23% (1,221 contributi
 Tuesday              █████                      18.45% (1,583 contributions)
 Wednesday            █████                      20.21% (1,734 contributions)
 Thursday             ████                       16.75% (1,437 contributions)
-Friday               ████                       16.47% (1,413 contributions)
+Friday               ████                       16.48% (1,414 contributions)
 Saturday             ██                          6.28% (539 contributions)
 ```
 
@@ -175,12 +175,13 @@ AxiaFunder/dashboard-axiafunder                                             █�
 Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.55% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.71% (474 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.73% (310 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.30% (274 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.31% (275 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.07% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.62% (218 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — Update README to remove memory optimization note
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved rag pipeline handling; source file tagging based on claim history csv file
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved rag pipeline handling; source file tagging based on claim history csv file
 - Pragash-Mohanarajah/ai-hdr-inference — feat: update schema to use new query logic and new status value SETTLED_SMALL_CLAIMS
@@ -195,7 +196,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/taec-examportal — Add back button on ExamPage and rename Tamil to Thamil
 - Pragash-Mohanarajah/taec-examportal — Minor Improvements across site
 - Pragash-Mohanarajah/taec-examportal — Remove Exam section from support view completely; can see all info in status
-- Pragash-Mohanarajah/taec-examportal — Ensure support can use setup flow as well
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 29 May 2026 14:39:56 GMT_
+_Last updated on Fri, 29 May 2026 18:26:47 GMT_
 <!-- DEV_METRICS_END -->
