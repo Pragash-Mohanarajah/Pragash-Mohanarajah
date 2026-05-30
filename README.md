@@ -66,23 +66,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,345
-- 💖 Commit Breakdown: 561 public (6.7%), 7,784 private (93.3%) · 5,100 owned (61.1%), 3,245 contributed (38.9%)
+- ✨ Total Commits: 8,362
+- 💖 Commit Breakdown: 561 public (6.7%), 7,801 private (93.3%) · 5,117 owned (61.2%), 3,245 contributed (38.8%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
-- 🧠 Estimated Lines of Code: 1,761,713
+- 🧠 Estimated Lines of Code: 1,761,789
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,964 days
+- 📅 Account age: 1,965 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ██████████                 38.26% (673,946 LOC)
+C                    ██████████                 38.25% (673,946 LOC)
 TypeScript           ███                        13.63% (240,125 LOC)
 Jupyter Notebook     ███                        12.45% (219,406 LOC)
 Python               ██                          9.85% (173,583 LOC)
 HTML                 ██                          6.50% (114,454 LOC)
-JavaScript           █                           5.58% (98,303 LOC)
+JavaScript           █                           5.58% (98,379 LOC)
 Makefile             █                           3.52% (62,016 LOC)
 Roff                 █                           3.07% (54,070 LOC)
 ```
@@ -101,12 +101,12 @@ Dockerfile           █                           4.29% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ██████████                 38.26% (33,697,286 bytes)
+C                    ██████████                 38.25% (33,697,286 bytes)
 TypeScript           ███                        13.63% (12,006,234 bytes)
 Jupyter Notebook     ███                        12.45% (10,970,320 bytes)
 Python               ██                          9.85% (8,679,106 bytes)
 HTML                 ██                          6.50% (5,722,638 bytes)
-JavaScript           █                           5.58% (4,915,186 bytes)
+JavaScript           █                           5.58% (4,918,990 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,8 +120,8 @@ Data Systems         █                           5.75% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.20% (1,131,100 LOC)
-Other                ███████                    27.01% (475,795 LOC)
-Web Apps             ██                          6.85% (120,592 LOC)
+Other                ███████                    27.01% (475,871 LOC)
+Web Apps             ██                          6.84% (120,592 LOC)
 Data Systems                                     1.94% (34,226 LOC)
 ```
 
@@ -154,43 +154,43 @@ PLpgSQL              █                           5.75% (5 repos)
 ```
 Night (00-06)                                    0.66% (22 commits)
 Morning (06-12)      █████████████              51.85% (1,723 commits)
-Afternoon (12-18)    ████████                   33.19% (1,103 commits)
-Evening (18-24)      ████                       14.29% (475 commits)
+Afternoon (12-18)    ████████                   33.13% (1,101 commits)
+Evening (18-24)      ████                       14.35% (477 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.55% (651 contributions)
-Monday               ████                       14.17% (1,221 contributions)
-Tuesday              █████                      18.37% (1,583 contributions)
-Wednesday            █████                      20.12% (1,734 contributions)
-Thursday             ████                       16.67% (1,437 contributions)
-Friday               ████                       16.41% (1,414 contributions)
-Saturday             ██                          6.71% (578 contributions)
+Sunday               ██                          7.54% (651 contributions)
+Monday               ████                       14.14% (1,221 contributions)
+Tuesday              █████                      18.33% (1,583 contributions)
+Wednesday            █████                      20.08% (1,734 contributions)
+Thursday             ████                       16.64% (1,437 contributions)
+Friday               ████                       16.38% (1,414 contributions)
+Saturday             ██                          6.89% (595 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     23.62% (1,971 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.44% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.68% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     23.57% (1,971 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.39% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.67% (474 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.71% (310 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.30% (275 commits)
-Pragash-Mohanarajah/portfolio                                               █                           3.06% (255 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.29% (275 commits)
+Pragash-Mohanarajah/portfolio                                               █                           3.05% (255 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           2.61% (218 commits)
 ```
 
 ### ⚡ Recent Activity
 - Pragash-Mohanarajah/taec-examportal — Implement some frontend improvements, in line with feedback
-- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
-- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
-- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
-- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
+- Pragash-Mohanarajah/taec-examportal — Implement some frontend improvements, in line with feedback
 - Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
 - Pragash-Mohanarajah/taec-examportal — Implement some frontend improvements, in line with feedback
 - Pragash-Mohanarajah/taec-examportal — Implement some frontend improvements, in line with feedback
+- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
+- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
 - Pragash-Mohanarajah/taec-examportal — Implement some frontend improvements, in line with feedback
-- Pragash-Mohanarajah/taec-examportal — Implement some frontend improvements, in line with feedback
+- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
+- Pragash-Mohanarajah/taec-examportal-backend — Implement some backend improvements, in line with feedback
 - Pragash-Mohanarajah/axia-lm-optimizer — Update README to remove memory optimization note
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved rag pipeline handling; source file tagging based on claim history csv file
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved rag pipeline handling; source file tagging based on claim history csv file
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 30 May 2026 16:52:01 GMT_
+_Last updated on Sat, 30 May 2026 20:44:14 GMT_
 <!-- DEV_METRICS_END -->
