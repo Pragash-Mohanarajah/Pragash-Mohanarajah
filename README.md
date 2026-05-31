@@ -66,14 +66,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,414
-- 💖 Commit Breakdown: 561 public (6.7%), 7,853 private (93.3%) · 5,169 owned (61.4%), 3,245 contributed (38.6%)
+- ✨ Total Commits: 8,423
+- 💖 Commit Breakdown: 561 public (6.7%), 7,862 private (93.3%) · 5,178 owned (61.5%), 3,245 contributed (38.5%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
-- 🧠 Estimated Lines of Code: 1,762,828
+- 🧠 Estimated Lines of Code: 1,762,889
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,965 days
+- 📅 Account age: 1,966 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -82,7 +82,7 @@ TypeScript           ███                        13.62% (240,125 LOC)
 Jupyter Notebook     ███                        12.45% (219,406 LOC)
 Python               ██                          9.85% (173,583 LOC)
 HTML                 ██                          6.49% (114,454 LOC)
-JavaScript           █                           5.64% (99,418 LOC)
+JavaScript           █                           5.64% (99,479 LOC)
 Makefile             █                           3.52% (62,016 LOC)
 Roff                 █                           3.07% (54,070 LOC)
 ```
@@ -106,7 +106,7 @@ TypeScript           ███                        13.62% (12,006,234 bytes)
 Jupyter Notebook     ███                        12.45% (10,970,320 bytes)
 Python               ██                          9.85% (8,679,106 bytes)
 HTML                 ██                          6.49% (5,722,638 bytes)
-JavaScript           █                           5.64% (4,970,913 bytes)
+JavaScript           █                           5.64% (4,974,014 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,7 +120,7 @@ Data Systems         █                           5.75% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.16% (1,131,100 LOC)
-Other                ███████                    27.05% (476,910 LOC)
+Other                ███████                    27.06% (476,971 LOC)
 Web Apps             ██                          6.84% (120,592 LOC)
 Data Systems                                     1.94% (34,226 LOC)
 ```
@@ -152,43 +152,43 @@ PLpgSQL              █                           5.75% (5 repos)
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    0.66% (22 commits)
-Morning (06-12)      █████████████              52.87% (1,758 commits)
+Night (00-06)                                    0.63% (21 commits)
+Morning (06-12)      █████████████              52.81% (1,756 commits)
 Afternoon (12-18)    ████████                   33.05% (1,099 commits)
-Evening (18-24)      ███                        13.41% (446 commits)
+Evening (18-24)      ███                        13.50% (449 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          8.09% (703 contributions)
-Monday               ████                       14.06% (1,221 contributions)
-Tuesday              █████                      18.22% (1,583 contributions)
-Wednesday            █████                      19.96% (1,734 contributions)
-Thursday             ████                       16.54% (1,437 contributions)
-Friday               ████                       16.28% (1,414 contributions)
-Saturday             ██                          6.85% (595 contributions)
+Sunday               ██                          8.19% (712 contributions)
+Monday               ████                       14.04% (1,221 contributions)
+Tuesday              █████                      18.20% (1,583 contributions)
+Wednesday            █████                      19.94% (1,734 contributions)
+Thursday             ████                       16.52% (1,437 contributions)
+Friday               ████                       16.26% (1,414 contributions)
+Saturday             ██                          6.84% (595 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     23.43% (1,971 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.25% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     23.40% (1,971 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     23.22% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.63% (474 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.68% (310 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.27% (275 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.26% (275 commits)
 Pragash-Mohanarajah/portfolio                                               █                           3.03% (255 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           2.92% (246 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.00% (253 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal — Correct timer toggle logic when moving between modules to prevent incorrect moves by examiner
+- Pragash-Mohanarajah/taec-examportal — Correct timer toggle logic when moving between modules to prevent incorrect moves by examiner
+- Pragash-Mohanarajah/taec-examportal — Correct timer toggle logic when moving between modules to prevent incorrect moves by examiner
+- Pragash-Mohanarajah/taec-examportal — Add icons on relevant frontend pages for each category
+- Pragash-Mohanarajah/taec-examportal — Add icons on relevant frontend pages for each category
+- Pragash-Mohanarajah/taec-examportal-backend — Ensure correct exam page logic for skip skill cat courses
+- Pragash-Mohanarajah/taec-examportal-backend — Ensure correct exam page logic for skip skill cat courses
 - Pragash-Mohanarajah/taec-examportal-backend — Optimise start exam endpoint to block unwanted starts / role mismatches
-- Pragash-Mohanarajah/taec-examportal — Ensure correct exam page logic for skip skill cat courses
-- Pragash-Mohanarajah/taec-examportal — Ensure correct statuses in status pages
-- Pragash-Mohanarajah/taec-examportal — Ensure correct statuses in status pages
-- Pragash-Mohanarajah/taec-examportal — Ensure correct statuses in status pages
-- Pragash-Mohanarajah/taec-examportal — Ensure correct statuses in status pages
-- Pragash-Mohanarajah/taec-examportal-backend — Ensure correct statuses in status pages
-- Pragash-Mohanarajah/taec-examportal-backend — Ensure correct statuses in status pages
 - Pragash-Mohanarajah/taec-examportal-backend — Ensure correct statuses in status pages
 - Pragash-Mohanarajah/taec-examportal-backend — Ensure correct statuses in status pages
 - Pragash-Mohanarajah/axia-lm-optimizer — Update README to remove memory optimization note
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 31 May 2026 16:56:44 GMT_
+_Last updated on Sun, 31 May 2026 20:49:02 GMT_
 <!-- DEV_METRICS_END -->
