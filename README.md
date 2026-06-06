@@ -70,7 +70,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 💖 Commit Breakdown: 561 public (6.5%), 8,095 private (93.5%) · 5,407 owned (62.5%), 3,249 contributed (37.5%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
-- ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 20
+- ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
 - 🧠 Estimated Lines of Code: 1,765,489
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,971 days
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 06 Jun 2026 13:08:17 GMT_
+_Last updated on Sat, 06 Jun 2026 16:59:23 GMT_
 <!-- DEV_METRICS_END -->
