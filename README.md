@@ -66,19 +66,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 13 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,689
-- 💖 Commit Breakdown: 561 public (6.5%), 8,128 private (93.5%) · 5,440 owned (62.6%), 3,249 contributed (37.4%)
+- ✨ Total Commits: 8,701
+- 💖 Commit Breakdown: 561 public (6.4%), 8,140 private (93.6%) · 5,452 owned (62.7%), 3,249 contributed (37.3%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,766,338
+- 🧠 Estimated Lines of Code: 1,766,488
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,972 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ██████████                 38.15% (673,946 LOC)
-TypeScript           ███                        13.68% (241,665 LOC)
+TypeScript           ███                        13.69% (241,815 LOC)
 Jupyter Notebook     ███                        12.42% (219,406 LOC)
 Python               ██                          9.94% (175,541 LOC)
 HTML                 ██                          6.48% (114,454 LOC)
@@ -101,8 +101,8 @@ Dockerfile           █                           4.29% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ██████████                 38.16% (33,697,286 bytes)
-TypeScript           ███                        13.68% (12,083,218 bytes)
+C                    ██████████                 38.15% (33,697,286 bytes)
+TypeScript           ███                        13.69% (12,090,682 bytes)
 Jupyter Notebook     ███                        12.42% (10,970,320 bytes)
 Python               ██                          9.94% (8,776,973 bytes)
 HTML                 ██                          6.48% (5,722,638 bytes)
@@ -120,7 +120,7 @@ Data Systems         █                           5.75% (5 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.11% (1,132,445 LOC)
-Other                ███████                    27.12% (479,075 LOC)
+Other                ███████                    27.13% (479,225 LOC)
 Web Apps             ██                          6.83% (120,592 LOC)
 Data Systems                                     1.94% (34,226 LOC)
 ```
@@ -153,40 +153,40 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.61% (21 commits)
-Morning (06-12)      █████████████              52.53% (1,819 commits)
-Afternoon (12-18)    ████████                   33.06% (1,145 commits)
+Morning (06-12)      █████████████              52.32% (1,812 commits)
+Afternoon (12-18)    ████████                   33.27% (1,152 commits)
 Evening (18-24)      ███                        13.80% (478 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          8.21% (736 contributions)
-Monday               ████                       14.02% (1,257 contributions)
-Tuesday              █████                      18.18% (1,630 contributions)
-Wednesday            █████                      20.04% (1,796 contributions)
-Thursday             ████                       16.62% (1,490 contributions)
-Friday               ████                       16.19% (1,451 contributions)
-Saturday             ██                          6.74% (604 contributions)
+Sunday               ██                          8.33% (748 contributions)
+Monday               ████                       14.00% (1,257 contributions)
+Tuesday              █████                      18.16% (1,630 contributions)
+Wednesday            █████                      20.01% (1,796 contributions)
+Thursday             ████                       16.60% (1,490 contributions)
+Friday               ████                       16.17% (1,451 contributions)
+Saturday             ██                          6.73% (604 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.73% (1,975 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.51% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.46% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.87% (336 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.80% (330 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.66% (318 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.11% (270 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.70% (1,975 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.48% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.45% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.86% (336 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.79% (330 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.65% (318 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.10% (270 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-attendance — release: patched version with improved option picking logic, optimised for mobile
-- Pragash-Mohanarajah/taec-attendance — feat: centralise the option pickers to use the session data for all options and use correct backend data
-- Pragash-Mohanarajah/taec-attendance — feat: centralise the option pickers to use the session data for all options and use correct backend data
+- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.0 with corrected center options logic whenever eventId changes
+- Pragash-Mohanarajah/taec-attendance — release: patched version with better handling of logout and option selection
+- Pragash-Mohanarajah/taec-attendance — release: patched version with better handling of logout and option selection
+- Pragash-Mohanarajah/taec-attendance — chore: improved signout handling to prevent accidental login attempts; only fetch new constants when changing event type
+- Pragash-Mohanarajah/taec-attendance — fix: ensure that the session data is always up to date correctly and cleanly
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; send the rooms information to the mobile app on demand
-- Pragash-Mohanarajah/taec-attendance — feat: centralise the option pickers to use the session data for all options and use correct backend data
-- Pragash-Mohanarajah/taec-attendance — clean: move the shared functions to a common location for code readability and cleansiness across the site
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; send the courses and categories information to the mobile app on demand
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; add trip check to prevent inactive accounts from making changes to the database
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement only stage 3 classification in inference repo, if all else failed
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 07 Jun 2026 13:21:40 GMT_
+_Last updated on Sun, 07 Jun 2026 17:05:25 GMT_
 <!-- DEV_METRICS_END -->
