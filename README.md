@@ -66,23 +66,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 13 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,701
-- 💖 Commit Breakdown: 561 public (6.4%), 8,140 private (93.6%) · 5,452 owned (62.7%), 3,249 contributed (37.3%)
+- ✨ Total Commits: 8,709
+- 💖 Commit Breakdown: 561 public (6.4%), 8,148 private (93.6%) · 5,460 owned (62.7%), 3,249 contributed (37.3%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,766,488
+- 🧠 Estimated Lines of Code: 1,766,553
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,972 days
+- 📅 Account age: 1,973 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ██████████                 38.15% (673,946 LOC)
-TypeScript           ███                        13.69% (241,815 LOC)
+TypeScript           ███                        13.69% (241,887 LOC)
 Jupyter Notebook     ███                        12.42% (219,406 LOC)
 Python               ██                          9.94% (175,541 LOC)
 HTML                 ██                          6.48% (114,454 LOC)
-JavaScript           █                           5.64% (99,649 LOC)
+JavaScript           █                           5.64% (99,642 LOC)
 Makefile             █                           3.51% (62,016 LOC)
 Roff                 █                           3.06% (54,070 LOC)
 ```
@@ -102,11 +102,11 @@ Dockerfile           █                           4.29% (10 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ██████████                 38.15% (33,697,286 bytes)
-TypeScript           ███                        13.69% (12,090,682 bytes)
+TypeScript           ███                        13.69% (12,094,310 bytes)
 Jupyter Notebook     ███                        12.42% (10,970,320 bytes)
 Python               ██                          9.94% (8,776,973 bytes)
 HTML                 ██                          6.48% (5,722,638 bytes)
-JavaScript           █                           5.64% (4,982,470 bytes)
+JavaScript           █                           5.64% (4,982,132 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,8 +119,8 @@ Data Systems         █                           5.75% (5 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.11% (1,132,445 LOC)
-Other                ███████                    27.13% (479,225 LOC)
+AI / ML              ████████████████           64.10% (1,132,445 LOC)
+Other                ███████                    27.13% (479,290 LOC)
 Web Apps             ██                          6.83% (120,592 LOC)
 Data Systems                                     1.94% (34,226 LOC)
 ```
@@ -153,39 +153,42 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.61% (21 commits)
-Morning (06-12)      █████████████              52.32% (1,812 commits)
-Afternoon (12-18)    ████████                   33.27% (1,152 commits)
-Evening (18-24)      ███                        13.80% (478 commits)
+Morning (06-12)      █████████████              52.25% (1,810 commits)
+Afternoon (12-18)    ████████                   33.20% (1,150 commits)
+Evening (18-24)      ███                        13.94% (483 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          8.33% (748 contributions)
-Monday               ████                       14.00% (1,257 contributions)
-Tuesday              █████                      18.16% (1,630 contributions)
-Wednesday            █████                      20.01% (1,796 contributions)
-Thursday             ████                       16.60% (1,490 contributions)
-Friday               ████                       16.17% (1,451 contributions)
-Saturday             ██                          6.73% (604 contributions)
+Sunday               ██                          8.41% (756 contributions)
+Monday               ███                        13.99% (1,257 contributions)
+Tuesday              █████                      18.14% (1,630 contributions)
+Wednesday            █████                      19.99% (1,796 contributions)
+Thursday             ████                       16.59% (1,490 contributions)
+Friday               ████                       16.15% (1,451 contributions)
+Saturday             ██                          6.72% (604 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.70% (1,975 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.48% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.45% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.68% (1,975 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.46% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.44% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.86% (336 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.79% (330 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.65% (318 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.10% (270 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.11% (271 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.0 with corrected center options logic whenever eventId changes
-- Pragash-Mohanarajah/taec-attendance — release: patched version with better handling of logout and option selection
-- Pragash-Mohanarajah/taec-attendance — release: patched version with better handling of logout and option selection
-- Pragash-Mohanarajah/taec-attendance — chore: improved signout handling to prevent accidental login attempts; only fetch new constants when changing event type
-- Pragash-Mohanarajah/taec-attendance — fix: ensure that the session data is always up to date correctly and cleanly
+- Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; include mode option to find students by registered center in database
+- Pragash-Mohanarajah/taec-attendance — feat: include the mode info in the dashboard query to be able to determine how many students are registered in the center
+- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.2 with dropdown options always available in pages once logged in
+- Pragash-Mohanarajah/taec-attendance — fix: ensure that center and room options are available in setup on first render each time
+- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.1 with corrected attendance center mismatch logic
+- Pragash-Mohanarajah/taec-attendance — fix: mimic center mismatch logic from web portal into the app to ensure administrative center override when mismatches are present
+- Pragash-Mohanarajah/taec-examportal — Final improvements in line with feedback; center mismatch logic based on skill schedule center
+- Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; optimise attendance endpoints to allow support center change for students at attendance
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; send the rooms information to the mobile app on demand
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; send the courses and categories information to the mobile app on demand
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; add trip check to prevent inactive accounts from making changes to the database
@@ -193,9 +196,6 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - AxiaFunder/dashboard-axiafunder — Merge pull request #177 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — fix: exclude spvs during invoice allocation, where the spv is not active or unused, i.e. resolved
 - AxiaFunder/dashboard-axiafunder — fix: exclude spvs during invoice allocation, where the spv is not active or unused, i.e. resolved
-- Pragash-Mohanarajah/ai-hdr-inference — debug: show auth credentials on screen when building services
-- Pragash-Mohanarajah/ai-hdr-inference — experiment: update prompt for failed files to determine effective dates
-- Pragash-Mohanarajah/ai-hdr-inference — experiment: update prompt for failed files to determine effective dates
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 07 Jun 2026 17:05:25 GMT_
+_Last updated on Sun, 07 Jun 2026 21:00:36 GMT_
 <!-- DEV_METRICS_END -->
