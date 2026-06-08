@@ -64,10 +64,10 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 13 days
+- 🔥 Current Streak: 14 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,709
-- 💖 Commit Breakdown: 561 public (6.4%), 8,148 private (93.6%) · 5,460 owned (62.7%), 3,249 contributed (37.3%)
+- ✨ Total Commits: 8,711
+- 💖 Commit Breakdown: 561 public (6.4%), 8,150 private (93.6%) · 5,462 owned (62.7%), 3,249 contributed (37.3%)
 - 🚀 Repositories: 87 (35 public (40.2%), 52 private (59.8%))
 - 👤 Ownership: 83 owned (95.4%), 4 contributed-to (4.6%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
@@ -144,7 +144,7 @@ PLpgSQL              █                           5.75% (5 repos)
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 336 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 330 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 318 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 320 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 1975 commits · private)_
@@ -153,34 +153,36 @@ PLpgSQL              █                           5.75% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.61% (21 commits)
-Morning (06-12)      █████████████              52.25% (1,810 commits)
-Afternoon (12-18)    ████████                   33.20% (1,150 commits)
+Morning (06-12)      █████████████              52.32% (1,813 commits)
+Afternoon (12-18)    ████████                   33.13% (1,148 commits)
 Evening (18-24)      ███                        13.94% (483 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          8.41% (756 contributions)
-Monday               ███                        13.99% (1,257 contributions)
+Monday               ████                       14.01% (1,259 contributions)
 Tuesday              █████                      18.14% (1,630 contributions)
 Wednesday            █████                      19.99% (1,796 contributions)
-Thursday             ████                       16.59% (1,490 contributions)
+Thursday             ████                       16.58% (1,490 contributions)
 Friday               ████                       16.15% (1,451 contributions)
 Saturday             ██                          6.72% (604 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.68% (1,975 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.46% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.67% (1,975 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.45% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.44% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.86% (336 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.79% (330 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.65% (318 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.67% (320 commits)
 Pragash-Mohanarajah/taec-examportal                                         █                           3.11% (271 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: update prompt for failed files to include today's date for analysis date field population
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: update prompt for ongoing files in line with improved document identification logic
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; include mode option to find students by registered center in database
 - Pragash-Mohanarajah/taec-attendance — feat: include the mode info in the dashboard query to be able to determine how many students are registered in the center
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.2 with dropdown options always available in pages once logged in
@@ -194,8 +196,6 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - Pragash-Mohanarajah/taec-examportal-backend — Final improvements in line with feedback; add trip check to prevent inactive accounts from making changes to the database
 - Pragash-Mohanarajah/ai-hdr-inference — feat: implement only stage 3 classification in inference repo, if all else failed
 - AxiaFunder/dashboard-axiafunder — Merge pull request #177 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — fix: exclude spvs during invoice allocation, where the spv is not active or unused, i.e. resolved
-- AxiaFunder/dashboard-axiafunder — fix: exclude spvs during invoice allocation, where the spv is not active or unused, i.e. resolved
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 08 Jun 2026 08:45:38 GMT_
+_Last updated on Mon, 08 Jun 2026 15:29:05 GMT_
 <!-- DEV_METRICS_END -->
