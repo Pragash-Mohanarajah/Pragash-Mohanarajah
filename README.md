@@ -66,22 +66,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 17 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,783
-- 💖 Commit Breakdown: 561 public (6.4%), 8,222 private (93.6%) · 5,521 owned (62.9%), 3,262 contributed (37.1%)
+- ✨ Total Commits: 8,791
+- 💖 Commit Breakdown: 561 public (6.4%), 8,230 private (93.6%) · 5,529 owned (62.9%), 3,262 contributed (37.1%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,767,624
+- 🧠 Estimated Lines of Code: 1,767,790
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,976 days
+- 📅 Account age: 1,977 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ██████████                 38.13% (673,946 LOC)
-TypeScript           ███                        13.70% (242,123 LOC)
+C                    ██████████                 38.12% (673,946 LOC)
+TypeScript           ███                        13.71% (242,289 LOC)
 Jupyter Notebook     ███                        12.41% (219,406 LOC)
 Python               ██                          9.95% (175,856 LOC)
-HTML                 ██                          6.48% (114,454 LOC)
+HTML                 ██                          6.47% (114,454 LOC)
 JavaScript           █                           5.67% (100,147 LOC)
 Makefile             █                           3.51% (62,016 LOC)
 Roff                 █                           3.06% (54,070 LOC)
@@ -101,8 +101,8 @@ Dockerfile           █                           4.26% (10 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ██████████                 38.13% (33,697,286 bytes)
-TypeScript           ███                        13.70% (12,106,107 bytes)
+C                    ██████████                 38.12% (33,697,286 bytes)
+TypeScript           ███                        13.71% (12,114,385 bytes)
 Jupyter Notebook     ███                        12.41% (10,970,320 bytes)
 Python               ██                          9.95% (8,792,700 bytes)
 HTML                 ██                          6.47% (5,722,638 bytes)
@@ -119,8 +119,8 @@ Data Systems         ██                          6.67% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.08% (1,132,620 LOC)
-Other                ███████                    27.17% (480,186 LOC)
+AI / ML              ████████████████           64.07% (1,132,620 LOC)
+Other                ███████                    27.17% (480,352 LOC)
 Web Apps             ██                          6.82% (120,592 LOC)
 Data Systems                                     1.94% (34,226 LOC)
 ```
@@ -153,34 +153,39 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              52.63% (1,830 commits)
-Afternoon (12-18)    ████████                   32.96% (1,146 commits)
-Evening (18-24)      ███                        13.81% (480 commits)
+Morning (06-12)      █████████████              52.65% (1,831 commits)
+Afternoon (12-18)    ████████                   32.72% (1,138 commits)
+Evening (18-24)      ████                       14.03% (488 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          8.34% (756 contributions)
-Monday               ███                        13.89% (1,259 contributions)
-Tuesday              █████                      18.04% (1,635 contributions)
-Wednesday            █████                      20.22% (1,833 contributions)
-Thursday             ████                       16.84% (1,526 contributions)
-Friday               ████                       16.01% (1,451 contributions)
+Sunday               ██                          8.33% (756 contributions)
+Monday               ███                        13.88% (1,259 contributions)
+Tuesday              █████                      18.02% (1,635 contributions)
+Wednesday            █████                      20.21% (1,833 contributions)
+Thursday             ████                       16.91% (1,534 contributions)
+Friday               ████                       15.99% (1,451 contributions)
 Saturday             ██                          6.66% (604 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.63% (1,988 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.27% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.40% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.61% (1,988 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.25% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.39% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.98% (350 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.86% (339 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.69% (324 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.09% (271 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.08% (271 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-attendance — chore: minor style improvements for fitting fonts in page
+- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.3 with branded slides when opening app
+- Pragash-Mohanarajah/taec-attendance — feat: improved navigation to move forwards/back by clicking on the screen
+- Pragash-Mohanarajah/taec-attendance — feat: improved styling of slide data and core values to support better formats
+- Pragash-Mohanarajah/taec-attendance — fix: improved styling for config screen
 - Pragash-Mohanarajah/api-connector — submodule: add companies house csv file handler
 - Pragash-Mohanarajah/api-connector-companies-house — Initial commit
 - Pragash-Mohanarajah/api-connector — submodule: move fca files to base of repo for ease of access
@@ -191,11 +196,6 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - Pragash-Mohanarajah/api-connector — feat: ensure compliance with rate limit
 - Pragash-Mohanarajah/api-connector — feat: add fca data import logic from file
 - AxiaFunder/dashboard-axiafunder — Merge pull request #180 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — fix(tax): implement safety check for floating point discrepancies of 1%
-- Pragash-Mohanarajah/api-connector-fca — feat: main entry point for name-based company data extraction
-- Pragash-Mohanarajah/api-connector-fca — feat: improved firm details function with more structured outputs
-- Pragash-Mohanarajah/ai-hdr-file-converter — release: v1.4 with improved window presence in cli mode and better progress logging with global and folder level indications
-- Pragash-Mohanarajah/axia-lm-optimizer — release: v1.4 with improved window presence in cli mode and better progress logging with global and folder level indications
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 11 Jun 2026 18:40:28 GMT_
+_Last updated on Thu, 11 Jun 2026 21:53:49 GMT_
 <!-- DEV_METRICS_END -->
