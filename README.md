@@ -66,8 +66,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 19 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,842
-- 💖 Commit Breakdown: 561 public (6.3%), 8,281 private (93.7%) · 5,578 owned (63.1%), 3,264 contributed (36.9%)
+- ✨ Total Commits: 8,843
+- 💖 Commit Breakdown: 561 public (6.3%), 8,282 private (93.7%) · 5,579 owned (63.1%), 3,264 contributed (36.9%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
@@ -154,24 +154,24 @@ PLpgSQL              █                           5.56% (5 repos)
 ```
 Night (00-06)                                    0.60% (21 commits)
 Morning (06-12)      █████████████              52.68% (1,838 commits)
-Afternoon (12-18)    ████████                   32.65% (1,139 commits)
-Evening (18-24)      ████                       14.07% (491 commits)
+Afternoon (12-18)    ████████                   32.67% (1,140 commits)
+Evening (18-24)      ████                       14.04% (490 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          8.29% (756 contributions)
+Sunday               ██                          8.28% (756 contributions)
 Monday               ███                        13.80% (1,259 contributions)
 Tuesday              ████                       17.92% (1,635 contributions)
 Wednesday            █████                      20.09% (1,833 contributions)
 Thursday             ████                       16.83% (1,536 contributions)
 Friday               ████                       16.42% (1,498 contributions)
-Saturday             ██                          6.65% (607 contributions)
+Saturday             ██                          6.66% (608 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.51% (1,990 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.50% (1,990 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    ██████                     22.12% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.36% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.14% (366 commits)
@@ -181,6 +181,7 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.4 with improved styling on landing pages and sen student checklist at attendance
 - Pragash-Mohanarajah/taec-attendance — feat: add sen checklist on registering SEN students through the app for consistency
 - Pragash-Mohanarajah/taec-attendance — chore: remove room status for support and admin
 - Pragash-Mohanarajah/taec-examportal — Ensure even course questions logic is working properly for the chosen category questions
@@ -195,7 +196,6 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - Pragash-Mohanarajah/ai-hdr-file-converter — release: v1.5 with improved logging and txt status summaries at each cli stage
 - Pragash-Mohanarajah/axia-lm-optimizer — release: v1.5 with improved logging and txt status summaries at each cli stage
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: ensure logging displayed in the cli correctly with scrollable file logs and persistent batch and folder logs
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: ensure logging displayed in the cli correctly with scrollable file logs and persistent batch and folder logs
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 13 Jun 2026 13:25:45 GMT_
+_Last updated on Sat, 13 Jun 2026 17:11:33 GMT_
 <!-- DEV_METRICS_END -->
