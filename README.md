@@ -66,23 +66,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 24 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,940
-- 💖 Commit Breakdown: 561 public (6.3%), 8,379 private (93.7%) · 5,674 owned (63.5%), 3,266 contributed (36.5%)
+- ✨ Total Commits: 8,943
+- 💖 Commit Breakdown: 561 public (6.3%), 8,382 private (93.7%) · 5,677 owned (63.5%), 3,266 contributed (36.5%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,768,971
+- 🧠 Estimated Lines of Code: 1,768,978
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,983 days
+- 📅 Account age: 1,984 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ██████████                 38.10% (673,946 LOC)
-TypeScript           ███                        13.70% (242,384 LOC)
+TypeScript           ███                        13.70% (242,389 LOC)
 Jupyter Notebook     ███                        12.40% (219,406 LOC)
 Python               ██                          9.96% (176,260 LOC)
 HTML                 ██                          6.47% (114,454 LOC)
-JavaScript           █                           5.70% (100,811 LOC)
+JavaScript           █                           5.70% (100,813 LOC)
 Makefile             █                           3.51% (62,016 LOC)
 Roff                 █                           3.06% (54,070 LOC)
 ```
@@ -102,11 +102,11 @@ Dockerfile           █                           4.64% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ██████████                 38.10% (33,697,286 bytes)
-TypeScript           ███                        13.70% (12,119,121 bytes)
+TypeScript           ███                        13.70% (12,119,399 bytes)
 Jupyter Notebook     ███                        12.40% (10,970,320 bytes)
 Python               ██                          9.96% (8,812,907 bytes)
 HTML                 ██                          6.47% (5,722,638 bytes)
-JavaScript           █                           5.70% (5,040,615 bytes)
+JavaScript           █                           5.70% (5,040,716 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,7 +120,7 @@ Data Systems         ██                          6.67% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.04% (1,132,798 LOC)
-Other                ███████                    27.20% (481,204 LOC)
+Other                ███████                    27.20% (481,211 LOC)
 Web Apps             ██                          6.82% (120,592 LOC)
 Data Systems                                     1.94% (34,377 LOC)
 ```
@@ -153,9 +153,9 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              53.04% (1,859 commits)
-Afternoon (12-18)    ████████                   32.41% (1,136 commits)
-Evening (18-24)      ███                        13.95% (489 commits)
+Morning (06-12)      █████████████              53.07% (1,861 commits)
+Afternoon (12-18)    ████████                   32.34% (1,134 commits)
+Evening (18-24)      ████                       14.00% (491 commits)
 ```
 
 ### 📅 Productivity by Day
@@ -163,24 +163,27 @@ Evening (18-24)      ███                        13.95% (489 commits)
 Sunday               ██                          8.21% (757 contributions)
 Monday               ███                        13.79% (1,272 contributions)
 Tuesday              █████                      18.17% (1,676 contributions)
-Wednesday            █████                      20.20% (1,863 contributions)
-Thursday             ████                       16.76% (1,546 contributions)
+Wednesday            █████                      20.19% (1,863 contributions)
+Thursday             ████                       16.79% (1,549 contributions)
 Friday               ████                       16.24% (1,498 contributions)
 Saturday             ██                          6.62% (611 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.28% (1,992 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.88% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.27% (1,992 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.87% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.30% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.09% (366 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.04% (361 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.76% (336 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.06% (274 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.08% (275 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal — Ensure new lines in modules are reflected in view
+- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.7 with improved camera permission logic
+- Pragash-Mohanarajah/taec-attendance — feat: ensure correct logic on camera press; request camera permission if not already granted
 - Pragash-Mohanarajah/api-connector — feat: support for GCS locations from input path
 - Pragash-Mohanarajah/api-connector — feat: implement main workflow as a single stateful machine for simplicity
 - Pragash-Mohanarajah/api-connector — feat: implement main workflow as a single stateful machine for simplicity
@@ -193,9 +196,6 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.6  with responsive login button on first login
 - Pragash-Mohanarajah/taec-attendance — fix: automatically open the GDPR modal if login button is clicked and not accepted yet
 - AxiaFunder/dashboard-axiafunder — Merge pull request #182 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — chore: reduce vertical padding in track record summary table for clarity in main published site
-- Pragash-Mohanarajah/api-connector-fca — feat: implement correct path resolution for async fetches
-- Pragash-Mohanarajah/api-connector-fca — feat: improved logging when loading firm details from cache
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 18 Jun 2026 18:21:23 GMT_
+_Last updated on Thu, 18 Jun 2026 21:57:04 GMT_
 <!-- DEV_METRICS_END -->
