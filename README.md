@@ -64,21 +64,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 24 days
+- 🔥 Current Streak: 25 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,947
-- 💖 Commit Breakdown: 561 public (6.3%), 8,386 private (93.7%) · 5,681 owned (63.5%), 3,266 contributed (36.5%)
+- ✨ Total Commits: 8,948
+- 💖 Commit Breakdown: 561 public (6.3%), 8,387 private (93.7%) · 5,682 owned (63.5%), 3,266 contributed (36.5%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,768,998
+- 🧠 Estimated Lines of Code: 1,768,995
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,984 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ██████████                 38.10% (673,946 LOC)
-TypeScript           ███                        13.70% (242,409 LOC)
+TypeScript           ███                        13.70% (242,406 LOC)
 Jupyter Notebook     ███                        12.40% (219,406 LOC)
 Python               ██                          9.96% (176,260 LOC)
 HTML                 ██                          6.47% (114,454 LOC)
@@ -102,7 +102,7 @@ Dockerfile           █                           4.64% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ██████████                 38.10% (33,697,286 bytes)
-TypeScript           ███                        13.70% (12,120,409 bytes)
+TypeScript           ███                        13.70% (12,120,252 bytes)
 Jupyter Notebook     ███                        12.40% (10,970,320 bytes)
 Python               ██                          9.96% (8,812,907 bytes)
 HTML                 ██                          6.47% (5,722,638 bytes)
@@ -120,7 +120,7 @@ Data Systems         ██                          6.67% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.04% (1,132,798 LOC)
-Other                ███████                    27.20% (481,231 LOC)
+Other                ███████                    27.20% (481,228 LOC)
 Web Apps             ██                          6.82% (120,592 LOC)
 Data Systems                                     1.94% (34,377 LOC)
 ```
@@ -153,9 +153,9 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              53.07% (1,861 commits)
-Afternoon (12-18)    ████████                   32.34% (1,134 commits)
-Evening (18-24)      ████                       14.00% (491 commits)
+Morning (06-12)      █████████████              53.11% (1,863 commits)
+Afternoon (12-18)    ████████                   32.33% (1,134 commits)
+Evening (18-24)      ███                        13.97% (490 commits)
 ```
 
 ### 📅 Productivity by Day
@@ -164,8 +164,8 @@ Sunday               ██                          8.20% (757 contributions)
 Monday               ███                        13.78% (1,272 contributions)
 Tuesday              █████                      18.16% (1,676 contributions)
 Wednesday            █████                      20.18% (1,863 contributions)
-Thursday             ████                       16.83% (1,553 contributions)
-Friday               ████                       16.23% (1,498 contributions)
+Thursday             ████                       16.82% (1,553 contributions)
+Friday               ████                       16.24% (1,499 contributions)
 Saturday             ██                          6.62% (611 contributions)
 ```
 
@@ -181,12 +181,12 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-attendance — fix: correct component mounts and unmounts for camera permission page
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.9 with correct camera and audio permissions
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.8 with correct scanner and camera permission redirects
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.8 with correct scanner and camera permission redirects
 - Pragash-Mohanarajah/taec-attendance — fix: ensure correct redirection logic with camera permissions for scanner
 - Pragash-Mohanarajah/taec-examportal — Ensure new lines in modules are reflected in view
-- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.7 with improved camera permission logic
 - Pragash-Mohanarajah/api-connector — feat: support for GCS locations from input path
 - Pragash-Mohanarajah/api-connector — feat: implement main workflow as a single stateful machine for simplicity
 - Pragash-Mohanarajah/api-connector — feat: implement main workflow as a single stateful machine for simplicity
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 19 Jun 2026 02:57:28 GMT_
+_Last updated on Fri, 19 Jun 2026 08:58:15 GMT_
 <!-- DEV_METRICS_END -->
