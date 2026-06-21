@@ -64,7 +64,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 25 days
+- 🔥 Current Streak: 0 days
 - 🏆 Longest Streak: 26 days
 - ✨ Total Commits: 8,954
 - 💖 Commit Breakdown: 561 public (6.3%), 8,393 private (93.7%) · 5,688 owned (63.5%), 3,266 contributed (36.5%)
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 20 Jun 2026 21:03:58 GMT_
+_Last updated on Sun, 21 Jun 2026 02:44:54 GMT_
 <!-- DEV_METRICS_END -->
