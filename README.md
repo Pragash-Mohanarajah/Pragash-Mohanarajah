@@ -182,8 +182,8 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 
 ### ⚡ Recent Activity
 - Pragash-Mohanarajah/api-connector — fix: use correct filepath for output folder within the gcp instance
-- Pragash-Mohanarajah/ai-hdr-file-converter — release: v1.7 with more performance and speed improvements
 - Pragash-Mohanarajah/axia-lm-optimizer — release: v1.7 with more performance and speed improvements
+- Pragash-Mohanarajah/ai-hdr-file-converter — release: v1.7 with more performance and speed improvements
 - Pragash-Mohanarajah/api-connector — fix: use correct dockerfile to install slim image of api connector
 - Pragash-Mohanarajah/api-connector — chore: remove environment overrides in workflow
 - Pragash-Mohanarajah/api-connector — feat: improved workflow to use two different pipelines to run api, instead of express backend service
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 23 Jun 2026 10:54:40 GMT_
+_Last updated on Tue, 23 Jun 2026 14:27:48 GMT_
 <!-- DEV_METRICS_END -->
