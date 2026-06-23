@@ -64,26 +64,26 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 1 days
+- 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,961
-- 💖 Commit Breakdown: 561 public (6.3%), 8,400 private (93.7%) · 5,695 owned (63.6%), 3,266 contributed (36.4%)
+- ✨ Total Commits: 8,970
+- 💖 Commit Breakdown: 561 public (6.3%), 8,409 private (93.7%) · 5,704 owned (63.6%), 3,266 contributed (36.4%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,769,013
+- 🧠 Estimated Lines of Code: 1,769,871
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,988 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ██████████                 38.10% (673,946 LOC)
-TypeScript           ███                        13.70% (242,406 LOC)
+C                    ██████████                 38.08% (673,946 LOC)
+TypeScript           ███                        13.74% (243,135 LOC)
 Jupyter Notebook     ███                        12.40% (219,406 LOC)
-Python               ██                          9.96% (176,274 LOC)
+Python               ██                          9.97% (176,396 LOC)
 HTML                 ██                          6.47% (114,454 LOC)
-JavaScript           █                           5.70% (100,819 LOC)
-Makefile             █                           3.51% (62,016 LOC)
+JavaScript           █                           5.70% (100,825 LOC)
+Makefile             █                           3.50% (62,016 LOC)
 Roff                 █                           3.06% (54,070 LOC)
 ```
 
@@ -101,12 +101,12 @@ Dockerfile           █                           4.64% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ██████████                 38.10% (33,697,286 bytes)
-TypeScript           ███                        13.70% (12,120,252 bytes)
+C                    ██████████                 38.08% (33,697,286 bytes)
+TypeScript           ███                        13.74% (12,156,707 bytes)
 Jupyter Notebook     ███                        12.40% (10,970,320 bytes)
-Python               ██                          9.96% (8,813,616 bytes)
+Python               ██                          9.97% (8,819,730 bytes)
 HTML                 ██                          6.47% (5,722,638 bytes)
-JavaScript           █                           5.70% (5,040,995 bytes)
+JavaScript           █                           5.70% (5,041,259 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,9 +119,9 @@ Data Systems         ██                          6.67% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.04% (1,132,812 LOC)
-Other                ███████                    27.20% (481,232 LOC)
-Web Apps             ██                          6.82% (120,592 LOC)
+AI / ML              ████████████████           64.01% (1,132,935 LOC)
+Other                ███████                    27.23% (481,967 LOC)
+Web Apps             ██                          6.81% (120,592 LOC)
 Data Systems                                     1.94% (34,377 LOC)
 ```
 
@@ -142,8 +142,8 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 366 commits · private)_
-- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 361 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 373 commits · private)_
+- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 362 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 339 commits · private)_
 
 ### 🤝 Top Contributed Projects
@@ -153,38 +153,40 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              53.02% (1,861 commits)
-Afternoon (12-18)    ████████                   32.34% (1,135 commits)
-Evening (18-24)      ████                       14.05% (493 commits)
+Morning (06-12)      █████████████              53.24% (1,871 commits)
+Afternoon (12-18)    ████████                   32.13% (1,129 commits)
+Evening (18-24)      ████                       14.03% (493 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          8.19% (757 contributions)
-Monday               ███                        13.84% (1,279 contributions)
-Tuesday              █████                      18.13% (1,676 contributions)
-Wednesday            █████                      20.15% (1,863 contributions)
-Thursday             ████                       16.80% (1,553 contributions)
-Friday               ████                       16.28% (1,505 contributions)
-Saturday             ██                          6.61% (611 contributions)
+Sunday               ██                          8.18% (757 contributions)
+Monday               ███                        13.89% (1,285 contributions)
+Tuesday              █████                      18.15% (1,679 contributions)
+Wednesday            █████                      20.13% (1,863 contributions)
+Thursday             ████                       16.78% (1,553 contributions)
+Friday               ████                       16.26% (1,505 contributions)
+Saturday             ██                          6.60% (611 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.23% (1,992 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.83% (1,956 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.29% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.08% (366 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.03% (361 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.21% (1,992 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.81% (1,956 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.28% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.16% (373 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.04% (362 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.78% (339 commits)
 Pragash-Mohanarajah/taec-examportal                                         █                           3.07% (275 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/api-connector — fix: use correct filepath for output folder within the gcp instance
+- Pragash-Mohanarajah/ai-hdr-file-converter — release: v1.7 with more performance and speed improvements
+- Pragash-Mohanarajah/axia-lm-optimizer — release: v1.7 with more performance and speed improvements
 - Pragash-Mohanarajah/api-connector — fix: use correct dockerfile to install slim image of api connector
 - Pragash-Mohanarajah/api-connector — chore: remove environment overrides in workflow
 - Pragash-Mohanarajah/api-connector — feat: improved workflow to use two different pipelines to run api, instead of express backend service
-- Pragash-Mohanarajah/api-connector — feat: split the processing of files by task, refactor company batch logic to handle lists
 - Pragash-Mohanarajah/api-connector — feat: split the processing of files by task, refactor company batch logic to handle lists
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.11 with improved description strings for face id usage during login
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.10 with stable component mount and dismount
@@ -194,8 +196,6 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - Pragash-Mohanarajah/ai-hdr-inference — chore: re-organise workflow files by type for ease of access
 - Pragash-Mohanarajah/taec-attendance — fix: correct component mounts and unmounts for camera permission page
 - Pragash-Mohanarajah/taec-attendance — release: final version 1.1.9 with correct camera and audio permissions
-- Pragash-Mohanarajah/taec-examportal — Ensure new lines in modules are reflected in view
-- Pragash-Mohanarajah/ai-hdr-inference — fix: correctly loop through the available folders to identify all of the cases in the folder for processing
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 23 Jun 2026 07:39:29 GMT_
+_Last updated on Tue, 23 Jun 2026 10:54:40 GMT_
 <!-- DEV_METRICS_END -->
