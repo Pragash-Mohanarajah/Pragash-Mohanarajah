@@ -66,14 +66,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,980
-- 💖 Commit Breakdown: 561 public (6.2%), 8,419 private (93.8%) · 5,714 owned (63.6%), 3,266 contributed (36.4%)
+- ✨ Total Commits: 8,983
+- 💖 Commit Breakdown: 561 public (6.2%), 8,422 private (93.8%) · 5,717 owned (63.6%), 3,266 contributed (36.4%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,770,792
+- 🧠 Estimated Lines of Code: 1,770,901
 - 🤝 Followers: 1 · Following: 11
-- 📅 Account age: 1,989 days
+- 📅 Account age: 1,990 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -82,7 +82,7 @@ TypeScript           ███                        13.73% (243,135 LOC)
 Jupyter Notebook     ███                        12.39% (219,406 LOC)
 Python               ██                          9.97% (176,479 LOC)
 HTML                 ██                          6.46% (114,454 LOC)
-JavaScript           █                           5.74% (101,663 LOC)
+JavaScript           █                           5.75% (101,772 LOC)
 Makefile             █                           3.50% (62,016 LOC)
 Roff                 █                           3.05% (54,070 LOC)
 ```
@@ -106,7 +106,7 @@ TypeScript           ███                        13.73% (12,156,707 bytes)
 Jupyter Notebook     ███                        12.39% (10,970,320 bytes)
 Python               ██                          9.97% (8,823,867 bytes)
 HTML                 ██                          6.46% (5,722,638 bytes)
-JavaScript           █                           5.74% (5,083,112 bytes)
+JavaScript           █                           5.75% (5,088,560 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -120,7 +120,7 @@ Data Systems         ██                          6.67% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.98% (1,133,018 LOC)
-Other                ███████                    27.26% (482,805 LOC)
+Other                ███████                    27.27% (482,914 LOC)
 Web Apps             ██                          6.81% (120,592 LOC)
 Data Systems                                     1.94% (34,377 LOC)
 ```
@@ -153,34 +153,37 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              53.35% (1,878 commits)
+Morning (06-12)      █████████████              53.30% (1,876 commits)
 Afternoon (12-18)    ████████                   31.99% (1,126 commits)
-Evening (18-24)      ████                       14.06% (495 commits)
+Evening (18-24)      ████                       14.12% (497 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          8.17% (757 contributions)
 Monday               ███                        13.87% (1,285 contributions)
-Tuesday              █████                      18.17% (1,683 contributions)
-Wednesday            █████                      20.17% (1,868 contributions)
-Thursday             ████                       16.77% (1,553 contributions)
-Friday               ████                       16.25% (1,505 contributions)
-Saturday             ██                          6.61% (612 contributions)
+Tuesday              █████                      18.16% (1,683 contributions)
+Wednesday            █████                      20.19% (1,871 contributions)
+Thursday             ████                       16.76% (1,553 contributions)
+Friday               ████                       16.24% (1,505 contributions)
+Saturday             ██                          6.60% (612 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             ██████                     22.18% (1,992 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.78% (1,956 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.77% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.28% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.15% (373 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.03% (362 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.81% (342 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.11% (279 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.13% (281 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal — Add export data function for priveleged users in attendance and written reports
+- Pragash-Mohanarajah/taec-examportal — Add export data function for priveleged users in attendance and written reports
+- Pragash-Mohanarajah/taec-examportal-backend — Add export data function for priveleged users in attendance and written reports
 - Pragash-Mohanarajah/ai-hdr-inference — feat: introduce thinking mode for gemini and claude models on demand via config
 - Pragash-Mohanarajah/ai-hdr-inference — feat(experiment): improved ongoing prompt to extract claimant details from the files directly
 - Pragash-Mohanarajah/ai-hdr-inference — feat: introduce thinking mode for gemini and claude models on demand via config
@@ -188,14 +191,11 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - Pragash-Mohanarajah/taec-examportal — Correct endpoint calls for written attendance and report
 - Pragash-Mohanarajah/taec-examportal — Add new Written center pages to monitor written attendance progress
 - Pragash-Mohanarajah/taec-examportal — Add new Written center pages to monitor written attendance progress
-- Pragash-Mohanarajah/taec-examportal — Add new Written center pages to monitor written attendance progress
 - Pragash-Mohanarajah/taec-examportal-backend — Add written report endpoint for attendance information with filters
 - Pragash-Mohanarajah/api-connector — fix: use correct filepath for output folder within the gcp instance
 - Pragash-Mohanarajah/axia-lm-optimizer — release: v1.7 with more performance and speed improvements
 - Pragash-Mohanarajah/ai-hdr-file-converter — release: v1.7 with more performance and speed improvements
 - Pragash-Mohanarajah/api-connector — fix: use correct dockerfile to install slim image of api connector
-- Pragash-Mohanarajah/api-connector — chore: remove environment overrides in workflow
-- Pragash-Mohanarajah/api-connector — feat: improved workflow to use two different pipelines to run api, instead of express backend service
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 24 Jun 2026 17:47:14 GMT_
+_Last updated on Wed, 24 Jun 2026 21:16:33 GMT_
 <!-- DEV_METRICS_END -->
