@@ -64,27 +64,27 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 2 days
+- 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 8,970
-- 💖 Commit Breakdown: 561 public (6.3%), 8,409 private (93.7%) · 5,704 owned (63.6%), 3,266 contributed (36.4%)
+- ✨ Total Commits: 8,980
+- 💖 Commit Breakdown: 561 public (6.2%), 8,419 private (93.8%) · 5,714 owned (63.6%), 3,266 contributed (36.4%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,769,871
+- 🧠 Estimated Lines of Code: 1,770,792
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,989 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ██████████                 38.08% (673,946 LOC)
-TypeScript           ███                        13.74% (243,135 LOC)
-Jupyter Notebook     ███                        12.40% (219,406 LOC)
-Python               ██                          9.97% (176,396 LOC)
-HTML                 ██                          6.47% (114,454 LOC)
-JavaScript           █                           5.70% (100,825 LOC)
+C                    ██████████                 38.06% (673,946 LOC)
+TypeScript           ███                        13.73% (243,135 LOC)
+Jupyter Notebook     ███                        12.39% (219,406 LOC)
+Python               ██                          9.97% (176,479 LOC)
+HTML                 ██                          6.46% (114,454 LOC)
+JavaScript           █                           5.74% (101,663 LOC)
 Makefile             █                           3.50% (62,016 LOC)
-Roff                 █                           3.06% (54,070 LOC)
+Roff                 █                           3.05% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -101,12 +101,12 @@ Dockerfile           █                           4.64% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ██████████                 38.08% (33,697,286 bytes)
-TypeScript           ███                        13.74% (12,156,707 bytes)
-Jupyter Notebook     ███                        12.40% (10,970,320 bytes)
-Python               ██                          9.97% (8,819,730 bytes)
-HTML                 ██                          6.47% (5,722,638 bytes)
-JavaScript           █                           5.70% (5,041,259 bytes)
+C                    ██████████                 38.06% (33,697,286 bytes)
+TypeScript           ███                        13.73% (12,156,707 bytes)
+Jupyter Notebook     ███                        12.39% (10,970,320 bytes)
+Python               ██                          9.97% (8,823,867 bytes)
+HTML                 ██                          6.46% (5,722,638 bytes)
+JavaScript           █                           5.74% (5,083,112 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,8 +119,8 @@ Data Systems         ██                          6.67% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.01% (1,132,935 LOC)
-Other                ███████                    27.23% (481,967 LOC)
+AI / ML              ████████████████           63.98% (1,133,018 LOC)
+Other                ███████                    27.26% (482,805 LOC)
 Web Apps             ██                          6.81% (120,592 LOC)
 Data Systems                                     1.94% (34,377 LOC)
 ```
@@ -144,7 +144,7 @@ PLpgSQL              █                           5.56% (5 repos)
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 373 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 362 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 339 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 342 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 1992 commits · private)_
@@ -153,49 +153,49 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              53.24% (1,871 commits)
-Afternoon (12-18)    ████████                   32.13% (1,129 commits)
-Evening (18-24)      ████                       14.03% (493 commits)
+Morning (06-12)      █████████████              53.35% (1,878 commits)
+Afternoon (12-18)    ████████                   31.99% (1,126 commits)
+Evening (18-24)      ████                       14.06% (495 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          8.18% (757 contributions)
-Monday               ███                        13.89% (1,285 contributions)
-Tuesday              █████                      18.15% (1,679 contributions)
-Wednesday            █████                      20.13% (1,863 contributions)
-Thursday             ████                       16.78% (1,553 contributions)
-Friday               ████                       16.26% (1,505 contributions)
-Saturday             ██                          6.60% (611 contributions)
+Sunday               ██                          8.17% (757 contributions)
+Monday               ███                        13.87% (1,285 contributions)
+Tuesday              █████                      18.17% (1,683 contributions)
+Wednesday            █████                      20.17% (1,868 contributions)
+Thursday             ████                       16.77% (1,553 contributions)
+Friday               ████                       16.25% (1,505 contributions)
+Saturday             ██                          6.61% (612 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ██████                     22.21% (1,992 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.81% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             ██████                     22.18% (1,992 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.78% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.28% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.16% (373 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.04% (362 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.78% (339 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.07% (275 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.15% (373 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.03% (362 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           3.81% (342 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.11% (279 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: introduce thinking mode for gemini and claude models on demand via config
+- Pragash-Mohanarajah/ai-hdr-inference — feat(experiment): improved ongoing prompt to extract claimant details from the files directly
+- Pragash-Mohanarajah/ai-hdr-inference — feat: introduce thinking mode for gemini and claude models on demand via config
+- Pragash-Mohanarajah/taec-examportal-backend — Optimised written routes to handle reports with data pipeline
+- Pragash-Mohanarajah/taec-examportal — Correct endpoint calls for written attendance and report
+- Pragash-Mohanarajah/taec-examportal — Add new Written center pages to monitor written attendance progress
+- Pragash-Mohanarajah/taec-examportal — Add new Written center pages to monitor written attendance progress
+- Pragash-Mohanarajah/taec-examportal — Add new Written center pages to monitor written attendance progress
+- Pragash-Mohanarajah/taec-examportal-backend — Add written report endpoint for attendance information with filters
 - Pragash-Mohanarajah/api-connector — fix: use correct filepath for output folder within the gcp instance
 - Pragash-Mohanarajah/axia-lm-optimizer — release: v1.7 with more performance and speed improvements
 - Pragash-Mohanarajah/ai-hdr-file-converter — release: v1.7 with more performance and speed improvements
 - Pragash-Mohanarajah/api-connector — fix: use correct dockerfile to install slim image of api connector
 - Pragash-Mohanarajah/api-connector — chore: remove environment overrides in workflow
 - Pragash-Mohanarajah/api-connector — feat: improved workflow to use two different pipelines to run api, instead of express backend service
-- Pragash-Mohanarajah/api-connector — feat: split the processing of files by task, refactor company batch logic to handle lists
-- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.11 with improved description strings for face id usage during login
-- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.10 with stable component mount and dismount
-- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.10 with stable component mount and dismount
-- Pragash-Mohanarajah/ai-hdr-inference — feat: use same get case folders function across vertex and rag workflows
-- Pragash-Mohanarajah/ai-hdr-inference — feat: use same get case folders function across vertex and rag workflows
-- Pragash-Mohanarajah/ai-hdr-inference — chore: re-organise workflow files by type for ease of access
-- Pragash-Mohanarajah/taec-attendance — fix: correct component mounts and unmounts for camera permission page
-- Pragash-Mohanarajah/taec-attendance — release: final version 1.1.9 with correct camera and audio permissions
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 24 Jun 2026 10:40:38 GMT_
+_Last updated on Wed, 24 Jun 2026 14:06:16 GMT_
 <!-- DEV_METRICS_END -->
