@@ -66,8 +66,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,059
-- 💖 Commit Breakdown: 561 public (6.2%), 8,498 private (93.8%) · 5,793 owned (63.9%), 3,266 contributed (36.1%)
+- ✨ Total Commits: 9,062
+- 💖 Commit Breakdown: 561 public (6.2%), 8,501 private (93.8%) · 5,796 owned (64.0%), 3,266 contributed (36.0%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
@@ -142,7 +142,7 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 403 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 406 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 377 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 373 commits · private)_
 
@@ -153,8 +153,8 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              53.53% (1,889 commits)
-Afternoon (12-18)    ████████                   31.91% (1,126 commits)
+Morning (06-12)      █████████████              53.47% (1,887 commits)
+Afternoon (12-18)    ████████                   31.96% (1,128 commits)
 Evening (18-24)      ███                        13.97% (493 commits)
 ```
 
@@ -162,31 +162,31 @@ Evening (18-24)      ███                        13.97% (493 commits)
 ```
 Sunday               ██                          8.10% (757 contributions)
 Monday               ███                        13.88% (1,297 contributions)
-Tuesday              █████                      18.22% (1,702 contributions)
+Tuesday              █████                      18.21% (1,702 contributions)
 Wednesday            █████                      20.24% (1,891 contributions)
-Thursday             ████                       16.73% (1,563 contributions)
+Thursday             ████                       16.76% (1,566 contributions)
 Friday               ████                       16.27% (1,520 contributions)
 Saturday             ██                          6.55% (612 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      21.99% (1,992 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.59% (1,956 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      21.98% (1,992 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.58% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.23% (474 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           4.45% (403 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           4.48% (406 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.16% (377 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.12% (373 commits)
 Pragash-Mohanarajah/taec-examportal                                         █                           3.10% (281 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — rollback: undo client contact concern change to original logic
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved client contact to handle negative claimant responses
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved client contact to handle negative claimant responses
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: drop lines from history log with exclusion pattern
 - Pragash-Mohanarajah/ai-hdr-inference — feat: improved reporting service to include dropped cases from previous stages in latter reports
 - Pragash-Mohanarajah/ai-hdr-inference — feat: ensure all file parts attached to stage 2 manifest before proceeding with batch api
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved reporting handler in workflow file
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved reporting logic to build from jsonl files
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved stage 2 manifest build logic in workflow
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: mark history log files as failures in conversion results to avoid pdf cleaning
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: clean history log lines with regex before passing to output folder
 - Pragash-Mohanarajah/axia-lm-optimizer — release: v1.8 with hard-coded categorisation through config option
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 02 Jul 2026 13:29:52 GMT_
+_Last updated on Thu, 02 Jul 2026 17:26:46 GMT_
 <!-- DEV_METRICS_END -->
