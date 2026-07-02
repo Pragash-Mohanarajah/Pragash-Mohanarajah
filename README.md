@@ -71,14 +71,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,773,746
+- 🧠 Estimated Lines of Code: 1,773,979
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,997 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  38.00% (673,946 LOC)
-TypeScript           ███                        13.79% (244,638 LOC)
+C                    █████████                  37.99% (673,946 LOC)
+TypeScript           ███                        13.80% (244,871 LOC)
 Jupyter Notebook     ███                        12.37% (219,406 LOC)
 Python               ███                        10.02% (177,816 LOC)
 HTML                 ██                          6.45% (114,454 LOC)
@@ -101,8 +101,8 @@ Dockerfile           █                           4.64% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  38.00% (33,697,286 bytes)
-TypeScript           ███                        13.79% (12,231,861 bytes)
+C                    █████████                  37.99% (33,697,286 bytes)
+TypeScript           ███                        13.80% (12,243,503 bytes)
 Jupyter Notebook     ███                        12.37% (10,970,320 bytes)
 Python               ███                        10.02% (8,890,713 bytes)
 HTML                 ██                          6.45% (5,722,638 bytes)
@@ -119,8 +119,8 @@ Data Systems         ██                          6.67% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.93% (1,133,981 LOC)
-Other                ███████                    27.33% (484,796 LOC)
+AI / ML              ████████████████           63.92% (1,133,981 LOC)
+Other                ███████                    27.34% (485,029 LOC)
 Web Apps             ██                          6.80% (120,592 LOC)
 Data Systems                                     1.94% (34,377 LOC)
 ```
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 01 Jul 2026 21:18:01 GMT_
+_Last updated on Thu, 02 Jul 2026 02:14:16 GMT_
 <!-- DEV_METRICS_END -->
