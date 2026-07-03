@@ -64,26 +64,26 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 4 days
+- 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,062
-- 💖 Commit Breakdown: 561 public (6.2%), 8,501 private (93.8%) · 5,796 owned (64.0%), 3,266 contributed (36.0%)
+- ✨ Total Commits: 9,066
+- 💖 Commit Breakdown: 561 public (6.2%), 8,505 private (93.8%) · 5,800 owned (64.0%), 3,266 contributed (36.0%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,774,007
+- 🧠 Estimated Lines of Code: 1,774,470
 - 🤝 Followers: 1 · Following: 11
 - 📅 Account age: 1,998 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  37.99% (673,946 LOC)
+C                    █████████                  37.98% (673,946 LOC)
 TypeScript           ███                        13.80% (244,870 LOC)
-Jupyter Notebook     ███                        12.37% (219,406 LOC)
-Python               ███                        10.03% (177,845 LOC)
+Jupyter Notebook     ███                        12.36% (219,406 LOC)
+Python               ███                        10.05% (178,308 LOC)
 HTML                 ██                          6.45% (114,454 LOC)
 JavaScript           █                           5.74% (101,772 LOC)
-Makefile             █                           3.50% (62,016 LOC)
+Makefile             █                           3.49% (62,016 LOC)
 Roff                 █                           3.05% (54,070 LOC)
 ```
 
@@ -101,10 +101,10 @@ Dockerfile           █                           4.64% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  37.99% (33,697,286 bytes)
+C                    █████████                  37.98% (33,697,286 bytes)
 TypeScript           ███                        13.80% (12,243,456 bytes)
-Jupyter Notebook     ███                        12.37% (10,970,320 bytes)
-Python               ███                        10.02% (8,892,179 bytes)
+Jupyter Notebook     ███                        12.36% (10,970,320 bytes)
+Python               ███                        10.05% (8,915,342 bytes)
 HTML                 ██                          6.45% (5,722,638 bytes)
 JavaScript           █                           5.74% (5,088,560 bytes)
 ```
@@ -119,8 +119,8 @@ Data Systems         ██                          6.67% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.92% (1,134,011 LOC)
-Other                ███████                    27.34% (485,027 LOC)
+AI / ML              ████████████████           63.93% (1,134,474 LOC)
+Other                ███████                    27.33% (485,027 LOC)
 Web Apps             ██                          6.80% (120,592 LOC)
 Data Systems                                     1.94% (34,377 LOC)
 ```
@@ -142,7 +142,7 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 406 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 410 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 377 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 373 commits · private)_
 
@@ -152,41 +152,41 @@ PLpgSQL              █                           5.56% (5 repos)
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    0.60% (21 commits)
-Morning (06-12)      █████████████              53.47% (1,887 commits)
-Afternoon (12-18)    ████████                   31.96% (1,128 commits)
+Night (00-06)                                    0.59% (21 commits)
+Morning (06-12)      █████████████              53.54% (1,890 commits)
+Afternoon (12-18)    ████████                   31.90% (1,126 commits)
 Evening (18-24)      ███                        13.97% (493 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          8.10% (757 contributions)
-Monday               ███                        13.88% (1,297 contributions)
+Monday               ███                        13.87% (1,297 contributions)
 Tuesday              █████                      18.21% (1,702 contributions)
-Wednesday            █████                      20.24% (1,891 contributions)
-Thursday             ████                       16.76% (1,566 contributions)
-Friday               ████                       16.27% (1,520 contributions)
+Wednesday            █████                      20.23% (1,891 contributions)
+Thursday             ████                       16.75% (1,566 contributions)
+Friday               ████                       16.30% (1,524 contributions)
 Saturday             ██                          6.55% (612 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      21.98% (1,992 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      21.97% (1,992 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.58% (1,956 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.23% (474 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           4.48% (406 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           4.52% (410 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.16% (377 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.12% (373 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.11% (373 commits)
 Pragash-Mohanarajah/taec-examportal                                         █                           3.10% (281 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: revised code structure to handle batch service and providers correctly for helper functions
+- Pragash-Mohanarajah/ai-hdr-inference — feat: break batch case workflow into smaller functions using abstract batch provider
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved logging and comments throughout workflow
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved stage 1 and stage 2 config logic for better handoff between stages
 - Pragash-Mohanarajah/ai-hdr-inference — rollback: undo client contact concern change to original logic
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved client contact to handle negative claimant responses
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved client contact to handle negative claimant responses
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: drop lines from history log with exclusion pattern
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved reporting service to include dropped cases from previous stages in latter reports
-- Pragash-Mohanarajah/ai-hdr-inference — feat: ensure all file parts attached to stage 2 manifest before proceeding with batch api
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: mark history log files as failures in conversion results to avoid pdf cleaning
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: clean history log lines with regex before passing to output folder
 - Pragash-Mohanarajah/axia-lm-optimizer — release: v1.8 with hard-coded categorisation through config option
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 03 Jul 2026 10:26:21 GMT_
+_Last updated on Fri, 03 Jul 2026 13:42:38 GMT_
 <!-- DEV_METRICS_END -->
