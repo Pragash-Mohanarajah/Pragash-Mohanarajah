@@ -66,21 +66,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,194
-- 💖 Commit Breakdown: 561 public (6.1%), 8,633 private (93.9%) · 5,926 owned (64.5%), 3,268 contributed (35.5%)
+- ✨ Total Commits: 9,200
+- 💖 Commit Breakdown: 561 public (6.1%), 8,639 private (93.9%) · 5,932 owned (64.5%), 3,268 contributed (35.5%)
 - 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
 - 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,779,306
+- 🧠 Estimated Lines of Code: 1,779,444
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,012 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  37.88% (673,946 LOC)
+C                    █████████                  37.87% (673,946 LOC)
 TypeScript           ███                        13.83% (246,085 LOC)
 Jupyter Notebook     ███                        12.33% (219,406 LOC)
-Python               ███                        10.22% (181,775 LOC)
+Python               ███                        10.22% (181,913 LOC)
 HTML                 ██                          6.43% (114,454 LOC)
 JavaScript           █                           5.73% (101,926 LOC)
 Makefile             █                           3.49% (62,016 LOC)
@@ -101,10 +101,10 @@ Dockerfile           █                           4.64% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  37.88% (33,697,286 bytes)
+C                    █████████                  37.87% (33,697,286 bytes)
 TypeScript           ███                        13.83% (12,304,192 bytes)
 Jupyter Notebook     ███                        12.33% (10,970,320 bytes)
-Python               ███                        10.22% (9,088,670 bytes)
+Python               ███                        10.22% (9,095,536 bytes)
 HTML                 ██                          6.43% (5,722,638 bytes)
 JavaScript           █                           5.73% (5,096,288 bytes)
 ```
@@ -119,7 +119,7 @@ Data Systems         ██                          6.67% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.95% (1,137,816 LOC)
+AI / ML              ████████████████           63.95% (1,137,954 LOC)
 Other                ███████                    27.34% (486,521 LOC)
 Web Apps             ██                          6.78% (120,592 LOC)
 Data Systems                                     1.93% (34,377 LOC)
@@ -141,7 +141,7 @@ PLpgSQL              █                           5.56% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 521 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 527 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 391 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 373 commits · private)_
@@ -153,39 +153,39 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.59% (21 commits)
-Morning (06-12)      █████████████              53.50% (1,896 commits)
-Afternoon (12-18)    ████████                   32.03% (1,135 commits)
+Morning (06-12)      █████████████              53.56% (1,898 commits)
+Afternoon (12-18)    ████████                   31.97% (1,133 commits)
 Evening (18-24)      ███                        13.88% (492 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.99% (757 contributions)
-Monday               ███                        13.86% (1,314 contributions)
-Tuesday              █████                      18.17% (1,722 contributions)
-Wednesday            █████                      20.17% (1,912 contributions)
-Thursday             ████                       16.90% (1,602 contributions)
-Friday               ████                       16.45% (1,559 contributions)
-Saturday             ██                          6.46% (612 contributions)
+Sunday               ██                          7.98% (757 contributions)
+Monday               ███                        13.85% (1,314 contributions)
+Tuesday              █████                      18.16% (1,722 contributions)
+Wednesday            █████                      20.16% (1,912 contributions)
+Thursday             ████                       16.89% (1,602 contributions)
+Friday               ████                       16.50% (1,565 contributions)
+Saturday             ██                          6.45% (612 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      21.69% (1,994 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.27% (1,956 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           5.67% (521 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.16% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      21.67% (1,994 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.26% (1,956 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           5.73% (527 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.15% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.25% (391 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.06% (373 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.06% (281 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.05% (373 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.05% (281 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved pipeline to include run_id parameter where missing, to ensure reports are accurate
-- Pragash-Mohanarajah/ai-hdr-inference — feat: implement improved batch stage chunked service with allowance reduced for stage system and task prompts
-- Pragash-Mohanarajah/ai-hdr-inference — feat: enable ability to run derivation in a decoupled state
-- Pragash-Mohanarajah/ai-hdr-inference — fix: use correct folders for derived predictions storage during multi-attempt workflow
-- Pragash-Mohanarajah/ai-hdr-inference — fix: use correct model referencing in logs
+- Pragash-Mohanarajah/ai-hdr-inference — feat: implement quick token count estimation for faster inference
+- Pragash-Mohanarajah/ai-hdr-inference — feat: implement async enqueue function to identify and ingest files for processing
+- Pragash-Mohanarajah/ai-hdr-inference — feat: automatically identify retries from cloud tasks runs; skip file attachments if is_retry
+- Pragash-Mohanarajah/ai-hdr-inference — feat: skip uploading the same file multiple times during retries to save time
+- Pragash-Mohanarajah/ai-hdr-inference — feat: skip uploading the same file multiple times during retries to save time
 - AxiaFunder/dashboard-axiafunder — Merge pull request #209 from AxiaFunder/develop
 - Pragash-Mohanarajah/api-connector — feat: improved logging with import jobs; better retry and splitting of work for import jobs
 - AxiaFunder/dashboard-axiafunder — chore(tax): update investor guidance text complying with 700 character limit
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 17 Jul 2026 09:47:15 GMT_
+_Last updated on Fri, 17 Jul 2026 13:04:47 GMT_
 <!-- DEV_METRICS_END -->
