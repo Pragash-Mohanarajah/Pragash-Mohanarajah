@@ -64,84 +64,84 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 2 days
+- 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,231
-- 💖 Commit Breakdown: 561 public (6.1%), 8,670 private (93.9%) · 5,963 owned (64.6%), 3,268 contributed (35.4%)
-- 🚀 Repositories: 90 (35 public (38.9%), 55 private (61.1%))
-- 👤 Ownership: 86 owned (95.6%), 4 contributed-to (4.4%)
+- ✨ Total Commits: 9,234
+- 💖 Commit Breakdown: 561 public (6.1%), 8,673 private (93.9%) · 5,966 owned (64.6%), 3,268 contributed (35.4%)
+- 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
+- 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,780,182
+- 🧠 Estimated Lines of Code: 1,781,230
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,017 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  37.86% (673,946 LOC)
-TypeScript           ███                        13.85% (246,498 LOC)
+C                    █████████                  37.84% (673,946 LOC)
+TypeScript           ███                        13.84% (246,498 LOC)
 Jupyter Notebook     ███                        12.32% (219,406 LOC)
-Python               ███                        10.24% (182,238 LOC)
+Python               ███                        10.29% (183,286 LOC)
 HTML                 ██                          6.43% (114,454 LOC)
-JavaScript           █                           5.73% (101,926 LOC)
+JavaScript           █                           5.72% (101,926 LOC)
 Makefile             █                           3.48% (62,016 LOC)
 Roff                 █                           3.04% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
 ```
-JavaScript           ████                       17.72% (42 repos)
-Python               ███                        13.92% (33 repos)
-CSS                  ███                        12.24% (29 repos)
-TypeScript           ███                        10.13% (24 repos)
-HTML                 ██                          9.28% (22 repos)
-Shell                ██                          7.17% (17 repos)
-Jupyter Notebook     █                           5.49% (13 repos)
-Dockerfile           █                           4.64% (11 repos)
+JavaScript           ████                       17.65% (42 repos)
+Python               ████                       14.29% (34 repos)
+CSS                  ███                        12.18% (29 repos)
+TypeScript           ███                        10.08% (24 repos)
+HTML                 ██                          9.24% (22 repos)
+Shell                ██                          7.14% (17 repos)
+Jupyter Notebook     █                           5.46% (13 repos)
+Dockerfile           █                           4.62% (11 repos)
 ```
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  37.86% (33,697,286 bytes)
-TypeScript           ███                        13.85% (12,324,873 bytes)
+C                    █████████                  37.84% (33,697,286 bytes)
+TypeScript           ███                        13.84% (12,324,873 bytes)
 Jupyter Notebook     ███                        12.32% (10,970,320 bytes)
-Python               ███                        10.24% (9,111,798 bytes)
+Python               ███                        10.29% (9,164,231 bytes)
 HTML                 ██                          6.43% (5,722,638 bytes)
-JavaScript           █                           5.73% (5,096,288 bytes)
+JavaScript           █                           5.72% (5,096,288 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
 ```
-Other                ████████████████           64.44% (58 repos)
-AI / ML              ████                       17.78% (16 repos)
-Web Apps             ███                        11.11% (10 repos)
-Data Systems         ██                          6.67% (6 repos)
+Other                ████████████████           63.74% (58 repos)
+AI / ML              █████                      18.68% (17 repos)
+Web Apps             ███                        10.99% (10 repos)
+Data Systems         ██                          6.59% (6 repos)
 ```
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.94% (1,138,279 LOC)
-Other                ███████                    27.35% (486,934 LOC)
+AI / ML              ████████████████           63.96% (1,139,327 LOC)
+Other                ███████                    27.34% (486,934 LOC)
 Web Apps             ██                          6.77% (120,592 LOC)
 Data Systems                                     1.93% (34,377 LOC)
 ```
 
 ### 🏷️ Top Topics
 ```
-JavaScript           ████████████               46.67% (42 repos)
-Python               █████████                  36.67% (33 repos)
-CSS                  ████████                   32.22% (29 repos)
-TypeScript           ███████                    26.67% (24 repos)
-HTML                 ██████                     24.44% (22 repos)
-Shell                █████                      18.89% (17 repos)
-Jupyter Notebook     ████                       14.44% (13 repos)
-Dockerfile           ███                        12.22% (11 repos)
-Batchfile            ██                          6.67% (6 repos)
-PLpgSQL              █                           5.56% (5 repos)
+JavaScript           ████████████               46.15% (42 repos)
+Python               █████████                  37.36% (34 repos)
+CSS                  ████████                   31.87% (29 repos)
+TypeScript           ███████                    26.37% (24 repos)
+HTML                 ██████                     24.18% (22 repos)
+Shell                █████                      18.68% (17 repos)
+Jupyter Notebook     ████                       14.29% (13 repos)
+Dockerfile           ███                        12.09% (11 repos)
+Batchfile            ██                          6.59% (6 repos)
+PLpgSQL              █                           5.49% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 558 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 561 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 391 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 373 commits · private)_
@@ -153,39 +153,39 @@ PLpgSQL              █                           5.56% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.62% (22 commits)
-Morning (06-12)      █████████████              53.37% (1,893 commits)
-Afternoon (12-18)    ████████                   32.14% (1,140 commits)
+Morning (06-12)      █████████████              53.47% (1,897 commits)
+Afternoon (12-18)    ████████                   32.05% (1,137 commits)
 Evening (18-24)      ███                        13.87% (492 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.96% (757 contributions)
+Sunday               ██                          7.95% (757 contributions)
 Monday               ███                        13.84% (1,317 contributions)
-Tuesday              █████                      18.16% (1,728 contributions)
-Wednesday            █████                      20.09% (1,912 contributions)
-Thursday             ████                       16.84% (1,602 contributions)
-Friday               ████                       16.63% (1,582 contributions)
+Tuesday              █████                      18.15% (1,728 contributions)
+Wednesday            █████                      20.13% (1,916 contributions)
+Thursday             ████                       16.83% (1,602 contributions)
+Friday               ████                       16.62% (1,582 contributions)
 Saturday             ██                          6.48% (617 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      21.60% (1,994 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.19% (1,956 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.04% (558 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      21.59% (1,994 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.18% (1,956 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.08% (561 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.13% (474 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.24% (391 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.23% (391 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.04% (373 commits)
 Pragash-Mohanarajah/taec-examportal                                         █                           3.04% (281 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow to submit optional manual retry case map uri, faciliating simpler retry logic
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow to submit manual overrides for attempt number at each stage
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved workflow to submit correct pruned case map during retries, eliminating infinite retries
 - Pragash-Mohanarajah/ai-hdr-inference — feat: allow manual override for case discovery during case file ingestion
 - Pragash-Mohanarajah/ai-hdr-inference — feat: move cloud tasks variables to config settings for ease of access
-- Pragash-Mohanarajah/ai-hdr-inference — feat: allow manual override for retry logic during case file ingestion
-- Pragash-Mohanarajah/ai-hdr-inference — feat: allow manual override for retry logic during case file ingestion
-- Pragash-Mohanarajah/ai-hdr-inference — feat: only include relevant cases in the case_list to prevent unnecessary retries
 - AxiaFunder/dashboard-axiafunder — Merge pull request #209 from AxiaFunder/develop
 - Pragash-Mohanarajah/api-connector — feat: improved logging with import jobs; better retry and splitting of work for import jobs
 - AxiaFunder/dashboard-axiafunder — chore(tax): update investor guidance text complying with 700 character limit
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 22 Jul 2026 06:21:21 GMT_
+_Last updated on Wed, 22 Jul 2026 10:14:58 GMT_
 <!-- DEV_METRICS_END -->
