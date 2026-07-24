@@ -64,27 +64,27 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 4 days
+- 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,254
-- 💖 Commit Breakdown: 561 public (6.1%), 8,693 private (93.9%) · 5,970 owned (64.5%), 3,284 contributed (35.5%)
+- ✨ Total Commits: 9,258
+- 💖 Commit Breakdown: 561 public (6.1%), 8,697 private (93.9%) · 5,974 owned (64.5%), 3,284 contributed (35.5%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,781,539
+- 🧠 Estimated Lines of Code: 1,785,557
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,019 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  37.83% (673,946 LOC)
-TypeScript           ███                        13.85% (246,664 LOC)
-Jupyter Notebook     ███                        12.32% (219,406 LOC)
-Python               ███                        10.30% (183,429 LOC)
-HTML                 ██                          6.42% (114,454 LOC)
-JavaScript           █                           5.72% (101,926 LOC)
-Makefile             █                           3.48% (62,016 LOC)
-Roff                 █                           3.04% (54,070 LOC)
+C                    █████████                  37.74% (673,946 LOC)
+TypeScript           ███                        13.99% (249,755 LOC)
+Jupyter Notebook     ███                        12.29% (219,406 LOC)
+Python               ███                        10.30% (183,925 LOC)
+HTML                 ██                          6.41% (114,454 LOC)
+JavaScript           █                           5.71% (101,926 LOC)
+Makefile             █                           3.47% (62,016 LOC)
+Roff                 █                           3.03% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -101,12 +101,12 @@ Dockerfile           █                           4.62% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  37.83% (33,697,286 bytes)
-TypeScript           ███                        13.85% (12,333,178 bytes)
-Jupyter Notebook     ███                        12.32% (10,970,320 bytes)
-Python               ███                        10.30% (9,171,363 bytes)
-HTML                 ██                          6.42% (5,722,638 bytes)
-JavaScript           █                           5.72% (5,096,288 bytes)
+C                    █████████                  37.74% (33,697,286 bytes)
+TypeScript           ███                        13.99% (12,487,727 bytes)
+Jupyter Notebook     ███                        12.29% (10,970,320 bytes)
+Python               ███                        10.30% (9,196,197 bytes)
+HTML                 ██                          6.41% (5,722,638 bytes)
+JavaScript           █                           5.71% (5,096,288 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,9 +119,9 @@ Data Systems         ██                          6.59% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.96% (1,139,470 LOC)
-Other                ███████                    27.34% (487,100 LOC)
-Web Apps             ██                          6.77% (120,592 LOC)
+AI / ML              ████████████████           63.84% (1,139,966 LOC)
+Other                ███████                    27.48% (490,622 LOC)
+Web Apps             ██                          6.75% (120,592 LOC)
 Data Systems                                     1.93% (34,377 LOC)
 ```
 
@@ -141,7 +141,7 @@ PLpgSQL              █                           5.49% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 1956 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 565 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 569 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 391 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 373 commits · private)_
@@ -153,44 +153,44 @@ PLpgSQL              █                           5.49% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.62% (22 commits)
-Morning (06-12)      █████████████              53.45% (1,897 commits)
-Afternoon (12-18)    ████████                   32.21% (1,143 commits)
+Morning (06-12)      █████████████              53.58% (1,902 commits)
+Afternoon (12-18)    ████████                   32.08% (1,139 commits)
 Evening (18-24)      ███                        13.72% (487 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.93% (757 contributions)
-Monday               ███                        13.80% (1,317 contributions)
-Tuesday              █████                      18.10% (1,728 contributions)
-Wednesday            █████                      20.11% (1,920 contributions)
+Monday               ███                        13.79% (1,317 contributions)
+Tuesday              █████                      18.09% (1,728 contributions)
+Wednesday            █████                      20.10% (1,920 contributions)
 Thursday             ████                       17.02% (1,625 contributions)
-Friday               ████                       16.57% (1,582 contributions)
+Friday               ████                       16.61% (1,586 contributions)
 Saturday             ██                          6.46% (617 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      21.72% (2,010 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.14% (1,956 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.11% (565 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      21.71% (2,010 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.13% (1,956 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.15% (569 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.12% (474 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.23% (391 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.22% (391 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.03% (373 commits)
 Pragash-Mohanarajah/taec-examportal                                         █                           3.04% (281 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: allow pipeline override of configured analysis dates through execution variables
+- Pragash-Mohanarajah/ai-hdr-inference — feat: load analysis date from environment and config with associated fallbacks
+- Pragash-Mohanarajah/ai-hdr-inference — chore: move environment manager to config file for ease of access
+- Pragash-Mohanarajah/ai-hdr-inference — feat: add improved server for lightweight app initialisation with consolidated service container
 - AxiaFunder/dashboard-axiafunder — Merge pull request #218 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #217 from AxiaFunder/feat/tax-spv-breakdown
 - AxiaFunder/dashboard-axiafunder — feat: include detailed breakdown of gross proceeds, performance fee, priority profit share, and partnership class
 - AxiaFunder/dashboard-axiafunder — feat: include detailed breakdown of gross proceeds, performance fee, priority profit share, and partnership class
 - AxiaFunder/dashboard-axiafunder — feat: include detailed breakdown of gross proceeds, performance fee, priority profit share, and partnership class
 - Pragash-Mohanarajah/ai-hdr-inference — chore: split batch case workflow into smaller shared utility classes for convenience
-- Pragash-Mohanarajah/ai-hdr-inference — chore: split batch service into smaller shared utility classes for convenience
-- Pragash-Mohanarajah/ai-hdr-inference — chore: split batch service into smaller shared utility classes for convenience
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved stage progress logging via GCS for visibility
-- Pragash-Mohanarajah/ai-hdr-inference — feat: improved stage progress logging via GCS for visibility
 - Pragash-Mohanarajah/api-connector — feat: improved logging with import jobs; better retry and splitting of work for import jobs
 - Pragash-Mohanarajah/axia-lm-optimizer — chore: increase character limit on text extractions for improved classification accuracy
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: process folders based on correct sub-folders logic
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 24 Jul 2026 10:07:40 GMT_
+_Last updated on Fri, 24 Jul 2026 13:17:27 GMT_
 <!-- DEV_METRICS_END -->
