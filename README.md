@@ -64,25 +64,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 5 days
+- 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,258
-- 💖 Commit Breakdown: 561 public (6.1%), 8,697 private (93.9%) · 5,974 owned (64.5%), 3,284 contributed (35.5%)
+- ✨ Total Commits: 9,267
+- 💖 Commit Breakdown: 561 public (6.1%), 8,706 private (93.9%) · 5,983 owned (64.6%), 3,284 contributed (35.4%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 38 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,785,557
+- 🧠 Estimated Lines of Code: 1,784,933
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,020 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  37.74% (673,946 LOC)
-TypeScript           ███                        13.99% (249,755 LOC)
+C                    █████████                  37.76% (673,946 LOC)
+TypeScript           ███                        13.98% (249,557 LOC)
 Jupyter Notebook     ███                        12.29% (219,406 LOC)
 Python               ███                        10.30% (183,925 LOC)
 HTML                 ██                          6.41% (114,454 LOC)
-JavaScript           █                           5.71% (101,926 LOC)
+JavaScript           █                           5.69% (101,500 LOC)
 Makefile             █                           3.47% (62,016 LOC)
 Roff                 █                           3.03% (54,070 LOC)
 ```
@@ -101,12 +101,12 @@ Dockerfile           █                           4.62% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  37.74% (33,697,286 bytes)
-TypeScript           ███                        13.99% (12,487,727 bytes)
+C                    █████████                  37.76% (33,697,286 bytes)
+TypeScript           ███                        13.98% (12,477,818 bytes)
 Jupyter Notebook     ███                        12.29% (10,970,320 bytes)
 Python               ███                        10.30% (9,196,197 bytes)
 HTML                 ██                          6.41% (5,722,638 bytes)
-JavaScript           █                           5.71% (5,096,288 bytes)
+JavaScript           █                           5.69% (5,074,964 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -119,9 +119,9 @@ Data Systems         ██                          6.59% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.84% (1,139,966 LOC)
-Other                ███████                    27.48% (490,622 LOC)
-Web Apps             ██                          6.75% (120,592 LOC)
+AI / ML              ████████████████           63.83% (1,139,342 LOC)
+Other                ███████                    27.49% (490,622 LOC)
+Web Apps             ██                          6.76% (120,592 LOC)
 Data Systems                                     1.93% (34,377 LOC)
 ```
 
@@ -153,34 +153,39 @@ PLpgSQL              █                           5.49% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.62% (22 commits)
-Morning (06-12)      █████████████              53.58% (1,902 commits)
-Afternoon (12-18)    ████████                   32.08% (1,139 commits)
-Evening (18-24)      ███                        13.72% (487 commits)
+Morning (06-12)      █████████████              53.59% (1,903 commits)
+Afternoon (12-18)    ████████                   32.13% (1,141 commits)
+Evening (18-24)      ███                        13.66% (485 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.93% (757 contributions)
-Monday               ███                        13.79% (1,317 contributions)
-Tuesday              █████                      18.09% (1,728 contributions)
-Wednesday            █████                      20.10% (1,920 contributions)
-Thursday             ████                       17.02% (1,625 contributions)
-Friday               ████                       16.61% (1,586 contributions)
-Saturday             ██                          6.46% (617 contributions)
+Sunday               ██                          7.92% (757 contributions)
+Monday               ███                        13.78% (1,317 contributions)
+Tuesday              █████                      18.08% (1,728 contributions)
+Wednesday            █████                      20.08% (1,920 contributions)
+Thursday             ████                       17.00% (1,625 contributions)
+Friday               ████                       16.59% (1,586 contributions)
+Saturday             ██                          6.56% (627 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      21.71% (2,010 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.13% (1,956 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.15% (569 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.12% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      21.69% (2,010 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      21.11% (1,956 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.14% (569 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           5.11% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.22% (391 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.03% (373 commits)
-Pragash-Mohanarajah/taec-examportal                                         █                           3.04% (281 commits)
+Pragash-Mohanarajah/taec-examportal                                         █                           3.03% (281 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/portfolio — Merge pull request #6 from Pragash-Mohanarajah/gemini-copilot
+- Pragash-Mohanarajah/portfolio — feat: Copilot sugested edits
+- Pragash-Mohanarajah/portfolio — feat: Copilot sugested edits
+- Pragash-Mohanarajah/portfolio — feat: Copilot sugested edits
+- Pragash-Mohanarajah/portfolio — feat: Copilot sugested edits
 - Pragash-Mohanarajah/ai-hdr-inference — feat: allow pipeline override of configured analysis dates through execution variables
 - Pragash-Mohanarajah/ai-hdr-inference — feat: load analysis date from environment and config with associated fallbacks
 - Pragash-Mohanarajah/ai-hdr-inference — chore: move environment manager to config file for ease of access
@@ -191,11 +196,6 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 - AxiaFunder/dashboard-axiafunder — feat: include detailed breakdown of gross proceeds, performance fee, priority profit share, and partnership class
 - AxiaFunder/dashboard-axiafunder — feat: include detailed breakdown of gross proceeds, performance fee, priority profit share, and partnership class
 - Pragash-Mohanarajah/ai-hdr-inference — chore: split batch case workflow into smaller shared utility classes for convenience
-- Pragash-Mohanarajah/api-connector — feat: improved logging with import jobs; better retry and splitting of work for import jobs
-- Pragash-Mohanarajah/axia-lm-optimizer — chore: increase character limit on text extractions for improved classification accuracy
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: process folders based on correct sub-folders logic
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: process folders based on correct sub-folders logic
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: process folders based on correct sub-folders logic
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -208,5 +208,5 @@ Pragash-Mohanarajah/taec-examportal                                         █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 25 Jul 2026 13:01:17 GMT_
+_Last updated on Sat, 25 Jul 2026 16:44:47 GMT_
 <!-- DEV_METRICS_END -->
