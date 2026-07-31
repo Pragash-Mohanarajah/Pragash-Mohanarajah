@@ -1,7 +1,7 @@
 # Hi there, I'm Pragash Mohanarajah 👋
 
-### Full-Stack Engineer & AI Researcher
-Building high-performance systems at the intersection of **Deep Learning**, **Scalable Web Architecture**, and **Product Design**.
+### Full-Stack, Forward Deployed & AI Researcher
+Building and shipping high-performance systems at the intersection of **Deep Learning**, **Production Multimodal AI Systems**, **Scalable Web Architecture**, **Enterprise FinTech Platforms** and **Product Design**.
 
 ---
 
@@ -9,9 +9,13 @@ Building high-performance systems at the intersection of **Deep Learning**, **Sc
 
 I architect intelligent web applications that bridge the gap between complex data and intuitive user experiences. My work ranges from restoring ancient history through Multi-modal Vision-Language (VL) OCR to building real-time FinTech pipelines. I specialize in end-to-end systems that combine deep learning research with scalable cloud architecture.
 
+I bridge the gap between cutting-edge AI models and real-world client environments. As a Forward Deployed AI Engineer, I specialize in architecting production-grade RAG pipelines, deploying custom data ingestion suites into legacy enterprise workflows, and building high-performance web applications.
+
+* **🔭 Current Focus:** Multi-modal Legal AI Inference (Vertex AI / Gemini / Claude), Edge Document Processing, and High-Throughput RAG Systems.
 * **🔭 Current Focus:** Multi-modal VL OCR for ancient text restoration, Scalable Data Pipelines & Optimizing Chess Engine intuition models.
 * **🌱 Learning:** Advanced ONNX optimization, AWS Lambda for inference scaling, and fine-tuning Vision-Language Models (VLMs).
-* **💬 Ask me about:** Next.js, PyTorch, Chess theory, or litigation funding systems.
+* **💼 Business Impact:** Monitored & processed **10,000+ case files** across 4 law firms, slashing audit times by 90% and saving 90% in operational costs.
+* **💬 Ask me about:** Forward Deployed AI, Next.js/TypeScript, PyTorch, GCP/Vertex AI, Chess Theory or FinTech/Litigation Funding infrastructure.
 
 ---
 
@@ -19,30 +23,41 @@ I architect intelligent web applications that bridge the gap between complex dat
 
 | Category | Tools & Technologies |
 | :--- | :--- |
+| **AI & LLM Infra** | Google Vertex AI (Gemini Pro/Vision), Anthropic Claude API, Multimodal RAG, PyTorch, ONNX |
+| **Data & Systems** | Python (OS Optimization, PyInstaller), Pandas, Data Ingestion Pipelines, Local File Processing |
 | **UI & Styling** | Tailwind CSS, HeroUI, Shadcn UI, Lucide React, Framer Motion |
 | **Frontend** | Next.js, React, TypeScript, PHP |
-| **Backend** | Node.js, Flask (Python), NGINX, Laravel |
-| **Databases** | PostgreSQL, MongoDB, Supabase |
-| **AI / Data** | PyTorch, ONNX, Deep Learning (NLP/CV), Matlab, Data Ingestion Pipelines |
+| **Backend & Cloud** | GCP (Batch / On-Demand), Vercel Pro (Serverless), Node.js, Flask (Python), NGINX, Laravel |
+| **Databases** | PostgreSQL, Supabase, MongoDB |
+| **DevOps & Tools** | AWS (S3/EC2), Vercel, Docker Compose, GitHub Actions, CLI Tooling |
 | **Systems & Hardware** | C, C++, VHDL, Arduino, Raspberry Pi |
-| **DevOps** | AWS (S3/EC2), Vercel, Docker Compose, GitHub Actions |
 
 ---
 
-## 🚀 Key Research & Projects
+## 🚀 Key Production & Enterprise Projects
 
-### 🧠 AI & Deep Learning
-* **Ancient Text Restoration (UATRIAL):** Developed models using Deep Learning to restore and attribute ancient epigraphy, merging history with state-of-the-art NLP.
+### ⚖️ Legal AI & Multimodal RAG Pipeline (Production Deployment)
+* **Forward Deployed AI System:** Architected an end-to-end legal inference engine running **Gemini Pro** and **Claude** models on GCP, routing requests via hybrid On-Demand and Batch APIs to optimize latency and compute cost.
+* **Client Integration:** Deployed custom Python desktop/CLI document converters across **4 external law firms**, interfacing directly with legacy Legal CMS platforms (**Proclaim** and **CaseCube**).
+* **Quantified Impact:** Monitored and successfully converted **10,000+ legal cases** (20+ file formats to PDF with automated Google Drive sync), reducing case processing time to an average of **10 minutes** per file.
+
+### 💼 Enterprise Operations & Investor Platform
+* **Full-Stack Architecture:** Built a central operational mission control and investor-facing platform using **Next.js, React, TypeScript, and Supabase (PostgreSQL)**.
+* **Long-Running Serverless Compute:** Engineered backend API routes on **Vercel Pro** optimized for long-running execution (up to 800s) to handle complex financial calculations without timeouts.
+* **Global Compliance & Automation:** Programmed automated investor communication engines for **10,000+ users** via Mailchimp APIs and built custom UK Holdings tax-statement generator logic for **500+ investors across 40+ countries**.
+
+### 💸 FinTech & Systems Engineering (AxiaFunder)
+* **Data Pipelines:** Architected real-time investment dashboards and robust automated CSV/data ingestion workflows for litigation funding using **Node.js, PostgreSQL, and Next.js**.
+
+---
+
+## 🧠 Selected Research & Innovation Projects
+
+* **Ancient Text Restoration (UATRIAL):** Developed models using Deep Learning and Multi-modal Vision-Language (VL) techniques to restore and attribute ancient epigraphy, merging history with state-of-the-art NLP.
 * **Neural Chess Engines:** Training models on FEN/PGN datasets to predict moves, served via Flask APIs to custom Next.js frontends. Experimenting with Stockfish fine-tuning and custom evaluation functions.
 * **AI File Converter:** Built an end-to-end application that converts various file formats into standardized PDFs, enabling seamless RAG-based inference for AI models.
-
-### 💸 FinTech & Systems Engineering
-* **AxiaFunder:** Architected real-time investment dashboards and robust CSV ingestion pipelines for litigation funding using Node.js and PostgreSQL.
-* **Hack Cambridge:** Maintained critical administration platforms for one of the UK’s premier hackathons.
-
-### 📊 Data Infrastructure
-* **End-to-End Pipelines:** Specialized in "Browser → Cloud Storage → Background Worker → Database" workflows for high-frequency data processing.
-
+* **AxiaFunder Dashboard:** Architected real-time investment dashboards and robust CSV ingestion pipelines for litigation funding using Node.js and PostgreSQL.
+* **Hack Cambridge Platform:** Maintained critical administration and operational platforms for one of the UK’s premier hackathons.
 ---
 
 ## 💡 Engineering Philosophy
