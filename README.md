@@ -79,16 +79,16 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 0 days
+- 🔥 Current Streak: 1 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,787
-- 💖 Commit Breakdown: 562 public (5.7%), 9,225 private (94.3%) · 6,057 owned (61.9%), 3,730 contributed (38.1%)
+- ✨ Total Commits: 9,788
+- 💖 Commit Breakdown: 562 public (5.7%), 9,226 private (94.3%) · 6,058 owned (61.9%), 3,730 contributed (38.1%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,805,320
+- 🧠 Estimated Lines of Code: 1,805,317
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,028 days
+- 📅 Account age: 2,029 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -97,7 +97,7 @@ TypeScript           ████                       14.33% (258,674 LOC)
 Jupyter Notebook     ███                        12.15% (219,406 LOC)
 Python               ███                        10.61% (191,596 LOC)
 HTML                 ██                          6.34% (114,454 LOC)
-JavaScript           █                           5.80% (104,663 LOC)
+JavaScript           █                           5.80% (104,660 LOC)
 Makefile             █                           3.44% (62,016 LOC)
 Roff                 █                           3.00% (54,070 LOC)
 ```
@@ -121,7 +121,7 @@ TypeScript           ████                       14.33% (12,933,638 bytes
 Jupyter Notebook     ███                        12.15% (10,970,311 bytes)
 Python               ███                        10.61% (9,579,781 bytes)
 HTML                 ██                          6.34% (5,722,638 bytes)
-JavaScript           █                           5.80% (5,233,203 bytes)
+JavaScript           █                           5.80% (5,233,022 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.59% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.54% (1,147,018 LOC)
-Other                ███████                    27.24% (491,688 LOC)
+Other                ███████                    27.24% (491,685 LOC)
 Web Apps             ██                          7.32% (132,237 LOC)
 Data Systems                                     1.90% (34,377 LOC)
 ```
@@ -168,14 +168,14 @@ PLpgSQL              █                           5.49% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.63% (23 commits)
-Morning (06-12)      ██████████████             55.09% (1,997 commits)
-Afternoon (12-18)    ████████                   31.50% (1,142 commits)
-Evening (18-24)      ███                        12.77% (463 commits)
+Morning (06-12)      ██████████████             55.10% (1,998 commits)
+Afternoon (12-18)    ████████                   31.47% (1,141 commits)
+Evening (18-24)      ███                        12.80% (464 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.53% (760 contributions)
+Sunday               ██                          7.54% (761 contributions)
 Monday               ███                        13.63% (1,375 contributions)
 Tuesday              █████                      18.01% (1,817 contributions)
 Wednesday            █████                      19.96% (2,014 contributions)
@@ -187,15 +187,16 @@ Saturday             ██                          6.44% (650 contributions)
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             █████                      20.70% (2,026 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.49% (2,005 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.48% (2,005 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.09% (596 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        █                           5.81% (569 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.84% (474 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.00% (391 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.99% (391 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.81% (373 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal — Fix incorrect backend api call for exports
 - Pragash-Mohanarajah/taec-examportal — Allow Superadmins to view all Mark Submission pages and reports
 - Pragash-Mohanarajah/taec-examportal — Allow Superadmins to export a summary of all the marks
 - Pragash-Mohanarajah/taec-examportal-backend — Add new endpoint to export all mark totals as priveleged user tool for simplicity
@@ -210,7 +211,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/dashboard-axiafunder — Merge pull request #222 from AxiaFunder/develop
 - Pragash-Mohanarajah/dashboard-axiafunder — feat: add case id and client name to taxable events tab
 - Pragash-Mohanarajah/taec-examportal — Allow Markers to submit full marks for the student at the top, with optional breakdown verification component
-- Pragash-Mohanarajah/portfolio — feat: Sort important sections in reverse chronology for convenience
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 02 Aug 2026 16:47:25 GMT_
+_Last updated on Sun, 02 Aug 2026 20:42:37 GMT_
 <!-- DEV_METRICS_END -->
