@@ -79,23 +79,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 2 days
+- 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,798
-- 💖 Commit Breakdown: 562 public (5.7%), 9,236 private (94.3%) · 6,059 owned (61.8%), 3,739 contributed (38.2%)
+- ✨ Total Commits: 9,803
+- 💖 Commit Breakdown: 562 public (5.7%), 9,241 private (94.3%) · 6,061 owned (61.8%), 3,742 contributed (38.2%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,805,925
+- 🧠 Estimated Lines of Code: 1,806,222
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,030 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  37.32% (673,946 LOC)
-TypeScript           ████                       14.33% (258,853 LOC)
+C                    █████████                  37.31% (673,946 LOC)
+TypeScript           ████                       14.33% (258,904 LOC)
 Jupyter Notebook     ███                        12.15% (219,406 LOC)
-Python               ███                        10.61% (191,596 LOC)
+Python               ███                        10.62% (191,842 LOC)
 HTML                 ██                          6.34% (114,454 LOC)
 JavaScript           █                           5.82% (105,089 LOC)
 Makefile             █                           3.43% (62,016 LOC)
@@ -116,10 +116,10 @@ Dockerfile           █                           4.62% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  37.32% (33,697,286 bytes)
-TypeScript           ████                       14.33% (12,942,574 bytes)
+C                    █████████                  37.31% (33,697,286 bytes)
+TypeScript           ████                       14.33% (12,945,128 bytes)
 Jupyter Notebook     ███                        12.15% (10,970,311 bytes)
-Python               ███                        10.61% (9,579,781 bytes)
+Python               ███                        10.62% (9,592,103 bytes)
 HTML                 ██                          6.34% (5,722,638 bytes)
 JavaScript           █                           5.82% (5,254,495 bytes)
 ```
@@ -134,8 +134,8 @@ Data Systems         ██                          6.59% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.51% (1,147,018 LOC)
-Other                ███████                    27.26% (492,293 LOC)
+AI / ML              ████████████████           63.50% (1,147,018 LOC)
+Other                ███████                    27.27% (492,590 LOC)
 Web Apps             ██                          7.32% (132,237 LOC)
 Data Systems                                     1.90% (34,377 LOC)
 ```
@@ -159,48 +159,50 @@ PLpgSQL              █                           5.49% (5 repos)
 - AxiaFunder/ai-hdr-inference — Google Vertex AI Inference _(AI / ML · 596 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 569 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 391 commits · private)_
+- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 393 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 2035 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 2038 commits · private)_
 - AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 12 commits · private)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.63% (23 commits)
-Morning (06-12)      ██████████████             54.89% (1,991 commits)
-Afternoon (12-18)    ████████                   31.65% (1,148 commits)
-Evening (18-24)      ███                        12.82% (465 commits)
+Morning (06-12)      ██████████████             54.84% (1,990 commits)
+Afternoon (12-18)    ████████                   31.72% (1,151 commits)
+Evening (18-24)      ███                        12.81% (465 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.54% (762 contributions)
-Monday               ███                        13.73% (1,387 contributions)
-Tuesday              ████                       17.99% (1,817 contributions)
-Wednesday            █████                      19.94% (2,014 contributions)
-Thursday             ████                       17.23% (1,741 contributions)
-Friday               ████                       17.14% (1,731 contributions)
+Monday               ███                        13.72% (1,387 contributions)
+Tuesday              █████                      18.04% (1,823 contributions)
+Wednesday            █████                      19.92% (2,014 contributions)
+Thursday             ████                       17.22% (1,741 contributions)
+Friday               ████                       17.13% (1,731 contributions)
 Saturday             ██                          6.43% (650 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      20.77% (2,035 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.46% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      20.79% (2,038 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.45% (2,005 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.08% (596 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        █                           5.81% (569 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        █                           5.80% (569 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.84% (474 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.99% (391 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.81% (373 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.01% (393 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.80% (373 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: improved handoff between file converter and inference codebase by generating csv and jsonl file exports with unknown file metadata
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: implement improved file categorisation logic into file converter, only when use_rag flag is enabled; places truly unknown files into unknown folder for downstream AI processing
+- AxiaFunder/dashboard-axiafunder — Merge pull request #233 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — feat: use hidden editable text area for comments to preserve space and avoid accidental changes
+- AxiaFunder/dashboard-axiafunder — fix: pick the latest non-empty user comment for a given job id; display across all tables for this job id
 - AxiaFunder/dashboard-axiafunder — Merge pull request #232 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — chore: remove the "to date" label from all graphs for space efficiency
-- AxiaFunder/dashboard-axiafunder — Merge pull request #231 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — feat: improve layout of job table with Save icon and autosaving during flush or blur
-- AxiaFunder/dashboard-axiafunder — feat: improve layout of job table with Save icon and autosaving during flush or blur
 - Pragash-Mohanarajah/taec-examportal — Fix incorrect backend api call for exports
 - Pragash-Mohanarajah/taec-examportal — Fix incorrect backend api call for exports
 - Pragash-Mohanarajah/taec-examportal — Allow Superadmins to view all Mark Submission pages and reports
@@ -209,8 +211,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/taec-examportal — Allow Markers to see a summary of the marks, which they have submitted with desensitised information
 - Pragash-Mohanarajah/taec-examportal-backend — Add new endpoint to show marks submitted by specific markers on frontend; hide studentId and center number from non-priveleged users
 - Pragash-Mohanarajah/Pragash-Mohanarajah — feat: improved outline of current work with mention of legal ai inference
-- Pragash-Mohanarajah/dashboard-axiafunder — Merge pull request #222 from AxiaFunder/develop
-- Pragash-Mohanarajah/dashboard-axiafunder — feat: add case id and client name to taxable events tab
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 04 Aug 2026 13:47:42 GMT_
+_Last updated on Tue, 04 Aug 2026 17:28:40 GMT_
 <!-- DEV_METRICS_END -->
