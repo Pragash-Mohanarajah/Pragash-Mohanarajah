@@ -86,14 +86,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,807,339
+- 🧠 Estimated Lines of Code: 1,807,407
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,033 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  37.29% (673,946 LOC)
-TypeScript           ████                       14.39% (260,021 LOC)
+TypeScript           ████                       14.39% (260,089 LOC)
 Jupyter Notebook     ███                        12.14% (219,406 LOC)
 Python               ███                        10.61% (191,842 LOC)
 HTML                 ██                          6.33% (114,454 LOC)
@@ -117,7 +117,7 @@ Dockerfile           █                           4.62% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  37.29% (33,697,286 bytes)
-TypeScript           ████                       14.39% (13,001,008 bytes)
+TypeScript           ████                       14.39% (13,004,394 bytes)
 Jupyter Notebook     ███                        12.14% (10,970,311 bytes)
 Python               ███                        10.61% (9,592,103 bytes)
 HTML                 ██                          6.33% (5,722,638 bytes)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.59% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.46% (1,147,018 LOC)
-Other                ███████                    27.32% (493,707 LOC)
+Other                ███████                    27.32% (493,775 LOC)
 Web Apps             ██                          7.32% (132,237 LOC)
 Data Systems                                     1.90% (34,377 LOC)
 ```
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 07 Aug 2026 08:46:23 GMT_
+_Last updated on Fri, 07 Aug 2026 12:40:00 GMT_
 <!-- DEV_METRICS_END -->
