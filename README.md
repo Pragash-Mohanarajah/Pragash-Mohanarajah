@@ -86,14 +86,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,820,419
+- 🧠 Estimated Lines of Code: 1,820,642
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,043 days
+- 📅 Account age: 2,044 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  37.02% (673,946 LOC)
-TypeScript           ████                       14.21% (258,627 LOC)
+TypeScript           ████                       14.22% (258,850 LOC)
 Jupyter Notebook     ███                        12.05% (219,406 LOC)
 Python               ███                        10.64% (193,643 LOC)
 JavaScript           ██                          6.43% (117,115 LOC)
@@ -117,7 +117,7 @@ Dockerfile           █                           4.56% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  37.02% (33,697,286 bytes)
-TypeScript           ████                       14.21% (12,931,304 bytes)
+TypeScript           ████                       14.22% (12,942,482 bytes)
 Jupyter Notebook     ███                        12.05% (10,970,311 bytes)
 Python               ███                        10.64% (9,682,073 bytes)
 JavaScript           ██                          6.43% (5,855,807 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.59% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.10% (1,148,609 LOC)
-Other                ███████                    27.75% (505,196 LOC)
+AI / ML              ████████████████           63.09% (1,148,609 LOC)
+Other                ███████                    27.76% (505,419 LOC)
 Web Apps             ██                          7.26% (132,237 LOC)
 Data Systems                                     1.89% (34,377 LOC)
 ```
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 17 Aug 2026 16:15:32 GMT_
+_Last updated on Mon, 17 Aug 2026 20:15:01 GMT_
 <!-- DEV_METRICS_END -->
