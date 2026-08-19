@@ -81,22 +81,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 9,937
-- 💖 Commit Breakdown: 562 public (5.7%), 9,375 private (94.3%) · 6,120 owned (61.6%), 3,817 contributed (38.4%)
+- ✨ Total Commits: 9,943
+- 💖 Commit Breakdown: 562 public (5.7%), 9,381 private (94.3%) · 6,126 owned (61.6%), 3,817 contributed (38.4%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,822,338
+- 🧠 Estimated Lines of Code: 1,823,075
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,045 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.98% (673,946 LOC)
+C                    █████████                  36.97% (673,946 LOC)
 TypeScript           ████                       14.20% (258,850 LOC)
-Jupyter Notebook     ███                        12.04% (219,406 LOC)
-Python               ███                        10.72% (195,338 LOC)
-JavaScript           ██                          6.43% (117,116 LOC)
+Jupyter Notebook     ███                        12.03% (219,406 LOC)
+Python               ███                        10.71% (195,338 LOC)
+JavaScript           ██                          6.46% (117,853 LOC)
 HTML                 ██                          6.28% (114,454 LOC)
 Makefile             █                           3.40% (62,016 LOC)
 Roff                 █                           2.97% (54,070 LOC)
@@ -116,11 +116,11 @@ Dockerfile           █                           4.56% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.98% (33,697,286 bytes)
+C                    █████████                  36.97% (33,697,286 bytes)
 TypeScript           ████                       14.20% (12,942,482 bytes)
-Jupyter Notebook     ███                        12.04% (10,970,311 bytes)
-Python               ███                        10.72% (9,766,800 bytes)
-JavaScript           ██                          6.43% (5,855,857 bytes)
+Jupyter Notebook     ███                        12.03% (10,970,311 bytes)
+Python               ███                        10.71% (9,766,800 bytes)
+JavaScript           ██                          6.46% (5,892,682 bytes)
 HTML                 ██                          6.28% (5,722,638 bytes)
 ```
 
@@ -134,9 +134,9 @@ Data Systems         ██                          6.59% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.12% (1,150,304 LOC)
-Other                ███████                    27.73% (505,420 LOC)
-Web Apps             ██                          7.26% (132,237 LOC)
+AI / ML              ████████████████           63.10% (1,150,304 LOC)
+Other                ███████                    27.76% (506,157 LOC)
+Web Apps             ██                          7.25% (132,237 LOC)
 Data Systems                                     1.89% (34,377 LOC)
 ```
 
@@ -168,26 +168,26 @@ PLpgSQL              █                           5.49% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.63% (23 commits)
-Morning (06-12)      ██████████████             54.58% (1,992 commits)
-Afternoon (12-18)    ████████                   31.73% (1,158 commits)
-Evening (18-24)      ███                        13.07% (477 commits)
+Morning (06-12)      ██████████████             54.59% (1,993 commits)
+Afternoon (12-18)    ████████                   31.64% (1,155 commits)
+Evening (18-24)      ███                        13.15% (480 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.43% (762 contributions)
 Monday               ███                        13.93% (1,429 contributions)
-Tuesday              █████                      18.25% (1,872 contributions)
-Wednesday            █████                      19.76% (2,027 contributions)
-Thursday             ████                       17.14% (1,758 contributions)
-Friday               ████                       17.14% (1,758 contributions)
-Saturday             ██                          6.34% (650 contributions)
+Tuesday              █████                      18.30% (1,878 contributions)
+Wednesday            █████                      19.75% (2,027 contributions)
+Thursday             ████                       17.13% (1,758 contributions)
+Friday               ████                       17.13% (1,758 contributions)
+Saturday             ██                          6.33% (650 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      20.73% (2,060 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.18% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      20.72% (2,060 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.16% (2,005 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.53% (649 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.30% (626 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.77% (474 commits)
@@ -196,6 +196,12 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/taec-examportal-backend — Implement Grade Boundary conditions with improved category names
+- Pragash-Mohanarajah/taec-examportal — Implement Grade Boundary conditions with improved category names
+- Pragash-Mohanarajah/taec-examportal-backend — Implement Grade Boundary conditions with improved category names
+- Pragash-Mohanarajah/taec-examportal-backend — Allow question, category and student based scores export with associated breakdown logic
+- Pragash-Mohanarajah/taec-examportal — Allow question, category and student based scores export with associated breakdown logic
+- Pragash-Mohanarajah/taec-examportal-backend — Allow question, category and student based scores export with associated breakdown logic
 - Pragash-Mohanarajah/taec-examportal-backend — Add new endpoint to export all mark totals as priveleged user tool for simplicity
 - Pragash-Mohanarajah/ai-hdr-inference — fix: repair broken test pipeline and tighten stage 2/3 validation
 - Pragash-Mohanarajah/ai-hdr-inference — fix: correct prompt and output schema logic during failed prompt review
@@ -205,12 +211,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - AxiaFunder/ai-hdr-inference — experiment: update stage 2 prompt for clarity related to output schema validations
 - AxiaFunder/ai-hdr-inference — fix: use correct output schema for stage 2 in historic and new prompt pipelines
 - AxiaFunder/ai-hdr-inference — feat: consolidate stage 2 test pipeline prompt with single pass csv and pdf lookup logic
-- AxiaFunder/ai-hdr-inference — experiment: allow pdf lookup in stage 2 inference for test pipeline
-- AxiaFunder/ai-hdr-inference — feat: remove intermediate stage from 4 stage output; replace with csv and pdf lookup functionality for simplicity
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: add integrity check for input files and output files page count with hard failures; backs up the document list and history log of each run; ensures all files are definitely in the output on every batch run
-- AxiaFunder/dashboard-axiafunder — Merge pull request #245 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — Merge pull request #244 from AxiaFunder/taxgenfix3
-- AxiaFunder/dashboard-axiafunder — Merge pull request #243 from AxiaFunder/develop
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 18 Aug 2026 20:12:10 GMT_
+_Last updated on Wed, 19 Aug 2026 00:39:05 GMT_
 <!-- DEV_METRICS_END -->
