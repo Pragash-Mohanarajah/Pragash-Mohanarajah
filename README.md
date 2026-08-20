@@ -81,8 +81,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,015
-- 💖 Commit Breakdown: 562 public (5.6%), 9,453 private (94.4%) · 6,172 owned (61.6%), 3,843 contributed (38.4%)
+- ✨ Total Commits: 10,018
+- 💖 Commit Breakdown: 562 public (5.6%), 9,456 private (94.4%) · 6,175 owned (61.6%), 3,843 contributed (38.4%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
@@ -157,7 +157,7 @@ PLpgSQL              █                           5.49% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
 - AxiaFunder/ai-hdr-inference — Google Vertex AI Inference _(AI / ML · 666 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 638 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 641 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 406 commits · private)_
 
@@ -177,38 +177,38 @@ Evening (18-24)      ███                        13.09% (480 commits)
 ```
 Sunday               ██                          7.37% (762 contributions)
 Monday               ███                        13.84% (1,431 contributions)
-Tuesday              █████                      18.38% (1,900 contributions)
-Wednesday            █████                      19.76% (2,043 contributions)
-Thursday             ████                       17.33% (1,792 contributions)
+Tuesday              █████                      18.37% (1,900 contributions)
+Wednesday            █████                      19.75% (2,043 contributions)
+Thursday             ████                       17.35% (1,795 contributions)
 Friday               ████                       17.04% (1,762 contributions)
-Saturday             ██                          6.29% (650 contributions)
+Saturday             ██                          6.28% (650 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      20.66% (2,069 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.02% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      20.65% (2,069 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.01% (2,005 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.65% (666 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.37% (638 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.40% (641 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.73% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.05% (406 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.94% (395 commits)
 ```
 
 ### ⚡ Recent Activity
-- AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
+- Pragash-Mohanarajah/ai-hdr-inference — feat: remove PENDING_FINAL_SYNTHESIS narrative and PENDING narrative status with improved stage 1 prompt
+- Pragash-Mohanarajah/ai-hdr-inference — feat: add new system prompt with correct model routing logic
+- Pragash-Mohanarajah/ai-hdr-inference — chore: move system prompt to old in preparation for new prompt structure
 - Pragash-Mohanarajah/ai-hdr-inference — feat: promote working prompt to production
+- AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
 - AxiaFunder/dashboard-axiafunder — Merge pull request #255 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #254 from AxiaFunder/fix/trustee-invoices-3
 - AxiaFunder/dashboard-axiafunder — fix: apply trustee invoice rate cutoff per invoice run date, not agreement date
-- AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
 - Pragash-Mohanarajah/ai-hdr-inference — feat: promote working prompt to production
+- AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
 - AxiaFunder/ai-hdr-inference — feat: demote current production prompt to old
-- Pragash-Mohanarajah/ai-hdr-inference — feat: demote current production prompt to old
 - AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
-- Pragash-Mohanarajah/ai-hdr-inference — feat: promote working prompt to production
 - AxiaFunder/ai-hdr-inference — feat: move system prompt to stage in preparation to promote to production
-- Pragash-Mohanarajah/ai-hdr-inference — feat: move system prompt to stage in preparation to promote to production
 - AxiaFunder/dashboard-axiafunder — Merge pull request #253 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #252 from AxiaFunder/fix/trustee-invoices-3
 
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 20 Aug 2026 12:25:58 GMT_
+_Last updated on Thu, 20 Aug 2026 16:22:10 GMT_
 <!-- DEV_METRICS_END -->
