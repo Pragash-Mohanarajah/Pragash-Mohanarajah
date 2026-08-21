@@ -79,26 +79,26 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 4 days
+- 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,018
-- 💖 Commit Breakdown: 562 public (5.6%), 9,456 private (94.4%) · 6,175 owned (61.6%), 3,843 contributed (38.4%)
+- ✨ Total Commits: 10,026
+- 💖 Commit Breakdown: 562 public (5.6%), 9,464 private (94.4%) · 6,183 owned (61.7%), 3,843 contributed (38.3%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,825,717
+- 🧠 Estimated Lines of Code: 1,826,767
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,047 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.91% (673,946 LOC)
-TypeScript           ████                       14.18% (258,893 LOC)
-Jupyter Notebook     ███                        12.02% (219,406 LOC)
-Python               ███                        10.84% (197,937 LOC)
-JavaScript           ██                          6.46% (117,853 LOC)
+C                    █████████                  36.89% (673,946 LOC)
+TypeScript           ████                       14.17% (258,893 LOC)
+Jupyter Notebook     ███                        12.01% (219,406 LOC)
+Python               ███                        10.89% (198,987 LOC)
+JavaScript           ██                          6.45% (117,853 LOC)
 HTML                 ██                          6.27% (114,454 LOC)
-Makefile             █                           3.40% (62,016 LOC)
+Makefile             █                           3.39% (62,016 LOC)
 Roff                 █                           2.96% (54,070 LOC)
 ```
 
@@ -116,11 +116,11 @@ Dockerfile           █                           4.56% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.91% (33,697,286 bytes)
-TypeScript           ████                       14.18% (12,944,625 bytes)
-Jupyter Notebook     ███                        12.02% (10,970,311 bytes)
-Python               ███                        10.84% (9,896,840 bytes)
-JavaScript           ██                          6.46% (5,892,682 bytes)
+C                    █████████                  36.89% (33,697,286 bytes)
+TypeScript           ████                       14.17% (12,944,625 bytes)
+Jupyter Notebook     ███                        12.01% (10,970,311 bytes)
+Python               ███                        10.89% (9,949,332 bytes)
+JavaScript           ██                          6.45% (5,892,682 bytes)
 HTML                 ██                          6.27% (5,722,638 bytes)
 ```
 
@@ -134,8 +134,8 @@ Data Systems         ██                          6.59% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.15% (1,152,877 LOC)
-Other                ███████                    27.73% (506,226 LOC)
+AI / ML              ████████████████           63.15% (1,153,663 LOC)
+Other                ███████                    27.73% (506,490 LOC)
 Web Apps             ██                          7.24% (132,237 LOC)
 Data Systems                                     1.88% (34,377 LOC)
 ```
@@ -157,7 +157,7 @@ PLpgSQL              █                           5.49% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
 - AxiaFunder/ai-hdr-inference — Google Vertex AI Inference _(AI / ML · 666 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 641 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 647 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 406 commits · private)_
 
@@ -167,50 +167,50 @@ PLpgSQL              █                           5.49% (5 repos)
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    0.63% (23 commits)
-Morning (06-12)      ██████████████             55.30% (2,028 commits)
-Afternoon (12-18)    ████████                   30.98% (1,136 commits)
-Evening (18-24)      ███                        13.09% (480 commits)
+Night (00-06)                                    0.60% (22 commits)
+Morning (06-12)      ██████████████             55.25% (2,027 commits)
+Afternoon (12-18)    ████████                   31.07% (1,140 commits)
+Evening (18-24)      ███                        13.08% (480 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.37% (762 contributions)
-Monday               ███                        13.84% (1,431 contributions)
-Tuesday              █████                      18.37% (1,900 contributions)
-Wednesday            █████                      19.75% (2,043 contributions)
-Thursday             ████                       17.35% (1,795 contributions)
-Friday               ████                       17.04% (1,762 contributions)
+Sunday               ██                          7.36% (762 contributions)
+Monday               ███                        13.82% (1,431 contributions)
+Tuesday              █████                      18.36% (1,900 contributions)
+Wednesday            █████                      19.74% (2,043 contributions)
+Thursday             ████                       17.34% (1,795 contributions)
+Friday               ████                       17.10% (1,770 contributions)
 Saturday             ██                          6.28% (650 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      20.65% (2,069 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.01% (2,005 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          6.65% (666 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.40% (641 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      20.64% (2,069 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      20.00% (2,005 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          6.64% (666 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.45% (647 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.73% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.05% (406 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.94% (395 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.96% (397 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/ai-hdr-inference — feat: remove PENDING_FINAL_SYNTHESIS narrative and PENDING narrative status with improved stage 1 prompt
-- Pragash-Mohanarajah/ai-hdr-inference — feat: add new system prompt with correct model routing logic
-- Pragash-Mohanarajah/ai-hdr-inference — chore: move system prompt to old in preparation for new prompt structure
-- Pragash-Mohanarajah/ai-hdr-inference — feat: promote working prompt to production
+- Pragash-Mohanarajah/ai-hdr-inference — feat: add ability to backfill cases to gcs and safely skip the ingestion stage
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: add ability to run experiments against configured source of truth
+- Pragash-Mohanarajah/ai-hdr-inference — feat: add ability to score existing source of truth run against the known data
+- Pragash-Mohanarajah/ai-hdr-inference — feat: improved backfill cases section to upload directly from google drive
+- Pragash-Mohanarajah/ai-hdr-inference — chore: move all experiments code back to root for better code organisation
+- Pragash-Mohanarajah/ai-hdr-inference — chore: move all experiments code to src for better code organisation
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: add ability to run experiments against configured source of truth
 - AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
 - AxiaFunder/dashboard-axiafunder — Merge pull request #255 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #254 from AxiaFunder/fix/trustee-invoices-3
 - AxiaFunder/dashboard-axiafunder — fix: apply trustee invoice rate cutoff per invoice run date, not agreement date
-- Pragash-Mohanarajah/ai-hdr-inference — feat: promote working prompt to production
 - AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
 - AxiaFunder/ai-hdr-inference — feat: demote current production prompt to old
 - AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
 - AxiaFunder/ai-hdr-inference — feat: move system prompt to stage in preparation to promote to production
-- AxiaFunder/dashboard-axiafunder — Merge pull request #253 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — Merge pull request #252 from AxiaFunder/fix/trustee-invoices-3
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 21 Aug 2026 12:25:35 GMT_
+_Last updated on Fri, 21 Aug 2026 16:20:22 GMT_
 <!-- DEV_METRICS_END -->
