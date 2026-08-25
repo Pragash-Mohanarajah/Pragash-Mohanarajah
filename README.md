@@ -81,21 +81,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 2 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,769
-- 💖 Commit Breakdown: 562 public (5.2%), 10,207 private (94.8%) · 6,202 owned (57.6%), 4,567 contributed (42.4%)
+- ✨ Total Commits: 10,775
+- 💖 Commit Breakdown: 562 public (5.2%), 10,213 private (94.8%) · 6,208 owned (57.6%), 4,567 contributed (42.4%)
 - 🚀 Repositories: 95 (35 public (36.8%), 60 private (63.2%))
 - 👤 Ownership: 87 owned (91.6%), 8 contributed-to (8.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,836,461
+- 🧠 Estimated Lines of Code: 1,836,811
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,051 days
+- 📅 Account age: 2,052 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.70% (673,946 LOC)
+C                    █████████                  36.69% (673,946 LOC)
 TypeScript           ███                        13.89% (255,141 LOC)
-Jupyter Notebook     ███                        12.04% (221,042 LOC)
-Python               ███                        11.51% (211,333 LOC)
+Jupyter Notebook     ███                        12.03% (221,042 LOC)
+Python               ███                        11.52% (211,683 LOC)
 JavaScript           ██                          6.38% (117,212 LOC)
 HTML                 ██                          6.23% (114,454 LOC)
 Makefile             █                           3.38% (62,016 LOC)
@@ -116,10 +116,10 @@ Dockerfile           █                           4.82% (12 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.70% (33,697,286 bytes)
+C                    █████████                  36.69% (33,697,286 bytes)
 TypeScript           ███                        13.89% (12,757,018 bytes)
-Jupyter Notebook     ███                        12.04% (11,052,126 bytes)
-Python               ███                        11.51% (10,566,618 bytes)
+Jupyter Notebook     ███                        12.03% (11,052,126 bytes)
+Python               ███                        11.52% (10,584,130 bytes)
 JavaScript           ██                          6.38% (5,860,619 bytes)
 HTML                 ██                          6.23% (5,722,638 bytes)
 ```
@@ -134,8 +134,8 @@ Data Systems         ██                          6.32% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.35% (1,163,357 LOC)
-Other                ███████                    27.58% (506,490 LOC)
+AI / ML              ████████████████           63.35% (1,163,707 LOC)
+Other                ███████                    27.57% (506,490 LOC)
 Web Apps             ██                          7.20% (132,237 LOC)
 Data Systems                                     1.87% (34,377 LOC)
 ```
@@ -157,7 +157,7 @@ PLpgSQL              █                           5.26% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
 - AxiaFunder/ai-hdr-inference — Google Vertex AI Inference _(AI / ML · 666 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 656 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 662 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 406 commits · private)_
 
@@ -171,43 +171,43 @@ PLpgSQL              █                           5.26% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.55% (22 commits)
-Morning (06-12)      ██████████████             55.71% (2,230 commits)
-Afternoon (12-18)    ████████                   31.63% (1,266 commits)
+Morning (06-12)      ██████████████             55.63% (2,227 commits)
+Afternoon (12-18)    ████████                   31.70% (1,269 commits)
 Evening (18-24)      ███                        12.12% (485 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          6.87% (763 contributions)
-Monday               ███                        13.79% (1,530 contributions)
-Tuesday              █████                      18.52% (2,055 contributions)
-Wednesday            █████                      19.56% (2,171 contributions)
-Thursday             ████                       17.74% (1,969 contributions)
-Friday               ████                       17.61% (1,955 contributions)
+Monday               ███                        13.78% (1,530 contributions)
+Tuesday              █████                      18.56% (2,061 contributions)
+Wednesday            █████                      19.55% (2,171 contributions)
+Thursday             ████                       17.73% (1,969 contributions)
+Friday               ████                       17.60% (1,955 contributions)
 Saturday             █                           5.91% (656 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.21% (2,069 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.62% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.20% (2,069 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.61% (2,005 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.18% (666 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.09% (656 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.14% (662 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.29% (570 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.40% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.77% (406 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — experiment/iter2: LLM-proposed rewrite (stage 3): The primary cause of errors is the model's difficulty in correctly identifying specific documents and then selecting the, target_fields=['quantum_calculation.figure', 'latest_claimant_offer.amount', 'quantum_calculation.source_date']
+- Pragash-Mohanarajah/ai-hdr-inference — feat: add ability to automatically improve the prompts with a routed llm call to an on-demand gemini pro model; prepare for iteration 2 experiment run
+- Pragash-Mohanarajah/ai-hdr-inference — experiment: add first iteration of experiment and its corresponding results after dry prompt update
+- Pragash-Mohanarajah/ai-hdr-inference — experiment/iter1: Improved Small Claims Track allocation and Client Cancellation Request Logic, target_fields=['small_claims_allocation_date']
 - AxiaFunder/ai-hdr-core — chore: repoint imports at split provider packages (sdk, derive, prompts)
 - AxiaFunder/ai-hdr-provider-prompts — chore: add packaging for ai-hdr-provider-prompts
 - AxiaFunder/ai-hdr-provider-derive — chore: repoint imports at ai-hdr-provider-sdk; add packaging
 - AxiaFunder/ai-hdr-provider-sdk — chore: add packaging for ai-hdr-provider-sdk
-- Pragash-Mohanarajah/ai-hdr-inference — chore: archive old version of prompts for future reference
-- Pragash-Mohanarajah/ai-hdr-inference — feat: update prompt to respect correct client cancellation and small claims track allocations
-- Pragash-Mohanarajah/ai-hdr-inference — feat: move all payload validation and coercion logic to reporting pipeline; import back into experiment code
-- Pragash-Mohanarajah/ai-hdr-inference — feat: add ability to run manual sot iteration after making a prompt change; will automatically sync changes to git
-- Pragash-Mohanarajah/ai-hdr-inference — experiment: iteration 0 results scorecard for first test training loop
+- Pragash-Mohanarajah/ai-hdr-inference — experiment/iter1: Improved Small Claims Track allocation and Client Cancellation Request Logic, target_fields=['small_claims_allocation_date']
 - Pragash-Mohanarajah/portfolio — Merge pull request #11 from Pragash-Mohanarajah/claude
 - Pragash-Mohanarajah/portfolio — Add AI/tech tags to Projects (Phase D)
 - Pragash-Mohanarajah/portfolio — Merge pull request #10 from Pragash-Mohanarajah/claude
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 25 Aug 2026 16:24:25 GMT_
+_Last updated on Tue, 25 Aug 2026 20:17:26 GMT_
 <!-- DEV_METRICS_END -->
