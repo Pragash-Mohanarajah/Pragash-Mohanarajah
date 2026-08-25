@@ -81,22 +81,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 1 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,029
-- 💖 Commit Breakdown: 562 public (5.6%), 9,467 private (94.4%) · 6,186 owned (61.7%), 3,843 contributed (38.3%)
+- ✨ Total Commits: 10,031
+- 💖 Commit Breakdown: 562 public (5.6%), 9,469 private (94.4%) · 6,188 owned (61.7%), 3,843 contributed (38.3%)
 - 🚀 Repositories: 91 (35 public (38.5%), 56 private (61.5%))
 - 👤 Ownership: 87 owned (95.6%), 4 contributed-to (4.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,826,542
+- 🧠 Estimated Lines of Code: 1,826,128
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,051 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.90% (673,946 LOC)
-TypeScript           ████                       14.19% (259,116 LOC)
+C                    █████████                  36.91% (673,946 LOC)
+TypeScript           ████                       14.17% (258,816 LOC)
 Jupyter Notebook     ███                        12.01% (219,406 LOC)
 Python               ███                        10.90% (199,066 LOC)
-JavaScript           ██                          6.42% (117,326 LOC)
+JavaScript           ██                          6.42% (117,212 LOC)
 HTML                 ██                          6.27% (114,454 LOC)
 Makefile             █                           3.40% (62,016 LOC)
 Roff                 █                           2.96% (54,070 LOC)
@@ -116,11 +116,11 @@ Dockerfile           █                           4.56% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.90% (33,697,286 bytes)
-TypeScript           ████                       14.19% (12,955,772 bytes)
+C                    █████████                  36.91% (33,697,286 bytes)
+TypeScript           ████                       14.17% (12,940,809 bytes)
 Jupyter Notebook     ███                        12.01% (10,970,311 bytes)
 Python               ███                        10.90% (9,953,274 bytes)
-JavaScript           ██                          6.42% (5,866,328 bytes)
+JavaScript           ██                          6.42% (5,860,619 bytes)
 HTML                 ██                          6.27% (5,722,638 bytes)
 ```
 
@@ -134,8 +134,8 @@ Data Systems         ██                          6.59% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.15% (1,153,438 LOC)
-Other                ███████                    27.73% (506,490 LOC)
+AI / ML              ████████████████           63.14% (1,153,024 LOC)
+Other                ███████                    27.74% (506,490 LOC)
 Web Apps             ██                          7.24% (132,237 LOC)
 Data Systems                                     1.88% (34,377 LOC)
 ```
@@ -176,9 +176,9 @@ Evening (18-24)      ███                        13.08% (480 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.36% (762 contributions)
-Monday               ███                        13.86% (1,435 contributions)
-Tuesday              █████                      18.35% (1,900 contributions)
-Wednesday            █████                      19.73% (2,043 contributions)
+Monday               ███                        13.87% (1,437 contributions)
+Tuesday              █████                      18.34% (1,900 contributions)
+Wednesday            █████                      19.72% (2,043 contributions)
 Thursday             ████                       17.33% (1,795 contributions)
 Friday               ████                       17.10% (1,771 contributions)
 Saturday             ██                          6.28% (650 contributions)
@@ -196,6 +196,8 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/portfolio — Merge pull request #8 from Pragash-Mohanarajah/claude
+- Pragash-Mohanarajah/portfolio — Consolidate frontend accordion/asset-upload duplication (Phase B1+B2)
 - Pragash-Mohanarajah/portfolio — Merge pull request #7 from Pragash-Mohanarajah/claude
 - Pragash-Mohanarajah/portfolio — Consolidate backend asset/auth duplication (Phase A)
 - Pragash-Mohanarajah/ai-hdr-inference — feat: add ability to backfill password-protected cases to gcs and safely skip the ingestion stage
@@ -209,8 +211,6 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - AxiaFunder/dashboard-axiafunder — Merge pull request #255 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #254 from AxiaFunder/fix/trustee-invoices-3
 - AxiaFunder/dashboard-axiafunder — fix: apply trustee invoice rate cutoff per invoice run date, not agreement date
-- AxiaFunder/ai-hdr-inference — feat: promote working prompt to production
-- AxiaFunder/ai-hdr-inference — feat: demote current production prompt to old
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -223,5 +223,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 24 Aug 2026 20:18:32 GMT_
+_Last updated on Tue, 25 Aug 2026 00:40:22 GMT_
 <!-- DEV_METRICS_END -->
