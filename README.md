@@ -81,25 +81,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,837
-- 💖 Commit Breakdown: 562 public (5.2%), 10,275 private (94.8%) · 6,270 owned (57.9%), 4,567 contributed (42.1%)
+- ✨ Total Commits: 10,838
+- 💖 Commit Breakdown: 562 public (5.2%), 10,276 private (94.8%) · 6,271 owned (57.9%), 4,567 contributed (42.1%)
 - 🚀 Repositories: 95 (35 public (36.8%), 60 private (63.2%))
 - 👤 Ownership: 87 owned (91.6%), 8 contributed-to (8.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,842,137
+- 🧠 Estimated Lines of Code: 1,842,293
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,054 days
+- 📅 Account age: 2,055 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.59% (673,946 LOC)
+C                    █████████                  36.58% (673,946 LOC)
 TypeScript           ███                        13.87% (255,544 LOC)
 Jupyter Notebook     ███                        12.00% (221,042 LOC)
-Python               ███                        11.83% (217,957 LOC)
+Python               ███                        11.84% (218,113 LOC)
 JavaScript           ██                          6.36% (117,212 LOC)
 HTML                 ██                          6.21% (114,454 LOC)
 Makefile             █                           3.37% (62,016 LOC)
-Roff                 █                           2.94% (54,070 LOC)
+Roff                 █                           2.93% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -116,10 +116,10 @@ Dockerfile           █                           4.82% (12 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.59% (33,697,286 bytes)
+C                    █████████                  36.58% (33,697,286 bytes)
 TypeScript           ███                        13.87% (12,777,160 bytes)
 Jupyter Notebook     ███                        12.00% (11,052,126 bytes)
-Python               ███                        11.83% (10,897,826 bytes)
+Python               ███                        11.84% (10,905,652 bytes)
 JavaScript           ██                          6.36% (5,860,619 bytes)
 HTML                 ██                          6.21% (5,722,638 bytes)
 ```
@@ -134,8 +134,8 @@ Data Systems         ██                          6.32% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.48% (1,169,379 LOC)
-Other                ███████                    27.48% (506,144 LOC)
+AI / ML              ████████████████           63.48% (1,169,535 LOC)
+Other                ███████                    27.47% (506,144 LOC)
 Web Apps             ██                          7.18% (132,237 LOC)
 Data Systems                                     1.87% (34,377 LOC)
 ```
@@ -156,7 +156,7 @@ PLpgSQL              █                           5.26% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 721 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 722 commits · private)_
 - AxiaFunder/ai-hdr-inference — Google Vertex AI Inference _(AI / ML · 666 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 406 commits · private)_
@@ -181,9 +181,9 @@ Evening (18-24)      ███                        12.10% (485 commits)
 Sunday               ██                          6.83% (763 contributions)
 Monday               ███                        13.70% (1,530 contributions)
 Tuesday              █████                      18.51% (2,067 contributions)
-Wednesday            █████                      19.74% (2,204 contributions)
+Wednesday            █████                      19.73% (2,204 contributions)
 Thursday             ████                       17.77% (1,984 contributions)
-Friday               ████                       17.58% (1,963 contributions)
+Friday               ████                       17.59% (1,964 contributions)
 Saturday             █                           5.87% (656 contributions)
 ```
 
@@ -191,7 +191,7 @@ Saturday             █                           5.87% (656 contributions)
 ```
 AxiaFunder/dashboard-axiafunder                                             █████                      19.09% (2,069 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.50% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.65% (721 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.66% (722 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.15% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.26% (570 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.37% (474 commits)
@@ -199,11 +199,11 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-inference — feat: run cases in parallel in backfill_categorized_cases with progress UI
 - Pragash-Mohanarajah/ai-hdr-inference — feat: add stale-source guardrail and fix temp_staging self-match bug
 - Pragash-Mohanarajah/ai-hdr-inference — feat: add detailed logging to run_and_inspect_case and batch_client
 - Pragash-Mohanarajah/ai-hdr-inference — fix: pick the most recently modified duplicate case folder in backfill_categorized_cases
 - Pragash-Mohanarajah/ai-hdr-inference — fix: pin raw_json_dir to the experiments bucket in backfill_categorized_cases
-- Pragash-Mohanarajah/ai-hdr-inference — fix: use a concrete BatchService subclass for Pass 3 batch classification
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: cross-run content-hash dedup for RAG mode conversions
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: RAG mode verified per-file skip + Drive restore before re-run
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: ignore test workspaces
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 28 Aug 2026 15:47:19 GMT_
+_Last updated on Sat, 29 Aug 2026 00:14:57 GMT_
 <!-- DEV_METRICS_END -->
