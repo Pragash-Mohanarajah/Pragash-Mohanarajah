@@ -81,25 +81,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 1 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,838
-- 💖 Commit Breakdown: 562 public (5.2%), 10,276 private (94.8%) · 6,271 owned (57.9%), 4,567 contributed (42.1%)
+- ✨ Total Commits: 10,847
+- 💖 Commit Breakdown: 562 public (5.2%), 10,285 private (94.8%) · 6,280 owned (57.9%), 4,567 contributed (42.1%)
 - 🚀 Repositories: 95 (35 public (36.8%), 60 private (63.2%))
 - 👤 Ownership: 87 owned (91.6%), 8 contributed-to (8.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,842,293
+- 🧠 Estimated Lines of Code: 1,840,542
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,056 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.58% (673,946 LOC)
-TypeScript           ███                        13.87% (255,544 LOC)
-Jupyter Notebook     ███                        12.00% (221,042 LOC)
-Python               ███                        11.84% (218,113 LOC)
-JavaScript           ██                          6.36% (117,212 LOC)
-HTML                 ██                          6.21% (114,454 LOC)
+C                    █████████                  36.62% (673,946 LOC)
+TypeScript           ███                        13.79% (253,876 LOC)
+Jupyter Notebook     ███                        12.01% (221,042 LOC)
+Python               ███                        11.85% (218,113 LOC)
+JavaScript           ██                          6.36% (117,129 LOC)
+HTML                 ██                          6.22% (114,454 LOC)
 Makefile             █                           3.37% (62,016 LOC)
-Roff                 █                           2.93% (54,070 LOC)
+Roff                 █                           2.94% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -116,12 +116,12 @@ Dockerfile           █                           4.82% (12 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.58% (33,697,286 bytes)
-TypeScript           ███                        13.87% (12,777,160 bytes)
-Jupyter Notebook     ███                        12.00% (11,052,126 bytes)
-Python               ███                        11.84% (10,905,652 bytes)
-JavaScript           ██                          6.36% (5,860,619 bytes)
-HTML                 ██                          6.21% (5,722,638 bytes)
+C                    █████████                  36.62% (33,697,286 bytes)
+TypeScript           ███                        13.79% (12,693,796 bytes)
+Jupyter Notebook     ███                        12.01% (11,052,126 bytes)
+Python               ███                        11.85% (10,905,652 bytes)
+JavaScript           ██                          6.36% (5,856,514 bytes)
+HTML                 ██                          6.22% (5,722,638 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.32% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.48% (1,169,535 LOC)
-Other                ███████                    27.47% (506,144 LOC)
+AI / ML              ████████████████           63.45% (1,167,784 LOC)
+Other                ███████                    27.50% (506,144 LOC)
 Web Apps             ██                          7.18% (132,237 LOC)
 Data Systems                                     1.87% (34,377 LOC)
 ```
@@ -170,35 +170,40 @@ PLpgSQL              █                           5.26% (5 repos)
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    0.55% (22 commits)
-Morning (06-12)      ██████████████             55.58% (2,227 commits)
-Afternoon (12-18)    ████████                   31.77% (1,273 commits)
+Night (00-06)                                    0.52% (21 commits)
+Morning (06-12)      ██████████████             55.51% (2,225 commits)
+Afternoon (12-18)    ████████                   31.86% (1,277 commits)
 Evening (18-24)      ███                        12.10% (485 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.84% (764 contributions)
-Monday               ███                        13.70% (1,530 contributions)
-Tuesday              █████                      18.51% (2,067 contributions)
-Wednesday            █████                      19.73% (2,204 contributions)
-Thursday             ████                       17.76% (1,984 contributions)
-Friday               ████                       17.58% (1,964 contributions)
+Sunday               ██                          6.95% (777 contributions)
+Monday               ███                        13.68% (1,530 contributions)
+Tuesday              █████                      18.49% (2,067 contributions)
+Wednesday            █████                      19.71% (2,204 contributions)
+Thursday             ████                       17.74% (1,984 contributions)
+Friday               ████                       17.56% (1,964 contributions)
 Saturday             █                           5.87% (656 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.09% (2,069 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.50% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.07% (2,069 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.48% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.66% (722 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          6.15% (666 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.26% (570 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          6.14% (666 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.25% (570 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.37% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.75% (406 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.74% (406 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/portfolio — Merge pull request #15 from Pragash-Mohanarajah/claude
+- Pragash-Mohanarajah/portfolio — Small cleanups: dedupe form fields, trim unused deps (Phase F5)
+- Pragash-Mohanarajah/portfolio — Merge pull request #14 from Pragash-Mohanarajah/claude
+- Pragash-Mohanarajah/portfolio — Consolidate contact/conversation trio into a shared hook (Phase F4)
+- Pragash-Mohanarajah/portfolio — Merge pull request #13 from Pragash-Mohanarajah/claude
 - Pragash-Mohanarajah/ai-hdr-inference — feat: run cases in parallel in backfill_categorized_cases with progress UI
 - Pragash-Mohanarajah/ai-hdr-inference — feat: add stale-source guardrail and fix temp_staging self-match bug
 - Pragash-Mohanarajah/ai-hdr-inference — feat: add detailed logging to run_and_inspect_case and batch_client
@@ -209,11 +214,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: ignore test workspaces
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: normalize already-encrypted .pdf sources at conversion time
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: add per-category conversion progress tracking
-- AxiaFunder/ai-hdr-core — chore: repoint imports at split provider packages (sdk, derive, prompts)
-- AxiaFunder/ai-hdr-provider-prompts — chore: add packaging for ai-hdr-provider-prompts
-- AxiaFunder/ai-hdr-provider-derive — chore: repoint imports at ai-hdr-provider-sdk; add packaging
-- AxiaFunder/ai-hdr-provider-sdk — chore: add packaging for ai-hdr-provider-sdk
-- Pragash-Mohanarajah/portfolio — Merge pull request #11 from Pragash-Mohanarajah/claude
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 30 Aug 2026 15:42:52 GMT_
+_Last updated on Sun, 30 Aug 2026 18:56:03 GMT_
 <!-- DEV_METRICS_END -->
