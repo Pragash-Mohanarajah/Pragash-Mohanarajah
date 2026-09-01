@@ -81,19 +81,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,864
-- 💖 Commit Breakdown: 562 public (5.2%), 10,302 private (94.8%) · 6,295 owned (57.9%), 4,569 contributed (42.1%)
+- ✨ Total Commits: 10,866
+- 💖 Commit Breakdown: 562 public (5.2%), 10,304 private (94.8%) · 6,295 owned (57.9%), 4,571 contributed (42.1%)
 - 🚀 Repositories: 95 (35 public (36.8%), 60 private (63.2%))
 - 👤 Ownership: 87 owned (91.6%), 8 contributed-to (8.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,839,862
+- 🧠 Estimated Lines of Code: 1,839,866
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,058 days
+- 📅 Account age: 2,059 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  36.63% (673,946 LOC)
-TypeScript           ███                        13.81% (254,169 LOC)
+TypeScript           ███                        13.81% (254,173 LOC)
 Jupyter Notebook     ███                        12.01% (221,042 LOC)
 Python               ███                        11.90% (218,983 LOC)
 JavaScript           ██                          6.34% (116,635 LOC)
@@ -117,7 +117,7 @@ Dockerfile           █                           4.82% (12 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  36.63% (33,697,286 bytes)
-TypeScript           ███                        13.81% (12,708,459 bytes)
+TypeScript           ███                        13.81% (12,708,654 bytes)
 Jupyter Notebook     ███                        12.01% (11,052,126 bytes)
 Python               ███                        11.90% (10,949,150 bytes)
 JavaScript           ██                          6.34% (5,831,792 bytes)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.32% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.49% (1,168,052 LOC)
-Other                ███████                    27.46% (505,196 LOC)
+Other                ███████                    27.46% (505,200 LOC)
 Web Apps             ██                          7.19% (132,237 LOC)
 Data Systems                                     1.87% (34,377 LOC)
 ```
@@ -162,7 +162,7 @@ PLpgSQL              █                           5.26% (5 repos)
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 406 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 2071 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 2073 commits · private)_
 - AxiaFunder/ai-hdr-core — Split from ai-hdr-inference _(AI / ML · 570 commits · private)_
 - AxiaFunder/ai-hdr-provider-prompts — Split from ai-hdr-inference _(AI / ML · 109 commits · private)_
 - AxiaFunder/ai-hdr-provider-sdk — Split from ai-hdr-inference _(AI / ML · 32 commits · private)_
@@ -172,16 +172,16 @@ PLpgSQL              █                           5.26% (5 repos)
 ```
 Night (00-06)                                    0.52% (21 commits)
 Morning (06-12)      ██████████████             55.54% (2,229 commits)
-Afternoon (12-18)    ████████                   31.87% (1,279 commits)
-Evening (18-24)      ███                        12.06% (484 commits)
+Afternoon (12-18)    ████████                   31.82% (1,277 commits)
+Evening (18-24)      ███                        12.11% (486 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.95% (778 contributions)
-Monday               ███                        13.68% (1,532 contributions)
-Tuesday              █████                      18.58% (2,081 contributions)
-Wednesday            █████                      19.68% (2,204 contributions)
+Sunday               ██                          6.94% (778 contributions)
+Monday               ███                        13.67% (1,532 contributions)
+Tuesday              █████                      18.60% (2,084 contributions)
+Wednesday            █████                      19.67% (2,204 contributions)
 Thursday             ████                       17.71% (1,984 contributions)
 Friday               ████                       17.54% (1,965 contributions)
 Saturday             █                           5.86% (656 contributions)
@@ -189,8 +189,8 @@ Saturday             █                           5.86% (656 contributions)
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.06% (2,071 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.46% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.08% (2,073 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.45% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          6.70% (728 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.13% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.25% (570 commits)
@@ -199,6 +199,8 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/dashboard-axiafunder — Merge pull request #257 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — fix: use correct start date for MTD summary as start of the current month, not end of the previous month
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: use parallel threading wherever possible as configured in settings; parse history log header row and use fuzzy matching to match to real headers; optimise parallelism for speed and accuracy
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: read history log with hard-coded column names (Columns: Case Number, Date, Time, Document Format, Document Code, Details, Subject, Attachments, Email Received, Email Sent, From, To.)
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: sync all files following a successful conversion attempt in all modes
@@ -212,8 +214,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/ai-hdr-inference — perf: fix O(n^2) PDF/pruning loops, parallelize remaining src/ hot paths
 - Pragash-Mohanarajah/ai-hdr-inference — feat: parallelize remaining low-priority loops, move progress_ui to src/
 - Pragash-Mohanarajah/portfolio — Merge pull request #16 from Pragash-Mohanarajah/claude
-- Pragash-Mohanarajah/portfolio — Fix Vercel deploy: Node 24, migrate asset storage to Vercel Blob
-- Pragash-Mohanarajah/portfolio — Migrate from Pages Router to App Router (Phase E)
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 01 Sep 2026 18:59:54 GMT_
+_Last updated on Tue, 01 Sep 2026 22:11:13 GMT_
 <!-- DEV_METRICS_END -->
