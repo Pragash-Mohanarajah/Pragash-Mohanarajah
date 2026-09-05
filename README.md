@@ -79,12 +79,12 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 6 days
+- 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,923
-- 💖 Commit Breakdown: 562 public (5.1%), 10,361 private (94.9%) · 6,343 owned (58.1%), 4,580 contributed (41.9%)
-- 🚀 Repositories: 96 (35 public (36.5%), 61 private (63.5%))
-- 👤 Ownership: 87 owned (90.6%), 9 contributed-to (9.4%)
+- ✨ Total Commits: 10,926
+- 💖 Commit Breakdown: 562 public (5.1%), 10,364 private (94.9%) · 6,346 owned (58.1%), 4,580 contributed (41.9%)
+- 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
+- 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
 - 🧠 Estimated Lines of Code: 1,845,460
 - 🤝 Followers: 4 · Following: 11
@@ -126,10 +126,10 @@ HTML                 ██                          6.20% (5,722,638 bytes)
 
 ### 🧩 Project Categories (by Repo Count)
 ```
-Other                ███████████████            61.46% (59 repos)
-AI / ML              █████                      21.88% (21 repos)
-Web Apps             ███                        10.42% (10 repos)
-Data Systems         ██                          6.25% (6 repos)
+Other                ███████████████            61.86% (60 repos)
+AI / ML              █████                      21.65% (21 repos)
+Web Apps             ███                        10.31% (10 repos)
+Data Systems         ██                          6.19% (6 repos)
 ```
 
 ### 🧮 Project Categories (by Estimated LOC)
@@ -142,16 +142,16 @@ Data Systems                                     1.86% (34,377 LOC)
 
 ### 🏷️ Top Topics
 ```
-JavaScript           ███████████                44.79% (43 repos)
-Python               ██████████                 40.63% (39 repos)
-CSS                  ████████                   31.25% (30 repos)
-TypeScript           ██████                     25.00% (24 repos)
-HTML                 ██████                     22.92% (22 repos)
-Shell                █████                      19.79% (19 repos)
-Jupyter Notebook     ████                       14.58% (14 repos)
-Dockerfile           ███                        12.50% (12 repos)
-Batchfile            ██                          7.29% (7 repos)
-PLpgSQL              █                           5.21% (5 repos)
+JavaScript           ███████████                44.33% (43 repos)
+Python               ██████████                 40.21% (39 repos)
+CSS                  ████████                   30.93% (30 repos)
+TypeScript           ██████                     24.74% (24 repos)
+HTML                 ██████                     22.68% (22 repos)
+Shell                █████                      19.59% (19 repos)
+Jupyter Notebook     ████                       14.43% (14 repos)
+Dockerfile           ███                        12.37% (12 repos)
+Batchfile            ██                          7.22% (7 repos)
+PLpgSQL              █                           5.15% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
@@ -171,8 +171,8 @@ PLpgSQL              █                           5.21% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.52% (21 commits)
-Morning (06-12)      ██████████████             55.82% (2,244 commits)
-Afternoon (12-18)    ████████                   31.72% (1,275 commits)
+Morning (06-12)      ██████████████             55.83% (2,245 commits)
+Afternoon (12-18)    ████████                   31.71% (1,275 commits)
 Evening (18-24)      ███                        11.94% (480 commits)
 ```
 
@@ -182,15 +182,15 @@ Sunday               ██                          6.91% (778 contributions)
 Monday               ███                        13.60% (1,532 contributions)
 Tuesday              █████                      18.50% (2,084 contributions)
 Wednesday            █████                      19.77% (2,227 contributions)
-Thursday             ████                       17.84% (2,009 contributions)
-Friday               ████                       17.55% (1,976 contributions)
-Saturday             █                           5.82% (656 contributions)
+Thursday             ████                       17.83% (2,009 contributions)
+Friday               ████                       17.54% (1,976 contributions)
+Saturday             █                           5.86% (660 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             █████                      19.02% (2,078 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.36% (2,005 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.35% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.03% (768 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.10% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.22% (570 commits)
@@ -199,6 +199,9 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
+- Pragash-Mohanarajah/human-language-evolution — feat: detailed project plan
+- Pragash-Mohanarajah/human-language-evolution — feat: initial project plan
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unify CSV/PDF schema field structure, group related fields, update all prompts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: extend the candidates-array pattern to surveyor report/valuation/quantum, drop key_dates
 - Pragash-Mohanarajah/ai-hdr-inference — feat: capture every claimant offer as candidates, resolve the final one in code
@@ -211,9 +214,6 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
 - dylanlakesic-svg/Work-Project — feat: add cleaner court, internal and defendent contact detection by looking for familiar words in log line
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: add cleaner court, internal and defendent contact detection by looking for familiar words in log line
-- dylanlakesic-svg/Work-Project — feat: add cleaner client contact detection by looking for familiar words in log line
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: add cleaner client contact detection by looking for familiar words in log line
-- AxiaFunder/dashboard-axiafunder — Merge pull request #259 from AxiaFunder/develop
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 05 Sep 2026 07:55:44 GMT_
+_Last updated on Sat, 05 Sep 2026 11:29:24 GMT_
 <!-- DEV_METRICS_END -->
