@@ -81,8 +81,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,932
-- 💖 Commit Breakdown: 562 public (5.1%), 10,370 private (94.9%) · 6,352 owned (58.1%), 4,580 contributed (41.9%)
+- ✨ Total Commits: 10,935
+- 💖 Commit Breakdown: 562 public (5.1%), 10,373 private (94.9%) · 6,355 owned (58.1%), 4,580 contributed (41.9%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
@@ -180,30 +180,30 @@ Evening (18-24)      ███                        11.94% (480 commits)
 ```
 Sunday               ██                          6.90% (778 contributions)
 Monday               ███                        13.59% (1,532 contributions)
-Tuesday              █████                      18.49% (2,084 contributions)
-Wednesday            █████                      19.76% (2,227 contributions)
+Tuesday              █████                      18.48% (2,084 contributions)
+Wednesday            █████                      19.75% (2,227 contributions)
 Thursday             ████                       17.82% (2,009 contributions)
 Friday               ████                       17.53% (1,976 contributions)
-Saturday             █                           5.91% (666 contributions)
+Saturday             █                           5.93% (669 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.01% (2,078 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.00% (2,078 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.34% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.03% (768 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.02% (768 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.09% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.21% (570 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.34% (474 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.33% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.79% (414 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — docs: MapLibre over Mapbox (D28); restate three unfalsifiable metrics (D29)
+- Pragash-Mohanarajah/human-language-evolution — docs: plan the Living Atlas; close gaps found in a fresh source pass
+- Pragash-Mohanarajah/human-language-evolution — docs: move DEPENDENCIES to 03, next to ARCHITECTURE
 - Pragash-Mohanarajah/human-language-evolution — docs: expand Phase 4, add dependency manifest, remove drafting artefacts
 - Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
-- Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
-- Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
-- Pragash-Mohanarajah/human-language-evolution — feat: add restoration to project plan as 5th phase
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unify CSV/PDF schema field structure, group related fields, update all prompts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: extend the candidates-array pattern to surveyor report/valuation/quantum, drop key_dates
 - Pragash-Mohanarajah/ai-hdr-inference — feat: capture every claimant offer as candidates, resolve the final one in code
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 05 Sep 2026 14:13:54 GMT_
+_Last updated on Sat, 05 Sep 2026 17:48:01 GMT_
 <!-- DEV_METRICS_END -->
