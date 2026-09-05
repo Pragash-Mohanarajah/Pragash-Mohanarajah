@@ -81,8 +81,8 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,926
-- 💖 Commit Breakdown: 562 public (5.1%), 10,364 private (94.9%) · 6,346 owned (58.1%), 4,580 contributed (41.9%)
+- ✨ Total Commits: 10,932
+- 💖 Commit Breakdown: 562 public (5.1%), 10,370 private (94.9%) · 6,352 owned (58.1%), 4,580 contributed (41.9%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
@@ -178,30 +178,32 @@ Evening (18-24)      ███                        11.94% (480 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.91% (778 contributions)
-Monday               ███                        13.60% (1,532 contributions)
-Tuesday              █████                      18.50% (2,084 contributions)
-Wednesday            █████                      19.77% (2,227 contributions)
-Thursday             ████                       17.83% (2,009 contributions)
-Friday               ████                       17.54% (1,976 contributions)
-Saturday             █                           5.86% (660 contributions)
+Sunday               ██                          6.90% (778 contributions)
+Monday               ███                        13.59% (1,532 contributions)
+Tuesday              █████                      18.49% (2,084 contributions)
+Wednesday            █████                      19.76% (2,227 contributions)
+Thursday             ████                       17.82% (2,009 contributions)
+Friday               ████                       17.53% (1,976 contributions)
+Saturday             █                           5.91% (666 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.02% (2,078 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.35% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.01% (2,078 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.34% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.03% (768 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          6.10% (666 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.22% (570 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          6.09% (666 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.21% (570 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.34% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.79% (414 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — docs: expand Phase 4, add dependency manifest, remove drafting artefacts
 - Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
-- Pragash-Mohanarajah/human-language-evolution — feat: detailed project plan
-- Pragash-Mohanarajah/human-language-evolution — feat: initial project plan
+- Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
+- Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
+- Pragash-Mohanarajah/human-language-evolution — feat: add restoration to project plan as 5th phase
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unify CSV/PDF schema field structure, group related fields, update all prompts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: extend the candidates-array pattern to surveyor report/valuation/quantum, drop key_dates
 - Pragash-Mohanarajah/ai-hdr-inference — feat: capture every claimant offer as candidates, resolve the final one in code
@@ -212,8 +214,6 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
 - dylanlakesic-svg/Work-Project — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
-- dylanlakesic-svg/Work-Project — feat: add cleaner court, internal and defendent contact detection by looking for familiar words in log line
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: add cleaner court, internal and defendent contact detection by looking for familiar words in log line
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 05 Sep 2026 11:29:24 GMT_
+_Last updated on Sat, 05 Sep 2026 14:13:54 GMT_
 <!-- DEV_METRICS_END -->
