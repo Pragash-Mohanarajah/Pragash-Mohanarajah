@@ -81,14 +81,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 7 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,935
-- 💖 Commit Breakdown: 562 public (5.1%), 10,373 private (94.9%) · 6,355 owned (58.1%), 4,580 contributed (41.9%)
+- ✨ Total Commits: 10,941
+- 💖 Commit Breakdown: 562 public (5.1%), 10,379 private (94.9%) · 6,361 owned (58.1%), 4,580 contributed (41.9%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
 - 🧠 Estimated Lines of Code: 1,845,460
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,062 days
+- 📅 Account age: 2,063 days
 
 ### 📝 Lines of Code by Language
 ```
@@ -179,31 +179,31 @@ Evening (18-24)      ███                        11.94% (480 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          6.90% (778 contributions)
-Monday               ███                        13.59% (1,532 contributions)
-Tuesday              █████                      18.48% (2,084 contributions)
-Wednesday            █████                      19.75% (2,227 contributions)
-Thursday             ████                       17.82% (2,009 contributions)
-Friday               ████                       17.53% (1,976 contributions)
-Saturday             █                           5.93% (669 contributions)
+Monday               ███                        13.58% (1,532 contributions)
+Tuesday              █████                      18.47% (2,084 contributions)
+Wednesday            █████                      19.74% (2,227 contributions)
+Thursday             ████                       17.81% (2,009 contributions)
+Friday               ████                       17.52% (1,976 contributions)
+Saturday             █                           5.98% (675 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.00% (2,078 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.34% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      18.99% (2,078 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.33% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.02% (768 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.09% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.21% (570 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.33% (474 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.79% (414 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.78% (414 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: MapLibre over Mapbox (D28); restate three unfalsifiable metrics (D29)
-- Pragash-Mohanarajah/human-language-evolution — docs: plan the Living Atlas; close gaps found in a fresh source pass
-- Pragash-Mohanarajah/human-language-evolution — docs: move DEPENDENCIES to 03, next to ARCHITECTURE
-- Pragash-Mohanarajah/human-language-evolution — docs: expand Phase 4, add dependency manifest, remove drafting artefacts
+- Pragash-Mohanarajah/human-language-evolution — docs: order every file by the build order; close the planning phase (D33)
+- Pragash-Mohanarajah/human-language-evolution — docs: scope the plan, not just sequence it (D32); :Phoneme belongs to Phase 1
+- Pragash-Mohanarajah/human-language-evolution — docs: :Phoneme node -- objective 5 had no edge in the schema (D31)
 - Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
+- Pragash-Mohanarajah/human-language-evolution — docs: MapLibre over Mapbox (D28); restate three unfalsifiable metrics (D29)
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unify CSV/PDF schema field structure, group related fields, update all prompts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: extend the candidates-array pattern to surveyor report/valuation/quantum, drop key_dates
 - Pragash-Mohanarajah/ai-hdr-inference — feat: capture every claimant offer as candidates, resolve the final one in code
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 05 Sep 2026 17:48:01 GMT_
+_Last updated on Sat, 05 Sep 2026 21:47:40 GMT_
 <!-- DEV_METRICS_END -->
