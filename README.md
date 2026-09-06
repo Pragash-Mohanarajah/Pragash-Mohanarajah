@@ -81,21 +81,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,943
-- 💖 Commit Breakdown: 562 public (5.1%), 10,381 private (94.9%) · 6,363 owned (58.1%), 4,580 contributed (41.9%)
+- ✨ Total Commits: 10,950
+- 💖 Commit Breakdown: 562 public (5.1%), 10,388 private (94.9%) · 6,370 owned (58.2%), 4,580 contributed (41.8%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,845,460
+- 🧠 Estimated Lines of Code: 1,846,080
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,063 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.52% (673,946 LOC)
-TypeScript           ███                        13.78% (254,225 LOC)
-Python               ███                        12.17% (224,525 LOC)
-Jupyter Notebook     ███                        11.98% (221,042 LOC)
+C                    █████████                  36.51% (673,946 LOC)
+TypeScript           ███                        13.77% (254,225 LOC)
+Python               ███                        12.20% (225,145 LOC)
+Jupyter Notebook     ███                        11.97% (221,042 LOC)
 JavaScript           ██                          6.32% (116,635 LOC)
 HTML                 ██                          6.20% (114,454 LOC)
 Makefile             █                           3.36% (62,016 LOC)
@@ -104,22 +104,22 @@ Roff                 █                           2.93% (54,070 LOC)
 
 ### 📚 Top Languages (by Repo Count)
 ```
-JavaScript           ████                       17.20% (43 repos)
-Python               ████                       15.60% (39 repos)
-CSS                  ███                        12.00% (30 repos)
-TypeScript           ██                          9.60% (24 repos)
-HTML                 ██                          8.80% (22 repos)
-Shell                ██                          7.60% (19 repos)
-Jupyter Notebook     █                           5.60% (14 repos)
-Dockerfile           █                           4.80% (12 repos)
+JavaScript           ████                       17.13% (43 repos)
+Python               ████                       15.94% (40 repos)
+CSS                  ███                        11.95% (30 repos)
+TypeScript           ██                          9.56% (24 repos)
+HTML                 ██                          8.76% (22 repos)
+Shell                ██                          7.57% (19 repos)
+Jupyter Notebook     █                           5.58% (14 repos)
+Dockerfile           █                           4.78% (12 repos)
 ```
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.52% (33,697,286 bytes)
-TypeScript           ███                        13.78% (12,711,253 bytes)
-Python               ███                        12.17% (11,226,255 bytes)
-Jupyter Notebook     ███                        11.98% (11,052,126 bytes)
+C                    █████████                  36.51% (33,697,286 bytes)
+TypeScript           ███                        13.77% (12,711,253 bytes)
+Python               ███                        12.20% (11,257,262 bytes)
+Jupyter Notebook     ███                        11.97% (11,052,126 bytes)
 JavaScript           ██                          6.32% (5,831,792 bytes)
 HTML                 ██                          6.20% (5,722,638 bytes)
 ```
@@ -134,16 +134,16 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.48% (1,171,581 LOC)
-Other                ███████                    27.49% (507,265 LOC)
-Web Apps             ██                          7.17% (132,237 LOC)
+AI / ML              ████████████████           63.46% (1,171,581 LOC)
+Other                ███████                    27.51% (507,885 LOC)
+Web Apps             ██                          7.16% (132,237 LOC)
 Data Systems                                     1.86% (34,377 LOC)
 ```
 
 ### 🏷️ Top Topics
 ```
 JavaScript           ███████████                44.33% (43 repos)
-Python               ██████████                 40.21% (39 repos)
+Python               ██████████                 41.24% (40 repos)
 CSS                  ████████                   30.93% (30 repos)
 TypeScript           ██████                     24.74% (24 repos)
 HTML                 ██████                     22.68% (22 repos)
@@ -178,32 +178,32 @@ Evening (18-24)      ███                        11.93% (480 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.91% (780 contributions)
-Monday               ███                        13.58% (1,532 contributions)
-Tuesday              █████                      18.47% (2,084 contributions)
-Wednesday            █████                      19.74% (2,227 contributions)
-Thursday             ████                       17.81% (2,009 contributions)
-Friday               ████                       17.51% (1,976 contributions)
+Sunday               ██                          6.97% (787 contributions)
+Monday               ███                        13.57% (1,532 contributions)
+Tuesday              █████                      18.46% (2,084 contributions)
+Wednesday            █████                      19.73% (2,227 contributions)
+Thursday             ████                       17.79% (2,009 contributions)
+Friday               ████                       17.50% (1,976 contributions)
 Saturday             █                           5.98% (675 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      18.99% (2,078 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.32% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.02% (768 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          6.09% (666 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      18.98% (2,078 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.31% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.01% (768 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          6.08% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.21% (570 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.33% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.78% (414 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: record UATRIAL prior art (D34) and closed-source licensing (D35)
-- Pragash-Mohanarajah/human-language-evolution — docs: order the architecture tree by build order; drop the Phase 5 note
-- Pragash-Mohanarajah/human-language-evolution — docs: order every file by the build order; close the planning phase (D33)
-- Pragash-Mohanarajah/human-language-evolution — docs: scope the plan, not just sequence it (D32); :Phoneme belongs to Phase 1
-- Pragash-Mohanarajah/human-language-evolution — docs: :Phoneme node -- objective 5 had no edge in the schema (D31)
+- Pragash-Mohanarajah/human-language-evolution — docs: Greek is Phase 5's pilot, not its destination (D39)
+- Pragash-Mohanarajah/human-language-evolution — feat: Milestone 0 walking skeleton — mother across five IE languages
+- Pragash-Mohanarajah/human-language-evolution — docs: fix stale HLE_ env var prefix missed by the lingene rename (D38)
+- Pragash-Mohanarajah/human-language-evolution — docs: fix README miss from the hle -> lingene rename (D38)
+- Pragash-Mohanarajah/human-language-evolution — docs: rename package/CLI/db hle -> lingene; uatrial stays (D38)
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unify CSV/PDF schema field structure, group related fields, update all prompts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: extend the candidates-array pattern to surveyor report/valuation/quantum, drop key_dates
 - Pragash-Mohanarajah/ai-hdr-inference — feat: capture every claimant offer as candidates, resolve the final one in code
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 06 Sep 2026 08:12:43 GMT_
+_Last updated on Sun, 06 Sep 2026 14:37:18 GMT_
 <!-- DEV_METRICS_END -->
