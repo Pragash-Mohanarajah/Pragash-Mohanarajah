@@ -79,10 +79,10 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 7 days
+- 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,941
-- 💖 Commit Breakdown: 562 public (5.1%), 10,379 private (94.9%) · 6,361 owned (58.1%), 4,580 contributed (41.9%)
+- ✨ Total Commits: 10,943
+- 💖 Commit Breakdown: 562 public (5.1%), 10,381 private (94.9%) · 6,363 owned (58.1%), 4,580 contributed (41.9%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
@@ -171,26 +171,26 @@ PLpgSQL              █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.52% (21 commits)
-Morning (06-12)      ██████████████             55.83% (2,245 commits)
-Afternoon (12-18)    ████████                   31.71% (1,275 commits)
-Evening (18-24)      ███                        11.94% (480 commits)
+Morning (06-12)      ██████████████             55.84% (2,246 commits)
+Afternoon (12-18)    ████████                   31.70% (1,275 commits)
+Evening (18-24)      ███                        11.93% (480 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.90% (778 contributions)
+Sunday               ██                          6.91% (780 contributions)
 Monday               ███                        13.58% (1,532 contributions)
 Tuesday              █████                      18.47% (2,084 contributions)
 Wednesday            █████                      19.74% (2,227 contributions)
 Thursday             ████                       17.81% (2,009 contributions)
-Friday               ████                       17.52% (1,976 contributions)
+Friday               ████                       17.51% (1,976 contributions)
 Saturday             █                           5.98% (675 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             █████                      18.99% (2,078 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.33% (2,005 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.32% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.02% (768 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.09% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.21% (570 commits)
@@ -199,11 +199,11 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — docs: record UATRIAL prior art (D34) and closed-source licensing (D35)
+- Pragash-Mohanarajah/human-language-evolution — docs: order the architecture tree by build order; drop the Phase 5 note
 - Pragash-Mohanarajah/human-language-evolution — docs: order every file by the build order; close the planning phase (D33)
 - Pragash-Mohanarajah/human-language-evolution — docs: scope the plan, not just sequence it (D32); :Phoneme belongs to Phase 1
 - Pragash-Mohanarajah/human-language-evolution — docs: :Phoneme node -- objective 5 had no edge in the schema (D31)
-- Pragash-Mohanarajah/human-language-evolution — feat: improved detailed project plan
-- Pragash-Mohanarajah/human-language-evolution — docs: MapLibre over Mapbox (D28); restate three unfalsifiable metrics (D29)
 - Pragash-Mohanarajah/ai-hdr-inference — feat: unify CSV/PDF schema field structure, group related fields, update all prompts
 - Pragash-Mohanarajah/ai-hdr-inference — feat: extend the candidates-array pattern to surveyor report/valuation/quantum, drop key_dates
 - Pragash-Mohanarajah/ai-hdr-inference — feat: capture every claimant offer as candidates, resolve the final one in code
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 06 Sep 2026 01:55:33 GMT_
+_Last updated on Sun, 06 Sep 2026 08:12:43 GMT_
 <!-- DEV_METRICS_END -->
