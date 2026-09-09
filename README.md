@@ -81,47 +81,47 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 11 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 11,008
-- 💖 Commit Breakdown: 562 public (5.1%), 10,446 private (94.9%) · 6,428 owned (58.4%), 4,580 contributed (41.6%)
+- ✨ Total Commits: 11,011
+- 💖 Commit Breakdown: 562 public (5.1%), 10,449 private (94.9%) · 6,428 owned (58.4%), 4,583 contributed (41.6%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,857,524
+- 🧠 Estimated Lines of Code: 1,854,735
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,066 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.28% (673,946 LOC)
-TypeScript           ███                        13.81% (256,478 LOC)
-Python               ███                        12.38% (229,992 LOC)
-Jupyter Notebook     ███                        11.90% (221,042 LOC)
-JavaScript           ██                          6.28% (116,635 LOC)
-HTML                 ██                          6.16% (114,454 LOC)
+C                    █████████                  36.34% (673,946 LOC)
+TypeScript           ███                        13.83% (256,494 LOC)
+Python               ███                        12.40% (229,992 LOC)
+Jupyter Notebook     ███                        11.92% (221,042 LOC)
+JavaScript           ██                          6.29% (116,635 LOC)
+HTML                 ██                          6.15% (114,106 LOC)
 Makefile             █                           3.34% (62,016 LOC)
-Roff                 █                           2.91% (54,070 LOC)
+Roff                 █                           2.92% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
 ```
-JavaScript           ████                       17.13% (43 repos)
-Python               ████                       15.94% (40 repos)
-CSS                  ███                        11.95% (30 repos)
-TypeScript           ██                          9.56% (24 repos)
-HTML                 ██                          8.76% (22 repos)
-Shell                ██                          7.57% (19 repos)
-Jupyter Notebook     █                           5.58% (14 repos)
-Dockerfile           █                           4.78% (12 repos)
+JavaScript           ████                       17.27% (43 repos)
+Python               ████                       16.06% (40 repos)
+CSS                  ███                        12.05% (30 repos)
+TypeScript           ██                          9.64% (24 repos)
+HTML                 ██                          8.43% (21 repos)
+Shell                ██                          7.63% (19 repos)
+Jupyter Notebook     █                           5.62% (14 repos)
+Dockerfile           █                           4.82% (12 repos)
 ```
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.28% (33,697,286 bytes)
-TypeScript           ███                        13.81% (12,823,898 bytes)
-Python               ███                        12.38% (11,499,631 bytes)
-Jupyter Notebook     ███                        11.90% (11,052,126 bytes)
-JavaScript           ██                          6.28% (5,831,792 bytes)
-HTML                 ██                          6.16% (5,722,638 bytes)
+C                    █████████                  36.34% (33,697,286 bytes)
+TypeScript           ███                        13.83% (12,824,677 bytes)
+Python               ███                        12.40% (11,499,631 bytes)
+Jupyter Notebook     ███                        11.92% (11,052,126 bytes)
+JavaScript           ██                          6.29% (5,831,792 bytes)
+HTML                 ██                          6.15% (5,705,260 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,9 +134,9 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.33% (1,176,428 LOC)
-Other                ███████                    27.70% (514,482 LOC)
-Web Apps             ██                          7.12% (132,237 LOC)
+AI / ML              ████████████████           63.43% (1,176,428 LOC)
+Other                ███████                    27.59% (511,693 LOC)
+Web Apps             ██                          7.13% (132,237 LOC)
 Data Systems                                     1.85% (34,377 LOC)
 ```
 
@@ -146,12 +146,12 @@ JavaScript           ███████████                44.33% (43
 Python               ██████████                 41.24% (40 repos)
 CSS                  ████████                   30.93% (30 repos)
 TypeScript           ██████                     24.74% (24 repos)
-HTML                 ██████                     22.68% (22 repos)
+HTML                 █████                      21.65% (21 repos)
 Shell                █████                      19.59% (19 repos)
 Jupyter Notebook     ████                       14.43% (14 repos)
 Dockerfile           ███                        12.37% (12 repos)
 Batchfile            ██                          7.22% (7 repos)
-PLpgSQL              █                           5.15% (5 repos)
+C++                  █                           5.15% (5 repos)
 ```
 
 ### 🚀 Top Owned Projects
@@ -162,43 +162,46 @@ PLpgSQL              █                           5.15% (5 repos)
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 428 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 2078 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 2080 commits · private)_
 - AxiaFunder/ai-hdr-core — Split from ai-hdr-inference _(AI / ML · 570 commits · private)_
 - AxiaFunder/ai-hdr-provider-prompts — Split from ai-hdr-inference _(AI / ML · 109 commits · private)_
 - AxiaFunder/ai-hdr-provider-sdk — Split from ai-hdr-inference _(AI / ML · 32 commits · private)_
-- AxiaFunder/ai-hdr-provider-derive — Split from ai-hdr-inference _(AI / ML · 13 commits · private)_
+- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 13 commits · private)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.52% (21 commits)
-Morning (06-12)      ██████████████             56.21% (2,266 commits)
-Afternoon (12-18)    ████████                   31.36% (1,264 commits)
-Evening (18-24)      ███                        11.91% (480 commits)
+Morning (06-12)      ██████████████             56.24% (2,268 commits)
+Afternoon (12-18)    ████████                   31.34% (1,264 commits)
+Evening (18-24)      ███                        11.90% (480 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.94% (787 contributions)
+Sunday               ██                          6.93% (787 contributions)
 Monday               ███                        13.63% (1,547 contributions)
-Tuesday              █████                      18.45% (2,094 contributions)
-Wednesday            █████                      19.79% (2,246 contributions)
-Thursday             ████                       17.80% (2,020 contributions)
-Friday               ████                       17.44% (1,979 contributions)
+Tuesday              █████                      18.44% (2,094 contributions)
+Wednesday            █████                      19.83% (2,251 contributions)
+Thursday             ████                       17.79% (2,020 contributions)
+Friday               ████                       17.43% (1,979 contributions)
 Saturday             █                           5.95% (675 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      18.88% (2,078 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      18.89% (2,080 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.21% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.30% (804 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          6.05% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.18% (570 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.31% (474 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.30% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.89% (428 commits)
 ```
 
 ### ⚡ Recent Activity
+- AxiaFunder/axiafunder — chore: add `bash` to `db:local` runner to prevent errors in windows
+- AxiaFunder/dashboard-axiafunder — Merge pull request #262 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — Merge pull request #261 from AxiaFunder/chore/retire-sql-journal-axiafunder-db
 - Pragash-Mohanarajah/ai-hdr-inference — feat: consolidated single-email run notifications, deployed as email.yaml
 - Pragash-Mohanarajah/ai-hdr-inference — fix: skip Pass 2/3 category classification during ingestion for groups that never use it
 - Pragash-Mohanarajah/ai-hdr-inference — fix: gate ingestion/inference on real failures instead of silently soft-dropping them
@@ -211,9 +214,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/human-language-evolution — docs: rename package/CLI/db hle -> lingene; uatrial stays (D38)
 - dylanlakesic-svg/Work-Project — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
 - Pragash-Mohanarajah/ai-hdr-file-converter — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
-- Pragash-Mohanarajah/ai-hdr-file-converter — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: add support for Client Name column within history log export to support CLIENT CORRESPONDENCE detection in-flight
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 09 Sep 2026 15:33:34 GMT_
+_Last updated on Wed, 09 Sep 2026 18:55:55 GMT_
 <!-- DEV_METRICS_END -->
