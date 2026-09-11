@@ -79,27 +79,27 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 12 days
+- 🔥 Current Streak: 13 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 11,024
-- 💖 Commit Breakdown: 562 public (5.1%), 10,462 private (94.9%) · 6,439 owned (58.4%), 4,585 contributed (41.6%)
+- ✨ Total Commits: 11,086
+- 💖 Commit Breakdown: 562 public (5.1%), 10,524 private (94.9%) · 6,447 owned (58.2%), 4,639 contributed (41.8%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
-- ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,855,372
+- ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 22
+- 🧠 Estimated Lines of Code: 1,871,364
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,068 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.32% (673,946 LOC)
-TypeScript           ███                        13.82% (256,492 LOC)
-Python               ███                        12.44% (230,797 LOC)
-Jupyter Notebook     ███                        11.91% (221,042 LOC)
-JavaScript           ██                          6.29% (116,635 LOC)
-HTML                 ██                          6.15% (114,106 LOC)
-Makefile             █                           3.34% (62,016 LOC)
-Roff                 █                           2.91% (54,070 LOC)
+C                    █████████                  36.01% (673,946 LOC)
+TypeScript           ███                        13.71% (256,492 LOC)
+Python               ███                        13.16% (246,355 LOC)
+Jupyter Notebook     ███                        11.81% (221,042 LOC)
+JavaScript           ██                          6.23% (116,635 LOC)
+HTML                 ██                          6.10% (114,106 LOC)
+Makefile             █                           3.31% (62,016 LOC)
+Roff                 █                           2.89% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -116,12 +116,12 @@ Dockerfile           █                           4.82% (12 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.32% (33,697,286 bytes)
-TypeScript           ███                        13.82% (12,824,620 bytes)
-Python               ███                        12.44% (11,539,818 bytes)
-Jupyter Notebook     ███                        11.91% (11,052,126 bytes)
-JavaScript           ██                          6.29% (5,831,792 bytes)
-HTML                 ██                          6.15% (5,705,260 bytes)
+C                    █████████                  36.01% (33,697,286 bytes)
+TypeScript           ███                        13.71% (12,824,620 bytes)
+Python               ███                        13.16% (12,317,701 bytes)
+Jupyter Notebook     ███                        11.81% (11,052,126 bytes)
+JavaScript           ██                          6.23% (5,831,792 bytes)
+HTML                 ██                          6.10% (5,705,260 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,10 +134,10 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.45% (1,177,191 LOC)
-Other                ███████                    27.57% (511,567 LOC)
-Web Apps             ██                          7.13% (132,237 LOC)
-Data Systems                                     1.85% (34,377 LOC)
+AI / ML              ████████████████           63.76% (1,193,183 LOC)
+Other                ███████                    27.34% (511,567 LOC)
+Web Apps             ██                          7.07% (132,237 LOC)
+Data Systems                                     1.84% (34,377 LOC)
 ```
 
 ### 🏷️ Top Topics
@@ -156,64 +156,64 @@ C++                  █                           5.15% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 811 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 812 commits · private)_
 - AxiaFunder/ai-hdr-inference — Google Vertex AI Inference _(AI / ML · 666 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 428 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 2082 commits · private)_
-- AxiaFunder/ai-hdr-core — Split from ai-hdr-inference _(AI / ML · 570 commits · private)_
-- AxiaFunder/ai-hdr-provider-prompts — Split from ai-hdr-inference _(AI / ML · 109 commits · private)_
-- AxiaFunder/ai-hdr-provider-sdk — Split from ai-hdr-inference _(AI / ML · 32 commits · private)_
-- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 13 commits · private)_
+- AxiaFunder/ai-hdr-core — Split from ai-hdr-inference _(AI / ML · 606 commits · private)_
+- AxiaFunder/ai-hdr-provider-prompts — Split from ai-hdr-inference _(AI / ML · 116 commits · private)_
+- AxiaFunder/ai-hdr-provider-sdk — Split from ai-hdr-inference _(AI / ML · 37 commits · private)_
+- AxiaFunder/ai-hdr-provider-derive — Split from ai-hdr-inference _(AI / ML · 19 commits · private)_
 
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.52% (21 commits)
-Morning (06-12)      ██████████████             56.39% (2,276 commits)
-Afternoon (12-18)    ████████                   31.14% (1,257 commits)
-Evening (18-24)      ███                        11.94% (482 commits)
+Morning (06-12)      ██████████████             56.26% (2,274 commits)
+Afternoon (12-18)    ████████                   31.30% (1,265 commits)
+Evening (18-24)      ███                        11.92% (482 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.92% (787 contributions)
-Monday               ███                        13.61% (1,547 contributions)
-Tuesday              █████                      18.42% (2,094 contributions)
-Wednesday            █████                      19.86% (2,257 contributions)
-Thursday             ████                       17.84% (2,028 contributions)
-Friday               ████                       17.41% (1,979 contributions)
-Saturday             █                           5.94% (675 contributions)
+Sunday               ██                          6.89% (787 contributions)
+Monday               ███                        13.56% (1,550 contributions)
+Tuesday              █████                      18.36% (2,098 contributions)
+Wednesday            █████                      19.77% (2,259 contributions)
+Thursday             ████                       17.75% (2,029 contributions)
+Friday               ████                       17.77% (2,031 contributions)
+Saturday             █                           5.91% (675 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      18.89% (2,082 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.19% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.36% (811 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          6.04% (666 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.17% (570 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.30% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.88% (428 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      18.78% (2,082 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.09% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.32% (812 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          6.01% (666 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.47% (606 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.28% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.86% (428 commits)
 ```
 
 ### ⚡ Recent Activity
-- AxiaFunder/dashboard-axiafunder — Merge pull request #263 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — fix: ensure that slack message definitely includes correct range for summaries
-- Pragash-Mohanarajah/ai-hdr-inference — refactor: move Vertex byte-ceiling pruning into FileLifecycleService.prune_case_files itself
-- Pragash-Mohanarajah/ai-hdr-inference — feat: prune oldest manifest files to fit Vertex's byte ceiling instead of excluding the whole case
-- Pragash-Mohanarajah/ai-hdr-inference — feat: re-verify each case's manifest fits Vertex's per-request byte ceiling before submission
-- Pragash-Mohanarajah/ai-hdr-inference — feat: surface batch-API stage failure reasons in the dev email, not the client CSV; simplify PDF chunk text extraction
-- Pragash-Mohanarajah/ai-hdr-inference — feat: surface actionable per-case ingestion failure reasons in an HTML run-outcome email
-- Pragash-Mohanarajah/human-language-evolution — fix: three real defects surfaced by running Milestone 0 against live Neo4j (D40)
-- Pragash-Mohanarajah/human-language-evolution — docs: add branding/ to the architecture layout and cross-surface note
-- Pragash-Mohanarajah/human-language-evolution — chore: add lingene logo and mark to branding/, link from README
-- Pragash-Mohanarajah/human-language-evolution — chore: add lingene logo and mark to branding/, link from README
-- AxiaFunder/axiafunder — chore: add `bash` to `db:local` runner to prevent errors in windows
-- AxiaFunder/dashboard-axiafunder — Merge pull request #262 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — Merge pull request #261 from AxiaFunder/chore/retire-sql-journal-axiafunder-db
-- Pragash-Mohanarajah/human-language-evolution — docs: Greek is Phase 5's pilot, not its destination (D39)
+- AxiaFunder/ai-hdr-core — fix: add explicit contents:read to pin-staleness workflow permissions
+- AxiaFunder/ai-hdr-core — chore: gitignore .DS_Store defensively
+- Pragash-Mohanarajah/ai-hdr-inference — chore: untrack .DS_Store files and gitignore them going forward
+- AxiaFunder/ai-hdr-provider-prompts — Revert "test: simulated client edit directly on main (to be reverted)"
+- AxiaFunder/ai-hdr-core — feat: add collect_from_org.sh and a pre-publish divergence guard, to decouple client-repo edits from core
+- AxiaFunder/ai-hdr-provider-prompts — test: simulated client edit directly on main (to be reverted)
+- AxiaFunder/ai-hdr-core — fix: re-check what's actually staged before committing instead of trusting the earlier status check
+- AxiaFunder/ai-hdr-core — fix: test-install from local checkouts, not GitHub, since the run's new tags aren't pushed yet
+- AxiaFunder/ai-hdr-provider-prompts — fix: correct pyproject version to 0.2.1 to match the already-pushed v0.2.1 tag
+- AxiaFunder/ai-hdr-provider-derive — fix: correct pyproject version to 0.2.1 to match the already-pushed v0.2.1 tag
+- AxiaFunder/ai-hdr-provider-sdk — fix: correct pyproject version to 0.2.1 to match the already-pushed v0.2.1 tag
+- AxiaFunder/ai-hdr-provider-derive — fix: correct sdk pin typo (v0.2.0 -> v0.2.1) and authenticate CI's cross-repo git clone
+- AxiaFunder/ai-hdr-provider-prompts — ci: add install + import smoke-test workflow for pushes and PRs
+- AxiaFunder/ai-hdr-provider-derive — ci: add install + import smoke-test workflow for pushes and PRs
+- AxiaFunder/ai-hdr-provider-sdk — ci: add install + import smoke-test workflow for pushes and PRs
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 11 Sep 2026 08:24:33 GMT_
+_Last updated on Fri, 11 Sep 2026 15:31:23 GMT_
 <!-- DEV_METRICS_END -->
