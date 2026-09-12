@@ -79,23 +79,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 13 days
+- 🔥 Current Streak: 14 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 11,090
-- 💖 Commit Breakdown: 562 public (5.1%), 10,528 private (94.9%) · 6,451 owned (58.2%), 4,639 contributed (41.8%)
+- ✨ Total Commits: 11,096
+- 💖 Commit Breakdown: 562 public (5.1%), 10,534 private (94.9%) · 6,457 owned (58.2%), 4,639 contributed (41.8%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 22
-- 🧠 Estimated Lines of Code: 1,872,383
+- 🧠 Estimated Lines of Code: 1,873,146
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,069 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.99% (673,946 LOC)
-TypeScript           ███                        13.70% (256,500 LOC)
-Python               ███                        13.21% (247,366 LOC)
-Jupyter Notebook     ███                        11.81% (221,042 LOC)
+C                    █████████                  35.98% (673,946 LOC)
+TypeScript           ███                        13.69% (256,500 LOC)
+Python               ███                        13.25% (248,129 LOC)
+Jupyter Notebook     ███                        11.80% (221,042 LOC)
 JavaScript           ██                          6.23% (116,635 LOC)
 HTML                 ██                          6.09% (114,106 LOC)
 Makefile             █                           3.31% (62,016 LOC)
@@ -116,10 +116,10 @@ Dockerfile           █                           4.82% (12 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.99% (33,697,286 bytes)
-TypeScript           ███                        13.70% (12,825,010 bytes)
-Python               ███                        13.21% (12,368,266 bytes)
-Jupyter Notebook     ███                        11.81% (11,052,126 bytes)
+C                    █████████                  35.98% (33,697,286 bytes)
+TypeScript           ███                        13.69% (12,825,010 bytes)
+Python               ███                        13.25% (12,406,417 bytes)
+Jupyter Notebook     ███                        11.80% (11,052,126 bytes)
 JavaScript           ██                          6.23% (5,831,792 bytes)
 HTML                 ██                          6.09% (5,705,260 bytes)
 ```
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.78% (1,194,194 LOC)
-Other                ███████                    27.32% (511,575 LOC)
+AI / ML              ████████████████           63.75% (1,194,194 LOC)
+Other                ███████                    27.35% (512,338 LOC)
 Web Apps             ██                          7.06% (132,237 LOC)
 Data Systems                                     1.84% (34,377 LOC)
 ```
@@ -171,34 +171,39 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.52% (21 commits)
-Morning (06-12)      ██████████████             56.16% (2,270 commits)
-Afternoon (12-18)    ████████                   31.40% (1,269 commits)
+Morning (06-12)      ██████████████             56.17% (2,271 commits)
+Afternoon (12-18)    ████████                   31.39% (1,269 commits)
 Evening (18-24)      ███                        11.92% (482 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          6.88% (787 contributions)
-Monday               ███                        13.56% (1,550 contributions)
-Tuesday              █████                      18.35% (2,098 contributions)
-Wednesday            █████                      19.76% (2,259 contributions)
-Thursday             ████                       17.75% (2,029 contributions)
-Friday               ████                       17.80% (2,035 contributions)
-Saturday             █                           5.90% (675 contributions)
+Monday               ███                        13.55% (1,550 contributions)
+Tuesday              █████                      18.34% (2,098 contributions)
+Wednesday            █████                      19.75% (2,259 contributions)
+Thursday             ████                       17.74% (2,029 contributions)
+Friday               ████                       17.79% (2,035 contributions)
+Saturday             █                           5.95% (681 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      18.77% (2,082 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.08% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.36% (816 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          6.01% (666 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      18.76% (2,082 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.07% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.35% (816 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          6.00% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.46% (606 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.27% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.86% (428 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — docs: deduplicate the data/ tree in 02-ARCHITECTURE.md
+- Pragash-Mohanarajah/human-language-evolution — refactor: read PHOIBLE from its CLDF release instead of a flat CSV mirror (D44)
+- Pragash-Mohanarajah/human-language-evolution — docs: record D41-D43, document data acquisition layout, add panphon dependency
+- Pragash-Mohanarajah/human-language-evolution — refactor: move the pytest UTF-8 guard into tests/, clarify conftest.py's role
+- Pragash-Mohanarajah/human-language-evolution — feat: wire real IE-CoR/PHOIBLE/Concepticon pipeline; add ingest/align CLI
 - Pragash-Mohanarajah/ai-hdr-inference — refactor: consolidate categorised stalled-analysis prompt onto stage_4
 - Pragash-Mohanarajah/ai-hdr-inference — feat: dedicated post-resolve stalled-analysis stage; port to categorised track
 - Pragash-Mohanarajah/ai-hdr-inference — fix: reconcile prompt drift between categorised and uncategorised ongoing tracks
@@ -209,11 +214,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - AxiaFunder/ai-hdr-provider-prompts — Revert "test: simulated client edit directly on main (to be reverted)"
 - AxiaFunder/ai-hdr-core — feat: add collect_from_org.sh and a pre-publish divergence guard, to decouple client-repo edits from core
 - AxiaFunder/ai-hdr-provider-prompts — test: simulated client edit directly on main (to be reverted)
-- AxiaFunder/ai-hdr-core — fix: re-check what's actually staged before committing instead of trusting the earlier status check
-- AxiaFunder/ai-hdr-core — fix: test-install from local checkouts, not GitHub, since the run's new tags aren't pushed yet
-- AxiaFunder/ai-hdr-provider-prompts — fix: correct pyproject version to 0.2.1 to match the already-pushed v0.2.1 tag
-- AxiaFunder/ai-hdr-provider-derive — fix: correct pyproject version to 0.2.1 to match the already-pushed v0.2.1 tag
-- AxiaFunder/ai-hdr-provider-sdk — fix: correct pyproject version to 0.2.1 to match the already-pushed v0.2.1 tag
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 12 Sep 2026 14:37:57 GMT_
+_Last updated on Sat, 12 Sep 2026 17:58:34 GMT_
 <!-- DEV_METRICS_END -->
