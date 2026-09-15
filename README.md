@@ -81,22 +81,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 17 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 11,150
-- 💖 Commit Breakdown: 562 public (5.0%), 10,588 private (95.0%) · 6,492 owned (58.2%), 4,658 contributed (41.8%)
+- ✨ Total Commits: 11,157
+- 💖 Commit Breakdown: 562 public (5.0%), 10,595 private (95.0%) · 6,499 owned (58.3%), 4,658 contributed (41.7%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 22
-- 🧠 Estimated Lines of Code: 1,876,620
+- 🧠 Estimated Lines of Code: 1,877,696
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,073 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.91% (673,946 LOC)
-TypeScript           ███                        13.67% (256,536 LOC)
-Python               ███                        13.41% (251,567 LOC)
-Jupyter Notebook     ███                        11.78% (221,042 LOC)
-JavaScript           ██                          6.22% (116,635 LOC)
+C                    █████████                  35.89% (673,946 LOC)
+TypeScript           ███                        13.66% (256,536 LOC)
+Python               ███                        13.45% (252,643 LOC)
+Jupyter Notebook     ███                        11.77% (221,042 LOC)
+JavaScript           ██                          6.21% (116,635 LOC)
 HTML                 ██                          6.08% (114,106 LOC)
 Makefile             █                           3.30% (62,016 LOC)
 Roff                 █                           2.88% (54,070 LOC)
@@ -116,11 +116,11 @@ Dockerfile           █                           4.82% (12 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.91% (33,697,286 bytes)
-TypeScript           ███                        13.67% (12,826,775 bytes)
-Python               ███                        13.41% (12,578,314 bytes)
-Jupyter Notebook     ███                        11.78% (11,052,126 bytes)
-JavaScript           ██                          6.22% (5,831,792 bytes)
+C                    █████████                  35.89% (33,697,286 bytes)
+TypeScript           ███                        13.66% (12,826,775 bytes)
+Python               ███                        13.45% (12,632,098 bytes)
+Jupyter Notebook     ███                        11.77% (11,052,126 bytes)
+JavaScript           ██                          6.21% (5,831,792 bytes)
 HTML                 ██                          6.08% (5,705,260 bytes)
 ```
 
@@ -134,9 +134,9 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.70% (1,195,337 LOC)
-Other                ███████                    27.43% (514,669 LOC)
-Web Apps             ██                          7.05% (132,237 LOC)
+AI / ML              ████████████████           63.66% (1,195,337 LOC)
+Other                ███████                    27.47% (515,745 LOC)
+Web Apps             ██                          7.04% (132,237 LOC)
 Data Systems                                     1.83% (34,377 LOC)
 ```
 
@@ -179,18 +179,18 @@ Evening (18-24)      ███                        11.90% (482 commits)
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          6.91% (795 contributions)
-Monday               ███                        13.69% (1,574 contributions)
-Tuesday              █████                      18.46% (2,123 contributions)
-Wednesday            █████                      19.64% (2,259 contributions)
-Thursday             ████                       17.64% (2,029 contributions)
-Friday               ████                       17.70% (2,035 contributions)
-Saturday             █                           5.96% (685 contributions)
+Monday               ███                        13.68% (1,574 contributions)
+Tuesday              █████                      18.51% (2,130 contributions)
+Wednesday            █████                      19.63% (2,259 contributions)
+Thursday             ████                       17.63% (2,029 contributions)
+Friday               ████                       17.68% (2,035 contributions)
+Saturday             █                           5.95% (685 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      18.80% (2,096 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.98% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      18.79% (2,096 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.97% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.39% (824 commits)
 AxiaFunder/ai-hdr-inference                                                 █                           5.97% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.44% (607 commits)
@@ -199,11 +199,11 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: re-confirm D71 against a newer PHOIBLE dev snapshot
-- Pragash-Mohanarajah/human-language-evolution — docs: close the 2 saved ideation candidates, D70/D71
-- Pragash-Mohanarajah/human-language-evolution — feat: Phase 1 Step 2c, Neogrammarian regularity audit (D69)
-- Pragash-Mohanarajah/human-language-evolution — feat: Phase 1 Step 2b, CLICS colexification plausibility prior (D68)
-- Pragash-Mohanarajah/human-language-evolution — docs: record the two ideation candidates that were never pursued
+- Pragash-Mohanarajah/human-language-evolution — docs: pause session before the fixed Transformer sweep re-run
+- Pragash-Mohanarajah/human-language-evolution — fix: Transformer backbone non-determinism; add checkpointing + seed sweep (D77)
+- Pragash-Mohanarajah/human-language-evolution — docs: record D75's real, durable result -- encoder beats baseline
+- Pragash-Mohanarajah/human-language-evolution — feat: widen Step 3's language pool (D75) and add a Transformer backbone (D76)
+- Pragash-Mohanarajah/human-language-evolution — docs: close Phase 1's 4 open verification items (D74)
 - AxiaFunder/dashboard-axiafunder — Merge pull request #270 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — fix: add average gross profit and last report date input as placeholders in report
 - AxiaFunder/dashboard-axiafunder — Merge pull request #269 from AxiaFunder/develop
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 15 Sep 2026 19:22:15 GMT_
+_Last updated on Tue, 15 Sep 2026 22:32:37 GMT_
 <!-- DEV_METRICS_END -->
