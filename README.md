@@ -79,23 +79,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 16 days
+- 🔥 Current Streak: 17 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 11,129
-- 💖 Commit Breakdown: 562 public (5.0%), 10,567 private (95.0%) · 6,477 owned (58.2%), 4,652 contributed (41.8%)
+- ✨ Total Commits: 11,132
+- 💖 Commit Breakdown: 562 public (5.0%), 10,570 private (95.0%) · 6,480 owned (58.2%), 4,652 contributed (41.8%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 22
-- 🧠 Estimated Lines of Code: 1,875,241
+- 🧠 Estimated Lines of Code: 1,875,622
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,072 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.94% (673,946 LOC)
+C                    █████████                  35.93% (673,946 LOC)
 TypeScript           ███                        13.68% (256,536 LOC)
-Python               ███                        13.34% (250,188 LOC)
-Jupyter Notebook     ███                        11.79% (221,042 LOC)
+Python               ███                        13.36% (250,569 LOC)
+Jupyter Notebook     ███                        11.78% (221,042 LOC)
 JavaScript           ██                          6.22% (116,635 LOC)
 HTML                 ██                          6.08% (114,106 LOC)
 Makefile             █                           3.31% (62,016 LOC)
@@ -116,9 +116,9 @@ Dockerfile           █                           4.82% (12 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.94% (33,697,286 bytes)
+C                    █████████                  35.93% (33,697,286 bytes)
 TypeScript           ███                        13.68% (12,826,780 bytes)
-Python               ███                        13.34% (12,509,392 bytes)
+Python               ███                        13.36% (12,528,437 bytes)
 Jupyter Notebook     ███                        11.79% (11,052,126 bytes)
 JavaScript           ██                          6.22% (5,831,792 bytes)
 HTML                 ██                          6.08% (5,705,260 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.74% (1,195,337 LOC)
-Other                ███████                    27.37% (513,290 LOC)
+AI / ML              ████████████████           63.73% (1,195,337 LOC)
+Other                ███████                    27.39% (513,671 LOC)
 Web Apps             ██                          7.05% (132,237 LOC)
 Data Systems                                     1.83% (34,377 LOC)
 ```
@@ -171,17 +171,17 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.52% (21 commits)
-Morning (06-12)      ██████████████             56.22% (2,277 commits)
-Afternoon (12-18)    ████████                   31.36% (1,270 commits)
+Morning (06-12)      ██████████████             56.23% (2,278 commits)
+Afternoon (12-18)    ████████                   31.35% (1,270 commits)
 Evening (18-24)      ███                        11.90% (482 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          6.93% (795 contributions)
-Monday               ███                        13.72% (1,574 contributions)
-Tuesday              █████                      18.28% (2,098 contributions)
-Wednesday            █████                      19.69% (2,259 contributions)
+Monday               ███                        13.71% (1,574 contributions)
+Tuesday              █████                      18.30% (2,101 contributions)
+Wednesday            █████                      19.68% (2,259 contributions)
 Thursday             ████                       17.68% (2,029 contributions)
 Friday               ████                       17.73% (2,035 contributions)
 Saturday             █                           5.97% (685 contributions)
@@ -189,16 +189,19 @@ Saturday             █                           5.97% (685 contributions)
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      18.78% (2,090 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.02% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      18.77% (2,090 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.01% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.40% (824 commits)
 AxiaFunder/ai-hdr-inference                                                 █                           5.98% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.45% (607 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.26% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.85% (428 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.84% (428 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — docs: MCL vs UPGMA checked, no improvement; ~77% is the practical ceiling (D61)
+- Pragash-Mohanarajah/human-language-evolution — feat: Infomap as a fourth clustering method; weakest of the four (D60)
+- Pragash-Mohanarajah/human-language-evolution — feat: morphological segmentation (Step 1b), adopted as default (D58)
 - Pragash-Mohanarajah/ai-hdr-inference — feat: per-stage case counts + validation-warning visibility in run email
 - Pragash-Mohanarajah/ai-hdr-inference — fix: report firm_progression_rating as flattened columns near the front
 - AxiaFunder/dashboard-axiafunder — Merge pull request #266 from AxiaFunder/develop
@@ -211,9 +214,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/ai-hdr-inference — fix: strip pdf_password to guard against trailing whitespace from env/secrets
 - AxiaFunder/ai-hdr-provider-sdk — feat: add ensure_reference_file_uploaded to StorageProvider interface
 - AxiaFunder/ai-hdr-core — feat: port neglected-analysis stage + protocol attachment from ai-hdr-inference
-- AxiaFunder/ai-hdr-provider-prompts — Port the neglected/protocol prompt+schema surface from ai-hdr-inference
-- AxiaFunder/ai-hdr-provider-derive — Port the neglected-signal derive logic from ai-hdr-inference
-- AxiaFunder/ai-hdr-provider-sdk — Port the neglected-signal helpers from ai-hdr-inference's derive_provider
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 15 Sep 2026 02:27:44 GMT_
+_Last updated on Tue, 15 Sep 2026 09:03:40 GMT_
 <!-- DEV_METRICS_END -->
