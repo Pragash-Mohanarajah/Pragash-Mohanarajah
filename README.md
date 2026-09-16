@@ -81,24 +81,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 18 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 11,202
-- 💖 Commit Breakdown: 562 public (5.0%), 10,640 private (95.0%) · 6,507 owned (58.1%), 4,695 contributed (41.9%)
+- ✨ Total Commits: 11,203
+- 💖 Commit Breakdown: 562 public (5.0%), 10,641 private (95.0%) · 6,508 owned (58.1%), 4,695 contributed (41.9%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 22
-- 🧠 Estimated Lines of Code: 1,882,057
+- 🧠 Estimated Lines of Code: 1,882,215
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,073 days
+- 📅 Account age: 2,074 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  35.81% (673,946 LOC)
-Python               ███                        13.64% (256,787 LOC)
+Python               ███                        13.65% (256,945 LOC)
 TypeScript           ███                        13.63% (256,497 LOC)
 Jupyter Notebook     ███                        11.74% (221,042 LOC)
 JavaScript           ██                          6.20% (116,635 LOC)
 HTML                 ██                          6.06% (114,106 LOC)
-Makefile             █                           3.30% (62,016 LOC)
+Makefile             █                           3.29% (62,016 LOC)
 Roff                 █                           2.87% (54,070 LOC)
 ```
 
@@ -117,7 +117,7 @@ Dockerfile           █                           4.82% (12 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  35.81% (33,697,286 bytes)
-Python               ███                        13.64% (12,839,351 bytes)
+Python               ███                        13.65% (12,847,220 bytes)
 TypeScript           ███                        13.63% (12,824,849 bytes)
 Jupyter Notebook     ███                        11.74% (11,052,126 bytes)
 JavaScript           ██                          6.20% (5,831,792 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.74% (1,199,538 LOC)
-Other                ███████                    27.41% (515,905 LOC)
+AI / ML              ████████████████           63.73% (1,199,538 LOC)
+Other                ███████                    27.42% (516,063 LOC)
 Web Apps             ██                          7.03% (132,237 LOC)
 Data Systems                                     1.83% (34,377 LOC)
 ```
@@ -181,7 +181,7 @@ Evening (18-24)      ███                        11.87% (482 commits)
 Sunday               ██                          6.88% (795 contributions)
 Monday               ███                        13.62% (1,574 contributions)
 Tuesday              █████                      18.55% (2,144 contributions)
-Wednesday            █████                      19.84% (2,293 contributions)
+Wednesday            █████                      19.85% (2,294 contributions)
 Thursday             ████                       17.56% (2,029 contributions)
 Friday               ████                       17.61% (2,035 contributions)
 Saturday             █                           5.93% (685 contributions)
@@ -192,13 +192,14 @@ Saturday             █                           5.93% (685 contributions)
 AxiaFunder/dashboard-axiafunder                                             █████                      18.89% (2,116 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.90% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.38% (827 commits)
-AxiaFunder/ai-hdr-inference                                                 █                           5.95% (666 commits)
+AxiaFunder/ai-hdr-inference                                                 █                           5.94% (666 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.49% (615 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.23% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.82% (428 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — perf: minibatch training and add resumable checkpoints (D81, D82)
 - AxiaFunder/dashboard-axiafunder — Merge pull request #273 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — chore: reword hdr quarterly report settled claims paragraph for clarity
 - AxiaFunder/dashboard-axiafunder — Merge pull request #272 from AxiaFunder/develop
@@ -213,7 +214,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - AxiaFunder/ai-hdr-core — chore: publish personal/main to ai-hdr-core, pins sdk@v0.2.2 derive@v0.2.4 prompts@v0.2.3
 - AxiaFunder/ai-hdr-core — fix: stop the core-rebuild from silently deleting core-only files
 - AxiaFunder/ai-hdr-provider-derive — chore: repoint sdk dependency at v0.2.2, bump to v0.2.4
-- AxiaFunder/ai-hdr-provider-prompts — chore: sync from personal/main (ai-hdr-inference), bump to v0.2.3
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 16 Sep 2026 19:12:32 GMT_
+_Last updated on Wed, 16 Sep 2026 22:28:56 GMT_
 <!-- DEV_METRICS_END -->
