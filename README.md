@@ -81,25 +81,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 22 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,825
-- 💖 Commit Breakdown: 562 public (5.2%), 10,263 private (94.8%) · 6,760 owned (62.4%), 4,065 contributed (37.6%)
+- ✨ Total Commits: 10,839
+- 💖 Commit Breakdown: 562 public (5.2%), 10,277 private (94.8%) · 6,774 owned (62.5%), 4,065 contributed (37.5%)
 - 🚀 Repositories: 96 (35 public (36.5%), 61 private (63.5%))
 - 👤 Ownership: 87 owned (90.6%), 9 contributed-to (9.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,873,086
+- 🧠 Estimated Lines of Code: 1,874,233
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,077 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.98% (673,946 LOC)
+C                    █████████                  35.96% (673,946 LOC)
 TypeScript           ███                        13.71% (256,873 LOC)
-Python               ███                        13.22% (247,713 LOC)
+Python               ███                        13.28% (248,860 LOC)
 Jupyter Notebook     ███                        11.71% (219,406 LOC)
 JavaScript           ██                          6.29% (117,847 LOC)
 HTML                 ██                          6.09% (114,156 LOC)
 Makefile             █                           3.31% (62,016 LOC)
-Roff                 █                           2.89% (54,070 LOC)
+Roff                 █                           2.88% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -116,9 +116,9 @@ Dockerfile           █                           4.51% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.98% (33,697,286 bytes)
+C                    █████████                  35.96% (33,697,286 bytes)
 TypeScript           ███                        13.71% (12,843,635 bytes)
-Python               ███                        13.22% (12,385,641 bytes)
+Python               ███                        13.28% (12,443,016 bytes)
 Jupyter Notebook     ███                        11.71% (10,970,311 bytes)
 JavaScript           ██                          6.29% (5,892,373 bytes)
 HTML                 ██                          6.09% (5,707,816 bytes)
@@ -134,10 +134,10 @@ Data Systems         ██                          6.25% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.41% (1,187,780 LOC)
-Other                ███████                    27.69% (518,692 LOC)
+AI / ML              ████████████████           63.37% (1,187,780 LOC)
+Other                ███████                    27.74% (519,839 LOC)
 Web Apps             ██                          7.06% (132,237 LOC)
-Data Systems                                     1.84% (34,377 LOC)
+Data Systems                                     1.83% (34,377 LOC)
 ```
 
 ### 🏷️ Top Topics
@@ -170,40 +170,40 @@ C++                  █                           5.21% (5 repos)
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    0.59% (23 commits)
-Morning (06-12)      ██████████████             56.71% (2,227 commits)
-Afternoon (12-18)    ████████                   30.71% (1,206 commits)
-Evening (18-24)      ███                        11.99% (471 commits)
+Night (00-06)                                    0.57% (23 commits)
+Morning (06-12)      ██████████████             55.87% (2,250 commits)
+Afternoon (12-18)    ████████                   31.07% (1,251 commits)
+Evening (18-24)      ███                        12.49% (503 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.69% (864 contributions)
-Monday               ███                        13.31% (1,496 contributions)
-Tuesday              █████                      18.08% (2,032 contributions)
-Wednesday            █████                      19.64% (2,208 contributions)
-Thursday             ████                       17.23% (1,937 contributions)
-Friday               ████                       17.07% (1,919 contributions)
-Saturday             ██                          6.98% (784 contributions)
+Sunday               ██                          7.80% (878 contributions)
+Monday               ███                        13.29% (1,496 contributions)
+Tuesday              █████                      18.06% (2,032 contributions)
+Wednesday            █████                      19.62% (2,208 contributions)
+Thursday             ████                       17.21% (1,937 contributions)
+Friday               ████                       17.05% (1,919 contributions)
+Saturday             ██                          6.97% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.68% (2,130 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.52% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.86% (851 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.73% (620 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.38% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.65% (2,130 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.50% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.85% (851 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.72% (620 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.37% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.95% (428 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.83% (415 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: consolidate session log for Steps 4-5 and add Glottolog/BEAST2 acquisition layout
-- Pragash-Mohanarajah/human-language-evolution — feat: embed the clade tree plus root-language links; Step 5 depth check met (D87)
-- Pragash-Mohanarajah/human-language-evolution — feat: Poincare embedding and depth test; depth check not met on the star-forest graph (D86)
-- Pragash-Mohanarajah/human-language-evolution — docs: keep mother (Milestone 0 fixture) and water (real data) side by side (D85)
-- Pragash-Mohanarajah/human-language-evolution — feat: add --all-languages to graph-ingest and record the 111-language result (D85)
+- Pragash-Mohanarajah/human-language-evolution — fix: pace Commons file downloads and honour Retry-After after HTTP 429s; cache title lists (D90)
+- Pragash-Mohanarajah/human-language-evolution — docs: add Phase 1 Step 9, the Dravidian expansion before Phase 2 (D91)
+- Pragash-Mohanarajah/human-language-evolution — feat: show and test the Lingua Libre download destination; record coverage result (D90)
+- Pragash-Mohanarajah/human-language-evolution — feat: acquire/ package for programmatic data fetching, with Lingua Libre coverage and download (D90)
+- Pragash-Mohanarajah/human-language-evolution — feat: exclude loan cognate sets from subgrouping and run parallel BEAST2 chains with convergence checks (D89)
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #24 from Pragash-Mohanarajah/aws
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #23 from Pragash-Mohanarajah/vercel
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #21 from Pragash-Mohanarajah/develop
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 20 Sep 2026 15:05:44 GMT_
+_Last updated on Sun, 20 Sep 2026 18:22:50 GMT_
 <!-- DEV_METRICS_END -->
