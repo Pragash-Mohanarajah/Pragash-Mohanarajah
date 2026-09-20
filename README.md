@@ -79,25 +79,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 21 days
+- 🔥 Current Streak: 22 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,803
-- 💖 Commit Breakdown: 562 public (5.2%), 10,241 private (94.8%) · 6,738 owned (62.4%), 4,065 contributed (37.6%)
+- ✨ Total Commits: 10,825
+- 💖 Commit Breakdown: 562 public (5.2%), 10,263 private (94.8%) · 6,760 owned (62.4%), 4,065 contributed (37.6%)
 - 🚀 Repositories: 96 (35 public (36.5%), 61 private (63.5%))
 - 👤 Ownership: 87 owned (90.6%), 9 contributed-to (9.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,871,996
+- 🧠 Estimated Lines of Code: 1,873,086
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,077 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  36.00% (673,946 LOC)
-TypeScript           ███                        13.72% (256,873 LOC)
-Python               ███                        13.19% (246,986 LOC)
-Jupyter Notebook     ███                        11.72% (219,406 LOC)
-JavaScript           ██                          6.28% (117,484 LOC)
-HTML                 ██                          6.10% (114,156 LOC)
+C                    █████████                  35.98% (673,946 LOC)
+TypeScript           ███                        13.71% (256,873 LOC)
+Python               ███                        13.22% (247,713 LOC)
+Jupyter Notebook     ███                        11.71% (219,406 LOC)
+JavaScript           ██                          6.29% (117,847 LOC)
+HTML                 ██                          6.09% (114,156 LOC)
 Makefile             █                           3.31% (62,016 LOC)
 Roff                 █                           2.89% (54,070 LOC)
 ```
@@ -116,12 +116,12 @@ Dockerfile           █                           4.51% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  36.00% (33,697,286 bytes)
-TypeScript           ███                        13.72% (12,843,635 bytes)
-Python               ███                        13.19% (12,349,300 bytes)
-Jupyter Notebook     ███                        11.72% (10,970,311 bytes)
-JavaScript           ██                          6.28% (5,874,232 bytes)
-HTML                 ██                          6.10% (5,707,816 bytes)
+C                    █████████                  35.98% (33,697,286 bytes)
+TypeScript           ███                        13.71% (12,843,635 bytes)
+Python               ███                        13.22% (12,385,641 bytes)
+Jupyter Notebook     ███                        11.71% (10,970,311 bytes)
+JavaScript           ██                          6.29% (5,892,373 bytes)
+HTML                 ██                          6.09% (5,707,816 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.25% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.45% (1,187,780 LOC)
-Other                ███████                    27.65% (517,602 LOC)
+AI / ML              ████████████████           63.41% (1,187,780 LOC)
+Other                ███████                    27.69% (518,692 LOC)
 Web Apps             ██                          7.06% (132,237 LOC)
 Data Systems                                     1.84% (34,377 LOC)
 ```
@@ -171,49 +171,49 @@ C++                  █                           5.21% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.59% (23 commits)
-Morning (06-12)      ██████████████             56.53% (2,217 commits)
-Afternoon (12-18)    ████████                   30.78% (1,207 commits)
-Evening (18-24)      ███                        12.11% (475 commits)
+Morning (06-12)      ██████████████             56.71% (2,227 commits)
+Afternoon (12-18)    ████████                   30.71% (1,206 commits)
+Evening (18-24)      ███                        11.99% (471 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.42% (831 contributions)
-Monday               ███                        13.35% (1,496 contributions)
-Tuesday              █████                      18.13% (2,032 contributions)
-Wednesday            █████                      19.70% (2,208 contributions)
-Thursday             ████                       17.28% (1,937 contributions)
-Friday               ████                       17.12% (1,919 contributions)
-Saturday             ██                          7.00% (784 contributions)
+Sunday               ██                          7.69% (864 contributions)
+Monday               ███                        13.31% (1,496 contributions)
+Tuesday              █████                      18.08% (2,032 contributions)
+Wednesday            █████                      19.64% (2,208 contributions)
+Thursday             ████                       17.23% (1,937 contributions)
+Friday               ████                       17.07% (1,919 contributions)
+Saturday             ██                          6.98% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.72% (2,130 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.56% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.88% (851 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.74% (620 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.39% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.96% (428 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.84% (415 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.68% (2,130 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.52% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.86% (851 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.73% (620 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.38% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.95% (428 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.83% (415 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #19 from Pragash-Mohanarajah/aws
-- Pragash-Mohanarajah/taec-examportal — Merge pull request #6 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #18 from Pragash-Mohanarajah/vercel
-- Pragash-Mohanarajah/taec-examportal-backend — Merge pull request #3 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #17 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-thamilthiren-backend — Merge pull request #7 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-thamilthiren-backend — Add a pre-merge CI check
-- Pragash-Mohanarajah/taec-examportal-backend — Add a pre-merge CI check
-- Pragash-Mohanarajah/taec-examportal — Add a pre-merge CI check and remove the stale boilerplate test
-- Pragash-Mohanarajah/taec-thamilthiren — Add a pre-merge CI check and remove the stale boilerplate test
-- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #15 from Pragash-Mohanarajah/aws
-- Pragash-Mohanarajah/taec-examportal — Merge pull request #4 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-examportal-backend — Merge pull request #1 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-thamilthiren-backend — Merge pull request #4 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-examportal — Share the socket client with the thamilthiren portal
+- Pragash-Mohanarajah/human-language-evolution — docs: consolidate session log for Steps 4-5 and add Glottolog/BEAST2 acquisition layout
+- Pragash-Mohanarajah/human-language-evolution — feat: embed the clade tree plus root-language links; Step 5 depth check met (D87)
+- Pragash-Mohanarajah/human-language-evolution — feat: Poincare embedding and depth test; depth check not met on the star-forest graph (D86)
+- Pragash-Mohanarajah/human-language-evolution — docs: keep mother (Milestone 0 fixture) and water (real data) side by side (D85)
+- Pragash-Mohanarajah/human-language-evolution — feat: add --all-languages to graph-ingest and record the 111-language result (D85)
+- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #24 from Pragash-Mohanarajah/aws
+- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #23 from Pragash-Mohanarajah/vercel
+- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #21 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-examportal — Merge pull request #8 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-thamilthiren-backend — Merge pull request #10 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-examportal-backend — Merge pull request #5 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-thamilthiren — refactor: move score reports, grades and winners into their own Results section
+- Pragash-Mohanarajah/taec-examportal — refactor: move score reports, grades and winners into their own Results section
+- Pragash-Mohanarajah/taec-thamilthiren — feat: fall back to polling after 3 failed socket connections; harden requests for weak wifi
+- Pragash-Mohanarajah/taec-examportal — feat: fall back to polling after 3 failed socket connections; harden requests for weak wifi
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sun, 20 Sep 2026 08:54:52 GMT_
+_Last updated on Sun, 20 Sep 2026 15:05:44 GMT_
 <!-- DEV_METRICS_END -->
