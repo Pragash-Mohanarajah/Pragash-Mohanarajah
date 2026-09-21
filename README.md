@@ -79,14 +79,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 22 days
+- 🔥 Current Streak: 23 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,851
-- 💖 Commit Breakdown: 562 public (5.2%), 10,289 private (94.8%) · 6,786 owned (62.5%), 4,065 contributed (37.5%)
+- ✨ Total Commits: 10,854
+- 💖 Commit Breakdown: 562 public (5.2%), 10,292 private (94.8%) · 6,789 owned (62.5%), 4,065 contributed (37.5%)
 - 🚀 Repositories: 96 (35 public (36.5%), 61 private (63.5%))
 - 👤 Ownership: 87 owned (90.6%), 9 contributed-to (9.4%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,875,796
+- 🧠 Estimated Lines of Code: 1,875,850
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,078 days
 
@@ -94,7 +94,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ```
 C                    █████████                  35.93% (673,946 LOC)
 TypeScript           ███                        13.69% (256,873 LOC)
-Python               ███                        13.35% (250,423 LOC)
+Python               ███                        13.35% (250,477 LOC)
 Jupyter Notebook     ███                        11.70% (219,406 LOC)
 JavaScript           ██                          6.28% (117,847 LOC)
 HTML                 ██                          6.09% (114,156 LOC)
@@ -118,7 +118,7 @@ Dockerfile           █                           4.51% (11 repos)
 ```
 C                    █████████                  35.93% (33,697,286 bytes)
 TypeScript           ███                        13.69% (12,843,635 bytes)
-Python               ███                        13.35% (12,521,134 bytes)
+Python               ███                        13.35% (12,523,867 bytes)
 Jupyter Notebook     ███                        11.70% (10,970,311 bytes)
 JavaScript           ██                          6.28% (5,892,373 bytes)
 HTML                 ██                          6.09% (5,707,816 bytes)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.25% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.32% (1,187,780 LOC)
-Other                ███████                    27.80% (521,402 LOC)
+Other                ███████                    27.80% (521,456 LOC)
 Web Apps             ██                          7.05% (132,237 LOC)
 Data Systems                                     1.83% (34,377 LOC)
 ```
@@ -171,17 +171,17 @@ C++                  █                           5.21% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             55.87% (2,250 commits)
-Afternoon (12-18)    ████████                   30.87% (1,243 commits)
+Morning (06-12)      ██████████████             55.88% (2,251 commits)
+Afternoon (12-18)    ████████                   30.86% (1,243 commits)
 Evening (18-24)      ███                        12.69% (511 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.90% (890 contributions)
-Monday               ███                        13.28% (1,496 contributions)
-Tuesday              █████                      18.04% (2,032 contributions)
-Wednesday            █████                      19.60% (2,208 contributions)
+Monday               ███                        13.30% (1,499 contributions)
+Tuesday              █████                      18.03% (2,032 contributions)
+Wednesday            █████                      19.59% (2,208 contributions)
 Thursday             ████                       17.19% (1,937 contributions)
 Friday               ████                       17.03% (1,919 contributions)
 Saturday             ██                          6.96% (784 contributions)
@@ -189,8 +189,8 @@ Saturday             ██                          6.96% (784 contributions)
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.63% (2,130 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.48% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.62% (2,130 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.47% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.84% (851 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.71% (620 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.37% (474 commits)
@@ -199,11 +199,11 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — fix: --no-write no longer claims verdicts were written; log item 3 and 4 results
+- Pragash-Mohanarajah/human-language-evolution — feat: choose the clade gate threshold by the precision floor, highest recall (D95)
+- Pragash-Mohanarajah/human-language-evolution — feat: gate P1 on pairwise F1 (D53) and raise the cognate-match target to 0.90 (D95)
 - Pragash-Mohanarajah/human-language-evolution — docs: end-of-session handoff for Steps 6 and 8, with the user conditional 90% accuracy decision
 - Pragash-Mohanarajah/human-language-evolution — docs: record D94 (Step 8 metrics harness and its first results), with two known harness flaws
-- Pragash-Mohanarajah/human-language-evolution — docs: record what was deferred or skipped for speed this session, including no LLM (D93, D94)
-- Pragash-Mohanarajah/human-language-evolution — docs: record D93, the Step 6 gatekeeper decisions and first results
-- Pragash-Mohanarajah/human-language-evolution — feat: restate the gatekeeper precision floor to 0.85 and confirm on a fresh seed (D94)
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #24 from Pragash-Mohanarajah/aws
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #23 from Pragash-Mohanarajah/vercel
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #21 from Pragash-Mohanarajah/develop
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 21 Sep 2026 02:21:34 GMT_
+_Last updated on Mon, 21 Sep 2026 09:25:15 GMT_
 <!-- DEV_METRICS_END -->
