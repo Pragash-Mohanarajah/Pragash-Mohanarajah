@@ -81,20 +81,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 24 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,928
-- 💖 Commit Breakdown: 562 public (5.1%), 10,366 private (94.9%) · 6,858 owned (62.8%), 4,070 contributed (37.2%)
+- ✨ Total Commits: 10,938
+- 💖 Commit Breakdown: 562 public (5.1%), 10,376 private (94.9%) · 6,868 owned (62.8%), 4,070 contributed (37.2%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,879,392
+- 🧠 Estimated Lines of Code: 1,879,788
 - 🤝 Followers: 4 · Following: 11
-- 📅 Account age: 2,079 days
+- 📅 Account age: 2,080 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.86% (673,946 LOC)
-TypeScript           ███                        13.70% (257,412 LOC)
-Python               ███                        13.47% (253,179 LOC)
+C                    █████████                  35.85% (673,946 LOC)
+TypeScript           ███                        13.69% (257,412 LOC)
+Python               ███                        13.49% (253,575 LOC)
 Jupyter Notebook     ███                        11.67% (219,406 LOC)
 JavaScript           ██                          6.27% (117,856 LOC)
 HTML                 ██                          6.07% (114,156 LOC)
@@ -116,9 +116,9 @@ Dockerfile           █                           4.45% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.86% (33,697,286 bytes)
-TypeScript           ███                        13.70% (12,870,571 bytes)
-Python               ███                        13.47% (12,658,875 bytes)
+C                    █████████                  35.85% (33,697,286 bytes)
+TypeScript           ███                        13.69% (12,870,571 bytes)
+Python               ███                        13.49% (12,678,721 bytes)
 Jupyter Notebook     ███                        11.67% (10,970,311 bytes)
 JavaScript           ██                          6.27% (5,892,838 bytes)
 HTML                 ██                          6.07% (5,707,816 bytes)
@@ -134,9 +134,9 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.23% (1,188,335 LOC)
-Other                ███████                    27.87% (523,706 LOC)
-Web Apps             ██                          7.08% (132,974 LOC)
+AI / ML              ████████████████           63.22% (1,188,439 LOC)
+Other                ███████                    27.88% (523,998 LOC)
+Web Apps             ██                          7.07% (132,974 LOC)
 Data Systems                                     1.83% (34,377 LOC)
 ```
 
@@ -156,10 +156,10 @@ C++                  █                           5.15% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 851 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 853 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 431 commits · private)_
-- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 419 commits · private)_
+- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 421 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 2130 commits · private)_
@@ -171,49 +171,49 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             56.34% (2,275 commits)
-Afternoon (12-18)    ████████                   30.96% (1,250 commits)
+Morning (06-12)      ██████████████             56.35% (2,276 commits)
+Afternoon (12-18)    ████████                   30.95% (1,250 commits)
 Evening (18-24)      ███                        12.13% (490 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.84% (890 contributions)
-Monday               ███                        13.73% (1,559 contributions)
-Tuesday              █████                      18.06% (2,050 contributions)
-Wednesday            █████                      19.45% (2,208 contributions)
-Thursday             ████                       17.10% (1,941 contributions)
-Friday               ████                       16.91% (1,920 contributions)
-Saturday             ██                          6.91% (784 contributions)
+Sunday               ██                          7.83% (890 contributions)
+Monday               ███                        13.72% (1,559 contributions)
+Tuesday              █████                      18.13% (2,060 contributions)
+Wednesday            █████                      19.43% (2,208 contributions)
+Thursday             ████                       17.08% (1,941 contributions)
+Friday               ████                       16.90% (1,920 contributions)
+Saturday             ██                          6.90% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.49% (2,130 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.35% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.79% (851 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.47% (2,130 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.33% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.80% (853 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.67% (620 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.34% (474 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.33% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.94% (431 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.83% (419 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.85% (421 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: switch documented conda env from WorkProject to shared ai-hdr
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: default pattern_examples_dir to base_dir/pattern_examples
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: renumber Group/Step labels in the full-taxonomy draft prompt
+- Pragash-Mohanarajah/ai-hdr-inference — docs: renumber hdr_prompt.txt's Group/Step labels, drop Nb suffixes
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: port HDR/* visual pattern matching into Pass 1 (RAG mode)
+- Pragash-Mohanarajah/ai-hdr-inference — feat: extend Pass-3 taxonomy with 7 HDR/* pivotal document subtypes
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — fix: revert MATCH_QUORUM to 1, quorum=2 was structurally broken
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: replace HDR addendum with single self-contained 33-category prompt
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — tune: tighten MATCH_MAX_DISTANCE from 6 to 4
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: draft Gemini addendum prompt for HDR/* pivotal categories
 - Pragash-Mohanarajah/human-language-evolution — docs: close out Session 21 — recovery, D114, Step 9 Steps 5b/7 finished
 - Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — export-dashboard writes one snapshot per family
 - Pragash-Mohanarajah/lingene-analyst — feat: Step 9 — show Indo-European and Dravidian side by side
 - Pragash-Mohanarajah/human-language-evolution — fix: D114 — ingest_clades no longer wipes another family's clade tree
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: report per-file progress during Google Drive sync
-- Pragash-Mohanarajah/ai-hdr-file-categorizer — chore: gitignore pattern_examples output directory
-- Pragash-Mohanarajah/ai-hdr-file-categorizer — feat: add few-shot visual pattern matching for HDR pivotal document types
 - Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — dravlex-subgroup and dravlex-beast2, scoped subgrouping for Dravidian
-- Pragash-Mohanarajah/human-language-evolution — fix: D113 — rename the graph-test marker and add fail-closed wipe guards
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: preserve progress across folder retries
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: add duplicate conversion fallback
-- Pragash-Mohanarajah/ai-hdr-file-converter — fix: add duplicate conversion fallback
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: label duplicated PDFs with original and duplicate document IDs in categorised mode; write duplicates report in uncategorised mode
-- Pragash-Mohanarajah/ai-hdr-file-converter — feat: label duplicated PDFs with original and duplicate document IDs in categorised mode; write duplicates report in uncategorised mode
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 22 Sep 2026 15:56:42 GMT_
+_Last updated on Tue, 22 Sep 2026 19:27:41 GMT_
 <!-- DEV_METRICS_END -->
