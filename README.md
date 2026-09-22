@@ -81,23 +81,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 24 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,913
-- 💖 Commit Breakdown: 562 public (5.1%), 10,351 private (94.9%) · 6,843 owned (62.7%), 4,070 contributed (37.3%)
+- ✨ Total Commits: 10,928
+- 💖 Commit Breakdown: 562 public (5.1%), 10,366 private (94.9%) · 6,858 owned (62.8%), 4,070 contributed (37.2%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,878,769
+- 🧠 Estimated Lines of Code: 1,879,392
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,079 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.87% (673,946 LOC)
-TypeScript           ███                        13.70% (257,346 LOC)
-Python               ███                        13.45% (252,627 LOC)
-Jupyter Notebook     ███                        11.68% (219,406 LOC)
+C                    █████████                  35.86% (673,946 LOC)
+TypeScript           ███                        13.70% (257,412 LOC)
+Python               ███                        13.47% (253,179 LOC)
+Jupyter Notebook     ███                        11.67% (219,406 LOC)
 JavaScript           ██                          6.27% (117,856 LOC)
-HTML                 ██                          6.08% (114,156 LOC)
+HTML                 ██                          6.07% (114,156 LOC)
 Makefile             █                           3.30% (62,016 LOC)
 Roff                 █                           2.88% (54,070 LOC)
 ```
@@ -116,12 +116,12 @@ Dockerfile           █                           4.45% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.87% (33,697,286 bytes)
-TypeScript           ███                        13.70% (12,867,274 bytes)
-Python               ███                        13.45% (12,631,326 bytes)
-Jupyter Notebook     ███                        11.68% (10,970,311 bytes)
+C                    █████████                  35.86% (33,697,286 bytes)
+TypeScript           ███                        13.70% (12,870,571 bytes)
+Python               ███                        13.47% (12,658,875 bytes)
+Jupyter Notebook     ███                        11.67% (10,970,311 bytes)
 JavaScript           ██                          6.27% (5,892,838 bytes)
-HTML                 ██                          6.08% (5,707,816 bytes)
+HTML                 ██                          6.07% (5,707,816 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,9 +134,9 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.24% (1,188,040 LOC)
-Other                ███████                    27.86% (523,449 LOC)
-Web Apps             ██                          7.07% (132,903 LOC)
+AI / ML              ████████████████           63.23% (1,188,335 LOC)
+Other                ███████                    27.87% (523,706 LOC)
+Web Apps             ██                          7.08% (132,974 LOC)
 Data Systems                                     1.83% (34,377 LOC)
 ```
 
@@ -159,7 +159,7 @@ C++                  █                           5.15% (5 repos)
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 851 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 431 commits · private)_
-- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 418 commits · private)_
+- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 419 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 2130 commits · private)_
@@ -171,49 +171,49 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             56.22% (2,268 commits)
-Afternoon (12-18)    ████████                   30.94% (1,248 commits)
-Evening (18-24)      ███                        12.27% (495 commits)
+Morning (06-12)      ██████████████             56.34% (2,275 commits)
+Afternoon (12-18)    ████████                   30.96% (1,250 commits)
+Evening (18-24)      ███                        12.13% (490 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.85% (890 contributions)
-Monday               ███                        13.75% (1,559 contributions)
-Tuesday              ████                       17.99% (2,039 contributions)
-Wednesday            █████                      19.48% (2,208 contributions)
-Thursday             ████                       17.09% (1,937 contributions)
-Friday               ████                       16.94% (1,920 contributions)
-Saturday             ██                          6.92% (784 contributions)
+Sunday               ██                          7.84% (890 contributions)
+Monday               ███                        13.73% (1,559 contributions)
+Tuesday              █████                      18.06% (2,050 contributions)
+Wednesday            █████                      19.45% (2,208 contributions)
+Thursday             ████                       17.10% (1,941 contributions)
+Friday               ████                       16.91% (1,920 contributions)
+Saturday             ██                          6.91% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.52% (2,130 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.37% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.80% (851 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.68% (620 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.49% (2,130 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.35% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.79% (851 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.67% (620 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.34% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.95% (431 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.83% (418 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.94% (431 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.83% (419 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — dravlex-align, held-out cognate match rate vs DravLex's expert judgements
-- Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — dravlex-ingest, real DravLex forms normalized to IPA vs PHOIBLE
-- Pragash-Mohanarajah/human-language-evolution — docs: resolve D112 — Dravidian Database's DEDR-derived wordlist is closed; DravLex is the sole Dravidian source
-- Pragash-Mohanarajah/human-language-evolution — docs: record D112 — the Dravidian Database's DEDR re-extraction may not be validly CC BY 4.0
-- Pragash-Mohanarajah/human-language-evolution — refactor: generalize language-family parametrization for Step 9
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: switch documented conda env from WorkProject to shared ai-hdr
+- Pragash-Mohanarajah/human-language-evolution — docs: close out Session 21 — recovery, D114, Step 9 Steps 5b/7 finished
+- Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — export-dashboard writes one snapshot per family
+- Pragash-Mohanarajah/lingene-analyst — feat: Step 9 — show Indo-European and Dravidian side by side
+- Pragash-Mohanarajah/human-language-evolution — fix: D114 — ingest_clades no longer wipes another family's clade tree
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: report per-file progress during Google Drive sync
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — chore: gitignore pattern_examples output directory
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — feat: add few-shot visual pattern matching for HDR pivotal document types
+- Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — dravlex-subgroup and dravlex-beast2, scoped subgrouping for Dravidian
+- Pragash-Mohanarajah/human-language-evolution — fix: D113 — rename the graph-test marker and add fail-closed wipe guards
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: preserve progress across folder retries
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: add duplicate conversion fallback
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: add duplicate conversion fallback
 - Pragash-Mohanarajah/axia-lm-optimizer — feat: label duplicated PDFs with original and duplicate document IDs in categorised mode; write duplicates report in uncategorised mode
 - Pragash-Mohanarajah/ai-hdr-file-converter — feat: label duplicated PDFs with original and duplicate document IDs in categorised mode; write duplicates report in uncategorised mode
-- AxiaFunder/axiafunder — Merge pull request #49 from AxiaFunder/db/phase-2-2a-partner-list-status-backfill
-- AxiaFunder/axiafunder — Phase 2.2a: backfill partner_list_status into job_run_status
-- AxiaFunder/axiafunder — Phase 2.1c: repoint RPC and rename mailchimp_tag_status to _deprecated (#48)
-- AxiaFunder/axiafunder — Phase 2.1a: backfill mailchimp_tag_status into job_run_status (#47)
-- AxiaFunder/axiafunder — Drop deprecated invoice status tables (Phase 1 soak complete) (#39)
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 22 Sep 2026 08:53:55 GMT_
+_Last updated on Tue, 22 Sep 2026 15:56:42 GMT_
 <!-- DEV_METRICS_END -->
