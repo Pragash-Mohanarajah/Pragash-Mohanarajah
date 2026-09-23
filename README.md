@@ -79,14 +79,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 24 days
+- 🔥 Current Streak: 25 days
 - 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 10,938
-- 💖 Commit Breakdown: 562 public (5.1%), 10,376 private (94.9%) · 6,868 owned (62.8%), 4,070 contributed (37.2%)
+- ✨ Total Commits: 10,942
+- 💖 Commit Breakdown: 562 public (5.1%), 10,380 private (94.9%) · 6,872 owned (62.8%), 4,070 contributed (37.2%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,879,788
+- 🧠 Estimated Lines of Code: 1,880,032
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,080 days
 
@@ -94,7 +94,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ```
 C                    █████████                  35.85% (673,946 LOC)
 TypeScript           ███                        13.69% (257,412 LOC)
-Python               ███                        13.49% (253,575 LOC)
+Python               ███                        13.50% (253,819 LOC)
 Jupyter Notebook     ███                        11.67% (219,406 LOC)
 JavaScript           ██                          6.27% (117,856 LOC)
 HTML                 ██                          6.07% (114,156 LOC)
@@ -118,7 +118,7 @@ Dockerfile           █                           4.45% (11 repos)
 ```
 C                    █████████                  35.85% (33,697,286 bytes)
 TypeScript           ███                        13.69% (12,870,571 bytes)
-Python               ███                        13.49% (12,678,721 bytes)
+Python               ███                        13.50% (12,690,945 bytes)
 Jupyter Notebook     ███                        11.67% (10,970,311 bytes)
 JavaScript           ██                          6.27% (5,892,838 bytes)
 HTML                 ██                          6.07% (5,707,816 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.22% (1,188,439 LOC)
-Other                ███████                    27.88% (523,998 LOC)
+AI / ML              ████████████████           63.22% (1,188,482 LOC)
+Other                ███████                    27.88% (524,199 LOC)
 Web Apps             ██                          7.07% (132,974 LOC)
 Data Systems                                     1.83% (34,377 LOC)
 ```
@@ -159,7 +159,7 @@ C++                  █                           5.15% (5 repos)
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 853 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 431 commits · private)_
-- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 421 commits · private)_
+- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 423 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 2130 commits · private)_
@@ -171,34 +171,38 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             56.35% (2,276 commits)
-Afternoon (12-18)    ████████                   30.95% (1,250 commits)
-Evening (18-24)      ███                        12.13% (490 commits)
+Morning (06-12)      ██████████████             56.42% (2,280 commits)
+Afternoon (12-18)    ████████                   30.91% (1,249 commits)
+Evening (18-24)      ███                        12.10% (489 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.83% (890 contributions)
 Monday               ███                        13.72% (1,559 contributions)
-Tuesday              █████                      18.13% (2,060 contributions)
-Wednesday            █████                      19.43% (2,208 contributions)
+Tuesday              █████                      18.12% (2,060 contributions)
+Wednesday            █████                      19.46% (2,212 contributions)
 Thursday             ████                       17.08% (1,941 contributions)
-Friday               ████                       16.90% (1,920 contributions)
+Friday               ████                       16.89% (1,920 contributions)
 Saturday             ██                          6.90% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             █████                      19.47% (2,130 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.33% (2,005 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.32% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.80% (853 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.67% (620 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.33% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.94% (431 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.85% (421 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.87% (423 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: fix conda install line missing the tesseract engine package
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: add pdfplumber+OCR text extraction, remove unsafe raw-stream fallback
+- Pragash-Mohanarajah/axia-lm-optimizer — feat: port image_analyser.py (Pass 2) into ai-hdr for pass-order parity
+- Pragash-Mohanarajah/ai-hdr-file-categorizer — fix: exempt no-evidence files from text corroboration requirement
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: default pattern_examples_dir to base_dir/pattern_examples
 - Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: renumber Group/Step labels in the full-taxonomy draft prompt
 - Pragash-Mohanarajah/ai-hdr-inference — docs: renumber hdr_prompt.txt's Group/Step labels, drop Nb suffixes
@@ -206,14 +210,10 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - Pragash-Mohanarajah/ai-hdr-inference — feat: extend Pass-3 taxonomy with 7 HDR/* pivotal document subtypes
 - Pragash-Mohanarajah/ai-hdr-file-categorizer — fix: revert MATCH_QUORUM to 1, quorum=2 was structurally broken
 - Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: replace HDR addendum with single self-contained 33-category prompt
-- Pragash-Mohanarajah/ai-hdr-file-categorizer — tune: tighten MATCH_MAX_DISTANCE from 6 to 4
-- Pragash-Mohanarajah/ai-hdr-file-categorizer — docs: draft Gemini addendum prompt for HDR/* pivotal categories
 - Pragash-Mohanarajah/human-language-evolution — docs: close out Session 21 — recovery, D114, Step 9 Steps 5b/7 finished
 - Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — export-dashboard writes one snapshot per family
 - Pragash-Mohanarajah/lingene-analyst — feat: Step 9 — show Indo-European and Dravidian side by side
 - Pragash-Mohanarajah/human-language-evolution — fix: D114 — ingest_clades no longer wipes another family's clade tree
-- Pragash-Mohanarajah/axia-lm-optimizer — feat: report per-file progress during Google Drive sync
-- Pragash-Mohanarajah/human-language-evolution — feat: Step 9 — dravlex-subgroup and dravlex-beast2, scoped subgrouping for Dravidian
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 23 Sep 2026 02:25:21 GMT_
+_Last updated on Wed, 23 Sep 2026 08:55:51 GMT_
 <!-- DEV_METRICS_END -->
