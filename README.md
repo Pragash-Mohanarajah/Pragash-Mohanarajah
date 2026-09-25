@@ -11,11 +11,28 @@ I architect intelligent web applications that bridge the gap between complex dat
 
 I bridge the gap between cutting-edge AI models and real-world client environments. As a Forward Deployed AI Engineer, I specialize in architecting production-grade RAG pipelines, deploying custom data ingestion suites into legacy enterprise workflows, and building high-performance web applications.
 
-* **🔭 Current Focus:** Multi-modal Legal AI Inference (Vertex AI / Gemini / Claude), Edge Document Processing, and High-Throughput RAG Systems.
-* **🔭 Current Focus:** Multi-modal VL OCR for ancient text restoration, Scalable Data Pipelines & Optimizing Chess Engine intuition models.
+* **🔭 Current Focus:**
+  * **Legal AI:** Multi-modal Legal AI Inference (Vertex AI / Gemini / Claude), Edge Document Processing, and High-Throughput RAG Systems.
+  * **Human Language Evolution:** Computational research into how human languages diverge and relate across language families.
+* **🧪 Also Exploring:** Multi-modal VL OCR for ancient text restoration, Scalable Data Pipelines & Optimizing Chess Engine intuition models.
 * **🌱 Learning:** Advanced ONNX optimization, AWS Lambda for inference scaling, and fine-tuning Vision-Language Models (VLMs).
 * **💼 Business Impact:** Monitored & processed **10,000+ case files** across 4 law firms, slashing audit times by 90% and saving 90% in operational costs.
-* **💬 Ask me about:** Forward Deployed AI, Next.js/TypeScript, PyTorch, GCP/Vertex AI, Chess Theory or FinTech/Litigation Funding infrastructure.
+* **💬 Ask me about:** Forward Deployed AI, Computational Linguistics, Next.js/TypeScript, PyTorch, GCP/Vertex AI, Chess Theory or FinTech/Litigation Funding infrastructure.
+
+---
+
+## 🎯 Current Projects
+
+### ⚖️ Legal AI: Multimodal Inference & RAG
+Production legal inference running **Gemini Pro** and **Claude** on GCP, with document conversion tools deployed at client law firms. See [Key Production & Enterprise Projects](#-key-production--enterprise-projects) below for details.
+
+### 🧬 Human Language Evolution
+A hypothesis-driven research project on how human languages evolve, diverge and relate to one another over time. Each hypothesis is tested against language-family data, and the work is documented in regular research session logs.
+
+* **Research Engine:** Python backend and CLI for data processing, running hypothesis tests and exporting results.
+* **LinGene Analyst:** A companion **Next.js / TypeScript** dashboard for exploring results family by family, with light and dark themes.
+* **Research Thread:** Continues my interest in language history, which began with ancient text restoration ([UATRIAL](#-selected-research--innovation-projects)).
+* **Status:** Active development. The code is private, and the [LinGene Analyst dashboard](https://lingene-analyst.vercel.app) is live as an early preview, with data to follow.
 
 ---
 
@@ -53,11 +70,13 @@ I bridge the gap between cutting-edge AI models and real-world client environmen
 
 ## 🧠 Selected Research & Innovation Projects
 
+* **Human Language Evolution (Current):** Computational study of language divergence across families, with a Python research engine and the [LinGene Analyst](https://lingene-analyst.vercel.app) dashboard. See [Current Projects](#-current-projects).
 * **Ancient Text Restoration (UATRIAL):** Developed models using Deep Learning and Multi-modal Vision-Language (VL) techniques to restore and attribute ancient epigraphy, merging history with state-of-the-art NLP.
 * **Neural Chess Engines:** Training models on FEN/PGN datasets to predict moves, served via Flask APIs to custom Next.js frontends. Experimenting with Stockfish fine-tuning and custom evaluation functions.
 * **AI File Converter:** Built an end-to-end application that converts various file formats into standardized PDFs, enabling seamless RAG-based inference for AI models.
 * **AxiaFunder Dashboard:** Architected real-time investment dashboards and robust CSV ingestion pipelines for litigation funding using Node.js and PostgreSQL.
 * **Hack Cambridge Platform:** Maintained critical administration and operational platforms for one of the UK’s premier hackathons.
+
 ---
 
 ## 💡 Engineering Philosophy
@@ -68,7 +87,7 @@ I bridge the gap between cutting-edge AI models and real-world client environmen
 
 ## 🤝 Let's Connect
 
-I’m always open to collaborating on intelligent systems, web platforms, or anything chess-related.
+I’m always open to collaborating on intelligent systems, web platforms, computational linguistics, or anything chess-related.
 
 * 🌍 **Portfolio:** [Visit my site](https://portfolio-pragash-mohanarajahs-projects.vercel.app/)
 * 💼 **LinkedIn:** [linkedin.com/in/pragash-mohanarajah](https://www.linkedin.com/in/pragash-mohanarajah/)
