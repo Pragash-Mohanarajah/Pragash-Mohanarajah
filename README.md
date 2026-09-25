@@ -81,22 +81,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 27 days
 - 🏆 Longest Streak: 27 days
-- ✨ Total Commits: 11,064
-- 💖 Commit Breakdown: 562 public (5.1%), 10,502 private (94.9%) · 6,985 owned (63.1%), 4,079 contributed (36.9%)
+- ✨ Total Commits: 11,069
+- 💖 Commit Breakdown: 562 public (5.1%), 10,507 private (94.9%) · 6,990 owned (63.1%), 4,079 contributed (36.9%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,887,072
+- 🧠 Estimated Lines of Code: 1,887,230
 - 🤝 Followers: 3 · Following: 11
-- 📅 Account age: 2,082 days
+- 📅 Account age: 2,083 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  35.71% (673,946 LOC)
-Python               ███                        13.79% (260,240 LOC)
-TypeScript           ███                        13.67% (258,000 LOC)
+Python               ███                        13.80% (260,367 LOC)
+TypeScript           ███                        13.67% (258,031 LOC)
 Jupyter Notebook     ███                        11.63% (219,406 LOC)
-JavaScript           ██                          6.25% (117,856 LOC)
+JavaScript           ██                          6.24% (117,856 LOC)
 HTML                 ██                          6.05% (114,156 LOC)
 Makefile             █                           3.29% (62,016 LOC)
 Roff                 █                           2.87% (54,070 LOC)
@@ -117,10 +117,10 @@ Dockerfile           █                           4.45% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  35.71% (33,697,286 bytes)
-Python               ███                        13.79% (13,011,933 bytes)
-TypeScript           ███                        13.67% (12,899,989 bytes)
+Python               ███                        13.80% (13,018,304 bytes)
+TypeScript           ███                        13.67% (12,901,544 bytes)
 Jupyter Notebook     ███                        11.63% (10,970,311 bytes)
-JavaScript           ██                          6.25% (5,892,838 bytes)
+JavaScript           ██                          6.24% (5,892,838 bytes)
 HTML                 ██                          6.05% (5,707,816 bytes)
 ```
 
@@ -135,7 +135,7 @@ Data Systems         ██                          6.19% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.25% (1,193,656 LOC)
-Other                ███████                    27.88% (526,050 LOC)
+Other                ███████                    27.88% (526,208 LOC)
 Web Apps             ██                          7.05% (132,989 LOC)
 Data Systems                                     1.82% (34,377 LOC)
 ```
@@ -172,26 +172,26 @@ C++                  █                           5.15% (5 repos)
 ```
 Night (00-06)                                    0.57% (23 commits)
 Morning (06-12)      ██████████████             57.54% (2,335 commits)
-Afternoon (12-18)    ████████                   30.21% (1,226 commits)
-Evening (18-24)      ███                        11.68% (474 commits)
+Afternoon (12-18)    ████████                   30.14% (1,223 commits)
+Evening (18-24)      ███                        11.75% (477 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.74% (890 contributions)
 Monday               ███                        13.56% (1,560 contributions)
-Tuesday              ████                       17.94% (2,063 contributions)
-Wednesday            █████                      19.63% (2,258 contributions)
-Thursday             ████                       17.22% (1,980 contributions)
-Friday               ████                       17.09% (1,966 contributions)
-Saturday             ██                          6.82% (784 contributions)
+Tuesday              ████                       17.93% (2,063 contributions)
+Wednesday            █████                      19.62% (2,258 contributions)
+Thursday             ████                       17.21% (1,980 contributions)
+Friday               ████                       17.13% (1,971 contributions)
+Saturday             ██                          6.81% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.27% (2,132 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.12% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.93% (877 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.26% (2,132 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.11% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.92% (877 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.62% (622 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.28% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.26% (471 commits)
@@ -199,16 +199,16 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — fix: the P1-Dravidian gate measured V5 because ruff had wrapped the adopted-variant line; set V9, and reuse the stored clustering reference
+- Pragash-Mohanarajah/human-language-evolution — docs: Session 23 close (P1 rule question recorded for the owner)
+- Pragash-Mohanarajah/human-language-evolution — feat: ASJP Old Tamil ingest (lexemes only) and D122 addendum
+- Pragash-Mohanarajah/human-language-evolution — docs: D122 - ASJP Old Tamil source found, and the routes to unlock the closed data
+- Pragash-Mohanarajah/human-language-evolution — docs: D121 - pdr_04 is not ingestable (Starostin/Krishnamurti rights); session 23 start
+- Pragash-Mohanarajah/human-language-evolution — docs: Session 22 log (P1-Dravidian improvement, Step 8 scope switch, dashboard re-export)
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.5 changelog
 - Pragash-Mohanarajah/ai-hdr-file-converter — perf: share one first-page render between the visual matcher and image analyser
 - Pragash-Mohanarajah/ai-hdr-file-converter — perf: write the PDF once per document for OCR instead of once per page
 - Pragash-Mohanarajah/ai-hdr-file-converter — perf: index the conversion tables so per-file lookups stop scanning them
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.4 changelog
-- Pragash-Mohanarajah/human-language-evolution — docs: E10 result (none adopted; V9 stays; features near their limit)
-- Pragash-Mohanarajah/human-language-evolution — feat: E10 variants (detector flags, third stacking stage) and the D120 preregistration
-- Pragash-Mohanarajah/human-language-evolution — docs+feat: E5 and E9 results (V9 81.5% adopted, gate still fails); the P1-Dravidian gate uses V9
-- Pragash-Mohanarajah/human-language-evolution — feat: E9 variants (identity with stacking, linkage rules) and the D119 preregistration
 - Pragash-Mohanarajah/lingene-analyst — fix: lighter, friendlier light-theme logo and mark
 - Pragash-Mohanarajah/lingene-analyst — feat: transparent light logo and dark/light marks; no shadow
 - Pragash-Mohanarajah/lingene-analyst — fix: restore the near-white surface; brand the family dropdown
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 25 Sep 2026 16:08:46 GMT_
+_Last updated on Fri, 25 Sep 2026 22:57:31 GMT_
 <!-- DEV_METRICS_END -->
