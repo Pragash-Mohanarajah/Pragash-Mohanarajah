@@ -79,14 +79,14 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 26 days
-- 🏆 Longest Streak: 26 days
-- ✨ Total Commits: 11,031
-- 💖 Commit Breakdown: 562 public (5.1%), 10,469 private (94.9%) · 6,952 owned (63.0%), 4,079 contributed (37.0%)
+- 🔥 Current Streak: 27 days
+- 🏆 Longest Streak: 27 days
+- ✨ Total Commits: 11,037
+- 💖 Commit Breakdown: 562 public (5.1%), 10,475 private (94.9%) · 6,958 owned (63.0%), 4,079 contributed (37.0%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,885,339
+- 🧠 Estimated Lines of Code: 1,885,354
 - 🤝 Followers: 4 · Following: 11
 - 📅 Account age: 2,082 days
 
@@ -94,7 +94,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ```
 C                    █████████                  35.75% (673,946 LOC)
 Python               ███                        13.75% (259,144 LOC)
-TypeScript           ███                        13.65% (257,394 LOC)
+TypeScript           ███                        13.65% (257,378 LOC)
 Jupyter Notebook     ███                        11.64% (219,406 LOC)
 JavaScript           ██                          6.25% (117,856 LOC)
 HTML                 ██                          6.05% (114,156 LOC)
@@ -118,7 +118,7 @@ Dockerfile           █                           4.45% (11 repos)
 ```
 C                    █████████                  35.75% (33,697,286 bytes)
 Python               ███                        13.75% (12,957,158 bytes)
-TypeScript           ███                        13.65% (12,869,678 bytes)
+TypeScript           ███                        13.65% (12,868,898 bytes)
 Jupyter Notebook     ███                        11.64% (10,970,311 bytes)
 JavaScript           ██                          6.25% (5,892,838 bytes)
 HTML                 ██                          6.05% (5,707,816 bytes)
@@ -136,7 +136,7 @@ Data Systems         ██                          6.19% (6 repos)
 ```
 AI / ML              ████████████████           63.28% (1,193,106 LOC)
 Other                ███████                    27.84% (524,882 LOC)
-Web Apps             ██                          7.05% (132,974 LOC)
+Web Apps             ██                          7.05% (132,989 LOC)
 Data Systems                                     1.82% (34,377 LOC)
 ```
 
@@ -171,49 +171,49 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             57.19% (2,319 commits)
-Afternoon (12-18)    ████████                   30.43% (1,234 commits)
-Evening (18-24)      ███                        11.81% (479 commits)
+Morning (06-12)      ██████████████             57.31% (2,325 commits)
+Afternoon (12-18)    ████████                   30.42% (1,234 commits)
+Evening (18-24)      ███                        11.71% (475 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.77% (890 contributions)
-Monday               ███                        13.62% (1,560 contributions)
-Tuesday              █████                      18.01% (2,063 contributions)
-Wednesday            █████                      19.71% (2,258 contributions)
-Thursday             ████                       17.29% (1,980 contributions)
-Friday               ████                       16.76% (1,920 contributions)
+Monday               ███                        13.61% (1,560 contributions)
+Tuesday              █████                      18.00% (2,063 contributions)
+Wednesday            █████                      19.70% (2,258 contributions)
+Thursday             ████                       17.28% (1,980 contributions)
+Friday               ████                       16.80% (1,926 contributions)
 Saturday             ██                          6.84% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.33% (2,132 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.18% (2,005 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.32% (2,132 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.17% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.95% (877 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.64% (622 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.30% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.20% (463 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.29% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.19% (463 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.95% (436 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — feat: dravlex-p1 - the P1-Dravidian measure as preregistered in D115
-- Pragash-Mohanarajah/human-language-evolution — docs: D115 - preregister P1-Dravidian before any run
+- Pragash-Mohanarajah/human-language-evolution — docs: P1-Dravidian result (fail, 66.3%) and Session 22 log
+- Pragash-Mohanarajah/human-language-evolution — feat: lighter light-theme logo and mark (branding docs, dashboard bump)
+- Pragash-Mohanarajah/lingene-analyst — fix: lighter, friendlier light-theme logo and mark
+- Pragash-Mohanarajah/human-language-evolution — feat: transparent light-theme logo and dark/light marks (branding docs, dashboard bump)
+- Pragash-Mohanarajah/lingene-analyst — feat: transparent light logo and dark/light marks; no shadow
+- Pragash-Mohanarajah/human-language-evolution — docs: branding tokens - surface back to near-white; dashboard bump (branded dropdown)
+- Pragash-Mohanarajah/lingene-analyst — fix: restore the near-white surface; brand the family dropdown
+- Pragash-Mohanarajah/human-language-evolution — feat: dark-mode logo and surface tint (branding docs, dashboard bump)
+- Pragash-Mohanarajah/lingene-analyst — feat: dark-mode logo, pale-teal surfaces, tertiary-colour stat tiles
+- Pragash-Mohanarajah/lingene-analyst — feat: family dropdown replaces the side-by-side panels; space above the Exported line
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.3 changelog
 - Pragash-Mohanarajah/ai-hdr-inference — fix: read From/To as well as Email From/Email To history log columns
 - Pragash-Mohanarajah/ai-hdr-file-categorizer — fix: read From/To as well as Email From/Email To history log columns
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: describe RAG-mode re-runs, the pass ledger and Drive restore
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: accept From/To as well as Email From/Email To history log columns
-- Pragash-Mohanarajah/ai-hdr-inference — feat: keep extracted text on Drive, and never expire it in RAG mode
-- Pragash-Mohanarajah/ai-hdr-inference — feat: record AI answers in the inference ledger and write it back
-- Pragash-Mohanarajah/ai-hdr-inference — refactor: inference does only the AI steps of classification
-- Pragash-Mohanarajah/ai-hdr-inference — feat: send only genuinely unresolved PDFs to the AI classification
-- Pragash-Mohanarajah/ai-hdr-file-categorizer — refactor: align the pass ledger API with the ai-hdr copy
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: text files never expire in RAG mode; generated_at is informational
-- Pragash-Mohanarajah/ai-hdr-file-converter — feat: restore fully processed files from Drive via the ledger
-- AxiaFunder/dashboard-axiafunder — fix: remove requirements for cmc, surveyor, success and profit details during proceed updates
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 25 Sep 2026 02:30:38 GMT_
+_Last updated on Fri, 25 Sep 2026 09:12:15 GMT_
 <!-- DEV_METRICS_END -->
