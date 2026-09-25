@@ -81,21 +81,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 27 days
 - 🏆 Longest Streak: 27 days
-- ✨ Total Commits: 11,037
-- 💖 Commit Breakdown: 562 public (5.1%), 10,475 private (94.9%) · 6,958 owned (63.0%), 4,079 contributed (37.0%)
+- ✨ Total Commits: 11,064
+- 💖 Commit Breakdown: 562 public (5.1%), 10,502 private (94.9%) · 6,985 owned (63.1%), 4,079 contributed (36.9%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,885,354
-- 🤝 Followers: 4 · Following: 11
+- 🧠 Estimated Lines of Code: 1,887,072
+- 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,082 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.75% (673,946 LOC)
-Python               ███                        13.75% (259,144 LOC)
-TypeScript           ███                        13.65% (257,378 LOC)
-Jupyter Notebook     ███                        11.64% (219,406 LOC)
+C                    █████████                  35.71% (673,946 LOC)
+Python               ███                        13.79% (260,240 LOC)
+TypeScript           ███                        13.67% (258,000 LOC)
+Jupyter Notebook     ███                        11.63% (219,406 LOC)
 JavaScript           ██                          6.25% (117,856 LOC)
 HTML                 ██                          6.05% (114,156 LOC)
 Makefile             █                           3.29% (62,016 LOC)
@@ -116,10 +116,10 @@ Dockerfile           █                           4.45% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.75% (33,697,286 bytes)
-Python               ███                        13.75% (12,957,158 bytes)
-TypeScript           ███                        13.65% (12,868,898 bytes)
-Jupyter Notebook     ███                        11.64% (10,970,311 bytes)
+C                    █████████                  35.71% (33,697,286 bytes)
+Python               ███                        13.79% (13,011,933 bytes)
+TypeScript           ███                        13.67% (12,899,989 bytes)
+Jupyter Notebook     ███                        11.63% (10,970,311 bytes)
 JavaScript           ██                          6.25% (5,892,838 bytes)
 HTML                 ██                          6.05% (5,707,816 bytes)
 ```
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.28% (1,193,106 LOC)
-Other                ███████                    27.84% (524,882 LOC)
+AI / ML              ████████████████           63.25% (1,193,656 LOC)
+Other                ███████                    27.88% (526,050 LOC)
 Web Apps             ██                          7.05% (132,989 LOC)
 Data Systems                                     1.82% (34,377 LOC)
 ```
@@ -158,7 +158,7 @@ C++                  █                           5.15% (5 repos)
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 877 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 463 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 471 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 436 commits · private)_
 
 ### 🤝 Top Contributed Projects
@@ -171,49 +171,49 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             57.31% (2,325 commits)
-Afternoon (12-18)    ████████                   30.42% (1,234 commits)
-Evening (18-24)      ███                        11.71% (475 commits)
+Morning (06-12)      ██████████████             57.54% (2,335 commits)
+Afternoon (12-18)    ████████                   30.21% (1,226 commits)
+Evening (18-24)      ███                        11.68% (474 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.77% (890 contributions)
-Monday               ███                        13.61% (1,560 contributions)
-Tuesday              █████                      18.00% (2,063 contributions)
-Wednesday            █████                      19.70% (2,258 contributions)
-Thursday             ████                       17.28% (1,980 contributions)
-Friday               ████                       16.80% (1,926 contributions)
-Saturday             ██                          6.84% (784 contributions)
+Sunday               ██                          7.74% (890 contributions)
+Monday               ███                        13.56% (1,560 contributions)
+Tuesday              ████                       17.94% (2,063 contributions)
+Wednesday            █████                      19.63% (2,258 contributions)
+Thursday             ████                       17.22% (1,980 contributions)
+Friday               ████                       17.09% (1,966 contributions)
+Saturday             ██                          6.82% (784 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.32% (2,132 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.17% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.95% (877 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.64% (622 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.29% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.19% (463 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.95% (436 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.27% (2,132 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.12% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.93% (877 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.62% (622 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.28% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.26% (471 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.94% (436 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: P1-Dravidian result (fail, 66.3%) and Session 22 log
-- Pragash-Mohanarajah/human-language-evolution — feat: lighter light-theme logo and mark (branding docs, dashboard bump)
+- Pragash-Mohanarajah/human-language-evolution — fix: the P1-Dravidian gate measured V5 because ruff had wrapped the adopted-variant line; set V9, and reuse the stored clustering reference
+- Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.5 changelog
+- Pragash-Mohanarajah/ai-hdr-file-converter — perf: share one first-page render between the visual matcher and image analyser
+- Pragash-Mohanarajah/ai-hdr-file-converter — perf: write the PDF once per document for OCR instead of once per page
+- Pragash-Mohanarajah/ai-hdr-file-converter — perf: index the conversion tables so per-file lookups stop scanning them
+- Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.4 changelog
+- Pragash-Mohanarajah/human-language-evolution — docs: E10 result (none adopted; V9 stays; features near their limit)
+- Pragash-Mohanarajah/human-language-evolution — feat: E10 variants (detector flags, third stacking stage) and the D120 preregistration
+- Pragash-Mohanarajah/human-language-evolution — docs+feat: E5 and E9 results (V9 81.5% adopted, gate still fails); the P1-Dravidian gate uses V9
+- Pragash-Mohanarajah/human-language-evolution — feat: E9 variants (identity with stacking, linkage rules) and the D119 preregistration
 - Pragash-Mohanarajah/lingene-analyst — fix: lighter, friendlier light-theme logo and mark
-- Pragash-Mohanarajah/human-language-evolution — feat: transparent light-theme logo and dark/light marks (branding docs, dashboard bump)
 - Pragash-Mohanarajah/lingene-analyst — feat: transparent light logo and dark/light marks; no shadow
-- Pragash-Mohanarajah/human-language-evolution — docs: branding tokens - surface back to near-white; dashboard bump (branded dropdown)
 - Pragash-Mohanarajah/lingene-analyst — fix: restore the near-white surface; brand the family dropdown
-- Pragash-Mohanarajah/human-language-evolution — feat: dark-mode logo and surface tint (branding docs, dashboard bump)
 - Pragash-Mohanarajah/lingene-analyst — feat: dark-mode logo, pale-teal surfaces, tertiary-colour stat tiles
 - Pragash-Mohanarajah/lingene-analyst — feat: family dropdown replaces the side-by-side panels; space above the Exported line
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.3 changelog
-- Pragash-Mohanarajah/ai-hdr-inference — fix: read From/To as well as Email From/Email To history log columns
-- Pragash-Mohanarajah/ai-hdr-file-categorizer — fix: read From/To as well as Email From/Email To history log columns
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: describe RAG-mode re-runs, the pass ledger and Drive restore
-- Pragash-Mohanarajah/ai-hdr-file-converter — fix: accept From/To as well as Email From/Email To history log columns
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 25 Sep 2026 09:12:15 GMT_
+_Last updated on Fri, 25 Sep 2026 16:08:46 GMT_
 <!-- DEV_METRICS_END -->
