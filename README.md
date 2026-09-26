@@ -209,11 +209,11 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - Pragash-Mohanarajah/ai-hdr-file-converter — perf: write the PDF once per document for OCR instead of once per page
 - Pragash-Mohanarajah/ai-hdr-file-converter — perf: index the conversion tables so per-file lookups stop scanning them
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.4 changelog
-- Pragash-Mohanarajah/lingene-analyst — fix: lighter, friendlier light-theme logo and mark
-- Pragash-Mohanarajah/lingene-analyst — feat: transparent light logo and dark/light marks; no shadow
-- Pragash-Mohanarajah/lingene-analyst — fix: restore the near-white surface; brand the family dropdown
-- Pragash-Mohanarajah/lingene-analyst — feat: dark-mode logo, pale-teal surfaces, tertiary-colour stat tiles
-- Pragash-Mohanarajah/lingene-analyst — feat: family dropdown replaces the side-by-side panels; space above the Exported line
+- Pragash-Mohanarajah/ai-hdr-inference — fix: read From/To as well as Email From/Email To history log columns
+- Pragash-Mohanarajah/ai-hdr-inference — feat: keep extracted text on Drive, and never expire it in RAG mode
+- Pragash-Mohanarajah/ai-hdr-inference — feat: record AI answers in the inference ledger and write it back
+- Pragash-Mohanarajah/ai-hdr-inference — refactor: inference does only the AI steps of classification
+- Pragash-Mohanarajah/ai-hdr-inference — feat: send only genuinely unresolved PDFs to the AI classification
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 26 Sep 2026 15:22:12 GMT_
+_Last updated on Sat, 26 Sep 2026 18:51:00 GMT_
 <!-- DEV_METRICS_END -->
