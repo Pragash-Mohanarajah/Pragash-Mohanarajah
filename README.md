@@ -79,27 +79,27 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 27 days
-- 🏆 Longest Streak: 27 days
-- ✨ Total Commits: 11,069
-- 💖 Commit Breakdown: 562 public (5.1%), 10,507 private (94.9%) · 6,990 owned (63.1%), 4,079 contributed (36.9%)
+- 🔥 Current Streak: 28 days
+- 🏆 Longest Streak: 28 days
+- ✨ Total Commits: 11,095
+- 💖 Commit Breakdown: 562 public (5.1%), 10,533 private (94.9%) · 7,016 owned (63.2%), 4,079 contributed (36.8%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,887,230
+- 🧠 Estimated Lines of Code: 1,889,504
 - 🤝 Followers: 3 · Following: 11
-- 📅 Account age: 2,083 days
+- 📅 Account age: 2,084 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.71% (673,946 LOC)
-Python               ███                        13.80% (260,367 LOC)
-TypeScript           ███                        13.67% (258,031 LOC)
-Jupyter Notebook     ███                        11.63% (219,406 LOC)
-JavaScript           ██                          6.24% (117,856 LOC)
-HTML                 ██                          6.05% (114,156 LOC)
-Makefile             █                           3.29% (62,016 LOC)
-Roff                 █                           2.87% (54,070 LOC)
+C                    █████████                  35.67% (673,946 LOC)
+Python               ███                        13.78% (260,367 LOC)
+TypeScript           ███                        13.66% (258,031 LOC)
+Jupyter Notebook     ███                        11.61% (219,406 LOC)
+JavaScript           ██                          6.36% (120,130 LOC)
+HTML                 ██                          6.04% (114,156 LOC)
+Makefile             █                           3.28% (62,016 LOC)
+Roff                 █                           2.86% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -116,12 +116,12 @@ Dockerfile           █                           4.45% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.71% (33,697,286 bytes)
-Python               ███                        13.80% (13,018,304 bytes)
-TypeScript           ███                        13.67% (12,901,544 bytes)
-Jupyter Notebook     ███                        11.63% (10,970,311 bytes)
-JavaScript           ██                          6.24% (5,892,838 bytes)
-HTML                 ██                          6.05% (5,707,816 bytes)
+C                    █████████                  35.67% (33,697,286 bytes)
+Python               ███                        13.78% (13,018,304 bytes)
+TypeScript           ███                        13.66% (12,901,544 bytes)
+Jupyter Notebook     ███                        11.61% (10,970,311 bytes)
+JavaScript           ██                          6.36% (6,006,487 bytes)
+HTML                 ██                          6.04% (5,707,816 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,9 +134,9 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.25% (1,193,656 LOC)
-Other                ███████                    27.88% (526,208 LOC)
-Web Apps             ██                          7.05% (132,989 LOC)
+AI / ML              ████████████████           63.17% (1,193,656 LOC)
+Other                ███████                    27.97% (528,482 LOC)
+Web Apps             ██                          7.04% (132,989 LOC)
 Data Systems                                     1.82% (34,377 LOC)
 ```
 
@@ -171,49 +171,49 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             57.54% (2,335 commits)
-Afternoon (12-18)    ████████                   30.14% (1,223 commits)
-Evening (18-24)      ███                        11.75% (477 commits)
+Morning (06-12)      ██████████████             57.39% (2,331 commits)
+Afternoon (12-18)    ████████                   30.31% (1,231 commits)
+Evening (18-24)      ███                        11.74% (477 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.74% (890 contributions)
-Monday               ███                        13.56% (1,560 contributions)
-Tuesday              ████                       17.93% (2,063 contributions)
-Wednesday            █████                      19.62% (2,258 contributions)
-Thursday             ████                       17.21% (1,980 contributions)
-Friday               ████                       17.13% (1,971 contributions)
-Saturday             ██                          6.81% (784 contributions)
+Sunday               ██                          7.72% (891 contributions)
+Monday               ███                        13.51% (1,560 contributions)
+Tuesday              ████                       17.87% (2,063 contributions)
+Wednesday            █████                      19.56% (2,258 contributions)
+Thursday             ████                       17.15% (1,980 contributions)
+Friday               ████                       17.08% (1,971 contributions)
+Saturday             ██                          7.10% (820 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.26% (2,132 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.11% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.92% (877 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.62% (622 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.28% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.26% (471 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.94% (436 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.22% (2,132 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.07% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.90% (877 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.61% (622 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.27% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.25% (471 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.93% (436 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: Session 23 close (P1 rule question recorded for the owner)
-- Pragash-Mohanarajah/human-language-evolution — feat: ASJP Old Tamil ingest (lexemes only) and D122 addendum
-- Pragash-Mohanarajah/human-language-evolution — docs: D122 - ASJP Old Tamil source found, and the routes to unlock the closed data
-- Pragash-Mohanarajah/human-language-evolution — docs: D121 - pdr_04 is not ingestable (Starostin/Krishnamurti rights); session 23 start
-- Pragash-Mohanarajah/human-language-evolution — docs: Session 22 log (P1-Dravidian improvement, Step 8 scope switch, dashboard re-export)
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.5 changelog
-- Pragash-Mohanarajah/ai-hdr-file-converter — perf: share one first-page render between the visual matcher and image analyser
-- Pragash-Mohanarajah/ai-hdr-file-converter — perf: write the PDF once per document for OCR instead of once per page
-- Pragash-Mohanarajah/ai-hdr-file-converter — perf: index the conversion tables so per-file lookups stop scanning them
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: write v2.4 changelog
-- Pragash-Mohanarajah/ai-hdr-inference — fix: read From/To as well as Email From/Email To history log columns
-- Pragash-Mohanarajah/ai-hdr-inference — feat: keep extracted text on Drive, and never expire it in RAG mode
-- Pragash-Mohanarajah/ai-hdr-inference — feat: record AI answers in the inference ledger and write it back
-- Pragash-Mohanarajah/ai-hdr-inference — refactor: inference does only the AI steps of classification
-- Pragash-Mohanarajah/ai-hdr-inference — feat: send only genuinely unresolved PDFs to the AI classification
+- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #28 from Pragash-Mohanarajah/aws
+- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #27 from Pragash-Mohanarajah/vercel
+- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #25 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-examportal — Merge pull request #10 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-thamilthiren-backend — Merge pull request #13 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-examportal-backend — Merge pull request #7 from Pragash-Mohanarajah/develop
+- Pragash-Mohanarajah/taec-thamilthiren-backend — fix: keep the default port at 10000
+- Pragash-Mohanarajah/taec-thamilthiren-backend — perf: make room status about 9x faster with one pass over the results
+- Pragash-Mohanarajah/taec-examportal — fix: room status shows the whole room, with no paging
+- Pragash-Mohanarajah/taec-examportal-backend — fix: count the whole room in room status, and make it about 7x faster
+- Pragash-Mohanarajah/taec-thamilthiren — feat: add a Manage Versions page for modules
+- Pragash-Mohanarajah/taec-examportal-backend — fix: refuse to activate a module version that has no modules
+- Pragash-Mohanarajah/taec-thamilthiren-backend — feat: version the modules so a new set can be prepared and switched on
+- Pragash-Mohanarajah/taec-examportal — fix: show the Status menu to examiners so they can reach Examiner Status
+- Pragash-Mohanarajah/taec-thamilthiren — feat: add Status pages for rooms, students and examiners
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 26 Sep 2026 18:51:00 GMT_
+_Last updated on Sat, 26 Sep 2026 22:15:40 GMT_
 <!-- DEV_METRICS_END -->
