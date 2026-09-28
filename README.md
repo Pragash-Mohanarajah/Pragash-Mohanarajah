@@ -86,7 +86,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,891,331
+- 🧠 Estimated Lines of Code: 1,891,392
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,085 days
 
@@ -96,7 +96,7 @@ C                    █████████                  35.63% (673,94
 Python               ███                        13.86% (262,194 LOC)
 TypeScript           ███                        13.64% (258,031 LOC)
 Jupyter Notebook     ███                        11.60% (219,406 LOC)
-JavaScript           ██                          6.35% (120,130 LOC)
+JavaScript           ██                          6.35% (120,191 LOC)
 HTML                 ██                          6.04% (114,156 LOC)
 Makefile             █                           3.28% (62,016 LOC)
 Roff                 █                           2.86% (54,070 LOC)
@@ -120,7 +120,7 @@ C                    █████████                  35.63% (33,697
 Python               ███                        13.86% (13,109,703 bytes)
 TypeScript           ███                        13.64% (12,901,544 bytes)
 Jupyter Notebook     ███                        11.60% (10,970,311 bytes)
-JavaScript           ██                          6.35% (6,006,487 bytes)
+JavaScript           ██                          6.35% (6,009,537 bytes)
 HTML                 ██                          6.04% (5,707,816 bytes)
 ```
 
@@ -135,7 +135,7 @@ Data Systems         ██                          6.19% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.12% (1,193,820 LOC)
-Other                ███████                    28.03% (530,145 LOC)
+Other                ███████                    28.03% (530,206 LOC)
 Web Apps             ██                          7.03% (132,989 LOC)
 Data Systems                                     1.82% (34,377 LOC)
 ```
@@ -199,12 +199,12 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: drive_case_dir fallback broke for flat (non-nested) rel_path
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: drive_case_dir fallback broke for flat (non-nested) rel_path
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: per-file archive verification; scope Drive fallback to the client
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: drive_case_dir fallback broke for flat (non-nested) rel_path
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: per-file archive verification; scope Drive fallback to the client
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: block archive/Done on failed Drive sync; split requirements by use_rag
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: per-file archive verification; scope Drive fallback to the client
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: block archive/Done on failed Drive sync; split requirements by use_rag
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: block archive/Done on failed Drive sync; split requirements by use_rag
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #28 from Pragash-Mohanarajah/aws
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #27 from Pragash-Mohanarajah/vercel
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #25 from Pragash-Mohanarajah/develop
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 28 Sep 2026 10:18:10 GMT_
+_Last updated on Mon, 28 Sep 2026 18:57:24 GMT_
 <!-- DEV_METRICS_END -->
