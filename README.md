@@ -79,24 +79,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 0 days
+- 🔥 Current Streak: 1 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,095
-- 💖 Commit Breakdown: 562 public (5.1%), 10,533 private (94.9%) · 7,016 owned (63.2%), 4,079 contributed (36.8%)
+- ✨ Total Commits: 11,118
+- 💖 Commit Breakdown: 562 public (5.1%), 10,556 private (94.9%) · 7,039 owned (63.3%), 4,079 contributed (36.7%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,889,504
+- 🧠 Estimated Lines of Code: 1,891,331
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,085 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.67% (673,946 LOC)
-Python               ███                        13.78% (260,367 LOC)
-TypeScript           ███                        13.66% (258,031 LOC)
-Jupyter Notebook     ███                        11.61% (219,406 LOC)
-JavaScript           ██                          6.36% (120,130 LOC)
+C                    █████████                  35.63% (673,946 LOC)
+Python               ███                        13.86% (262,194 LOC)
+TypeScript           ███                        13.64% (258,031 LOC)
+Jupyter Notebook     ███                        11.60% (219,406 LOC)
+JavaScript           ██                          6.35% (120,130 LOC)
 HTML                 ██                          6.04% (114,156 LOC)
 Makefile             █                           3.28% (62,016 LOC)
 Roff                 █                           2.86% (54,070 LOC)
@@ -116,11 +116,11 @@ Dockerfile           █                           4.45% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.67% (33,697,286 bytes)
-Python               ███                        13.78% (13,018,304 bytes)
-TypeScript           ███                        13.66% (12,901,544 bytes)
-Jupyter Notebook     ███                        11.61% (10,970,311 bytes)
-JavaScript           ██                          6.36% (6,006,487 bytes)
+C                    █████████                  35.63% (33,697,286 bytes)
+Python               ███                        13.86% (13,109,703 bytes)
+TypeScript           ███                        13.64% (12,901,544 bytes)
+Jupyter Notebook     ███                        11.60% (10,970,311 bytes)
+JavaScript           ██                          6.35% (6,006,487 bytes)
 HTML                 ██                          6.04% (5,707,816 bytes)
 ```
 
@@ -134,9 +134,9 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.17% (1,193,656 LOC)
-Other                ███████                    27.97% (528,482 LOC)
-Web Apps             ██                          7.04% (132,989 LOC)
+AI / ML              ████████████████           63.12% (1,193,820 LOC)
+Other                ███████                    28.03% (530,145 LOC)
+Web Apps             ██                          7.03% (132,989 LOC)
 Data Systems                                     1.82% (34,377 LOC)
 ```
 
@@ -158,8 +158,8 @@ C++                  █                           5.15% (5 repos)
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2005 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 877 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 471 commits · private)_
-- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 436 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 472 commits · private)_
+- Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 458 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 2132 commits · private)_
@@ -171,34 +171,40 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             57.39% (2,331 commits)
-Afternoon (12-18)    ████████                   30.31% (1,231 commits)
-Evening (18-24)      ███                        11.74% (477 commits)
+Morning (06-12)      ██████████████             57.60% (2,342 commits)
+Afternoon (12-18)    ████████                   30.13% (1,225 commits)
+Evening (18-24)      ███                        11.71% (476 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.72% (891 contributions)
-Monday               ███                        13.51% (1,560 contributions)
-Tuesday              ████                       17.87% (2,063 contributions)
-Wednesday            █████                      19.56% (2,258 contributions)
-Thursday             ████                       17.15% (1,980 contributions)
-Friday               ████                       17.08% (1,971 contributions)
-Saturday             ██                          7.10% (820 contributions)
+Sunday               ██                          7.70% (891 contributions)
+Monday               ███                        13.52% (1,564 contributions)
+Tuesday              ████                       17.84% (2,063 contributions)
+Wednesday            █████                      19.52% (2,258 contributions)
+Thursday             ████                       17.21% (1,991 contributions)
+Friday               ████                       17.11% (1,979 contributions)
+Saturday             ██                          7.09% (820 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.22% (2,132 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.07% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.90% (877 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.61% (622 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.27% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.25% (471 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.93% (436 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.18% (2,132 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.03% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.89% (877 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.59% (622 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.26% (474 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.25% (472 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.12% (458 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: drive_case_dir fallback broke for flat (non-nested) rel_path
+- Pragash-Mohanarajah/ai-hdr-file-converter — fix: drive_case_dir fallback broke for flat (non-nested) rel_path
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: per-file archive verification; scope Drive fallback to the client
+- Pragash-Mohanarajah/ai-hdr-file-converter — fix: per-file archive verification; scope Drive fallback to the client
+- Pragash-Mohanarajah/axia-lm-optimizer — fix: block archive/Done on failed Drive sync; split requirements by use_rag
+- Pragash-Mohanarajah/ai-hdr-file-converter — fix: block archive/Done on failed Drive sync; split requirements by use_rag
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #28 from Pragash-Mohanarajah/aws
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #27 from Pragash-Mohanarajah/vercel
 - Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #25 from Pragash-Mohanarajah/develop
@@ -208,12 +214,6 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - Pragash-Mohanarajah/taec-thamilthiren-backend — fix: keep the default port at 10000
 - Pragash-Mohanarajah/taec-thamilthiren-backend — perf: make room status about 9x faster with one pass over the results
 - Pragash-Mohanarajah/taec-examportal — fix: room status shows the whole room, with no paging
-- Pragash-Mohanarajah/taec-examportal-backend — fix: count the whole room in room status, and make it about 7x faster
-- Pragash-Mohanarajah/taec-thamilthiren — feat: add a Manage Versions page for modules
-- Pragash-Mohanarajah/taec-examportal-backend — fix: refuse to activate a module version that has no modules
-- Pragash-Mohanarajah/taec-thamilthiren-backend — feat: version the modules so a new set can be prepared and switched on
-- Pragash-Mohanarajah/taec-examportal — fix: show the Status menu to examiners so they can reach Examiner Status
-- Pragash-Mohanarajah/taec-thamilthiren — feat: add Status pages for rooms, students and examiners
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 28 Sep 2026 02:34:58 GMT_
+_Last updated on Mon, 28 Sep 2026 10:18:10 GMT_
 <!-- DEV_METRICS_END -->
