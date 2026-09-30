@@ -86,17 +86,17 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,892,523
+- 🧠 Estimated Lines of Code: 1,892,929
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,087 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.61% (673,946 LOC)
-Python               ███                        13.91% (263,325 LOC)
-TypeScript           ███                        13.63% (258,031 LOC)
+C                    █████████                  35.60% (673,946 LOC)
+Python               ███                        13.92% (263,407 LOC)
+TypeScript           ███                        13.64% (258,156 LOC)
 Jupyter Notebook     ███                        11.59% (219,406 LOC)
-JavaScript           ██                          6.35% (120,191 LOC)
+JavaScript           ██                          6.36% (120,353 LOC)
 HTML                 ██                          6.03% (114,156 LOC)
 Makefile             █                           3.28% (62,016 LOC)
 Roff                 █                           2.86% (54,070 LOC)
@@ -104,23 +104,23 @@ Roff                 █                           2.86% (54,070 LOC)
 
 ### 📚 Top Languages (by Repo Count)
 ```
-JavaScript           ████                       17.81% (44 repos)
-Python               ████                       15.79% (39 repos)
-CSS                  ███                        12.55% (31 repos)
-TypeScript           ███                        10.12% (25 repos)
-HTML                 ██                          8.50% (21 repos)
-Shell                ██                          7.29% (18 repos)
-Jupyter Notebook     █                           5.26% (13 repos)
-Dockerfile           █                           4.45% (11 repos)
+JavaScript           █████                      18.15% (45 repos)
+Python               ████                       15.73% (39 repos)
+CSS                  ███                        12.50% (31 repos)
+TypeScript           ███                        10.08% (25 repos)
+HTML                 ██                          8.47% (21 repos)
+Shell                ██                          7.26% (18 repos)
+Jupyter Notebook     █                           5.24% (13 repos)
+Dockerfile           █                           4.44% (11 repos)
 ```
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.61% (33,697,286 bytes)
-Python               ███                        13.91% (13,166,261 bytes)
-TypeScript           ███                        13.63% (12,901,544 bytes)
+C                    █████████                  35.60% (33,697,286 bytes)
+Python               ███                        13.92% (13,170,321 bytes)
+TypeScript           ███                        13.64% (12,907,804 bytes)
 Jupyter Notebook     ███                        11.59% (10,970,311 bytes)
-JavaScript           ██                          6.35% (6,009,537 bytes)
+JavaScript           ██                          6.36% (6,017,635 bytes)
 HTML                 ██                          6.03% (5,707,816 bytes)
 ```
 
@@ -134,15 +134,15 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.14% (1,194,951 LOC)
-Other                ███████                    28.02% (530,206 LOC)
-Web Apps             ██                          7.03% (132,989 LOC)
+AI / ML              ████████████████           63.13% (1,195,033 LOC)
+Other                ███████                    28.02% (530,368 LOC)
+Web Apps             ██                          7.03% (133,151 LOC)
 Data Systems                                     1.82% (34,377 LOC)
 ```
 
 ### 🏷️ Top Topics
 ```
-JavaScript           ███████████                45.36% (44 repos)
+JavaScript           ████████████               46.39% (45 repos)
 Python               ██████████                 40.21% (39 repos)
 CSS                  ████████                   31.96% (31 repos)
 TypeScript           ██████                     25.77% (25 repos)
@@ -171,9 +171,9 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.57% (23 commits)
-Morning (06-12)      ██████████████             57.68% (2,346 commits)
-Afternoon (12-18)    ████████                   30.05% (1,222 commits)
-Evening (18-24)      ███                        11.70% (476 commits)
+Morning (06-12)      ██████████████             57.93% (2,356 commits)
+Afternoon (12-18)    ███████                    29.85% (1,214 commits)
+Evening (18-24)      ███                        11.65% (474 commits)
 ```
 
 ### 📅 Productivity by Day
@@ -199,21 +199,21 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — feat: SVG traces of the logo and mark (light and dark) with branding/vectorize.mjs
+- Pragash-Mohanarajah/human-language-evolution — chore: dashboard bump (hero placement)
+- Pragash-Mohanarajah/lingene-analyst — feat: hero as the closing banner of the homepage; header logo on every page
+- Pragash-Mohanarajah/ai-hdr-inference — feat: StagePolicy.apply_terminal_filter to skip inbound terminal filtering per stage
+- Pragash-Mohanarajah/ai-hdr-inference — fix: report only says 'Filtered out' for real terminal statuses
+- Pragash-Mohanarajah/human-language-evolution — chore: dashboard bump (README routes)
+- Pragash-Mohanarajah/lingene-analyst — docs: dashboard README routes for the new homepage and /overview
+- Pragash-Mohanarajah/human-language-evolution — chore: dashboard bump (dedicated homepage, /overview)
+- Pragash-Mohanarajah/lingene-analyst — feat: dedicated homepage with the project's aims; the phase overview moves to /overview
+- Pragash-Mohanarajah/human-language-evolution — chore: dashboard bump (homepage hero placement)
+- Pragash-Mohanarajah/lingene-analyst — feat: hero opens the homepage above the title, with its edges faded into the page
+- Pragash-Mohanarajah/lingene-analyst — feat: pattern image as the 404 backdrop, with light and dark variants
 - Pragash-Mohanarajah/ai-hdr-inference — fix: GCS metadata listing accepts gs:// prefixes so category filtering works
 - Pragash-Mohanarajah/ai-hdr-inference — feat: diagnose and recover empty/failed batch outputs
 - Pragash-Mohanarajah/ai-hdr-inference — fix: stop sibling-case file wipes; map unknown stage-1 answers to PENDING_PDF_LOOKUP
-- Pragash-Mohanarajah/ai-hdr-inference — docs: add parallel-runs guide for ongoing + neglected workflow runs
-- Pragash-Mohanarajah/ai-hdr-inference — feat: repair near-miss model output before validation; tighten wire schema
-- Pragash-Mohanarajah/ai-hdr-file-converter — fix: drive_case_dir fallback broke for flat (non-nested) rel_path
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: drive_case_dir fallback broke for flat (non-nested) rel_path
-- Pragash-Mohanarajah/ai-hdr-file-converter — fix: per-file archive verification; scope Drive fallback to the client
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: per-file archive verification; scope Drive fallback to the client
-- Pragash-Mohanarajah/ai-hdr-file-converter — fix: block archive/Done on failed Drive sync; split requirements by use_rag
-- Pragash-Mohanarajah/axia-lm-optimizer — fix: block archive/Done on failed Drive sync; split requirements by use_rag
-- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #28 from Pragash-Mohanarajah/aws
-- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #27 from Pragash-Mohanarajah/vercel
-- Pragash-Mohanarajah/taec-thamilthiren — Merge pull request #25 from Pragash-Mohanarajah/develop
-- Pragash-Mohanarajah/taec-examportal — Merge pull request #10 from Pragash-Mohanarajah/develop
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 30 Sep 2026 02:59:59 GMT_
+_Last updated on Wed, 30 Sep 2026 10:06:05 GMT_
 <!-- DEV_METRICS_END -->
