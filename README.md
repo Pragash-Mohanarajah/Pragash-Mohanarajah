@@ -86,19 +86,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,899,128
+- 🧠 Estimated Lines of Code: 1,899,681
 - 🤝 Followers: 3 · Following: 11
-- 📅 Account age: 2,088 days
+- 📅 Account age: 2,089 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.49% (673,946 LOC)
-Python               ████                       14.18% (269,230 LOC)
-TypeScript           ███                        13.61% (258,427 LOC)
+C                    █████████                  35.48% (673,946 LOC)
+Python               ████                       14.17% (269,230 LOC)
+TypeScript           ███                        13.63% (258,980 LOC)
 Jupyter Notebook     ███                        11.55% (219,406 LOC)
 JavaScript           ██                          6.34% (120,456 LOC)
 HTML                 ██                          6.01% (114,156 LOC)
-Makefile             █                           3.27% (62,016 LOC)
+Makefile             █                           3.26% (62,016 LOC)
 Roff                 █                           2.85% (54,070 LOC)
 ```
 
@@ -116,9 +116,9 @@ Dockerfile           █                           4.44% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.49% (33,697,286 bytes)
-Python               ████                       14.18% (13,461,477 bytes)
-TypeScript           ███                        13.61% (12,921,318 bytes)
+C                    █████████                  35.48% (33,697,286 bytes)
+Python               ████                       14.17% (13,461,477 bytes)
+TypeScript           ███                        13.63% (12,948,973 bytes)
 Jupyter Notebook     ███                        11.55% (10,970,311 bytes)
 JavaScript           ██                          6.34% (6,022,802 bytes)
 HTML                 ██                          6.01% (5,707,816 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.12% (1,198,727 LOC)
-Other                ███████                    28.06% (532,802 LOC)
+AI / ML              ████████████████           63.10% (1,198,727 LOC)
+Other                ███████                    28.08% (533,355 LOC)
 Web Apps             ██                          7.01% (133,222 LOC)
 Data Systems                                     1.81% (34,377 LOC)
 ```
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 01 Oct 2026 17:43:14 GMT_
+_Last updated on Thu, 01 Oct 2026 23:33:59 GMT_
 <!-- DEV_METRICS_END -->
