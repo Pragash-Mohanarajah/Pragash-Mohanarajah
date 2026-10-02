@@ -81,25 +81,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,179
-- 💖 Commit Breakdown: 562 public (5.0%), 10,617 private (95.0%) · 7,098 owned (63.5%), 4,081 contributed (36.5%)
+- ✨ Total Commits: 11,197
+- 💖 Commit Breakdown: 562 public (5.0%), 10,635 private (95.0%) · 7,116 owned (63.6%), 4,081 contributed (36.4%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,900,155
+- 🧠 Estimated Lines of Code: 1,900,965
 - 🤝 Followers: 3 · Following: 11
-- 📅 Account age: 2,089 days
+- 📅 Account age: 2,090 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.47% (673,946 LOC)
-Python               ████                       14.18% (269,511 LOC)
+C                    █████████                  35.45% (673,946 LOC)
+Python               ████                       14.22% (270,321 LOC)
 TypeScript           ███                        13.63% (259,086 LOC)
-Jupyter Notebook     ███                        11.55% (219,406 LOC)
+Jupyter Notebook     ███                        11.54% (219,406 LOC)
 JavaScript           ██                          6.34% (120,456 LOC)
 HTML                 ██                          6.01% (114,156 LOC)
 Makefile             █                           3.26% (62,016 LOC)
-Roff                 █                           2.85% (54,070 LOC)
+Roff                 █                           2.84% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -116,10 +116,10 @@ Dockerfile           █                           4.42% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.47% (33,697,286 bytes)
-Python               ████                       14.18% (13,475,531 bytes)
+C                    █████████                  35.45% (33,697,286 bytes)
+Python               ████                       14.22% (13,516,044 bytes)
 TypeScript           ███                        13.63% (12,954,282 bytes)
-Jupyter Notebook     ███                        11.55% (10,970,311 bytes)
+Jupyter Notebook     ███                        11.54% (10,970,311 bytes)
 JavaScript           ██                          6.34% (6,022,802 bytes)
 HTML                 ██                          6.01% (5,707,816 bytes)
 ```
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.11% (1,199,095 LOC)
-Other                ███████                    28.07% (533,461 LOC)
+AI / ML              ████████████████           63.08% (1,199,095 LOC)
+Other                ███████                    28.11% (534,271 LOC)
 Web Apps             ██                          7.01% (133,222 LOC)
 Data Systems                                     1.81% (34,377 LOC)
 ```
@@ -171,34 +171,39 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.56% (23 commits)
-Morning (06-12)      ██████████████             57.47% (2,340 commits)
-Afternoon (12-18)    ████████                   30.57% (1,245 commits)
-Evening (18-24)      ███                        11.39% (464 commits)
+Morning (06-12)      ██████████████             57.23% (2,331 commits)
+Afternoon (12-18)    ████████                   30.35% (1,236 commits)
+Evening (18-24)      ███                        11.86% (483 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.66% (891 contributions)
-Monday               ███                        13.45% (1,564 contributions)
-Tuesday              ████                       17.79% (2,068 contributions)
-Wednesday            █████                      19.60% (2,279 contributions)
-Thursday             ████                       17.34% (2,016 contributions)
-Friday               ████                       17.11% (1,989 contributions)
-Saturday             ██                          7.05% (820 contributions)
+Sunday               ██                          7.65% (891 contributions)
+Monday               ███                        13.43% (1,564 contributions)
+Tuesday              ████                       17.76% (2,068 contributions)
+Wednesday            █████                      19.57% (2,279 contributions)
+Thursday             ████                       17.31% (2,016 contributions)
+Friday               ████                       17.23% (2,007 contributions)
+Saturday             ██                          7.04% (820 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.09% (2,134 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.94% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.26% (923 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.06% (2,134 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.91% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.24% (923 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.56% (622 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.24% (474 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.23% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.22% (472 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.10% (458 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.09% (458 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — docs: session log - Session 24 order clarified with notes and a date, one redundant Session 17 sentence dropped
+- Pragash-Mohanarajah/human-language-evolution — docs: session log headings regularised (one ## per session, ### for parts and continuations, ## Session 21-25 promoted, rules added); no log text removed
+- Pragash-Mohanarajah/human-language-evolution — docs: D142 full gate report (5 of 6 pass), session log and owner list updated
+- Pragash-Mohanarajah/human-language-evolution — feat: riemannian_nearest gate (D142) passes its preregistered rule on seed 20261002; harness measures it in place of the mean score
+- Pragash-Mohanarajah/human-language-evolution — docs: session 25 log and the owner's inputs still needed
 - Pragash-Mohanarajah/ai-hdr-inference — docs: add a complete env file for the three-group clustered deployment
 - Pragash-Mohanarajah/ai-hdr-inference — feat: let the clustered categorised PDF stage share a deployment with other groups
 - Pragash-Mohanarajah/ai-hdr-inference — docs: explain standard vs clustered categorised deployments, generalise examples
@@ -206,13 +211,8 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - AxiaFunder/dashboard-axiafunder — fix: replace autoFocus with ref focus in invoice title edit
 - AxiaFunder/dashboard-axiafunder — feat: add invoice title rename to invoice allocation
 - Pragash-Mohanarajah/ai-hdr-inference — docs: add a worked example for running three groups on one case set
-- Pragash-Mohanarajah/human-language-evolution — feat: dravidian-embed - Poincare embedding for the Dravidian family (D135), family tree from clades, coordinate writer factored out; D134 and D135 docs
 - Pragash-Mohanarajah/lingene-analyst — feat: root list beside the disk for every family
-- Pragash-Mohanarajah/human-language-evolution — docs: D134 Project Madurai decisions (owner agreed)
-- Pragash-Mohanarajah/human-language-evolution — chore: dashboard bump (Dravidian root list); owner checklist updated
 - Pragash-Mohanarajah/lingene-analyst — feat: root list for families without disk positions, empty-disk note, family/tab/root links on /phase/1
-- Pragash-Mohanarajah/human-language-evolution — docs: verification result for D132, ProtoNode write, session close and the CLI incident
-- Pragash-Mohanarajah/human-language-evolution — fix: cli/roots.py imported apply_schema under the wrong name, which broke every lingene command; test that the CLI imports
 - Pragash-Mohanarajah/lingene-analyst — style: homepage and planned-phase pages fill the width of the separators
 
 ### 🌟 Recent Stars
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 02 Oct 2026 17:02:37 GMT_
+_Last updated on Fri, 02 Oct 2026 23:25:22 GMT_
 <!-- DEV_METRICS_END -->
