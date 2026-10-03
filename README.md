@@ -79,25 +79,25 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 5 days
+- 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,197
-- 💖 Commit Breakdown: 562 public (5.0%), 10,635 private (95.0%) · 7,116 owned (63.6%), 4,081 contributed (36.4%)
+- ✨ Total Commits: 11,199
+- 💖 Commit Breakdown: 562 public (5.0%), 10,637 private (95.0%) · 7,118 owned (63.6%), 4,081 contributed (36.4%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,900,965
+- 🧠 Estimated Lines of Code: 1,901,216
 - 🤝 Followers: 3 · Following: 11
-- 📅 Account age: 2,090 days
+- 📅 Account age: 2,091 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  35.45% (673,946 LOC)
-Python               ████                       14.22% (270,321 LOC)
+Python               ████                       14.23% (270,572 LOC)
 TypeScript           ███                        13.63% (259,086 LOC)
 Jupyter Notebook     ███                        11.54% (219,406 LOC)
 JavaScript           ██                          6.34% (120,456 LOC)
-HTML                 ██                          6.01% (114,156 LOC)
+HTML                 ██                          6.00% (114,156 LOC)
 Makefile             █                           3.26% (62,016 LOC)
 Roff                 █                           2.84% (54,070 LOC)
 ```
@@ -117,11 +117,11 @@ Dockerfile           █                           4.42% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  35.45% (33,697,286 bytes)
-Python               ████                       14.22% (13,516,044 bytes)
+Python               ████                       14.23% (13,528,597 bytes)
 TypeScript           ███                        13.63% (12,954,282 bytes)
 Jupyter Notebook     ███                        11.54% (10,970,311 bytes)
 JavaScript           ██                          6.34% (6,022,802 bytes)
-HTML                 ██                          6.01% (5,707,816 bytes)
+HTML                 ██                          6.00% (5,707,816 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.08% (1,199,095 LOC)
-Other                ███████                    28.11% (534,271 LOC)
+AI / ML              ████████████████           63.07% (1,199,095 LOC)
+Other                ███████                    28.11% (534,522 LOC)
 Web Apps             ██                          7.01% (133,222 LOC)
 Data Systems                                     1.81% (34,377 LOC)
 ```
@@ -171,9 +171,9 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.56% (23 commits)
-Morning (06-12)      ██████████████             57.23% (2,331 commits)
-Afternoon (12-18)    ████████                   30.35% (1,236 commits)
-Evening (18-24)      ███                        11.86% (483 commits)
+Morning (06-12)      ██████████████             57.24% (2,332 commits)
+Afternoon (12-18)    ████████                   30.29% (1,234 commits)
+Evening (18-24)      ███                        11.90% (485 commits)
 ```
 
 ### 📅 Productivity by Day
@@ -184,26 +184,26 @@ Tuesday              ████                       17.76% (2,068 contributi
 Wednesday            █████                      19.57% (2,279 contributions)
 Thursday             ████                       17.31% (2,016 contributions)
 Friday               ████                       17.23% (2,007 contributions)
-Saturday             ██                          7.04% (820 contributions)
+Saturday             ██                          7.06% (822 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
 AxiaFunder/dashboard-axiafunder                                             █████                      19.06% (2,134 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.91% (2,005 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.90% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.24% (923 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.56% (622 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.55% (622 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.23% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.22% (472 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.21% (472 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.09% (458 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — feat: madurai screen admits classical texts with unknown author dates, guarded (D144); per-row results fix (D137 miscount 62 -> 82); review sheet madurai_to_confirm.csv
+- Pragash-Mohanarajah/human-language-evolution — feat: owner-edited interim files are CSV (UTF-8 with BOM); madurai-screen writes CSV; D143
 - Pragash-Mohanarajah/human-language-evolution — docs: session log - Session 24 order clarified with notes and a date, one redundant Session 17 sentence dropped
 - Pragash-Mohanarajah/human-language-evolution — docs: session log headings regularised (one ## per session, ### for parts and continuations, ## Session 21-25 promoted, rules added); no log text removed
 - Pragash-Mohanarajah/human-language-evolution — docs: D142 full gate report (5 of 6 pass), session log and owner list updated
-- Pragash-Mohanarajah/human-language-evolution — feat: riemannian_nearest gate (D142) passes its preregistered rule on seed 20261002; harness measures it in place of the mean score
-- Pragash-Mohanarajah/human-language-evolution — docs: session 25 log and the owner's inputs still needed
 - Pragash-Mohanarajah/ai-hdr-inference — docs: add a complete env file for the three-group clustered deployment
 - Pragash-Mohanarajah/ai-hdr-inference — feat: let the clustered categorised PDF stage share a deployment with other groups
 - Pragash-Mohanarajah/ai-hdr-inference — docs: explain standard vs clustered categorised deployments, generalise examples
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 03 Oct 2026 18:53:30 GMT_
+_Last updated on Sat, 03 Oct 2026 22:32:39 GMT_
 <!-- DEV_METRICS_END -->
