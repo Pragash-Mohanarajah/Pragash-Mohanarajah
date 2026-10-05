@@ -79,21 +79,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 7 days
+- 🔥 Current Streak: 8 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,237
-- 💖 Commit Breakdown: 562 public (5.0%), 10,675 private (95.0%) · 7,156 owned (63.7%), 4,081 contributed (36.3%)
+- ✨ Total Commits: 11,239
+- 💖 Commit Breakdown: 562 public (5.0%), 10,677 private (95.0%) · 7,158 owned (63.7%), 4,081 contributed (36.3%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,902,775
+- 🧠 Estimated Lines of Code: 1,903,221
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,092 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.42% (673,946 LOC)
-Python               ████                       14.30% (272,064 LOC)
+C                    █████████                  35.41% (673,946 LOC)
+Python               ████                       14.32% (272,510 LOC)
 TypeScript           ███                        13.62% (259,153 LOC)
 Jupyter Notebook     ███                        11.53% (219,406 LOC)
 JavaScript           ██                          6.33% (120,456 LOC)
@@ -116,8 +116,8 @@ Dockerfile           █                           4.42% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.42% (33,697,286 bytes)
-Python               ████                       14.30% (13,603,214 bytes)
+C                    █████████                  35.41% (33,697,286 bytes)
+Python               ████                       14.32% (13,625,489 bytes)
 TypeScript           ███                        13.62% (12,957,665 bytes)
 Jupyter Notebook     ███                        11.53% (10,970,311 bytes)
 JavaScript           ██                          6.33% (6,022,802 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.02% (1,199,095 LOC)
-Other                ███████                    28.17% (536,014 LOC)
+AI / ML              ████████████████           63.00% (1,199,095 LOC)
+Other                ███████                    28.19% (536,460 LOC)
 Web Apps             ██                          7.00% (133,289 LOC)
 Data Systems                                     1.81% (34,377 LOC)
 ```
@@ -171,19 +171,19 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.56% (23 commits)
-Morning (06-12)      ██████████████             56.82% (2,316 commits)
-Afternoon (12-18)    ████████                   30.25% (1,233 commits)
-Evening (18-24)      ███                        12.37% (504 commits)
+Morning (06-12)      ██████████████             56.83% (2,317 commits)
+Afternoon (12-18)    ████████                   30.24% (1,233 commits)
+Evening (18-24)      ███                        12.36% (504 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.95% (929 contributions)
-Monday               ███                        13.38% (1,564 contributions)
-Tuesday              ████                       17.70% (2,068 contributions)
+Monday               ███                        13.40% (1,566 contributions)
+Tuesday              ████                       17.69% (2,068 contributions)
 Wednesday            █████                      19.50% (2,279 contributions)
 Thursday             ████                       17.25% (2,016 contributions)
-Friday               ████                       17.18% (2,007 contributions)
+Friday               ████                       17.17% (2,007 contributions)
 Saturday             ██                          7.03% (822 contributions)
 ```
 
@@ -192,18 +192,18 @@ Saturday             ██                          7.03% (822 contributions)
 AxiaFunder/dashboard-axiafunder                                             █████                      18.99% (2,134 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.84% (2,005 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.21% (923 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.54% (622 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.53% (622 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.22% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.20% (472 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.08% (458 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — docs: split the decision and session logs into one page per entry, kept as indexes; generated results pages; reference audit and layout tests (D158)
+- Pragash-Mohanarajah/human-language-evolution — docs: generated results pages (docs/results/) from the ledger, with reading notes; lingene results-report (D158 step 1)
 - Pragash-Mohanarajah/human-language-evolution — docs: final verification matches the earlier gate report gate for gate; session 26 closed; ledger entries from the verification run
 - Pragash-Mohanarajah/human-language-evolution — refactor: split every file over 500 lines into cohesive modules; remove four unreferenced functions; D157 loose ends decided
 - Pragash-Mohanarajah/human-language-evolution — docs: architecture and data-source docs brought up to date; D155 status note (Phase 2 not started); two dead constants removed
-- Pragash-Mohanarajah/human-language-evolution — feat: Tamil G2P confirmation on fresh Wiktionary words (tamil-g2p-confirm): 84.6%, the confirmation did not hold; mostly notation conventions (D156)
-- Pragash-Mohanarajah/human-language-evolution — docs: D156 Tamil G2P confirmation on fresh Wiktionary words, preregistration (declared before any run)
 - Pragash-Mohanarajah/lingene-analyst — feat: earlier results list is collapsible and shows the count
 - Pragash-Mohanarajah/lingene-analyst — feat: scorecard lists earlier and superseded results from the ledger, with date and run
 - Pragash-Mohanarajah/lingene-analyst — feat: scorecard opens with every judged gate of every family, failures first
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 05 Oct 2026 03:01:56 GMT_
+_Last updated on Mon, 05 Oct 2026 10:58:54 GMT_
 <!-- DEV_METRICS_END -->
