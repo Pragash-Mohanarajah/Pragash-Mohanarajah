@@ -81,23 +81,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 9 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,327
-- 💖 Commit Breakdown: 562 public (5.0%), 10,765 private (95.0%) · 7,183 owned (63.4%), 4,144 contributed (36.6%)
+- ✨ Total Commits: 11,340
+- 💖 Commit Breakdown: 562 public (5.0%), 10,778 private (95.0%) · 7,196 owned (63.5%), 4,144 contributed (36.5%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,910,260
+- 🧠 Estimated Lines of Code: 1,910,850
 - 🤝 Followers: 3 · Following: 11
-- 📅 Account age: 2,093 days
+- 📅 Account age: 2,094 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  35.28% (673,946 LOC)
-Python               ████                       14.43% (275,619 LOC)
+C                    █████████                  35.27% (673,946 LOC)
+Python               ████                       14.45% (276,209 LOC)
 TypeScript           ███                        13.71% (261,896 LOC)
-Jupyter Notebook     ███                        11.49% (219,406 LOC)
+Jupyter Notebook     ███                        11.48% (219,406 LOC)
 JavaScript           ██                          6.33% (120,928 LOC)
-HTML                 █                           5.98% (114,156 LOC)
+HTML                 █                           5.97% (114,156 LOC)
 Makefile             █                           3.25% (62,016 LOC)
 Roff                 █                           2.83% (54,070 LOC)
 ```
@@ -116,12 +116,12 @@ Dockerfile           █                           4.42% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  35.28% (33,697,286 bytes)
-Python               ████                       14.43% (13,780,927 bytes)
+C                    █████████                  35.27% (33,697,286 bytes)
+Python               ████                       14.45% (13,810,454 bytes)
 TypeScript           ███                        13.71% (13,094,839 bytes)
-Jupyter Notebook     ███                        11.49% (10,970,311 bytes)
+Jupyter Notebook     ███                        11.48% (10,970,311 bytes)
 JavaScript           ██                          6.33% (6,046,382 bytes)
-HTML                 █                           5.98% (5,707,816 bytes)
+HTML                 █                           5.97% (5,707,816 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.19% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           62.78% (1,199,284 LOC)
-Other                ███████                    28.44% (543,310 LOC)
+AI / ML              ████████████████           62.76% (1,199,284 LOC)
+Other                ███████                    28.46% (543,900 LOC)
 Web Apps             ██                          6.98% (133,289 LOC)
 Data Systems                                     1.80% (34,377 LOC)
 ```
@@ -171,44 +171,44 @@ C++                  █                           5.15% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.56% (23 commits)
-Morning (06-12)      ██████████████             56.50% (2,307 commits)
-Afternoon (12-18)    ████████                   30.71% (1,254 commits)
-Evening (18-24)      ███                        12.22% (499 commits)
+Morning (06-12)      ██████████████             56.48% (2,306 commits)
+Afternoon (12-18)    ████████                   30.44% (1,243 commits)
+Evening (18-24)      ███                        12.52% (511 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.87% (929 contributions)
-Monday               ███                        13.58% (1,602 contributions)
-Tuesday              █████                      18.14% (2,140 contributions)
-Wednesday            █████                      19.32% (2,279 contributions)
-Thursday             ████                       17.10% (2,018 contributions)
-Friday               ████                       17.03% (2,009 contributions)
-Saturday             ██                          6.97% (822 contributions)
+Sunday               ██                          7.86% (929 contributions)
+Monday               ███                        13.56% (1,602 contributions)
+Tuesday              █████                      18.23% (2,153 contributions)
+Wednesday            █████                      19.29% (2,279 contributions)
+Thursday             ████                       17.08% (2,018 contributions)
+Friday               ████                       17.01% (2,009 contributions)
+Saturday             ██                          6.96% (822 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.18% (2,173 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.70% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.16% (924 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.16% (2,173 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.68% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.15% (924 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.49% (622 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.18% (474 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.17% (472 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.16% (472 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           4.04% (458 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — feat: Phase 2 Step 2c second stand-in result: Early-Brahmi letters (BrahmiGAN) identified 49.1% (DINOv2) and 47.0% (Qwen tower) against the declared 80%; recorded as a failure (D207)
-- Pragash-Mohanarajah/human-language-evolution — docs: D207 Phase 2 Step 2c second stand-in: labelled Early-Brahmi letters (BrahmiGAN), preregistration (declared before any run)
-- Pragash-Mohanarajah/human-language-evolution — feat: BrahmiGAN stand-in for Step 2c: label mapping to Unicode Brahmi letters, seeded sampling, normalisation, brahmigan-check command (D207)
-- Pragash-Mohanarajah/human-language-evolution — refactor: nearest-reference identification moved to its own module so every labelled set shares it; per-sample kinds are passed in (D206)
+- Pragash-Mohanarajah/human-language-evolution — docs: Session 27 log: Phase 2 Steps 0 to 3b built, no declared benchmark reached (D200-D209)
+- Pragash-Mohanarajah/human-language-evolution — docs: regenerate the decision index and the results pages after D208 and D209
+- Pragash-Mohanarajah/human-language-evolution — feat: Phase 2 Step 3 results: stroke segmenter route fails its preregistered rules (IoU 0.468 vs 0.70), six Kern rubbings cut (3,796 glyphs, 3,404 at the 0.5 agreement floor), the three routes and the palm-leaf finding recorded (D208, D209)
+- Pragash-Mohanarajah/human-language-evolution — feat: stroke segmenter at half resolution with 8/16/32 channels, 20 epochs (D209)
+- Pragash-Mohanarajah/human-language-evolution — docs: D209 amendment: half-resolution patches, 8/16/32 channels and 20 epochs after measuring the GPU, before any result (declared floors unchanged)
 - AxiaFunder/axiafunder — Merge pull request #78 from AxiaFunder/db/phase-3-1c-deprecate-tax-statement-template
 - AxiaFunder/axiafunder — Merge branch 'main' into db/phase-3-1c-deprecate-tax-statement-template
 - AxiaFunder/axiafunder — Merge pull request #77 from AxiaFunder/db/phase-3-1a-template-table-create
 - AxiaFunder/axiafunder — Phase 3.1c: rename tax_statement_template to _deprecated_tax_statement_template
 - AxiaFunder/axiafunder — Phase 3.1a: create template table and backfill tax_statement_template
-- Pragash-Mohanarajah/human-language-evolution — feat: Phase 2 Step 2c stand-in result: neither embedder identifies handwritten Tamil characters (Qwen tower 13.4%, DINOv2 1.9% top-1 against the declared 80%); recorded as a failure (D206)
 - AxiaFunder/dashboard-axiafunder — Merge pull request #291 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge branch 'main' into develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #290 from AxiaFunder/fix/job-status-retry-logging
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Tue, 06 Oct 2026 17:37:25 GMT_
+_Last updated on Tue, 06 Oct 2026 23:27:03 GMT_
 <!-- DEV_METRICS_END -->
