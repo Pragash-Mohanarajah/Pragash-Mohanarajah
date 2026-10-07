@@ -81,12 +81,12 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 10 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,366
-- 💖 Commit Breakdown: 562 public (4.9%), 10,804 private (95.1%) · 7,201 owned (63.4%), 4,165 contributed (36.6%)
+- ✨ Total Commits: 11,378
+- 💖 Commit Breakdown: 562 public (4.9%), 10,816 private (95.1%) · 7,201 owned (63.3%), 4,177 contributed (36.7%)
 - 🚀 Repositories: 97 (35 public (36.1%), 62 private (63.9%))
 - 👤 Ownership: 88 owned (90.7%), 9 contributed-to (9.3%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,911,023
+- 🧠 Estimated Lines of Code: 1,911,042
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,094 days
 
@@ -94,7 +94,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ```
 C                    █████████                  35.27% (673,946 LOC)
 Python               ████                       14.46% (276,361 LOC)
-TypeScript           ███                        13.71% (261,917 LOC)
+TypeScript           ███                        13.71% (261,936 LOC)
 Jupyter Notebook     ███                        11.48% (219,406 LOC)
 JavaScript           ██                          6.33% (120,928 LOC)
 HTML                 █                           5.97% (114,156 LOC)
@@ -118,7 +118,7 @@ Dockerfile           █                           4.42% (11 repos)
 ```
 C                    █████████                  35.27% (33,697,286 bytes)
 Python               ████                       14.46% (13,818,043 bytes)
-TypeScript           ███                        13.71% (13,095,851 bytes)
+TypeScript           ███                        13.71% (13,096,832 bytes)
 Jupyter Notebook     ███                        11.48% (10,970,311 bytes)
 JavaScript           ██                          6.33% (6,046,382 bytes)
 HTML                 █                           5.97% (5,707,816 bytes)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.19% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           62.76% (1,199,284 LOC)
-Other                ███████                    28.47% (544,073 LOC)
+Other                ███████                    28.47% (544,092 LOC)
 Web Apps             ██                          6.97% (133,289 LOC)
 Data Systems                                     1.80% (34,377 LOC)
 ```
@@ -165,7 +165,7 @@ C++                  █                           5.15% (5 repos)
 - AxiaFunder/dashboard-axiafunder _(Other · 2173 commits · private)_
 - AxiaFunder/ai-hdr-core — Split from ai-hdr-inference _(AI / ML · 622 commits · private)_
 - AxiaFunder/ai-hdr-provider-prompts — Split from ai-hdr-inference _(AI / ML · 123 commits · private)_
-- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 76 commits · private)_
+- AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 88 commits · private)_
 - AxiaFunder/ai-hdr-provider-sdk — Split from ai-hdr-inference _(AI / ML · 43 commits · private)_
 
 ### 📅 Productivity by Time of Day
@@ -178,20 +178,20 @@ Evening (18-24)      ███                        12.46% (509 commits)
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.84% (929 contributions)
-Monday               ███                        13.52% (1,602 contributions)
-Tuesday              █████                      18.18% (2,154 contributions)
-Wednesday            █████                      19.54% (2,315 contributions)
-Thursday             ████                       17.03% (2,018 contributions)
-Friday               ████                       16.96% (2,009 contributions)
-Saturday             ██                          6.94% (822 contributions)
+Sunday               ██                          7.83% (929 contributions)
+Monday               ███                        13.50% (1,602 contributions)
+Tuesday              █████                      18.15% (2,154 contributions)
+Wednesday            █████                      19.69% (2,337 contributions)
+Thursday             ████                       17.00% (2,018 contributions)
+Friday               ████                       16.92% (2,009 contributions)
+Saturday             ██                          6.92% (822 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.12% (2,173 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.64% (2,005 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.13% (924 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.10% (2,173 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       17.62% (2,005 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.12% (924 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.47% (622 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.17% (474 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.15% (472 commits)
@@ -199,11 +199,11 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
-- AxiaFunder/axiafunder — Merge pull request #88 from AxiaFunder/db/phase-4-2a-hdr-tranche-status-backfill
-- AxiaFunder/axiafunder — chore: rename linked columns in links jsonb column
-- AxiaFunder/axiafunder — Move linkedProceedIds/linkedRepaymentIds from payload into links
-- AxiaFunder/axiafunder — Phase 4.2a: backfill hdr_tranche_report_status into report, redirect 3 FKs
-- AxiaFunder/axiafunder — Merge pull request #87 from AxiaFunder/db/phase-4-1c-deprecate-hdr-quarterly-status
+- AxiaFunder/axiafunder — Merge pull request #95 from AxiaFunder/db/phase-5-2c-deprecate-pending-trustee
+- AxiaFunder/axiafunder — chore: deprecate pending_trustee_invoice after pending_item cutover
+- AxiaFunder/axiafunder — Merge pull request #94 from AxiaFunder/db/phase-5-2a-pending-item-trustee-backfill
+- AxiaFunder/axiafunder — feat: backfill pending_trustee_invoice into pending_item
+- AxiaFunder/axiafunder — Merge pull request #93 from AxiaFunder/db/phase-5-1c-deprecate-pending-fmi
 - Pragash-Mohanarajah/human-language-evolution — docs: Session 28 log: Kern rubbings checked by eye, D210 filter failed, review sheets prepared
 - Pragash-Mohanarajah/human-language-evolution — docs: Session 27 log: D210 filter outcome and the pending list
 - Pragash-Mohanarajah/human-language-evolution — feat: Kern fragment and blob filter fails its preregistered rules, 44.5% letters in the kept set against 80% (D210)
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 07 Oct 2026 10:41:44 GMT_
+_Last updated on Wed, 07 Oct 2026 18:07:40 GMT_
 <!-- DEV_METRICS_END -->
