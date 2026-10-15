@@ -81,20 +81,20 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,822
-- 💖 Commit Breakdown: 562 public (4.8%), 11,260 private (95.2%) · 7,533 owned (63.7%), 4,289 contributed (36.3%)
+- ✨ Total Commits: 11,836
+- 💖 Commit Breakdown: 562 public (4.7%), 11,274 private (95.3%) · 7,547 owned (63.8%), 4,289 contributed (36.2%)
 - 🚀 Repositories: 98 (35 public (35.7%), 63 private (64.3%))
 - 👤 Ownership: 89 owned (90.8%), 9 contributed-to (9.2%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,948,914
+- 🧠 Estimated Lines of Code: 1,949,278
 - 🤝 Followers: 3 · Following: 11
-- 📅 Account age: 2,102 days
+- 📅 Account age: 2,103 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  34.58% (673,946 LOC)
-Python               ████                       14.54% (283,366 LOC)
-TypeScript           ████                       14.13% (275,324 LOC)
+C                    █████████                  34.57% (673,946 LOC)
+Python               ████                       14.56% (283,733 LOC)
+TypeScript           ████                       14.12% (275,321 LOC)
 Jupyter Notebook     ███                        11.26% (219,406 LOC)
 JavaScript           ██                          6.88% (134,062 LOC)
 HTML                 █                           5.86% (114,206 LOC)
@@ -116,9 +116,9 @@ Dockerfile           █                           4.33% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  34.58% (33,697,286 bytes)
-Python               ████                       14.54% (14,168,258 bytes)
-TypeScript           ████                       14.13% (13,766,248 bytes)
+C                    █████████                  34.57% (33,697,286 bytes)
+Python               ████                       14.56% (14,186,616 bytes)
+TypeScript           ████                       14.12% (13,766,116 bytes)
 Jupyter Notebook     ███                        11.26% (10,970,311 bytes)
 JavaScript           ██                          6.88% (6,703,096 bytes)
 HTML                 █                           5.86% (5,710,356 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.12% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.30% (1,233,677 LOC)
-Other                ███████                    28.11% (547,796 LOC)
+AI / ML              ████████████████           63.31% (1,234,044 LOC)
+Other                ███████                    28.10% (547,793 LOC)
 Web Apps             ██                          6.83% (133,064 LOC)
 Data Systems                                     1.76% (34,377 LOC)
 ```
@@ -156,7 +156,7 @@ C++                  █                           5.10% (5 repos)
 
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2205 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 933 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 947 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 458 commits · private)_
@@ -171,39 +171,39 @@ C++                  █                           5.10% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.51% (22 commits)
-Morning (06-12)      ██████████████             56.18% (2,433 commits)
-Afternoon (12-18)    ████████                   31.56% (1,367 commits)
+Morning (06-12)      ██████████████             56.04% (2,427 commits)
+Afternoon (12-18)    ████████                   31.70% (1,373 commits)
 Evening (18-24)      ███                        11.75% (509 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.52% (929 contributions)
-Monday               ███                        13.46% (1,664 contributions)
-Tuesday              █████                      18.04% (2,230 contributions)
-Wednesday            █████                      19.90% (2,459 contributions)
-Thursday             ████                       17.47% (2,159 contributions)
-Friday               ████                       16.95% (2,095 contributions)
-Saturday             ██                          6.65% (822 contributions)
+Sunday               ██                          7.51% (929 contributions)
+Monday               ███                        13.45% (1,664 contributions)
+Tuesday              █████                      18.02% (2,230 contributions)
+Wednesday            █████                      19.87% (2,459 contributions)
+Thursday             ████                       17.58% (2,176 contributions)
+Friday               ████                       16.93% (2,095 contributions)
+Saturday             ██                          6.64% (822 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.12% (2,260 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.65% (2,205 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.89% (933 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.28% (624 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.01% (474 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.01% (474 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.09% (2,260 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.63% (2,205 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.00% (947 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.27% (624 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.00% (474 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           4.00% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.87% (458 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/ai-hdr-inference — feat: add a text-only narrative_derived_status pass as uncategorised stage 5
-- Pragash-Mohanarajah/ai-hdr-inference — feat: write claim_id, neglect_status then custom_id as the leading NDJSON columns
-- Pragash-Mohanarajah/ai-hdr-inference — feat: add neglect_status and days_since_last_fee_earner_activity to the neglect output
-- Pragash-Mohanarajah/ai-hdr-inference — feat: report the specific signals behind each concern, on FLAGGED and FAILED cases
-- Pragash-Mohanarajah/ai-hdr-inference — feat: only count firm-to-client chases needed to progress the claim
+- Pragash-Mohanarajah/ai-hdr-inference — test: derive the clustered stage count in the deployment-guide test from the cluster list
+- Pragash-Mohanarajah/ai-hdr-inference — test: load the PIPELINE_STAGES_JSON from the deployment guide and start every provider with it
+- Pragash-Mohanarajah/ai-hdr-inference — docs: list the neglected stage entries and groups in the deployment guide
+- Pragash-Mohanarajah/ai-hdr-inference — feat: add the text-only narrative_derived_status pass to both neglected workflows
+- Pragash-Mohanarajah/ai-hdr-inference — feat: add a categorised neglected workflow for the use_rag pipeline
 - AxiaFunder/dashboard-axiafunder — Merge pull request #325 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — style: use the shared mode labels in the checksum viewer filter
 - AxiaFunder/dashboard-axiafunder — Merge pull request #324 from AxiaFunder/develop
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 15 Oct 2026 15:58:15 GMT_
+_Last updated on Thu, 15 Oct 2026 19:40:43 GMT_
 <!-- DEV_METRICS_END -->
