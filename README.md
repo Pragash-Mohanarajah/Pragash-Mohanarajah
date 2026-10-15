@@ -86,7 +86,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 - 🚀 Repositories: 98 (35 public (35.7%), 63 private (64.3%))
 - 👤 Ownership: 89 owned (90.8%), 9 contributed-to (9.2%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,948,036
+- 🧠 Estimated Lines of Code: 1,948,101
 - 🤝 Followers: 3 · Following: 11
 - 📅 Account age: 2,102 days
 
@@ -94,7 +94,7 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ```
 C                    █████████                  34.60% (673,946 LOC)
 Python               ████                       14.53% (283,049 LOC)
-TypeScript           ████                       14.10% (274,763 LOC)
+TypeScript           ████                       14.11% (274,828 LOC)
 Jupyter Notebook     ███                        11.26% (219,406 LOC)
 JavaScript           ██                          6.88% (134,062 LOC)
 HTML                 █                           5.86% (114,206 LOC)
@@ -118,7 +118,7 @@ Dockerfile           █                           4.33% (11 repos)
 ```
 C                    █████████                  34.60% (33,697,286 bytes)
 Python               ████                       14.53% (14,152,434 bytes)
-TypeScript           ████                       14.10% (13,738,202 bytes)
+TypeScript           ████                       14.11% (13,741,419 bytes)
 Jupyter Notebook     ███                        11.26% (10,970,311 bytes)
 JavaScript           ██                          6.88% (6,703,096 bytes)
 HTML                 █                           5.86% (5,710,356 bytes)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.12% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.31% (1,233,360 LOC)
-Other                ███████                    28.09% (547,235 LOC)
+Other                ███████                    28.09% (547,300 LOC)
 Web Apps             ██                          6.83% (133,064 LOC)
 Data Systems                                     1.76% (34,377 LOC)
 ```
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 14 Oct 2026 22:50:45 GMT_
+_Last updated on Thu, 15 Oct 2026 02:22:00 GMT_
 <!-- DEV_METRICS_END -->
