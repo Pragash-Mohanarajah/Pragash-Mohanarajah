@@ -79,22 +79,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 2 days
+- 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 11,865
-- 💖 Commit Breakdown: 562 public (4.7%), 11,303 private (95.3%) · 7,547 owned (63.6%), 4,318 contributed (36.4%)
+- ✨ Total Commits: 11,870
+- 💖 Commit Breakdown: 562 public (4.7%), 11,308 private (95.3%) · 7,547 owned (63.6%), 4,323 contributed (36.4%)
 - 🚀 Repositories: 98 (35 public (35.7%), 63 private (64.3%))
 - 👤 Ownership: 89 owned (90.8%), 9 contributed-to (9.2%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,951,899
+- 🧠 Estimated Lines of Code: 1,951,981
 - 🤝 Followers: 2 · Following: 11
-- 📅 Account age: 2,108 days
+- 📅 Account age: 2,109 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  34.53% (673,946 LOC)
 Python               ████                       14.54% (283,733 LOC)
-TypeScript           ████                       14.23% (277,779 LOC)
+TypeScript           ████                       14.23% (277,861 LOC)
 Jupyter Notebook     ███                        11.24% (219,406 LOC)
 JavaScript           ██                          6.88% (134,225 LOC)
 HTML                 █                           5.85% (114,206 LOC)
@@ -118,7 +118,7 @@ Dockerfile           █                           4.33% (11 repos)
 ```
 C                    █████████                  34.53% (33,697,286 bytes)
 Python               ████                       14.54% (14,186,616 bytes)
-TypeScript           ████                       14.23% (13,888,988 bytes)
+TypeScript           ████                       14.23% (13,893,065 bytes)
 Jupyter Notebook     ███                        11.24% (10,970,311 bytes)
 JavaScript           ██                          6.88% (6,711,267 bytes)
 HTML                 █                           5.85% (5,710,356 bytes)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.12% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           63.22% (1,234,044 LOC)
-Other                ███████                    28.20% (550,414 LOC)
+Other                ███████                    28.20% (550,496 LOC)
 Web Apps             ██                          6.82% (133,064 LOC)
 Data Systems                                     1.76% (34,377 LOC)
 ```
@@ -162,7 +162,7 @@ C++                  █                           5.10% (5 repos)
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 458 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 2287 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 2292 commits · private)_
 - AxiaFunder/ai-hdr-core — Split from ai-hdr-inference _(AI / ML · 624 commits · private)_
 - AxiaFunder/ai-hdr-provider-prompts — Split from ai-hdr-inference _(AI / ML · 124 commits · private)_
 - AxiaFunder/axiafunder — Monorepo for Axiafunder Applications _(Other · 110 commits · private)_
@@ -172,24 +172,24 @@ C++                  █                           5.10% (5 repos)
 ```
 Night (00-06)                                    0.51% (22 commits)
 Morning (06-12)      ██████████████             56.06% (2,429 commits)
-Afternoon (12-18)    ████████                   31.69% (1,373 commits)
-Evening (18-24)      ███                        11.75% (509 commits)
+Afternoon (12-18)    ████████                   31.64% (1,371 commits)
+Evening (18-24)      ███                        11.79% (511 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.48% (929 contributions)
 Monday               ███                        13.54% (1,681 contributions)
-Tuesday              █████                      18.01% (2,235 contributions)
-Wednesday            █████                      19.81% (2,459 contributions)
-Thursday             ████                       17.53% (2,176 contributions)
-Friday               ████                       17.00% (2,110 contributions)
+Tuesday              ████                       18.00% (2,235 contributions)
+Wednesday            █████                      19.85% (2,465 contributions)
+Thursday             ████                       17.52% (2,176 contributions)
+Friday               ████                       16.99% (2,110 contributions)
 Saturday             ██                          6.62% (822 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.28% (2,287 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.31% (2,292 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.58% (2,205 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.98% (947 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.26% (624 commits)
@@ -199,11 +199,11 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
-- AxiaFunder/dashboard-axiafunder — Merge pull request #332 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — feat: add bulk earned interest update from the bank transactions report
-- AxiaFunder/dashboard-axiafunder — feat: add update-earned-interest operation with a stored-date double-count guard
-- AxiaFunder/dashboard-axiafunder — feat: add bulk bank balance update from the iPortal balance export
-- AxiaFunder/dashboard-axiafunder — Merge pull request #331 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — Merge pull request #333 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — fix: retry transient Google API errors on all remaining Drive and Sheets calls
+- AxiaFunder/dashboard-axiafunder — refactor: share one retrying, duplicate-safe Drive upload across automations
+- AxiaFunder/dashboard-axiafunder — refactor: move Google retry helpers to lib/utils
+- AxiaFunder/dashboard-axiafunder — fix: retry transient Google Drive 500s when generating settlement statements
 - AxiaFunder/axiafunder — Merge pull request #114 from AxiaFunder/db/extend-for-investor-update-emails
 - AxiaFunder/axiafunder — feat: extend template and job_run_status checks for investor update emails
 - Pragash-Mohanarajah/ai-hdr-inference — test: derive the clustered stage count in the deployment-guide test from the cluster list
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 21 Oct 2026 16:18:44 GMT_
+_Last updated on Wed, 21 Oct 2026 22:53:46 GMT_
 <!-- DEV_METRICS_END -->
