@@ -79,24 +79,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 5 days
+- 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 12,109
-- 💖 Commit Breakdown: 562 public (4.6%), 11,547 private (95.4%) · 7,765 owned (64.1%), 4,344 contributed (35.9%)
+- ✨ Total Commits: 12,124
+- 💖 Commit Breakdown: 562 public (4.6%), 11,562 private (95.4%) · 7,780 owned (64.2%), 4,344 contributed (35.8%)
 - 🚀 Repositories: 98 (35 public (35.7%), 63 private (64.3%))
 - 👤 Ownership: 89 owned (90.8%), 9 contributed-to (9.2%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,974,304
+- 🧠 Estimated Lines of Code: 1,975,473
 - 🤝 Followers: 2 · Following: 11
 - 📅 Account age: 2,111 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    █████████                  34.14% (673,946 LOC)
-Python               ████                       15.46% (305,208 LOC)
-TypeScript           ████                       14.12% (278,709 LOC)
+C                    █████████                  34.12% (673,946 LOC)
+Python               ████                       15.51% (306,377 LOC)
+TypeScript           ████                       14.11% (278,709 LOC)
 Jupyter Notebook     ███                        11.11% (219,406 LOC)
-JavaScript           ██                          6.80% (134,225 LOC)
+JavaScript           ██                          6.79% (134,225 LOC)
 HTML                 █                           5.78% (114,206 LOC)
 Makefile             █                           3.14% (62,016 LOC)
 Roff                 █                           2.74% (54,070 LOC)
@@ -116,11 +116,11 @@ Dockerfile           █                           4.33% (11 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    █████████                  34.14% (33,697,286 bytes)
-Python               ████                       15.46% (15,260,354 bytes)
-TypeScript           ████                       14.12% (13,935,493 bytes)
+C                    █████████                  34.12% (33,697,286 bytes)
+Python               ████                       15.51% (15,318,808 bytes)
+TypeScript           ████                       14.11% (13,935,493 bytes)
 Jupyter Notebook     ███                        11.11% (10,970,311 bytes)
-JavaScript           ██                          6.80% (6,711,267 bytes)
+JavaScript           ██                          6.79% (6,711,267 bytes)
 HTML                 █                           5.78% (5,710,356 bytes)
 ```
 
@@ -134,8 +134,8 @@ Data Systems         ██                          6.12% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.59% (1,255,519 LOC)
-Other                ███████                    27.93% (551,344 LOC)
+AI / ML              ████████████████           63.56% (1,255,519 LOC)
+Other                ███████                    27.97% (552,513 LOC)
 Web Apps             ██                          6.74% (133,064 LOC)
 Data Systems                                     1.74% (34,377 LOC)
 ```
@@ -171,27 +171,27 @@ C++                  █                           5.10% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.51% (22 commits)
-Morning (06-12)      ██████████████             56.48% (2,452 commits)
-Afternoon (12-18)    ████████                   31.14% (1,352 commits)
-Evening (18-24)      ███                        11.86% (515 commits)
+Morning (06-12)      ██████████████             56.49% (2,453 commits)
+Afternoon (12-18)    ████████                   31.44% (1,365 commits)
+Evening (18-24)      ███                        11.56% (502 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.34% (929 contributions)
-Monday               ███                        13.43% (1,701 contributions)
-Tuesday              █████                      18.09% (2,291 contributions)
-Wednesday            █████                      19.64% (2,487 contributions)
-Thursday             ████                       17.56% (2,223 contributions)
-Friday               ████                       17.44% (2,208 contributions)
-Saturday             ██                          6.49% (822 contributions)
+Sunday               ██                          7.33% (929 contributions)
+Monday               ███                        13.42% (1,701 contributions)
+Tuesday              █████                      18.07% (2,291 contributions)
+Wednesday            █████                      19.62% (2,487 contributions)
+Thursday             ████                       17.54% (2,223 contributions)
+Friday               ████                       17.42% (2,208 contributions)
+Saturday             ██                          6.61% (838 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.10% (2,313 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.21% (2,205 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.99% (1,089 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.08% (2,313 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.19% (2,205 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.98% (1,089 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.15% (624 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.54% (550 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           3.91% (474 commits)
@@ -199,6 +199,11 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/human-language-evolution — feat: traced TBSI glyph manifest with sheet date and alignment, reported apart from real cuts in the coverage report; Session 29 log
+- Pragash-Mohanarajah/human-language-evolution — feat: the TBSI tracings are aligned with the stone on 39 of 93 sheets and 93.3% of traced glyphs are whole letters (D214)
+- Pragash-Mohanarajah/human-language-evolution — fix: clear stale glyphs when the tracing is saved again; the first D214 letter check is recorded as an invalid run and repeated on a new sample
+- Pragash-Mohanarajah/human-language-evolution — feat: alignment of the TBSI tracings with the stone and the letter check of traced glyphs, written before any sheet is scored (D214)
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister the alignment of the TBSI tracings with the stone and a letter check of the traced glyphs (D214)
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: release notes for v4.2
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: retry the server-side copy from the raw cache, and upload from disk if it keeps failing
 - Pragash-Mohanarajah/ai-hdr-inference — perf: embed a case once for every stage, build it once across stages, and embed batches side by side
@@ -209,11 +214,6 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: add the retrieval token cap to the v4.1 notes
 - Pragash-Mohanarajah/ai-hdr-inference — fix: name a stage's retrieved pages by run so forked runs do not overwrite each other
 - Pragash-Mohanarajah/ai-hdr-inference — feat: cap the pages a case sends at a retrieval stage, and retrieve for cases side by side
-- AxiaFunder/dashboard-axiafunder — Merge pull request #337 from AxiaFunder/develop
-- AxiaFunder/dashboard-axiafunder — refactor: share the remaining date formatters
-- AxiaFunder/dashboard-axiafunder — refactor: port the partners list date parsers into lib/utils/dates
-- AxiaFunder/dashboard-axiafunder — refactor: use shared UTC month and date formatters in the HDR reports
-- AxiaFunder/dashboard-axiafunder — refactor: move the default tax date formatter into lib/utils/dates
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 24 Oct 2026 15:04:07 GMT_
+_Last updated on Sat, 24 Oct 2026 18:27:22 GMT_
 <!-- DEV_METRICS_END -->
