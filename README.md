@@ -81,22 +81,22 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 12,128
-- 💖 Commit Breakdown: 562 public (4.6%), 11,566 private (95.4%) · 7,784 owned (64.2%), 4,344 contributed (35.8%)
+- ✨ Total Commits: 12,139
+- 💖 Commit Breakdown: 562 public (4.6%), 11,577 private (95.4%) · 7,795 owned (64.2%), 4,344 contributed (35.8%)
 - 🚀 Repositories: 98 (35 public (35.7%), 63 private (64.3%))
 - 👤 Ownership: 89 owned (90.8%), 9 contributed-to (9.2%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,975,776
+- 🧠 Estimated Lines of Code: 1,976,055
 - 🤝 Followers: 2 · Following: 11
 - 📅 Account age: 2,112 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  34.11% (673,946 LOC)
-Python               ████                       15.52% (306,680 LOC)
-TypeScript           ████                       14.11% (278,709 LOC)
+Python               ████                       15.53% (306,882 LOC)
+TypeScript           ████                       14.11% (278,782 LOC)
 Jupyter Notebook     ███                        11.10% (219,406 LOC)
-JavaScript           ██                          6.79% (134,225 LOC)
+JavaScript           ██                          6.79% (134,229 LOC)
 HTML                 █                           5.78% (114,206 LOC)
 Makefile             █                           3.14% (62,016 LOC)
 Roff                 █                           2.74% (54,070 LOC)
@@ -117,10 +117,10 @@ Dockerfile           █                           4.33% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  34.11% (33,697,286 bytes)
-Python               ████                       15.52% (15,333,978 bytes)
-TypeScript           ████                       14.11% (13,935,493 bytes)
+Python               ████                       15.53% (15,344,047 bytes)
+TypeScript           ████                       14.11% (13,939,127 bytes)
 Jupyter Notebook     ███                        11.10% (10,970,311 bytes)
-JavaScript           ██                          6.79% (6,711,267 bytes)
+JavaScript           ██                          6.79% (6,711,458 bytes)
 HTML                 █                           5.78% (5,710,356 bytes)
 ```
 
@@ -134,8 +134,8 @@ Data Systems         ██                          6.12% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.55% (1,255,519 LOC)
-Other                ███████                    27.98% (552,816 LOC)
+AI / ML              ████████████████           63.54% (1,255,596 LOC)
+Other                ███████                    27.99% (553,018 LOC)
 Web Apps             ██                          6.73% (133,064 LOC)
 Data Systems                                     1.74% (34,377 LOC)
 ```
@@ -170,50 +170,50 @@ C++                  █                           5.10% (5 repos)
 
 ### 📅 Productivity by Time of Day
 ```
-Night (00-06)                                    0.51% (22 commits)
-Morning (06-12)      ██████████████             56.49% (2,453 commits)
-Afternoon (12-18)    ████████                   31.44% (1,365 commits)
-Evening (18-24)      ███                        11.56% (502 commits)
+Night (00-06)                                    0.46% (20 commits)
+Morning (06-12)      ██████████████             56.39% (2,449 commits)
+Afternoon (12-18)    ████████                   31.48% (1,367 commits)
+Evening (18-24)      ███                        11.67% (507 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          7.33% (929 contributions)
-Monday               ███                        13.41% (1,701 contributions)
-Tuesday              █████                      18.07% (2,291 contributions)
-Wednesday            █████                      19.61% (2,487 contributions)
-Thursday             ████                       17.53% (2,223 contributions)
-Friday               ████                       17.41% (2,208 contributions)
-Saturday             ██                          6.64% (842 contributions)
+Sunday               ██                          7.32% (929 contributions)
+Monday               ███                        13.40% (1,701 contributions)
+Tuesday              █████                      18.05% (2,291 contributions)
+Wednesday            █████                      19.60% (2,487 contributions)
+Thursday             ████                       17.51% (2,223 contributions)
+Friday               ████                       17.40% (2,208 contributions)
+Saturday             ██                          6.72% (853 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.07% (2,313 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.18% (2,205 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.98% (1,089 commits)
-AxiaFunder/ai-hdr-core                                                      █                           5.15% (624 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.05% (2,313 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.16% (2,205 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          8.97% (1,089 commits)
+AxiaFunder/ai-hdr-core                                                      █                           5.14% (624 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.53% (550 commits)
-Pragash-Mohanarajah/exambank-ai-frontend                                    █                           3.91% (474 commits)
-Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.78% (458 commits)
+Pragash-Mohanarajah/exambank-ai-frontend                                    █                           3.90% (474 commits)
+Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.77% (458 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/portfolio — Merge pull request #17 from Pragash-Mohanarajah/claude
+- Pragash-Mohanarajah/portfolio — Apply the same letterbox fix to the About page's profile photo
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister joining the pieces of a Kern letter before it is cut, with a yield floor (D217)
+- Pragash-Mohanarajah/portfolio — Letterbox non-square logos/media, make certificate link visible
+- Pragash-Mohanarajah/human-language-evolution — feat: stroke network trained on the aligned TBSI tracings with five sheet folds, written before it is trained or scored (D216)
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister a stroke network trained on the aligned TBSI tracings and scored on held-out sheets (D216)
 - Pragash-Mohanarajah/human-language-evolution — feat: the second learned Kern letter filter passes its preregistered floors, 96.3% letters in the kept set and 1,116 of 3,796 cuts kept, provisional on the owner audit (D215)
+- Pragash-Mohanarajah/portfolio — Restore About colours properly, equalize accordion images, modernize bottom links
 - Pragash-Mohanarajah/human-language-evolution — docs: the D215 test sample labelled blind before the filter is applied (360 glyphs, seed 20261028)
-- Pragash-Mohanarajah/human-language-evolution — feat: second learned Kern letter filter with neighbourhood and embedding features and an out-of-fold threshold; chosen on the training labels only, before the test sample is drawn (D215)
-- Pragash-Mohanarajah/human-language-evolution — docs: preregister a second learned letter filter for the Kern cuts, with more labels, neighbourhood and embedding features and an out-of-fold operating point (D215)
-- Pragash-Mohanarajah/human-language-evolution — feat: traced TBSI glyph manifest with sheet date and alignment, reported apart from real cuts in the coverage report; Session 29 log
+- Pragash-Mohanarajah/portfolio — Relocate links, color-code About sections, fix accordion hierarchy
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: release notes for v4.2
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: retry the server-side copy from the raw cache, and upload from disk if it keeps failing
 - Pragash-Mohanarajah/ai-hdr-inference — perf: embed a case once for every stage, build it once across stages, and embed batches side by side
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: add the retry thinking settings to the v4.1 notes
 - Pragash-Mohanarajah/ai-hdr-file-converter — feat: send the retry thinking settings with a run
-- Pragash-Mohanarajah/ai-hdr-inference — feat: let retries think less, from a chosen attempt
-- Pragash-Mohanarajah/ai-hdr-inference — fix: call the tracking workflow from the parent workflow with the connector's own arguments
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: add the retrieval token cap to the v4.1 notes
-- Pragash-Mohanarajah/ai-hdr-inference — fix: name a stage's retrieved pages by run so forked runs do not overwrite each other
-- Pragash-Mohanarajah/ai-hdr-inference — feat: cap the pages a case sends at a retrieval stage, and retrieve for cases side by side
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 24 Oct 2026 22:07:03 GMT_
+_Last updated on Sun, 25 Oct 2026 02:18:31 GMT_
 <!-- DEV_METRICS_END -->
