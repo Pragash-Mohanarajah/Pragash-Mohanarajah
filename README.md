@@ -81,19 +81,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 1 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 12,186
-- 💖 Commit Breakdown: 562 public (4.6%), 11,624 private (95.4%) · 7,831 owned (64.3%), 4,355 contributed (35.7%)
+- ✨ Total Commits: 12,191
+- 💖 Commit Breakdown: 562 public (4.6%), 11,629 private (95.4%) · 7,836 owned (64.3%), 4,355 contributed (35.7%)
 - 🚀 Repositories: 98 (35 public (35.7%), 63 private (64.3%))
 - 👤 Ownership: 89 owned (90.8%), 9 contributed-to (9.2%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 1,979,631
+- 🧠 Estimated Lines of Code: 1,979,699
 - 🤝 Followers: 2 · Following: 11
-- 📅 Account age: 2,113 days
+- 📅 Account age: 2,114 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    █████████                  34.04% (673,946 LOC)
-Python               ████                       15.67% (310,274 LOC)
+Python               ████                       15.68% (310,342 LOC)
 TypeScript           ████                       14.09% (278,966 LOC)
 Jupyter Notebook     ███                        11.08% (219,406 LOC)
 JavaScript           ██                          6.78% (134,229 LOC)
@@ -117,7 +117,7 @@ Dockerfile           █                           4.33% (11 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    █████████                  34.04% (33,697,286 bytes)
-Python               ████                       15.67% (15,513,657 bytes)
+Python               ████                       15.68% (15,517,058 bytes)
 TypeScript           ████                       14.09% (13,948,331 bytes)
 Jupyter Notebook     ███                        11.08% (10,970,311 bytes)
 JavaScript           ██                          6.78% (6,711,458 bytes)
@@ -134,7 +134,7 @@ Data Systems         ██                          6.12% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           63.60% (1,258,988 LOC)
+AI / ML              ████████████████           63.60% (1,259,056 LOC)
 Other                ███████                    27.94% (553,202 LOC)
 Web Apps             ██                          6.72% (133,064 LOC)
 Data Systems                                     1.74% (34,377 LOC)
@@ -157,7 +157,7 @@ C++                  █                           5.10% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2205 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 1118 commits · private)_
-- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 557 commits · private)_
+- Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 562 commits · private)_
 - Pragash-Mohanarajah/exambank-ai-frontend — Exambank AI - Frontend Code Repository (forked from AlphaFactory/exambank-fro... _(AI / ML · 474 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 458 commits · private)_
 
@@ -171,46 +171,46 @@ C++                  █                           5.10% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.46% (20 commits)
-Morning (06-12)      ██████████████             56.22% (2,442 commits)
-Afternoon (12-18)    ████████                   31.65% (1,375 commits)
-Evening (18-24)      ███                        11.67% (507 commits)
+Morning (06-12)      ██████████████             56.19% (2,441 commits)
+Afternoon (12-18)    ████████                   31.56% (1,371 commits)
+Evening (18-24)      ███                        11.79% (512 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          7.29% (929 contributions)
-Monday               ███                        13.75% (1,752 contributions)
-Tuesday              ████                       17.98% (2,291 contributions)
-Wednesday            █████                      19.52% (2,487 contributions)
+Monday               ███                        13.78% (1,757 contributions)
+Tuesday              ████                       17.97% (2,291 contributions)
+Wednesday            █████                      19.51% (2,487 contributions)
 Thursday             ████                       17.44% (2,223 contributions)
-Friday               ████                       17.33% (2,208 contributions)
+Friday               ████                       17.32% (2,208 contributions)
 Saturday             ██                          6.69% (853 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             █████                      19.07% (2,324 commits)
+AxiaFunder/dashboard-axiafunder                                             █████                      19.06% (2,324 commits)
 Pragash-Mohanarajah/dashboard-axiafunder                                    █████                      18.09% (2,205 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          9.17% (1,118 commits)
 AxiaFunder/ai-hdr-core                                                      █                           5.12% (624 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.57% (557 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.61% (562 commits)
 Pragash-Mohanarajah/exambank-ai-frontend                                    █                           3.89% (474 commits)
 Pragash-Mohanarajah/axia-lm-optimizer                                       █                           3.76% (458 commits)
 ```
 
 ### ⚡ Recent Activity
+- Pragash-Mohanarajah/ai-hdr-file-converter — docs: client and internal guides use convert instead of --convert_only
+- Pragash-Mohanarajah/ai-hdr-file-converter — feat: add a convert stage in place of --convert_only, so all then convert stops before inference
+- Pragash-Mohanarajah/ai-hdr-file-converter — docs: v4.3 changelog notes the all-stage change and the new guides
+- Pragash-Mohanarajah/ai-hdr-file-converter — docs: client onboarding and internal verification guides for per-client projects
+- Pragash-Mohanarajah/ai-hdr-file-converter — feat: stop --stages all before trigger so a client cannot start inference by accident
 - Pragash-Mohanarajah/ai-hdr-inference — fix: let the failed Part 36 stage fall back to settlement papers, as the ongoing one does
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: v4.3 changelog covers the failed groups, select and the bounded clone
 - Pragash-Mohanarajah/ai-hdr-inference — docs: document the offer split and the seven-stage clustered failed group
 - Pragash-Mohanarajah/ai-hdr-inference — feat: use the ongoing offer prompts and field text in the failed stages
 - Pragash-Mohanarajah/ai-hdr-inference — refactor: split the failed offers into Part 36 and other offers, as ongoing does
 - Pragash-Mohanarajah/ai-hdr-inference — feat: let the parent workflow clone an upload and fork each group with its own case list and gate
-- Pragash-Mohanarajah/ai-hdr-file-converter — feat: finish a select by repeating the bounded clone call, with progress
 - AxiaFunder/dashboard-axiafunder — Merge pull request #341 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — chore: move slack daily financials message to 5.30pm as usual
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: an uncategorised group is refused over categorised files too
-- Pragash-Mohanarajah/ai-hdr-file-converter — docs: one upload, several groups, each from its own case list
-- Pragash-Mohanarajah/ai-hdr-file-converter — feat: split one cloud upload by case list: select, trigger later, convert only
 - AxiaFunder/dashboard-axiafunder — Merge pull request #340 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — refactor: hide replaced bank balance rows until expanded
 - AxiaFunder/dashboard-axiafunder — fix: use the most recent BAL DT per account in the bulk bank balance upload
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/axia-lm-optimizer                                       █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Mon, 26 Oct 2026 17:54:44 GMT_
+_Last updated on Mon, 26 Oct 2026 23:27:58 GMT_
 <!-- DEV_METRICS_END -->
