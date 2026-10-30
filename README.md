@@ -79,21 +79,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 4 days
+- 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 14,111
-- 💖 Commit Breakdown: 562 public (4.0%), 13,549 private (96.0%) · 7,999 owned (56.7%), 6,112 contributed (43.3%)
+- ✨ Total Commits: 14,118
+- 💖 Commit Breakdown: 562 public (4.0%), 13,556 private (96.0%) · 8,006 owned (56.7%), 6,112 contributed (43.3%)
 - 🚀 Repositories: 100 (35 public (35.0%), 65 private (65.0%))
 - 👤 Ownership: 89 owned (89.0%), 11 contributed-to (11.0%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 2,086,894
+- 🧠 Estimated Lines of Code: 2,087,431
 - 🤝 Followers: 2 · Following: 11
 - 📅 Account age: 2,117 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ████████                   32.29% (673,946 LOC)
-Python               █████                      19.88% (414,952 LOC)
+Python               █████                      19.90% (415,489 LOC)
 TypeScript           ███                        13.37% (279,081 LOC)
 Jupyter Notebook     ███                        10.59% (221,042 LOC)
 JavaScript           ██                          6.43% (134,229 LOC)
@@ -117,7 +117,7 @@ Jupyter Notebook     █                           5.26% (14 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ████████                   32.29% (33,697,286 bytes)
-Python               █████                      19.88% (20,747,518 bytes)
+Python               █████                      19.90% (20,774,360 bytes)
 TypeScript           ███                        13.37% (13,954,087 bytes)
 Jupyter Notebook     ███                        10.59% (11,052,126 bytes)
 JavaScript           ██                          6.43% (6,711,458 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.00% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           65.05% (1,357,489 LOC)
-Other                ███████                    26.92% (561,849 LOC)
+AI / ML              ████████████████           65.03% (1,357,489 LOC)
+Other                ███████                    26.94% (562,386 LOC)
 Web Apps             ██                          6.38% (133,179 LOC)
 Data Systems                                     1.65% (34,377 LOC)
 ```
@@ -171,26 +171,26 @@ C++                  █                           5.00% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.42% (20 commits)
-Morning (06-12)      ██████████████             57.02% (2,714 commits)
-Afternoon (12-18)    ████████                   30.97% (1,474 commits)
-Evening (18-24)      ███                        11.60% (552 commits)
+Morning (06-12)      ██████████████             57.13% (2,720 commits)
+Afternoon (12-18)    ████████                   30.85% (1,469 commits)
+Evening (18-24)      ███                        11.59% (552 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.37% (934 contributions)
-Monday               ███                        13.60% (1,995 contributions)
-Tuesday              ████                       17.83% (2,615 contributions)
-Wednesday            █████                      19.96% (2,927 contributions)
-Thursday             █████                      18.31% (2,686 contributions)
-Friday               ████                       17.97% (2,636 contributions)
-Saturday             █                           5.97% (875 contributions)
+Sunday               ██                          6.36% (934 contributions)
+Monday               ███                        13.59% (1,995 contributions)
+Tuesday              ████                       17.82% (2,615 contributions)
+Wednesday            █████                      19.95% (2,927 contributions)
+Thursday             █████                      18.30% (2,686 contributions)
+Friday               █████                      18.01% (2,643 contributions)
+Saturday             █                           5.96% (875 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ████                       16.47% (2,324 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       15.63% (2,205 commits)
+AxiaFunder/dashboard-axiafunder                                             ████                       16.46% (2,324 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       15.62% (2,205 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          8.33% (1,176 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.97% (1,125 commits)
 AxiaFunder/ai-hdr-core                                                      █                           4.46% (629 commits)
@@ -199,11 +199,11 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — feat: geography does not predict WALS typology between unrelated WOLD languages (rho 0.076, p 0.15), so typology has no demonstrated contact signal at this sample (D306)
-- Pragash-Mohanarajah/human-language-evolution — docs: preregister whether geography predicts WALS typology across families for the WOLD languages, with a rho floor of 0.10 and a Mantel p under 0.01 (D306)
-- Pragash-Mohanarajah/human-language-evolution — feat: a loanword's donor language is told from its sounds only 4 points better than the majority, and only for Spanish loans in the Americas, so donor identification needs more than phonotactics (D305)
-- Pragash-Mohanarajah/human-language-evolution — docs: preregister donor identification from loanword sounds on WOLD, recipient languages held out, with a 15-point margin and a 0.35 macro-F1 floor (D305)
-- Pragash-Mohanarajah/human-language-evolution — docs: correct which Brahmi sounds have no phoneme node in the D226 outcome
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister more pairs and a larger pair model for the Indo-European P1 gate (D234)
+- Pragash-Mohanarajah/human-language-evolution — feat: pretraining on more pairs with a larger pair model, and a fine-tuned variant V16, ready for E17 (D233)
+- Pragash-Mohanarajah/human-language-evolution — docs: name the unsupervised LexStat figure behind the 76.6% Indo-European gate in the E16 reading (D232)
+- Pragash-Mohanarajah/human-language-evolution — feat: a pair model pretrained on 43 other families reaches 77.9% F1 on Dravidian alone and lifts V9 from 81.3% to 82.5%, still short of 85% (D231, D232)
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister the same cross-family pretraining for the Indo-European P1 gate under E4's protocol (D232)
 - AxiaFunder/ai-hdr-core — chore: record published state (sdk@v0.2.4 derive@v0.2.7 prompts@v0.2.7)
 - AxiaFunder/ai-hdr-core — chore: publish personal/main to ai-hdr-core, pins sdk@v0.2.4 derive@v0.2.7 prompts@v0.2.7
 - AxiaFunder/ai-hdr-core — fix: ignore the usage report folders in core's own .gitignore
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 30 Oct 2026 03:32:16 GMT_
+_Last updated on Fri, 30 Oct 2026 10:34:40 GMT_
 <!-- DEV_METRICS_END -->
