@@ -81,19 +81,19 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 14,151
-- 💖 Commit Breakdown: 562 public (4.0%), 13,589 private (96.0%) · 8,037 owned (56.8%), 6,114 contributed (43.2%)
+- ✨ Total Commits: 14,163
+- 💖 Commit Breakdown: 562 public (4.0%), 13,601 private (96.0%) · 8,049 owned (56.8%), 6,114 contributed (43.2%)
 - 🚀 Repositories: 100 (35 public (35.0%), 65 private (65.0%))
 - 👤 Ownership: 89 owned (89.0%), 11 contributed-to (11.0%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 2,088,309
+- 🧠 Estimated Lines of Code: 2,088,813
 - 🤝 Followers: 2 · Following: 11
-- 📅 Account age: 2,117 days
+- 📅 Account age: 2,118 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ████████                   32.27% (673,946 LOC)
-Python               █████                      19.94% (416,367 LOC)
+C                    ████████                   32.26% (673,946 LOC)
+Python               █████                      19.96% (416,871 LOC)
 TypeScript           ███                        13.36% (279,081 LOC)
 Jupyter Notebook     ███                        10.58% (221,042 LOC)
 JavaScript           ██                          6.43% (134,229 LOC)
@@ -116,8 +116,8 @@ Jupyter Notebook     █                           5.26% (14 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ████████                   32.27% (33,697,286 bytes)
-Python               █████                      19.94% (20,818,263 bytes)
+C                    ████████                   32.26% (33,697,286 bytes)
+Python               █████                      19.96% (20,843,456 bytes)
 TypeScript           ███                        13.36% (13,954,087 bytes)
 Jupyter Notebook     ███                        10.58% (11,052,126 bytes)
 JavaScript           ██                          6.43% (6,711,458 bytes)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.00% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           65.01% (1,357,595 LOC)
-Other                ███████                    26.97% (563,158 LOC)
+AI / ML              ████████████████           64.99% (1,357,595 LOC)
+Other                ███████                    26.98% (563,662 LOC)
 Web Apps             ██                          6.38% (133,179 LOC)
 Data Systems                                     1.65% (34,377 LOC)
 ```
@@ -172,44 +172,44 @@ C++                  █                           5.00% (5 repos)
 ```
 Night (00-06)                                    0.42% (20 commits)
 Morning (06-12)      ██████████████             57.37% (2,733 commits)
-Afternoon (12-18)    ████████                   30.88% (1,471 commits)
-Evening (18-24)      ███                        11.34% (540 commits)
+Afternoon (12-18)    ████████                   30.63% (1,459 commits)
+Evening (18-24)      ███                        11.59% (552 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
 Sunday               ██                          6.35% (934 contributions)
-Monday               ███                        13.56% (1,995 contributions)
-Tuesday              ████                       17.78% (2,615 contributions)
-Wednesday            █████                      19.90% (2,927 contributions)
-Thursday             █████                      18.26% (2,686 contributions)
-Friday               █████                      18.19% (2,676 contributions)
-Saturday             █                           5.95% (875 contributions)
+Monday               ███                        13.55% (1,995 contributions)
+Tuesday              ████                       17.76% (2,615 contributions)
+Wednesday            █████                      19.88% (2,927 contributions)
+Thursday             █████                      18.25% (2,686 contributions)
+Friday               █████                      18.26% (2,688 contributions)
+Saturday             █                           5.94% (875 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ████                       16.42% (2,324 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       15.58% (2,205 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          8.31% (1,176 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.95% (1,125 commits)
+AxiaFunder/dashboard-axiafunder                                             ████                       16.41% (2,324 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       15.57% (2,205 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          8.30% (1,176 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.94% (1,125 commits)
 AxiaFunder/ai-hdr-core                                                      █                           4.44% (629 commits)
 AxiaFunder/ai-hdr-conversion                                                █                           4.06% (575 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.06% (574 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.05% (574 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: separate pretrained columns equal the character model alone, 83.6% for P1-Dravidian (D245)
+- Pragash-Mohanarajah/human-language-evolution — feat: squared-speed diffusion fails its barrier criteria (D307); E32 interrupted, partial record kept (D248); session 31 closed with how to resume
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister the cross-encoder fine-tuned on the training folds, with its V21 runner (D248)
+- Pragash-Mohanarajah/human-language-evolution — docs: the Session 31 close, results, engineering, pending decisions and how to resume (D400)
+- Pragash-Mohanarajah/human-language-evolution — feat: Grassmann's Law in Indo-Iranian and Hellenic, the palatals and the Hellenic labiovelars (D402)
+- Pragash-Mohanarajah/human-language-evolution — feat: the Phase 4A sound-law loader and forward simulation, Grimm's and Verner's Laws (D401)
 - Pragash-Mohanarajah/axia-lm-optimizer — docs: v4.7 changelog
 - AxiaFunder/ai-hdr-conversion — docs: v4.7 changelog
 - Pragash-Mohanarajah/ai-hdr-file-converter — docs: v4.7 changelog
 - Pragash-Mohanarajah/axia-lm-optimizer — fix: commit the pattern examples uploader that .gitignore had hidden
 - AxiaFunder/ai-hdr-conversion — fix: commit the pattern examples uploader that .gitignore had hidden
 - Pragash-Mohanarajah/ai-hdr-file-converter — fix: commit the pattern examples uploader that .gitignore had hidden
-- Pragash-Mohanarajah/human-language-evolution — feat: V19, the pretrained models as separate stacked columns, and the E29 runner (D245)
-- Pragash-Mohanarajah/human-language-evolution — feat: the pair cross-encoder on characters and its E28 runner (D244)
-- Pragash-Mohanarajah/human-language-evolution — docs: preregister a pair cross-encoder on characters (D244) and separate pretrained columns in the stack (D245) for P1-Dravidian
-- Pragash-Mohanarajah/human-language-evolution — docs: a frozen ByT5 encoder adds nothing to V9 for P1-Dravidian (81.3% against 81.3%) (D243)
 - AxiaFunder/ai-hdr-core — chore: record published state (sdk@v0.2.4 derive@v0.2.7 prompts@v0.2.7)
 - AxiaFunder/ai-hdr-core — chore: publish personal/main to ai-hdr-core, pins sdk@v0.2.4 derive@v0.2.7 prompts@v0.2.7
 - AxiaFunder/ai-hdr-core — fix: ignore the usage report folders in core's own .gitignore
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 30 Oct 2026 17:27:57 GMT_
+_Last updated on Fri, 30 Oct 2026 23:22:28 GMT_
 <!-- DEV_METRICS_END -->
