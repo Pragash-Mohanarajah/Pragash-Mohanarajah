@@ -79,21 +79,21 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 2 days
+- 🔥 Current Streak: 3 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 14,391
-- 💖 Commit Breakdown: 562 public (3.9%), 13,829 private (96.1%) · 8,248 owned (57.3%), 6,143 contributed (42.7%)
+- ✨ Total Commits: 14,395
+- 💖 Commit Breakdown: 562 public (3.9%), 13,833 private (96.1%) · 8,252 owned (57.3%), 6,143 contributed (42.7%)
 - 🚀 Repositories: 100 (35 public (35.0%), 65 private (65.0%))
 - 👤 Ownership: 89 owned (89.0%), 11 contributed-to (11.0%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 2,099,968
+- 🧠 Estimated Lines of Code: 2,100,068
 - 🤝 Followers: 2 · Following: 11
 - 📅 Account age: 2,122 days
 
 ### 📝 Lines of Code by Language
 ```
 C                    ████████                   32.09% (673,946 LOC)
-Python               █████                      20.06% (421,210 LOC)
+Python               █████                      20.06% (421,310 LOC)
 TypeScript           ███                        13.61% (285,734 LOC)
 Jupyter Notebook     ███                        10.53% (221,042 LOC)
 JavaScript           ██                          6.40% (134,392 LOC)
@@ -117,7 +117,7 @@ Jupyter Notebook     █                           5.26% (14 repos)
 ### 💾 Languages by Code Size (Bytes)
 ```
 C                    ████████                   32.09% (33,697,286 bytes)
-Python               █████                      20.06% (21,060,364 bytes)
+Python               █████                      20.06% (21,065,362 bytes)
 TypeScript           ███                        13.61% (14,286,754 bytes)
 Jupyter Notebook     ███                        10.53% (11,052,126 bytes)
 JavaScript           ██                          6.40% (6,719,629 bytes)
@@ -135,7 +135,7 @@ Data Systems         ██                          6.00% (6 repos)
 ### 🧮 Project Categories (by Estimated LOC)
 ```
 AI / ML              ████████████████           64.74% (1,359,575 LOC)
-Other                ███████                    26.99% (566,865 LOC)
+Other                ███████                    27.00% (566,965 LOC)
 Web Apps             ██                          6.63% (139,151 LOC)
 Data Systems                                     1.64% (34,377 LOC)
 ```
@@ -171,17 +171,17 @@ C++                  █                           5.00% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.42% (20 commits)
-Morning (06-12)      ██████████████             57.89% (2,761 commits)
-Afternoon (12-18)    ████████                   30.70% (1,464 commits)
-Evening (18-24)      ███                        10.99% (524 commits)
+Morning (06-12)      ██████████████             57.97% (2,765 commits)
+Afternoon (12-18)    ████████                   30.69% (1,464 commits)
+Evening (18-24)      ███                        10.92% (521 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.25% (934 contributions)
+Sunday               ██                          6.24% (934 contributions)
 Monday               ███                        13.96% (2,088 contributions)
 Tuesday              ████                       17.85% (2,670 contributions)
-Wednesday            █████                      19.76% (2,955 contributions)
+Wednesday            █████                      19.78% (2,959 contributions)
 Thursday             █████                      18.14% (2,713 contributions)
 Friday               █████                      18.18% (2,719 contributions)
 Saturday             █                           5.85% (875 contributions)
@@ -189,8 +189,8 @@ Saturday             █                           5.85% (875 contributions)
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ████                       16.25% (2,338 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.24% (2,337 commits)
+AxiaFunder/dashboard-axiafunder                                             ████                       16.24% (2,338 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.23% (2,337 commits)
 AxiaFunder/ai-hdr-inference                                                 ██                          8.25% (1,187 commits)
 Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.89% (1,136 commits)
 AxiaFunder/ai-hdr-core                                                      █                           4.37% (629 commits)
@@ -199,8 +199,11 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: Session 33 close with E42 still running and the resume steps (D269)
-- Pragash-Mohanarajah/human-language-evolution — feat: the cross-fitted fine-tunes can run on the GPU, about 7 times faster per step (D269)
+- Pragash-Mohanarajah/human-language-evolution — docs: D273 states only the minimum and mean it measured
+- Pragash-Mohanarajah/human-language-evolution — docs: the radius, not the fit, is the unstable quantity in the Indo-European embedding (D273)
+- Pragash-Mohanarajah/human-language-evolution — docs: the cross-encoder distance tracks the ASJP distance in Dravidian, rho 0.915 (D272)
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister the in-family pretraining pool (D270) and the larger cross-encoder (D271) for Indo-European
+- Pragash-Mohanarajah/human-language-evolution — feat: E43 to E45, the Indo-European cross-encoder with the in-family pool and the larger network (D270, D271)
 - AxiaFunder/ai-hdr-inference — docs: v4.12 changelog, ledger columns and the consolidated tab
 - Pragash-Mohanarajah/ai-hdr-inference — docs: v4.12 changelog, ledger columns and the consolidated tab
 - AxiaFunder/ai-hdr-inference — fix: show each ledger stage in the report's key: value | key: value shape
@@ -211,9 +214,6 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 - Pragash-Mohanarajah/ai-hdr-inference — feat: a consolidated tab with case_status for every workflow's report
 - Pragash-Mohanarajah/dashboard-axiafunder — Merge pull request #347 from AxiaFunder/develop
 - AxiaFunder/dashboard-axiafunder — Merge pull request #347 from AxiaFunder/develop
-- Pragash-Mohanarajah/dashboard-axiafunder — feat: add a colour key to the top of the trustee invoice sheet
-- AxiaFunder/dashboard-axiafunder — feat: add a colour key to the top of the trustee invoice sheet
-- Pragash-Mohanarajah/dashboard-axiafunder — fix: include the quarter in the trustee invoice already-saved check
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Wed, 04 Nov 2026 03:55:01 GMT_
+_Last updated on Wed, 04 Nov 2026 11:45:17 GMT_
 <!-- DEV_METRICS_END -->
