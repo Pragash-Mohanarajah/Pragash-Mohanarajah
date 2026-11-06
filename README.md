@@ -81,24 +81,24 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 5 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 14,518
-- 💖 Commit Breakdown: 562 public (3.9%), 13,956 private (96.1%) · 8,347 owned (57.5%), 6,171 contributed (42.5%)
+- ✨ Total Commits: 14,540
+- 💖 Commit Breakdown: 562 public (3.9%), 13,978 private (96.1%) · 8,369 owned (57.6%), 6,171 contributed (42.4%)
 - 🚀 Repositories: 100 (35 public (35.0%), 65 private (65.0%))
 - 👤 Ownership: 89 owned (89.0%), 11 contributed-to (11.0%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 2,105,359
+- 🧠 Estimated Lines of Code: 2,106,708
 - 🤝 Followers: 2 · Following: 11
-- 📅 Account age: 2,124 days
+- 📅 Account age: 2,125 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ████████                   32.01% (673,946 LOC)
-Python               █████                      20.19% (425,050 LOC)
-TypeScript           ███                        13.64% (287,149 LOC)
-Jupyter Notebook     ███                        10.50% (221,042 LOC)
+C                    ████████                   31.99% (673,946 LOC)
+Python               █████                      20.24% (426,399 LOC)
+TypeScript           ███                        13.63% (287,149 LOC)
+Jupyter Notebook     ███                        10.49% (221,042 LOC)
 JavaScript           ██                          6.38% (134,392 LOC)
-HTML                 █                           5.43% (114,275 LOC)
-Makefile             █                           2.95% (62,016 LOC)
+HTML                 █                           5.42% (114,275 LOC)
+Makefile             █                           2.94% (62,016 LOC)
 Roff                 █                           2.57% (54,070 LOC)
 ```
 
@@ -116,12 +116,12 @@ Jupyter Notebook     █                           5.26% (14 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ████████                   32.01% (33,697,286 bytes)
-Python               █████                      20.19% (21,252,393 bytes)
-TypeScript           ███                        13.64% (14,357,484 bytes)
-Jupyter Notebook     ███                        10.50% (11,052,126 bytes)
+C                    ████████                   31.99% (33,697,286 bytes)
+Python               █████                      20.24% (21,319,859 bytes)
+TypeScript           ███                        13.63% (14,357,484 bytes)
+Jupyter Notebook     ███                        10.49% (11,052,126 bytes)
 JavaScript           ██                          6.38% (6,719,629 bytes)
-HTML                 █                           5.43% (5,713,787 bytes)
+HTML                 █                           5.42% (5,713,787 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,8 +134,8 @@ Data Systems         ██                          6.00% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.61% (1,360,373 LOC)
-Other                ███████                    27.11% (570,736 LOC)
+AI / ML              ████████████████           64.57% (1,360,373 LOC)
+Other                ███████                    27.16% (572,085 LOC)
 Web Apps             ██                          6.64% (139,873 LOC)
 Data Systems                                     1.63% (34,377 LOC)
 ```
@@ -158,8 +158,8 @@ C++                  █                           5.00% (5 repos)
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2337 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 1138 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 578 commits · private)_
+- Pragash-Mohanarajah/human-language-evolution _(Other · 574 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 564 commits · private)_
-- Pragash-Mohanarajah/human-language-evolution _(Other · 552 commits · private)_
 
 ### 🤝 Top Contributed Projects
 - AxiaFunder/dashboard-axiafunder _(Other · 2355 commits · private)_
@@ -172,38 +172,38 @@ C++                  █                           5.00% (5 repos)
 ```
 Night (00-06)                                    0.42% (20 commits)
 Morning (06-12)      ██████████████             57.82% (2,761 commits)
-Afternoon (12-18)    ████████                   30.83% (1,472 commits)
-Evening (18-24)      ███                        10.93% (522 commits)
+Afternoon (12-18)    ████████                   30.62% (1,462 commits)
+Evening (18-24)      ███                        11.14% (532 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.19% (934 contributions)
-Monday               ███                        13.83% (2,088 contributions)
-Tuesday              ████                       17.68% (2,670 contributions)
-Wednesday            █████                      19.86% (2,998 contributions)
-Thursday             █████                      18.33% (2,768 contributions)
-Friday               █████                      18.32% (2,766 contributions)
-Saturday             █                           5.80% (875 contributions)
+Sunday               ██                          6.18% (934 contributions)
+Monday               ███                        13.81% (2,088 contributions)
+Tuesday              ████                       17.66% (2,670 contributions)
+Wednesday            █████                      19.83% (2,998 contributions)
+Thursday             █████                      18.31% (2,768 contributions)
+Friday               █████                      18.44% (2,788 contributions)
+Saturday             █                           5.79% (875 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ████                       16.22% (2,355 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.10% (2,337 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          8.19% (1,189 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.84% (1,138 commits)
+AxiaFunder/dashboard-axiafunder                                             ████                       16.20% (2,355 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.07% (2,337 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          8.18% (1,189 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.83% (1,138 commits)
 AxiaFunder/ai-hdr-core                                                      █                           4.33% (629 commits)
-AxiaFunder/ai-hdr-conversion                                                █                           3.99% (579 commits)
+AxiaFunder/ai-hdr-conversion                                                █                           3.98% (579 commits)
 Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.98% (578 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: D00035 reserves numbers for D292 and the two fragment decisions of the experiment worktrees
-- Pragash-Mohanarajah/human-language-evolution — docs: D00035 lists the reserved numbers of the decisions that live only on local worktrees
-- Pragash-Mohanarajah/human-language-evolution — feat: docs-renumber-worktree brings the data worktrees to the final numbering and reserves numbers for their decisions (D00035)
-- Pragash-Mohanarajah/human-language-evolution — chore: the last old references follow the new numbers (COPYRIGHT, the removed decision D40, the regenerated indexes) (D00035)
-- Pragash-Mohanarajah/human-language-evolution — docs: the numbering page's file name follows its title (D00035)
+- Pragash-Mohanarajah/human-language-evolution — docs: Session 35 page, with the numbering, the data search and the Burnell extraction (D00035)
+- Pragash-Mohanarajah/human-language-evolution — Merge branch 'burnell-dravidian'
+- Pragash-Mohanarajah/human-language-evolution — docs: Burnell dated tables, extraction, hand check and drift per script, result (D20041)
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister E53, a learning curve over the number of training languages for the Indo-European cognate gate (D10174)
+- Pragash-Mohanarajah/human-language-evolution — feat: burnell-extract cuts the dated Dravidian letter tables and burnell-drift measures drift between plates (D20041)
 - Pragash-Mohanarajah/lingene-analyst — chore: decision numbers are D, the phase digit and the order in the phase (D00035)
 - Pragash-Mohanarajah/lingene-analyst — chore: references to the moved early decisions follow their new numbers (D0100)
 - Pragash-Mohanarajah/lingene-analyst — chore: decision numbers are four digits, the first naming the phase (D0100)
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Fri, 06 Nov 2026 18:41:18 GMT_
+_Last updated on Fri, 06 Nov 2026 23:52:55 GMT_
 <!-- DEV_METRICS_END -->
