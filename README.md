@@ -81,23 +81,23 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ### 🐱 GitHub Overview
 - 🔥 Current Streak: 4 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 14,427
-- 💖 Commit Breakdown: 562 public (3.9%), 13,865 private (96.1%) · 8,282 owned (57.4%), 6,145 contributed (42.6%)
+- ✨ Total Commits: 14,473
+- 💖 Commit Breakdown: 562 public (3.9%), 13,911 private (96.1%) · 8,302 owned (57.4%), 6,171 contributed (42.6%)
 - 🚀 Repositories: 100 (35 public (35.0%), 65 private (65.0%))
 - 👤 Ownership: 89 owned (89.0%), 11 contributed-to (11.0%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 2,101,350
+- 🧠 Estimated Lines of Code: 2,102,724
 - 🤝 Followers: 2 · Following: 11
-- 📅 Account age: 2,123 days
+- 📅 Account age: 2,124 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ████████                   32.07% (673,946 LOC)
-Python               █████                      20.11% (422,495 LOC)
-TypeScript           ███                        13.60% (285,831 LOC)
-Jupyter Notebook     ███                        10.52% (221,042 LOC)
-JavaScript           ██                          6.40% (134,392 LOC)
-HTML                 █                           5.43% (114,206 LOC)
+C                    ████████                   32.05% (673,946 LOC)
+Python               █████                      20.12% (423,048 LOC)
+TypeScript           ███                        13.63% (286,566 LOC)
+Jupyter Notebook     ███                        10.51% (221,042 LOC)
+JavaScript           ██                          6.39% (134,392 LOC)
+HTML                 █                           5.43% (114,275 LOC)
 Makefile             █                           2.95% (62,016 LOC)
 Roff                 █                           2.57% (54,070 LOC)
 ```
@@ -116,12 +116,12 @@ Jupyter Notebook     █                           5.26% (14 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ████████                   32.07% (33,697,286 bytes)
-Python               █████                      20.11% (21,124,674 bytes)
-TypeScript           ███                        13.60% (14,291,593 bytes)
-Jupyter Notebook     ███                        10.52% (11,052,126 bytes)
-JavaScript           ██                          6.40% (6,719,629 bytes)
-HTML                 █                           5.43% (5,710,356 bytes)
+C                    ████████                   32.05% (33,697,286 bytes)
+Python               █████                      20.12% (21,152,294 bytes)
+TypeScript           ███                        13.63% (14,328,337 bytes)
+Jupyter Notebook     ███                        10.51% (11,052,126 bytes)
+JavaScript           ██                          6.39% (6,719,629 bytes)
+HTML                 █                           5.43% (5,713,787 bytes)
 ```
 
 ### 🧩 Project Categories (by Repo Count)
@@ -134,10 +134,10 @@ Data Systems         ██                          6.00% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.74% (1,360,373 LOC)
-Other                ███████                    27.00% (567,449 LOC)
-Web Apps             ██                          6.62% (139,151 LOC)
-Data Systems                                     1.64% (34,377 LOC)
+AI / ML              ████████████████           64.70% (1,360,373 LOC)
+Other                ███████                    27.05% (568,734 LOC)
+Web Apps             ██                          6.62% (139,240 LOC)
+Data Systems                                     1.63% (34,377 LOC)
 ```
 
 ### 🏷️ Top Topics
@@ -159,10 +159,10 @@ C++                  █                           5.00% (5 repos)
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 1138 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 578 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 564 commits · private)_
-- Pragash-Mohanarajah/human-language-evolution _(Other · 497 commits · private)_
+- Pragash-Mohanarajah/human-language-evolution _(Other · 514 commits · private)_
 
 ### 🤝 Top Contributed Projects
-- AxiaFunder/dashboard-axiafunder _(Other · 2338 commits · private)_
+- AxiaFunder/dashboard-axiafunder _(Other · 2355 commits · private)_
 - AxiaFunder/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 1189 commits · private)_
 - AxiaFunder/ai-hdr-core — Split from ai-hdr-inference _(AI / ML · 629 commits · private)_
 - AxiaFunder/ai-hdr-conversion — File Converter Application: Conversion of Supported Files to PDF (Built with ... _(AI / ML · 579 commits · private)_
@@ -171,49 +171,49 @@ C++                  █                           5.00% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.42% (20 commits)
-Morning (06-12)      ██████████████             57.64% (2,750 commits)
-Afternoon (12-18)    ████████                   30.75% (1,467 commits)
-Evening (18-24)      ███                        11.19% (534 commits)
+Morning (06-12)      ██████████████             57.30% (2,735 commits)
+Afternoon (12-18)    ████████                   31.22% (1,490 commits)
+Evening (18-24)      ███                        11.06% (528 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.23% (934 contributions)
-Monday               ███                        13.93% (2,088 contributions)
-Tuesday              ████                       17.81% (2,670 contributions)
-Wednesday            █████                      19.94% (2,989 contributions)
-Thursday             █████                      18.13% (2,718 contributions)
-Friday               █████                      18.14% (2,719 contributions)
-Saturday             █                           5.84% (875 contributions)
+Sunday               ██                          6.21% (934 contributions)
+Monday               ███                        13.87% (2,088 contributions)
+Tuesday              ████                       17.74% (2,670 contributions)
+Wednesday            █████                      19.92% (2,998 contributions)
+Thursday             █████                      18.39% (2,768 contributions)
+Friday               █████                      18.06% (2,719 contributions)
+Saturday             █                           5.81% (875 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ████                       16.21% (2,338 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.20% (2,337 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          8.24% (1,189 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.89% (1,138 commits)
-AxiaFunder/ai-hdr-core                                                      █                           4.36% (629 commits)
-AxiaFunder/ai-hdr-conversion                                                █                           4.01% (579 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           4.01% (578 commits)
+AxiaFunder/dashboard-axiafunder                                             ████                       16.27% (2,355 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.15% (2,337 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          8.22% (1,189 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.86% (1,138 commits)
+AxiaFunder/ai-hdr-core                                                      █                           4.35% (629 commits)
+AxiaFunder/ai-hdr-conversion                                                █                           4.00% (579 commits)
+Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.99% (578 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: a visible scope notice for the Dravidian acceptance on the dashboard's results list (D283)
-- AxiaFunder/ai-hdr-inference — docs: v4.13 changelog and the stage call settings
-- Pragash-Mohanarajah/ai-hdr-inference — docs: v4.13 changelog and the stage call settings
-- AxiaFunder/ai-hdr-inference — feat: resumable, time-bounded stage budget and manifest calls
-- Pragash-Mohanarajah/ai-hdr-inference — feat: resumable, time-bounded stage budget and manifest calls
-- Pragash-Mohanarajah/human-language-evolution — docs: D283 states plainly that the Dravidian acceptance is scoped and a departure from the original plan, with the rule for later claims (D283)
-- Pragash-Mohanarajah/human-language-evolution — docs: the owner accepts the Dravidian gatekeeper and depth tests in their tested scope and releases the Dravidian side of the later phases in that scope (D283)
-- Pragash-Mohanarajah/human-language-evolution — docs: the open-data search for a second cognate-labelled Dravidian wordlist comes back empty (D282)
-- Pragash-Mohanarajah/human-language-evolution — feat: Tamil, Kannada and Grantha glyphs and their WRITES edges are in the graph, Phase 2 Step 4 for the Dravidian-linked scripts (D281)
-- AxiaFunder/ai-hdr-inference — docs: v4.12 changelog, ledger columns and the consolidated tab
-- Pragash-Mohanarajah/ai-hdr-inference — docs: v4.12 changelog, ledger columns and the consolidated tab
-- AxiaFunder/ai-hdr-inference — fix: show each ledger stage in the report's key: value | key: value shape
-- Pragash-Mohanarajah/ai-hdr-inference — fix: show each ledger stage in the report's key: value | key: value shape
-- AxiaFunder/ai-hdr-inference — feat: one report column per ledger stage, and neglected above stalled in case_status
-- Pragash-Mohanarajah/ai-hdr-inference — feat: one report column per ledger stage, and neglected above stalled in case_status
+- Pragash-Mohanarajah/human-language-evolution — docs: Session 34 page records that Step 6 is done for classical Greek capitals (D289)
+- Pragash-Mohanarajah/human-language-evolution — docs: the reflection detector flags all three classical reversed pairs and neither control; synthetic mirror test 19 of 19 (D289)
+- Pragash-Mohanarajah/human-language-evolution — feat: Phase 2 Step 6, reflection detector for Phoenician and Greek capitals (D289)
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister the Phase 2 Step 6 reflection detector with a cited classical-Greek ground truth (D289)
+- AxiaFunder/axiafunder — Merge pull request #122 from AxiaFunder/db/restrict-tables-to-internal-staff
+- AxiaFunder/axiafunder — chore: bump @axiafunder/db package to 0.0.45
+- AxiaFunder/axiafunder — fix(db): enable RLS on offer for internal staff
+- AxiaFunder/axiafunder — fix(db): restrict business tables to internal staff
+- AxiaFunder/dashboard-axiafunder — Merge pull request #354 from AxiaFunder/develop
+- AxiaFunder/dashboard-axiafunder — Merge pull request #353 from AxiaFunder/chore/remove-email-templates
+- AxiaFunder/axiafunder — Merge pull request #121 from AxiaFunder/feat/auth-email-templates
+- AxiaFunder/dashboard-axiafunder — chore: remove auth email templates now owned by the monorepo
+- AxiaFunder/dashboard-axiafunder — Merge pull request #352 from AxiaFunder/feat/team-members-list-api
+- AxiaFunder/dashboard-axiafunder — refactor: load the team list through the API instead of the browser
+- Pragash-Mohanarajah/human-language-evolution — docs: Session 34 page, with the Step 6 reference as an owner action
 
 ### 🌟 Recent Stars
 - unoconv/unoserver
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Thu, 05 Nov 2026 11:43:40 GMT_
+_Last updated on Fri, 06 Nov 2026 00:37:18 GMT_
 <!-- DEV_METRICS_END -->
