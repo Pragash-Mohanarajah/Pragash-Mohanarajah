@@ -79,27 +79,27 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 ## 📊 Development Metrics
 
 ### 🐱 GitHub Overview
-- 🔥 Current Streak: 5 days
+- 🔥 Current Streak: 6 days
 - 🏆 Longest Streak: 28 days
-- ✨ Total Commits: 14,540
-- 💖 Commit Breakdown: 562 public (3.9%), 13,978 private (96.1%) · 8,369 owned (57.6%), 6,171 contributed (42.4%)
+- ✨ Total Commits: 14,564
+- 💖 Commit Breakdown: 562 public (3.9%), 14,002 private (96.1%) · 8,393 owned (57.6%), 6,171 contributed (42.4%)
 - 🚀 Repositories: 100 (35 public (35.0%), 65 private (65.0%))
 - 👤 Ownership: 89 owned (89.0%), 11 contributed-to (11.0%)
 - ⭐ Stars: 39 · 👀 Watchers: 39 · 🍴 Forks: 18 · 🗄️ Archived: 21
-- 🧠 Estimated Lines of Code: 2,106,708
+- 🧠 Estimated Lines of Code: 2,108,073
 - 🤝 Followers: 2 · Following: 11
 - 📅 Account age: 2,125 days
 
 ### 📝 Lines of Code by Language
 ```
-C                    ████████                   31.99% (673,946 LOC)
-Python               █████                      20.24% (426,399 LOC)
-TypeScript           ███                        13.63% (287,149 LOC)
+C                    ████████                   31.97% (673,946 LOC)
+Python               █████                      20.28% (427,607 LOC)
+TypeScript           ███                        13.63% (287,294 LOC)
 Jupyter Notebook     ███                        10.49% (221,042 LOC)
 JavaScript           ██                          6.38% (134,392 LOC)
 HTML                 █                           5.42% (114,275 LOC)
 Makefile             █                           2.94% (62,016 LOC)
-Roff                 █                           2.57% (54,070 LOC)
+Roff                 █                           2.56% (54,070 LOC)
 ```
 
 ### 📚 Top Languages (by Repo Count)
@@ -116,9 +116,9 @@ Jupyter Notebook     █                           5.26% (14 repos)
 
 ### 💾 Languages by Code Size (Bytes)
 ```
-C                    ████████                   31.99% (33,697,286 bytes)
-Python               █████                      20.24% (21,319,859 bytes)
-TypeScript           ███                        13.63% (14,357,484 bytes)
+C                    ████████                   31.97% (33,697,286 bytes)
+Python               █████                      20.28% (21,380,257 bytes)
+TypeScript           ███                        13.63% (14,364,715 bytes)
 Jupyter Notebook     ███                        10.49% (11,052,126 bytes)
 JavaScript           ██                          6.38% (6,719,629 bytes)
 HTML                 █                           5.42% (5,713,787 bytes)
@@ -134,9 +134,9 @@ Data Systems         ██                          6.00% (6 repos)
 
 ### 🧮 Project Categories (by Estimated LOC)
 ```
-AI / ML              ████████████████           64.57% (1,360,373 LOC)
-Other                ███████                    27.16% (572,085 LOC)
-Web Apps             ██                          6.64% (139,873 LOC)
+AI / ML              ████████████████           64.53% (1,360,373 LOC)
+Other                ███████                    27.20% (573,293 LOC)
+Web Apps             ██                          6.64% (140,030 LOC)
 Data Systems                                     1.63% (34,377 LOC)
 ```
 
@@ -157,8 +157,8 @@ C++                  █                           5.00% (5 repos)
 ### 🚀 Top Owned Projects
 - Pragash-Mohanarajah/dashboard-axiafunder — AxiaFunder Internal Dashboard Application built with Next.js and Vercel (Fork... _(Web Apps · 2337 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-inference — AI HDR Case Reviewer Software for Inference from large PDF files _(AI / ML · 1138 commits · private)_
+- Pragash-Mohanarajah/human-language-evolution _(Other · 596 commits · private)_
 - Pragash-Mohanarajah/ai-hdr-file-converter — Desktop File Converter Application: Local Conversion of Supported Files to PD... _(AI / ML · 578 commits · private)_
-- Pragash-Mohanarajah/human-language-evolution _(Other · 574 commits · private)_
 - Pragash-Mohanarajah/axia-lm-optimizer — Convert to PDF _(Other · 564 commits · private)_
 
 ### 🤝 Top Contributed Projects
@@ -171,44 +171,44 @@ C++                  █                           5.00% (5 repos)
 ### 📅 Productivity by Time of Day
 ```
 Night (00-06)                                    0.42% (20 commits)
-Morning (06-12)      ██████████████             57.82% (2,761 commits)
-Afternoon (12-18)    ████████                   30.62% (1,462 commits)
-Evening (18-24)      ███                        11.14% (532 commits)
+Morning (06-12)      ███████████████            58.28% (2,784 commits)
+Afternoon (12-18)    ████████                   30.48% (1,456 commits)
+Evening (18-24)      ███                        10.82% (517 commits)
 ```
 
 ### 📅 Productivity by Day
 ```
-Sunday               ██                          6.18% (934 contributions)
-Monday               ███                        13.81% (2,088 contributions)
-Tuesday              ████                       17.66% (2,670 contributions)
-Wednesday            █████                      19.83% (2,998 contributions)
-Thursday             █████                      18.31% (2,768 contributions)
-Friday               █████                      18.44% (2,788 contributions)
-Saturday             █                           5.79% (875 contributions)
+Sunday               ██                          6.17% (934 contributions)
+Monday               ███                        13.79% (2,088 contributions)
+Tuesday              ████                       17.63% (2,670 contributions)
+Wednesday            █████                      19.80% (2,998 contributions)
+Thursday             █████                      18.28% (2,768 contributions)
+Friday               █████                      18.41% (2,788 contributions)
+Saturday             █                           5.94% (899 contributions)
 ```
 
 ### 📦 Most Active Repositories
 ```
-AxiaFunder/dashboard-axiafunder                                             ████                       16.20% (2,355 commits)
-Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.07% (2,337 commits)
-AxiaFunder/ai-hdr-inference                                                 ██                          8.18% (1,189 commits)
-Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.83% (1,138 commits)
-AxiaFunder/ai-hdr-core                                                      █                           4.33% (629 commits)
+AxiaFunder/dashboard-axiafunder                                             ████                       16.17% (2,355 commits)
+Pragash-Mohanarajah/dashboard-axiafunder                                    ████                       16.05% (2,337 commits)
+AxiaFunder/ai-hdr-inference                                                 ██                          8.16% (1,189 commits)
+Pragash-Mohanarajah/ai-hdr-inference                                        ██                          7.81% (1,138 commits)
+AxiaFunder/ai-hdr-core                                                      █                           4.32% (629 commits)
+Pragash-Mohanarajah/human-language-evolution                                █                           4.09% (596 commits)
 AxiaFunder/ai-hdr-conversion                                                █                           3.98% (579 commits)
-Pragash-Mohanarajah/ai-hdr-file-converter                                   █                           3.98% (578 commits)
 ```
 
 ### ⚡ Recent Activity
-- Pragash-Mohanarajah/human-language-evolution — docs: Session 35 page, with the numbering, the data search and the Burnell extraction (D00035)
-- Pragash-Mohanarajah/human-language-evolution — Merge branch 'burnell-dravidian'
-- Pragash-Mohanarajah/human-language-evolution — docs: Burnell dated tables, extraction, hand check and drift per script, result (D20041)
-- Pragash-Mohanarajah/human-language-evolution — docs: preregister E53, a learning curve over the number of training languages for the Indo-European cognate gate (D10174)
-- Pragash-Mohanarajah/human-language-evolution — feat: burnell-extract cuts the dated Dravidian letter tables and burnell-drift measures drift between plates (D20041)
+- Pragash-Mohanarajah/human-language-evolution — feat: the floor register reads the Greek readiness results (R1 not met, R2 met)
+- Pragash-Mohanarajah/human-language-evolution — Merge branch 'p5greek'
+- Pragash-Mohanarajah/human-language-evolution — docs: Phase 5 readiness for Ancient Greek, gate 1 not met on the cognate floor, gate 2 met (D50020)
+- Pragash-Mohanarajah/human-language-evolution — docs: IE-CoR Greek forms are sound strings, the replacement route is not pursued, result (D10177)
+- Pragash-Mohanarajah/human-language-evolution — docs: preregister IE-CoR's Ancient Greek phonemic forms against the validated Greek G2P (D10177)
+- Pragash-Mohanarajah/lingene-analyst — feat: Floors view in every phase pane; Phase 1 gates tab replaced, scoped runs kept as history
+- Pragash-Mohanarajah/lingene-analyst — feat: Floors view components and floor register loader
 - Pragash-Mohanarajah/lingene-analyst — chore: decision numbers are D, the phase digit and the order in the phase (D00035)
 - Pragash-Mohanarajah/lingene-analyst — chore: references to the moved early decisions follow their new numbers (D0100)
 - Pragash-Mohanarajah/lingene-analyst — chore: decision numbers are four digits, the first naming the phase (D0100)
-- Pragash-Mohanarajah/lingene-analyst — feat: the Phase 2 shared tab shows the Aramaic to Brahmi to Khmer chains
-- Pragash-Mohanarajah/lingene-analyst — feat: the Phase 2 shared tab states that Step 6b is done as a graph test (D290)
 - AxiaFunder/axiafunder — Merge pull request #122 from AxiaFunder/db/restrict-tables-to-internal-staff
 - AxiaFunder/axiafunder — chore: bump @axiafunder/db package to 0.0.45
 - AxiaFunder/axiafunder — fix(db): enable RLS on offer for internal staff
@@ -226,5 +226,5 @@ Pragash-Mohanarajah/ai-hdr-file-converter                                   █ 
 ### 📅 Contribution Graph
 ![Contribution Graph](./contribution-graph.svg)
 
-_Last updated on Sat, 07 Nov 2026 03:44:40 GMT_
+_Last updated on Sat, 07 Nov 2026 10:47:35 GMT_
 <!-- DEV_METRICS_END -->
