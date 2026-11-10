@@ -75,3 +75,17 @@ I’m always open to collaborating on intelligent systems, web platforms, or any
 
 ---
 
+
+---
+
+## 📊 Development Metrics
+
+Live charts rendered from my portfolio ([mpragash.co.uk](https://www.mpragash.co.uk/)); the underlying data stays private.
+
+![Overview](https://www.mpragash.co.uk/api/stats/overview)
+![Lines of code by language](https://www.mpragash.co.uk/api/stats/languages)
+![Project categories](https://www.mpragash.co.uk/api/stats/categories)
+![Contributions by day](https://www.mpragash.co.uk/api/stats/weekday)
+![Productivity by time of day](https://www.mpragash.co.uk/api/stats/time-of-day)
+![Commit history](https://www.mpragash.co.uk/api/stats/commit-history)
+![Contribution graph](https://www.mpragash.co.uk/api/stats/contributions)
