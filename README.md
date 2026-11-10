@@ -70,8 +70,8 @@ I bridge the gap between cutting-edge AI models and real-world client environmen
 
 I’m always open to collaborating on intelligent systems, web platforms, or anything chess-related.
 
-* 🌍 **Portfolio:** [Visit my site](https://portfolio-pragash-mohanarajahs-projects.vercel.app/)
-* 💼 **LinkedIn:** [linkedin.com/in/pragash-mohanarajah](https://www.linkedin.com/in/pragash-mohanarajah/)
+* 🌍 **Portfolio:** [Visit my site](https://www.mpragash.co.uk/)
+* 💼 **LinkedIn:** [See my profile](https://www.linkedin.com/in/pragash-mohanarajah/)
 
 ---
 
